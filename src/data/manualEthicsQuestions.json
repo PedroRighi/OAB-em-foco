@@ -1,0 +1,162 @@
+[
+  {
+    "id": "etica-01",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 1,
+    "prompt": "Uma advogada atua pela primeira vez em outra Seccional e intervém judicialmente em exatamente cinco causas durante o ano. Considerando o critério legal de habitualidade, a inscrição suplementar já é obrigatória apenas por esse número?",
+    "choices": {
+      "A": "Sim. Qualquer intervenção judicial fora da Seccional de inscrição principal exige inscrição suplementar.",
+      "B": "Sim. O limite é de cinco causas ou mais no mesmo ano.",
+      "C": "Não. A habitualidade se configura quando a intervenção excede cinco causas por ano, e não apenas por atingir cinco.",
+      "D": "Não. A inscrição suplementar nunca é exigida quando a inscrição principal está regular."
+    },
+    "answer": "C",
+    "explanation": "O Estatuto considera habitual a intervenção judicial que exceder cinco causas por ano em outra Seccional. Exatamente cinco não ultrapassa esse limite; a partir da sexta, verifica-se a exigência legal (art. 10, § 2º).",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-02",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 2,
+    "prompt": "Em situação urgente, uma advogada ajuíza demanda sem procuração e justifica a urgência. Qual providência ainda deve adotar?",
+    "choices": {
+      "A": "Juntar a procuração em até 15 dias, prazo prorrogável por igual período.",
+      "B": "Juntar a procuração em cinco dias, sem possibilidade de prorrogação.",
+      "C": "A justificativa dispensa definitivamente a procuração.",
+      "D": "Juntar a procuração somente após a sentença, em qualquer prazo."
+    },
+    "answer": "A",
+    "explanation": "O mandato pode ser exibido posteriormente quando a atuação urgente assim exigir. A procuração deve ser apresentada em 15 dias, prorrogáveis por mais 15 (Estatuto, art. 5º, § 1º).",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-03",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 3,
+    "prompt": "Um escritório impulsiona vídeo meramente educativo sobre direitos do consumidor, sem preço, promessa, oferta ou chamada à contratação. À luz das regras de publicidade da advocacia, qual afirmação é correta?",
+    "choices": {
+      "A": "Todo impulsionamento é proibido, ainda que o conteúdo seja informativo.",
+      "B": "O conteúdo informativo pode ser impulsionado, desde que respeite os limites éticos e não se converta em captação ou mercantilização.",
+      "C": "O impulsionamento é permitido somente quando há promessa de resultado.",
+      "D": "Vídeos sobre direitos só podem ser publicados após autorização judicial."
+    },
+    "answer": "B",
+    "explanation": "Publicidade informativa e impulsionamento podem ocorrer dentro dos limites do Provimento 205/2021. Permanecem vedadas a captação indevida, a mercantilização, a promessa de resultado e outras práticas proibidas pelo provimento e pelo Código de Ética.",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-04",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 4,
+    "prompt": "O sigilo profissional de advogado somente existe se o cliente pedir expressamente confidencialidade?",
+    "choices": {
+      "A": "Sim. O dever só nasce com cláusula escrita de confidencialidade.",
+      "B": "Sim. Ele cobre apenas documentos formalmente marcados como sigilosos.",
+      "C": "Não. O sigilo é de ordem pública e as comunicações profissionais são presumidamente confidenciais, sujeito às exceções estritas previstas.",
+      "D": "Não. O advogado nunca pode revelar informação, mesmo diante de justa causa reconhecida pelas regras éticas."
+    },
+    "answer": "C",
+    "explanation": "O dever de sigilo independe de pedido expresso. O Código de Ética trata a confidencialidade como regra e prevê hipóteses excepcionais, de justa causa, para eventual revelação nos limites admitidos (arts. 35 a 38).",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-05",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 5,
+    "prompt": "Uma servidora pública municipal, sem cargo de direção, pretende advogar em qualquer causa. Qual é a análise correta segundo o Estatuto da Advocacia?",
+    "choices": {
+      "A": "Ela é sempre incompatível com a advocacia, apenas por ser servidora municipal.",
+      "B": "Ela pode advogar inclusive contra a Fazenda que a remunera, pois não exerce cargo de direção.",
+      "C": "O fato de não exercer direção elimina todo impedimento legal.",
+      "D": "Deve verificar o impedimento de advogar contra a Fazenda Pública que a remunera ou à qual se vincula, sem presumir incompatibilidade total em toda hipótese."
+    },
+    "answer": "D",
+    "explanation": "O art. 30, I, prevê impedimento para servidores da administração direta, indireta e fundacional atuarem contra a Fazenda Pública que os remunere ou à qual esteja vinculada a entidade empregadora. Impedimento parcial não se confunde com incompatibilidade total.",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-06",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 6,
+    "prompt": "O cliente celebra acordo diretamente com a parte contrária. Sem anuência do advogado, esse acordo elimina automaticamente os honorários contratuais do profissional?",
+    "choices": {
+      "A": "Sim. Qualquer acordo celebrado sem a presença do advogado extingue os honorários.",
+      "B": "Não. O acordo não prejudica, sem a aquiescência do advogado, os honorários convencionados ou concedidos por sentença.",
+      "C": "Sim. Apenas honorários sucumbenciais podem subsistir após acordo.",
+      "D": "Não. O cliente passa a dever automaticamente o dobro dos honorários contratados."
+    },
+    "answer": "B",
+    "explanation": "O Estatuto dispõe que o acordo entre cliente e parte contrária, salvo aquiescência do advogado, não prejudica os honorários convencionados ou concedidos por sentença (art. 24, § 4º).",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-07",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 7,
+    "prompt": "A advogada notifica o cliente de sua renúncia ao mandato hoje; não há substituto contratado. Qual regra temporal se aplica à representação, ressalvada substituição anterior?",
+    "choices": {
+      "A": "A representação cessa no instante da notificação.",
+      "B": "A representação continua por dez dias após a notificação.",
+      "C": "A representação continua por 60 dias em qualquer circunstância.",
+      "D": "A representação continua até o trânsito em julgado, sem possibilidade de exceção."
+    },
+    "answer": "B",
+    "explanation": "Após comunicar a renúncia, o advogado continua a representar o cliente durante os dez dias seguintes, salvo substituição antes do término desse prazo (Estatuto, art. 5º, § 3º).",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-08",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 8,
+    "prompt": "Como se deve interpretar a tabela de honorários da OAB para fins de fixação de remuneração profissional?",
+    "choices": {
+      "A": "Como teto geral e absoluto para qualquer contratação.",
+      "B": "Como valor que substitui automaticamente todo contrato firmado com o cliente.",
+      "C": "Como parâmetro mínimo aplicável segundo as regras éticas da Seccional, não como teto geral que proíba valor superior, observada a moderação.",
+      "D": "Como instrumento sem relevância ética ou contratual."
+    },
+    "answer": "C",
+    "explanation": "O Código de Ética orienta observar o mínimo da tabela da Seccional do local da prestação. A tabela não é um teto geral; a remuneração também deve ser moderada e objeto de contratação clara (arts. 48 a 50).",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-09",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 9,
+    "prompt": "Advogado e cliente propõem demanda temerária. A solidariedade entre ambos surge automaticamente desse fato?",
+    "choices": {
+      "A": "Sim. A solidariedade decorre sempre da mera participação conjunta no processo.",
+      "B": "Sim. Basta a derrota judicial, sem necessidade de apuração própria.",
+      "C": "Não. A regra exige coligação para lesar a parte contrária e apuração em ação própria.",
+      "D": "Não. A solidariedade é juridicamente impossível entre advogado e cliente."
+    },
+    "answer": "C",
+    "explanation": "O Estatuto não estabelece solidariedade automática pela simples demanda temerária. O art. 32, parágrafo único, exige lide temerária em coligação para lesar a parte contrária, apurada em ação própria.",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-10",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 10,
+    "prompt": "Um processo disciplinar da OAB fica paralisado por exatamente dois anos, pendente de despacho ou julgamento. Já se configura, só por esse fato, prescrição intercorrente?",
+    "choices": {
+      "A": "Sim. A prescrição intercorrente exige paralisação por mais de um ano.",
+      "B": "Sim. Dois anos são o prazo geral de prescrição punitiva do Estatuto.",
+      "C": "Não. A hipótese legal de prescrição intercorrente exige paralisação por mais de três anos, pendente de despacho ou julgamento.",
+      "D": "Não. Processos disciplinares nunca estão sujeitos a prescrição."
+    },
+    "answer": "C",
+    "explanation": "A prescrição intercorrente do Estatuto está vinculada à paralisação por mais de três anos, pendente de despacho ou julgamento (art. 43, § 1º). A prescrição punitiva quinquenal tem marco próprio, previsto no mesmo artigo.",
+    "source": "00-etica.md"
+  }
+]

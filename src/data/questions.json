@@ -1,0 +1,1986 @@
+[
+  {
+    "id": "etica-01",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 1,
+    "prompt": "Uma advogada atua pela primeira vez em outra Seccional e intervém judicialmente em exatamente cinco causas durante o ano. Considerando o critério legal de habitualidade, a inscrição suplementar já é obrigatória apenas por esse número?",
+    "choices": {
+      "A": "Sim. Qualquer intervenção judicial fora da Seccional de inscrição principal exige inscrição suplementar.",
+      "B": "Sim. O limite é de cinco causas ou mais no mesmo ano.",
+      "C": "Não. A habitualidade se configura quando a intervenção excede cinco causas por ano, e não apenas por atingir cinco.",
+      "D": "Não. A inscrição suplementar nunca é exigida quando a inscrição principal está regular."
+    },
+    "answer": "C",
+    "explanation": "O Estatuto considera habitual a intervenção judicial que exceder cinco causas por ano em outra Seccional. Exatamente cinco não ultrapassa esse limite; a partir da sexta, verifica-se a exigência legal (art. 10, § 2º).",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-02",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 2,
+    "prompt": "Em situação urgente, uma advogada ajuíza demanda sem procuração e justifica a urgência. Qual providência ainda deve adotar?",
+    "choices": {
+      "A": "Juntar a procuração em até 15 dias, prazo prorrogável por igual período.",
+      "B": "Juntar a procuração em cinco dias, sem possibilidade de prorrogação.",
+      "C": "A justificativa dispensa definitivamente a procuração.",
+      "D": "Juntar a procuração somente após a sentença, em qualquer prazo."
+    },
+    "answer": "A",
+    "explanation": "O mandato pode ser exibido posteriormente quando a atuação urgente assim exigir. A procuração deve ser apresentada em 15 dias, prorrogáveis por mais 15 (Estatuto, art. 5º, § 1º).",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-03",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 3,
+    "prompt": "Um escritório impulsiona vídeo meramente educativo sobre direitos do consumidor, sem preço, promessa, oferta ou chamada à contratação. À luz das regras de publicidade da advocacia, qual afirmação é correta?",
+    "choices": {
+      "A": "Todo impulsionamento é proibido, ainda que o conteúdo seja informativo.",
+      "B": "O conteúdo informativo pode ser impulsionado, desde que respeite os limites éticos e não se converta em captação ou mercantilização.",
+      "C": "O impulsionamento é permitido somente quando há promessa de resultado.",
+      "D": "Vídeos sobre direitos só podem ser publicados após autorização judicial."
+    },
+    "answer": "B",
+    "explanation": "Publicidade informativa e impulsionamento podem ocorrer dentro dos limites do Provimento 205/2021. Permanecem vedadas a captação indevida, a mercantilização, a promessa de resultado e outras práticas proibidas pelo provimento e pelo Código de Ética.",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-04",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 4,
+    "prompt": "O sigilo profissional de advogado somente existe se o cliente pedir expressamente confidencialidade?",
+    "choices": {
+      "A": "Sim. O dever só nasce com cláusula escrita de confidencialidade.",
+      "B": "Sim. Ele cobre apenas documentos formalmente marcados como sigilosos.",
+      "C": "Não. O sigilo é de ordem pública e as comunicações profissionais são presumidamente confidenciais, sujeito às exceções estritas previstas.",
+      "D": "Não. O advogado nunca pode revelar informação, mesmo diante de justa causa reconhecida pelas regras éticas."
+    },
+    "answer": "C",
+    "explanation": "O dever de sigilo independe de pedido expresso. O Código de Ética trata a confidencialidade como regra e prevê hipóteses excepcionais, de justa causa, para eventual revelação nos limites admitidos (arts. 35 a 38).",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-05",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 5,
+    "prompt": "Uma servidora pública municipal, sem cargo de direção, pretende advogar em qualquer causa. Qual é a análise correta segundo o Estatuto da Advocacia?",
+    "choices": {
+      "A": "Ela é sempre incompatível com a advocacia, apenas por ser servidora municipal.",
+      "B": "Ela pode advogar inclusive contra a Fazenda que a remunera, pois não exerce cargo de direção.",
+      "C": "O fato de não exercer direção elimina todo impedimento legal.",
+      "D": "Deve verificar o impedimento de advogar contra a Fazenda Pública que a remunera ou à qual se vincula, sem presumir incompatibilidade total em toda hipótese."
+    },
+    "answer": "D",
+    "explanation": "O art. 30, I, prevê impedimento para servidores da administração direta, indireta e fundacional atuarem contra a Fazenda Pública que os remunere ou à qual esteja vinculada a entidade empregadora. Impedimento parcial não se confunde com incompatibilidade total.",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-06",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 6,
+    "prompt": "O cliente celebra acordo diretamente com a parte contrária. Sem anuência do advogado, esse acordo elimina automaticamente os honorários contratuais do profissional?",
+    "choices": {
+      "A": "Sim. Qualquer acordo celebrado sem a presença do advogado extingue os honorários.",
+      "B": "Não. O acordo não prejudica, sem a aquiescência do advogado, os honorários convencionados ou concedidos por sentença.",
+      "C": "Sim. Apenas honorários sucumbenciais podem subsistir após acordo.",
+      "D": "Não. O cliente passa a dever automaticamente o dobro dos honorários contratados."
+    },
+    "answer": "B",
+    "explanation": "O Estatuto dispõe que o acordo entre cliente e parte contrária, salvo aquiescência do advogado, não prejudica os honorários convencionados ou concedidos por sentença (art. 24, § 4º).",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-07",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 7,
+    "prompt": "A advogada notifica o cliente de sua renúncia ao mandato hoje; não há substituto contratado. Qual regra temporal se aplica à representação, ressalvada substituição anterior?",
+    "choices": {
+      "A": "A representação cessa no instante da notificação.",
+      "B": "A representação continua por dez dias após a notificação.",
+      "C": "A representação continua por 60 dias em qualquer circunstância.",
+      "D": "A representação continua até o trânsito em julgado, sem possibilidade de exceção."
+    },
+    "answer": "B",
+    "explanation": "Após comunicar a renúncia, o advogado continua a representar o cliente durante os dez dias seguintes, salvo substituição antes do término desse prazo (Estatuto, art. 5º, § 3º).",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-08",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 8,
+    "prompt": "Como se deve interpretar a tabela de honorários da OAB para fins de fixação de remuneração profissional?",
+    "choices": {
+      "A": "Como teto geral e absoluto para qualquer contratação.",
+      "B": "Como valor que substitui automaticamente todo contrato firmado com o cliente.",
+      "C": "Como parâmetro mínimo aplicável segundo as regras éticas da Seccional, não como teto geral que proíba valor superior, observada a moderação.",
+      "D": "Como instrumento sem relevância ética ou contratual."
+    },
+    "answer": "C",
+    "explanation": "O Código de Ética orienta observar o mínimo da tabela da Seccional do local da prestação. A tabela não é um teto geral; a remuneração também deve ser moderada e objeto de contratação clara (arts. 48 a 50).",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-09",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 9,
+    "prompt": "Advogado e cliente propõem demanda temerária. A solidariedade entre ambos surge automaticamente desse fato?",
+    "choices": {
+      "A": "Sim. A solidariedade decorre sempre da mera participação conjunta no processo.",
+      "B": "Sim. Basta a derrota judicial, sem necessidade de apuração própria.",
+      "C": "Não. A regra exige coligação para lesar a parte contrária e apuração em ação própria.",
+      "D": "Não. A solidariedade é juridicamente impossível entre advogado e cliente."
+    },
+    "answer": "C",
+    "explanation": "O Estatuto não estabelece solidariedade automática pela simples demanda temerária. O art. 32, parágrafo único, exige lide temerária em coligação para lesar a parte contrária, apurada em ação própria.",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "etica-10",
+    "subjectId": "etica",
+    "subjectTitle": "Ética Profissional",
+    "number": 10,
+    "prompt": "Um processo disciplinar da OAB fica paralisado por exatamente dois anos, pendente de despacho ou julgamento. Já se configura, só por esse fato, prescrição intercorrente?",
+    "choices": {
+      "A": "Sim. A prescrição intercorrente exige paralisação por mais de um ano.",
+      "B": "Sim. Dois anos são o prazo geral de prescrição punitiva do Estatuto.",
+      "C": "Não. A hipótese legal de prescrição intercorrente exige paralisação por mais de três anos, pendente de despacho ou julgamento.",
+      "D": "Não. Processos disciplinares nunca estão sujeitos a prescrição."
+    },
+    "answer": "C",
+    "explanation": "A prescrição intercorrente do Estatuto está vinculada à paralisação por mais de três anos, pendente de despacho ou julgamento (art. 43, § 1º). A prescrição punitiva quinquenal tem marco próprio, previsto no mesmo artigo.",
+    "source": "00-etica.md"
+  },
+  {
+    "id": "constitucional-01",
+    "subjectId": "constitucional",
+    "subjectTitle": "Direito Constitucional",
+    "number": 1,
+    "prompt": "Uma pessoa pretende conhecer e retificar informação pessoal constante de banco de dados mantido por entidade governamental. Após requerimento administrativo, a entidade nega acesso. Qual instrumento constitucional é, em princípio, adequado?",
+    "choices": {
+      "A": "Mandado de injunção, pois há resistência administrativa.",
+      "B": "Habeas data, observados os requisitos legais.",
+      "C": "Ação popular, por se tratar de banco governamental.",
+      "D": "Habeas corpus, pois todo dado pessoal se relaciona à liberdade."
+    },
+    "answer": "B",
+    "explanation": "O HD assegura conhecer e retificar dados pessoais em registros governamentais ou de caráter público (art. 5º, LXXII; Lei 9.507/1997). Ação popular exige ato lesivo e legitimidade de cidadão. [5]",
+    "source": "01-constitucional.md"
+  },
+  {
+    "id": "constitucional-02",
+    "subjectId": "constitucional",
+    "subjectTitle": "Direito Constitucional",
+    "number": 2,
+    "prompt": "A respeito da proposta de emenda à Constituição, assinale a alternativa correta.",
+    "choices": {
+      "A": "Pode ser promulgada pelo Presidente da República após aprovação por maioria absoluta em sessão conjunta.",
+      "B": "Pode ser deliberada durante estado de sítio, desde que aprovada por três quintos.",
+      "C": "Deve ser aprovada em dois turnos em cada Casa do Congresso, por três quintos dos respectivos membros, e promulgada pelas Mesas da Câmara e do Senado.",
+      "D": "Proposta rejeitada pode ser reapresentada na mesma sessão legislativa se houver apoio popular."
+    },
+    "answer": "C",
+    "explanation": "Art. 60, §§ 2º e 3º: dois turnos em cada Casa, três quintos e promulgação pelas Mesas. Aplicam-se também limites circunstanciais (§ 1º) e vedação de reapresentação na mesma sessão (§ 5º). [3]",
+    "source": "01-constitucional.md"
+  },
+  {
+    "id": "constitucional-03",
+    "subjectId": "constitucional",
+    "subjectTitle": "Direito Constitucional",
+    "number": 3,
+    "prompt": "Uma lei estadual trata de matéria de competência legislativa concorrente sem que exista norma geral federal. Posteriormente, a União edita norma geral incompatível com parte da lei estadual. Segundo a Constituição:",
+    "choices": {
+      "A": "A lei estadual é integralmente revogada pela lei federal.",
+      "B": "A União não pode legislar sobre matéria concorrente.",
+      "C": "A eficácia da lei estadual fica suspensa naquilo que for contrário à norma geral federal superveniente.",
+      "D": "A lei estadual permanece integralmente eficaz por ter sido editada primeiro."
+    },
+    "answer": "C",
+    "explanation": "O art. 24, §§ 1º a 4º, reserva à União normas gerais. Sem elas, os estados exercem competência plena; sobrevindo norma geral federal, suspende-se a eficácia da lei estadual no que lhe for contrário. A Constituição diz “suspende a eficácia”, não “revoga integralmente”. [3]",
+    "source": "01-constitucional.md"
+  },
+  {
+    "id": "constitucional-04",
+    "subjectId": "constitucional",
+    "subjectTitle": "Direito Constitucional",
+    "number": 4,
+    "prompt": "Partido político com representação no Congresso Nacional pretende ajuizar ação direta de inconstitucionalidade perante o STF. Qual afirmação está correta?",
+    "choices": {
+      "A": "O partido não é legitimado; apenas o Procurador-Geral da República pode propor ADI.",
+      "B": "O partido integra o rol de legitimados do art. 103, e a ADI não se presta, em regra, à impugnação de lei municipal perante o STF.",
+      "C": "O partido só pode ajuizar ADI se demonstrar pertinência temática.",
+      "D": "A ADI deve ser proposta perante o STJ quando a lei for estadual."
+    },
+    "answer": "B",
+    "explanation": "Partido político com representação no Congresso é legitimado pelo art. 103, VIII. A lei municipal não é, em regra, objeto de ADI perante o STF; pode haver controle perante TJ em face da Constituição estadual, além de outros caminhos constitucionais próprios. A pertinência temática é exigida pela jurisprudência para legitimados especiais, não para partidos políticos. [3] [12]",
+    "source": "01-constitucional.md"
+  },
+  {
+    "id": "constitucional-05",
+    "subjectId": "constitucional",
+    "subjectTitle": "Direito Constitucional",
+    "number": 5,
+    "prompt": "Tribunal estadual pretende afastar a incidência de uma lei por considerá-la incompatível com a Constituição, sem pronunciamento anterior do plenário do próprio tribunal ou do STF. Qual regra incide?",
+    "choices": {
+      "A": "A turma pode afastar a lei sem observar quórum, pois se trata de controle difuso.",
+      "B": "A questão deve observar a reserva de plenário do art. 97, ressalvada a hipótese de pronunciamento anterior do plenário ou do STF.",
+      "C": "Apenas o Senado pode declarar inconstitucionalidade em controle difuso.",
+      "D": "O CNJ deve autorizar previamente o afastamento da norma."
+    },
+    "answer": "B",
+    "explanation": "O art. 97 determina que tribunais só declarem inconstitucionalidade pelo voto da maioria absoluta de seus membros ou do órgão especial. A Súmula Vinculante 10 impede que órgão fracionário contorne essa exigência afastando a incidência da lei. A ressalva de pronunciamento prévio do plenário do próprio tribunal ou do STF consta do CPC, art. 949, parágrafo único. [10]",
+    "source": "01-constitucional.md"
+  },
+  {
+    "id": "constitucional-06",
+    "subjectId": "constitucional",
+    "subjectTitle": "Direito Constitucional",
+    "number": 6,
+    "prompt": "Considerando a EC 141/2026, publicada em 16 de outubro de 2026, qual alternativa melhor descreve o regime temporal nela previsto?",
+    "choices": {
+      "A": "A jornada semanal de 40 horas e o repouso semanal de dois dias entraram em vigor integralmente na data da publicação.",
+      "B": "A alteração do repouso semanal para dois dias só entra em vigor após dois meses; a emenda prevê implementação progressiva da jornada, começando com limite de 42 horas semanais dois meses após a publicação e chegando a 40 horas um ano depois desse marco.",
+      "C": "A jornada de 40 horas só se aplica depois de lei ordinária, sem prazo constitucional.",
+      "D": "A emenda reduziu a jornada semanal, mas manteve o repouso semanal remunerado de um dia."
+    },
+    "answer": "B",
+    "explanation": "O texto da EC 141/2026 diferencia a entrada em vigor do inciso XV (dois meses após a publicação) e dos demais dispositivos (na publicação). O art. 6º prevê limite de 42 horas dois meses após a publicação e 40 horas um ano depois desse marco. Assim, não se deve antecipar a etapa final. [4]",
+    "source": "01-constitucional.md"
+  },
+  {
+    "id": "direitos-humanos-01",
+    "subjectId": "direitos-humanos",
+    "subjectTitle": "Direitos Humanos",
+    "number": 1,
+    "prompt": "Sobre a hierarquia dos tratados de direitos humanos no Brasil, assinale a alternativa correta.",
+    "choices": {
+      "A": "Todo tratado de direitos humanos ratificado pelo Brasil possui automaticamente hierarquia de emenda constitucional.",
+      "B": "Tratado aprovado em cada Casa do Congresso, em dois turnos, por três quintos dos votos, equivale a emenda constitucional; os demais tratados de direitos humanos têm, segundo orientação do STF, caráter supralegal.",
+      "C": "Tratado de direitos humanos tem sempre hierarquia de lei ordinária, ainda que aprovado pelo rito do art. 5º, § 3º.",
+      "D": "Tratado supralegal pode prevalecer sobre a Constituição."
+    },
+    "answer": "B",
+    "explanation": "O rito qualificado do art. 5º, § 3º, confere equivalência às emendas constitucionais. A orientação do STF confere status supralegal aos tratados de direitos humanos incorporados sem esse rito: superior às leis e inferior à Constituição. A e C ignoram as duas categorias; D inverte a hierarquia [2] [3].",
+    "source": "02-direitos-humanos.md"
+  },
+  {
+    "id": "direitos-humanos-02",
+    "subjectId": "direitos-humanos",
+    "subjectTitle": "Direitos Humanos",
+    "number": 2,
+    "prompt": "Uma pessoa pretende apresentar denúncia individual contra o Brasil por violação da Convenção Americana. Qual alternativa descreve corretamente o caminho institucional?",
+    "choices": {
+      "A": "Pode ajuizar diretamente ação contenciosa na Corte Interamericana, sem etapa anterior.",
+      "B": "Deve encaminhar petição à Comissão Interamericana, atendidos os requisitos aplicáveis; indivíduos não submetem diretamente casos contenciosos à Corte.",
+      "C": "Deve ajuizar recurso perante o Conselho de Direitos Humanos da ONU, que encaminhará obrigatoriamente à Corte.",
+      "D": "Somente Estados podem apresentar petições à Comissão Interamericana."
+    },
+    "answer": "B",
+    "explanation": "A Convenção admite petições individuais à Comissão, sujeitas a requisitos de admissibilidade e exceções, enquanto casos contenciosos perante a Corte podem ser submetidos pela Comissão ou por Estado-parte, não pelo indivíduo diretamente. A e D erram o canal de acesso; C mistura sistemas distintos [5] [6].",
+    "source": "02-direitos-humanos.md"
+  },
+  {
+    "id": "direitos-humanos-03",
+    "subjectId": "direitos-humanos",
+    "subjectTitle": "Direitos Humanos",
+    "number": 3,
+    "prompt": "À luz do art. 5º, XI, da Constituição, é correto afirmar que:",
+    "choices": {
+      "A": "ordem judicial autoriza ingresso domiciliar a qualquer hora.",
+      "B": "em caso de flagrante delito, a entrada só é permitida durante o dia.",
+      "C": "por determinação judicial, o ingresso pode ocorrer durante o dia; em flagrante, desastre, socorro ou consentimento, aplicam-se as hipóteses constitucionais próprias.",
+      "D": "a inviolabilidade domiciliar protege apenas residência própria, não local de trabalho."
+    },
+    "answer": "C",
+    "explanation": "O limite “durante o dia” está ligado à determinação judicial. Flagrante, desastre e prestação de socorro são exceções autônomas; o consentimento do morador também autoriza a entrada. A e B ampliam ou deslocam indevidamente a restrição, e D reduz o âmbito da proteção [2].",
+    "source": "02-direitos-humanos.md"
+  },
+  {
+    "id": "direitos-humanos-04",
+    "subjectId": "direitos-humanos",
+    "subjectTitle": "Direitos Humanos",
+    "number": 4,
+    "prompt": "Sobre refúgio no Brasil, assinale a correta.",
+    "choices": {
+      "A": "A Lei 9.474/1997 só considera perseguição individual, excluindo situações de grave e generalizada violação de direitos humanos.",
+      "B": "Solicitante de refúgio e refugiado reconhecido são expressões equivalentes para todos os efeitos.",
+      "C": "A lei inclui como hipótese de reconhecimento a grave e generalizada violação de direitos humanos que obrigue a deixar o país para buscar refúgio em outro.",
+      "D": "Refúgio é modalidade de visto regulada exclusivamente pela Lei de Migração."
+    },
+    "answer": "C",
+    "explanation": "A hipótese consta do art. 1º, III, da Lei 9.474/1997. A lei distingue solicitação de reconhecimento; refúgio não é visto nem se confunde com autorização migratória ou asilo político [9] [10].",
+    "source": "02-direitos-humanos.md"
+  },
+  {
+    "id": "direitos-humanos-05",
+    "subjectId": "direitos-humanos",
+    "subjectTitle": "Direitos Humanos",
+    "number": 5,
+    "prompt": "Sobre a Convenção sobre os Direitos das Pessoas com Deficiência e a capacidade civil, assinale a correta.",
+    "choices": {
+      "A": "A Convenção foi incorporada como lei ordinária porque tratados internacionais nunca podem equivaler a emenda.",
+      "B": "A deficiência implica incapacidade civil absoluta, devendo a curatela abranger todos os atos da vida.",
+      "C": "A Convenção foi aprovada pelo rito do art. 5º, § 3º, e a Lei 13.146/2015 trata a curatela como medida extraordinária, em regra limitada a atos patrimoniais e negociais.",
+      "D": "A curatela é consequência automática de qualquer impedimento de longo prazo."
+    },
+    "answer": "C",
+    "explanation": "O Decreto 6.949/2009 promulga a Convenção aprovada pelo rito qualificado. A deficiência não determina incapacidade global; a LBI fixa excepcionalidade, proporcionalidade e limites da curatela [4] [14].",
+    "source": "02-direitos-humanos.md"
+  },
+  {
+    "id": "direitos-humanos-06",
+    "subjectId": "direitos-humanos",
+    "subjectTitle": "Direitos Humanos",
+    "number": 6,
+    "prompt": "A respeito das figuras penais ligadas à tortura e ao genocídio, assinale a alternativa correta.",
+    "choices": {
+      "A": "Para genocídio, é dispensável a intenção de destruir grupo protegido se houver número elevado de vítimas.",
+      "B": "Toda causação de sofrimento físico ou mental configura necessariamente tortura nos termos da Lei 9.455/1997.",
+      "C": "A definição legal de genocídio exige intenção de destruir, no todo ou em parte, grupo nacional, étnico, racial ou religioso; a tortura depende dos elementos de uma das figuras legais.",
+      "D": "A Constituição classifica tortura como crime prescritível e afiançável."
+    },
+    "answer": "C",
+    "explanation": "A Lei 2.889/1956 exige intenção específica de destruir grupo protegido. A Lei 9.455/1997 descreve condutas e elementos que precisam ser demonstrados. A e B apagam requisitos; D contraria o art. 5º, XLIII, que prevê inafiançabilidade e vedação de graça ou anistia, sem declarar imprescritibilidade nesse inciso [2] [11] [12].",
+    "source": "02-direitos-humanos.md"
+  },
+  {
+    "id": "internacional-01",
+    "subjectId": "internacional",
+    "subjectTitle": "Direito Internacional",
+    "number": 1,
+    "prompt": "Um tratado internacional de direitos humanos foi aprovado em cada Casa do Congresso, em dois turnos, por três quintos dos votos dos respectivos membros. À luz da Constituição, assinale a alternativa correta.",
+    "choices": {
+      "A": "O tratado tem força de lei ordinária, pois tratados nunca integram o bloco constitucional.",
+      "B": "O tratado equivale a emenda constitucional.",
+      "C": "O tratado prevalece sobre a Constituição, por versar sobre direitos humanos.",
+      "D": "O tratado só produz efeitos internos após aprovação do STF."
+    },
+    "answer": "B",
+    "explanation": "O art. 5º, § 3º, atribui equivalência às emendas constitucionais aos tratados de direitos humanos aprovados pelo rito qualificado descrito. Isso não lhes confere posição acima da Constituição. A e C ignoram, respectivamente, o rito constitucional e a supremacia constitucional; D inventa etapa de aprovação judicial [2].",
+    "source": "03-internacional.md"
+  },
+  {
+    "id": "internacional-02",
+    "subjectId": "internacional",
+    "subjectTitle": "Direito Internacional",
+    "number": 2,
+    "prompt": "Lia nasceu no exterior, filha de mãe brasileira que não estava a serviço do Brasil. Foi registrada em repartição brasileira competente. Segundo a Constituição, Lia é:",
+    "choices": {
+      "A": "brasileira nata.",
+      "B": "brasileira naturalizada, após residência por um ano.",
+      "C": "estrangeira até optar depois da maioridade.",
+      "D": "brasileira nata somente se residir no Brasil antes da maioridade."
+    },
+    "answer": "A",
+    "explanation": "O art. 12, I, “c”, contempla o nascido no estrangeiro de pai brasileiro ou mãe brasileira, desde que registrado em repartição brasileira competente, como brasileiro nato. Residência no Brasil e opção depois da maioridade constituem alternativa constitucional distinta, não condição adicional cumulativa à hipótese do registro [2].",
+    "source": "03-internacional.md"
+  },
+  {
+    "id": "internacional-03",
+    "subjectId": "internacional",
+    "subjectTitle": "Direito Internacional",
+    "number": 3,
+    "prompt": "Duas pessoas domiciliadas em países diferentes casam-se no Brasil e elegem regime de bens. Para determinar a lei aplicável ao regime, a LINDB estabelece, como regra, que se aplica:",
+    "choices": {
+      "A": "a lei da nacionalidade do cônjuge mais velho.",
+      "B": "a lei brasileira, por o casamento ter sido celebrado no Brasil.",
+      "C": "a lei do domicílio dos nubentes; sendo diverso, a lei do primeiro domicílio conjugal.",
+      "D": "a lei do país em que se localizam os bens, em qualquer circunstância."
+    },
+    "answer": "C",
+    "explanation": "A regra específica está no art. 7º, § 4º, da LINDB. O local da celebração rege impedimentos e formalidades do casamento no Brasil (§ 1º), mas não substitui a conexão própria do regime de bens. A e D não correspondem à regra; B confunde institutos [8].",
+    "source": "03-internacional.md"
+  },
+  {
+    "id": "internacional-04",
+    "subjectId": "internacional",
+    "subjectTitle": "Direito Internacional",
+    "number": 4,
+    "prompt": "Uma sentença judicial estrangeira transitada em julgado pretende produzir efeitos patrimoniais no Brasil. Não há tratado que dispense reconhecimento. Assinale a alternativa correta.",
+    "choices": {
+      "A": "O STF concede exequatur e julga novamente o mérito.",
+      "B": "O STJ pode homologá-la, examinando requisitos de reconhecimento, sem revisão do mérito; a execução cabe à Justiça Federal.",
+      "C": "A sentença é automaticamente executável em qualquer juízo estadual.",
+      "D": "O STJ só pode homologar se o Estado de origem demonstrar reciprocidade diplomática."
+    },
+    "answer": "B",
+    "explanation": "A Constituição atribui ao STJ homologação de decisões estrangeiras; o CPC veda revisão do mérito e prevê execução perante juízo federal. O art. 26, § 2º, dispensa reciprocidade para homologação. O exequatur é associado à carta rogatória, não a um novo julgamento de mérito [2] [9].",
+    "source": "03-internacional.md"
+  },
+  {
+    "id": "internacional-05",
+    "subjectId": "internacional",
+    "subjectTitle": "Direito Internacional",
+    "number": 5,
+    "prompt": "Uma pessoa estrangeira permanece no Brasil além do prazo migratório autorizado, sem outra causa legal de retirada. Qual medida se relaciona diretamente com a regularização da situação migratória irregular, observado o procedimento legal?",
+    "choices": {
+      "A": "Extradição.",
+      "B": "Asilo político.",
+      "C": "Deportação.",
+      "D": "Homologação de sentença estrangeira."
+    },
+    "answer": "C",
+    "explanation": "A deportação é medida de retirada vinculada à situação migratória irregular e deve observar o procedimento e as garantias da Lei de Migração. Extradição é entrega a outro Estado para persecução penal ou execução penal; asilo é proteção política; homologação reconhece decisão estrangeira [6].",
+    "source": "03-internacional.md"
+  },
+  {
+    "id": "internacional-06",
+    "subjectId": "internacional",
+    "subjectTitle": "Direito Internacional",
+    "number": 6,
+    "prompt": "Autoridade estrangeira solicita que sejam obtidas no Brasil informações processuais, sem pedir execução de decisão jurisdicional estrangeira. Qual instrumento do CPC pode ser adequado, conforme o caso?",
+    "choices": {
+      "A": "Auxílio direto.",
+      "B": "Homologação necessária de sentença.",
+      "C": "Extradição administrativa.",
+      "D": "Carta precatória dirigida a juízo estadual estrangeiro."
+    },
+    "answer": "A",
+    "explanation": "O CPC prevê auxílio direto quando a medida não decorre diretamente de decisão estrangeira sujeita a juízo de delibação, e inclui a obtenção/prestação de informações entre seus objetos (arts. 28 e 30). A carta precatória é cooperação interna entre juízos brasileiros; B e C não correspondem ao pedido descrito [9].",
+    "source": "03-internacional.md"
+  },
+  {
+    "id": "tributario-01",
+    "subjectId": "tributario",
+    "subjectTitle": "Direito Tributário",
+    "number": 1,
+    "prompt": "Município institui por decreto taxa anual de fiscalização, eleva sua alíquota e fixa como base de cálculo exatamente o valor venal utilizado para o IPTU, sem qualquer distinção. Assinale a alternativa correta.",
+    "choices": {
+      "A": "O decreto é suficiente, pois taxa decorre do poder de polícia.",
+      "B": "A cobrança é válida porque taxa e imposto podem compartilhar integralmente sua base.",
+      "C": "A instituição e majoração exigem lei, e a identidade integral da base com a de imposto é vedada.",
+      "D": "A taxa é inválida apenas porque o poder de polícia não pode justificar tributo."
+    },
+    "answer": "C",
+    "explanation": "Legalidade alcança instituição e majoração (CF, art. 150, I; CTN, art. 97). Taxa pode decorrer do poder de polícia, mas não usar base de cálculo integralmente idêntica à de imposto (CF, art. 145, § 2º). A SV 29 admite alguns elementos comuns, não identidade integral. Decreto não substitui lei para criar ou majorar.",
+    "source": "04-tributario.md"
+  },
+  {
+    "id": "tributario-02",
+    "subjectId": "tributario",
+    "subjectTitle": "Direito Tributário",
+    "number": 2,
+    "prompt": "Contribuinte impugnou tempestivamente lançamento em processo administrativo fiscal. Antes da decisão final, a Fazenda ajuizou execução para cobrar o mesmo crédito. Qual afirmação é correta?",
+    "choices": {
+      "A": "A impugnação tempestiva suspende a exigibilidade; não extingue o crédito.",
+      "B": "A impugnação extingue definitivamente o crédito.",
+      "C": "Apenas depósito integral suspende exigibilidade.",
+      "D": "A impugnação suspende o crédito e dispensa obrigações acessórias."
+    },
+    "answer": "A",
+    "explanation": "Impugnação e recursos administrativos, nos termos da lei processual, suspendem exigibilidade (CTN, art. 151, III). Suspender não é extinguir. A suspensão também não dispensa obrigações acessórias correlatas (art. 151, parágrafo único). Depósito integral é uma hipótese, não a única.",
+    "source": "04-tributario.md"
+  },
+  {
+    "id": "tributario-03",
+    "subjectId": "tributario",
+    "subjectTitle": "Direito Tributário",
+    "number": 3,
+    "prompt": "Sociedade empresária deixou de pagar tributo declarado. O administrador não praticou atos com excesso de poderes nem infração legal e a empresa continua em atividade no domicílio fiscal. Apenas pelo inadimplemento, o administrador responde pessoalmente?",
+    "choices": {
+      "A": "Sim, porque todo débito tributário de pessoa jurídica é solidário com o administrador.",
+      "B": "Sim, desde que conste como administrador no contrato social.",
+      "C": "Não, pois o mero inadimplemento não configura, por si, hipótese do art. 135 do CTN.",
+      "D": "Não, porque administrador nunca pode responder por tributo da sociedade."
+    },
+    "answer": "C",
+    "explanation": "O CTN, art. 135, exige atos com excesso de poderes ou infração legal/estatutária; o simples inadimplemento não é suficiente (STJ, Súmula 430). A alternativa D também é absoluta demais: há hipóteses legais de responsabilização.",
+    "source": "04-tributario.md"
+  },
+  {
+    "id": "tributario-04",
+    "subjectId": "tributario",
+    "subjectTitle": "Direito Tributário",
+    "number": 4,
+    "prompt": "Uma instituição educacional sem fins lucrativos alega imunidade de impostos sobre patrimônio, renda e serviços vinculados às finalidades essenciais. A respeito, indique a correta.",
+    "choices": {
+      "A": "A imunidade decorre diretamente do art. 150, VI, c, da Constituição, condicionada ao atendimento dos requisitos legais do CTN.",
+      "B": "A instituição precisa de lei municipal de isenção para obter imunidade constitucional.",
+      "C": "A imunidade abrange automaticamente taxas e contribuições de melhoria.",
+      "D": "A imunidade impede a fiscalização e a exigência de obrigações acessórias."
+    },
+    "answer": "A",
+    "explanation": "A Constituição concede imunidade condicionada às instituições de educação e assistência social sem fins lucrativos que atendam aos requisitos legais (CF, art. 150, VI, c; CTN, art. 14). A proteção refere-se a impostos e não bloqueia fiscalização; tampouco converte automaticamente taxas em imunes.",
+    "source": "04-tributario.md"
+  },
+  {
+    "id": "tributario-05",
+    "subjectId": "tributario",
+    "subjectTitle": "Direito Tributário",
+    "number": 5,
+    "prompt": "Prestador estabelecido no Brasil presta serviço a cliente domiciliado no exterior; o resultado do serviço é verificado no Brasil. Conforme a LC 116/2003, pagamento do exterior, por si só, torna a operação exportação imune ao ISS?",
+    "choices": {
+      "A": "Sim, porque a residência do tomador define exportação.",
+      "B": "Não; serviços desenvolvidos no Brasil cujo resultado aqui se verifique não se enquadram na não incidência prevista para exportações.",
+      "C": "Sim, desde que o contrato seja celebrado em moeda estrangeira.",
+      "D": "Não incide ISS sobre qualquer serviço cujo pagamento venha do exterior."
+    },
+    "answer": "B",
+    "explanation": "A LC 116, art. 2º, I e parágrafo único, afasta a não incidência quando o serviço é desenvolvido no Brasil e o resultado aqui se verifica, ainda que o pagamento venha de residente no exterior. Moeda e local do pagamento não substituem o critério legal.",
+    "source": "04-tributario.md"
+  },
+  {
+    "id": "tributario-06",
+    "subjectId": "tributario",
+    "subjectTitle": "Direito Tributário",
+    "number": 6,
+    "prompt": "Na execução fiscal, contribuinte citado deposita o montante integral do crédito em juízo. Qual é o efeito tributário do depósito?",
+    "choices": {
+      "A": "Extingue imediatamente o crédito, ainda que não haja conversão em renda.",
+      "B": "Suspende a exigibilidade, sem extinguir automaticamente o crédito.",
+      "C": "Impede a Fazenda de constituir qualquer outro crédito.",
+      "D": "É equivalente a parcelamento e implica confissão irrevogável."
+    },
+    "answer": "B",
+    "explanation": "Depósito do montante integral suspende exigibilidade (CTN, art. 151, II). A conversão em renda extingue o crédito (art. 156, VI). O depósito, portanto, não equivale automaticamente a pagamento definitivo ou parcelamento.",
+    "source": "04-tributario.md"
+  },
+  {
+    "id": "administrativo-01",
+    "subjectId": "administrativo",
+    "subjectTitle": "Direito Administrativo",
+    "number": 1,
+    "prompt": "Uma secretaria federal recebeu pedido de acesso a relatório que contém dados públicos e um trecho legalmente sigiloso. À luz da LAI, a solução adequada é:",
+    "choices": {
+      "A": "Negar integralmente o relatório, pois a presença de qualquer dado sigiloso contamina o documento todo.",
+      "B": "Divulgar o relatório completo, pois a publicidade sempre prevalece.",
+      "C": "Fornecer a parte não sigilosa, com ocultação do trecho protegido, se possível.",
+      "D": "Exigir que o requerente demonstre interesse jurídico individual."
+    },
+    "answer": "C",
+    "explanation": "A LAI determina acesso à parte não sigilosa por certidão, extrato ou cópia com ocultação (art. 7º, § 2º). Não se exige interesse jurídico particular como regra para pedido de informação. A alternativa B ignora proteção de informação legalmente restrita [5].",
+    "source": "05-administrativo.md"
+  },
+  {
+    "id": "administrativo-02",
+    "subjectId": "administrativo",
+    "subjectTitle": "Direito Administrativo",
+    "number": 2,
+    "prompt": "Autoridade federal pretende delegar a outro órgão, não subordinado hierarquicamente, a decisão de recurso administrativo. Conforme a Lei 9.784/1999:",
+    "choices": {
+      "A": "É possível, pois qualquer competência administrativa pode ser delegada por conveniência.",
+      "B": "É vedado delegar decisão de recurso administrativo.",
+      "C": "É possível somente se houver autorização do interessado.",
+      "D": "É vedado delegar a órgãos sem subordinação, mas permitido delegar a decisão de recurso a subordinado."
+    },
+    "answer": "B",
+    "explanation": "O art. 13, II, da Lei 9.784/1999 veda delegação de decisão de recursos administrativos. A delegação pode alcançar órgão não subordinado em outras matérias, se presentes conveniência e ausência de impedimento (art. 12); isso não afasta a vedação expressa [3].",
+    "source": "05-administrativo.md"
+  },
+  {
+    "id": "administrativo-03",
+    "subjectId": "administrativo",
+    "subjectTitle": "Direito Administrativo",
+    "number": 3,
+    "prompt": "Sobre licitação pela Lei 14.133/2021, assinale a correta:",
+    "choices": {
+      "A": "Tomada de preços é modalidade vigente ao lado do pregão.",
+      "B": "Inexigibilidade decorre de inviabilidade de competição; dispensa depende de hipótese legal autorizadora.",
+      "C": "A contratação direta dispensa justificativa e instrução processual.",
+      "D": "Empresas públicas estão integralmente sujeitas à Lei 14.133/2021."
+    },
+    "answer": "B",
+    "explanation": "Art. 74: inexigibilidade por inviabilidade de competição; art. 75: dispensa nas hipóteses legais. Tomada de preços foi abolida como modalidade no regime novo (art. 28). Contratação direta continua exigindo instrução e motivação (art. 72). Empresas estatais seguem, em regra, Lei 13.303/2016, conforme art. 1º, § 1º, da Lei 14.133 [7] [9].",
+    "source": "05-administrativo.md"
+  },
+  {
+    "id": "administrativo-04",
+    "subjectId": "administrativo",
+    "subjectTitle": "Direito Administrativo",
+    "number": 4,
+    "prompt": "Em razão de iminente perigo público, o Município utiliza temporariamente um imóvel particular. O regime constitucional pertinente prevê:",
+    "choices": {
+      "A": "Indenização sempre prévia e em dinheiro, mesmo sem dano.",
+      "B": "Transferência automática da propriedade ao Município.",
+      "C": "Indenização ulterior se houver dano.",
+      "D": "Impossibilidade de uso do bem sem prévia decisão judicial."
+    },
+    "answer": "C",
+    "explanation": "É requisição administrativa do art. 5º, XXV, da Constituição: iminente perigo público autoriza uso e indenização ulterior somente se houver dano. Desapropriação tem pressupostos e regime indenizatório diferentes [2].",
+    "source": "05-administrativo.md"
+  },
+  {
+    "id": "administrativo-05",
+    "subjectId": "administrativo",
+    "subjectTitle": "Direito Administrativo",
+    "number": 5,
+    "prompt": "Após a Lei 14.230/2021, mero erro administrativo culposo, sem dolo, configura por si só improbidade nos arts. 9º a 11 da Lei 8.429/1992?",
+    "choices": {
+      "A": "Sim, desde que haja prejuízo ao erário.",
+      "B": "Sim, pois basta voluntariedade.",
+      "C": "Não; a lei exige conduta dolosa tipificada, sem prejuízo de outras formas de responsabilização cabíveis.",
+      "D": "Não, porque a improbidade foi integralmente descriminalizada."
+    },
+    "answer": "C",
+    "explanation": "A redação atual do art. 1º, §§ 1º e 2º, exige dolo e afasta equiparação entre voluntariedade e dolo. Isso não impede apuração disciplinar, civil ou penal se presentes os pressupostos próprios. A alternativa D erra porque improbidade não foi descriminalizada; é regime de responsabilização civil-administrativa [14] [15].",
+    "source": "05-administrativo.md"
+  },
+  {
+    "id": "administrativo-06",
+    "subjectId": "administrativo",
+    "subjectTitle": "Direito Administrativo",
+    "number": 6,
+    "prompt": "Pessoa sofre dano por agente público no exercício da função. Segundo a Constituição e a tese do STF no Tema 940:",
+    "choices": {
+      "A": "A vítima deve demandar diretamente o agente, cuja responsabilidade é objetiva.",
+      "B": "A ação indenizatória é dirigida contra a pessoa jurídica responsável, sem prejuízo de regresso contra o agente se houver dolo ou culpa.",
+      "C": "A pessoa jurídica somente responde se comprovado dolo do agente.",
+      "D": "O agente nunca pode responder perante o Estado."
+    },
+    "answer": "B",
+    "explanation": "CF, art. 37, § 6º, prevê responsabilidade da pessoa jurídica e regresso por dolo ou culpa. No Tema 940, o STF assentou que a vítima demanda o Estado ou prestadora de serviço público, e não diretamente o agente, preservada a ação regressiva [2] [13].",
+    "source": "05-administrativo.md"
+  },
+  {
+    "id": "ambiental-01",
+    "subjectId": "ambiental",
+    "subjectTitle": "Direito Ambiental",
+    "number": 1,
+    "prompt": "Sobre competência ambiental, assinale a alternativa correta.",
+    "choices": {
+      "A": "Como a competência administrativa é comum, todos os entes devem expedir licença ambiental para o mesmo empreendimento.",
+      "B": "A LC nº 140/2011 prevê licenciamento por um único ente, segundo os critérios legais, e permite manifestação não vinculante dos demais interessados.",
+      "C": "A competência concorrente para legislar exclui a competência municipal sobre interesse local.",
+      "D": "O silêncio do órgão licenciador produz licença tácita ao fim do prazo."
+    },
+    "answer": "B",
+    "explanation": "A LC 140 determina no art. 13 que empreendimentos são licenciados por um único ente; § 1º admite manifestação não vinculante dos demais. A competência administrativa comum não significa licenças cumulativas (A). Municípios podem legislar sobre interesse local e suplementar normas (C). O decurso do prazo não produz licença tácita (art. 14, § 3º) (D) [3].",
+    "source": "06-ambiental.md"
+  },
+  {
+    "id": "ambiental-02",
+    "subjectId": "ambiental",
+    "subjectTitle": "Direito Ambiental",
+    "number": 2,
+    "prompt": "Uma atividade tem potencial de causar significativa degradação ambiental. Conforme a Constituição, é correto afirmar que:",
+    "choices": {
+      "A": "EIA/RIMA é exigido para toda atividade econômica, independentemente do potencial de degradação.",
+      "B": "É exigido estudo prévio de impacto ambiental, com publicidade, quando a obra ou atividade puder causar significativa degradação.",
+      "C": "A decisão do órgão licenciador pode dispensar livremente o estudo, ainda que presentes os requisitos constitucionais.",
+      "D": "RIMA substitui a avaliação técnica, tornando desnecessário o EIA."
+    },
+    "answer": "B",
+    "explanation": "É a regra do art. 225, § 1º, IV. Não se exige EIA de toda atividade sem distinção (A); autoridade não pode afastar requisito constitucional por conveniência (C); RIMA comunica as conclusões e não substitui o estudo técnico (D) [2] [6].",
+    "source": "06-ambiental.md"
+  },
+  {
+    "id": "ambiental-03",
+    "subjectId": "ambiental",
+    "subjectTitle": "Direito Ambiental",
+    "number": 3,
+    "prompt": "Sobre criação e redução de unidade de conservação, assinale a correta.",
+    "choices": {
+      "A": "Toda UC exige consulta pública, inclusive Estação Ecológica e Reserva Biológica.",
+      "B": "A redução dos limites pode ser feita por decreto, se precedida de estudo técnico.",
+      "C": "Regra geral, a criação exige estudos técnicos e consulta pública; desafetação ou redução dos limites exige lei específica.",
+      "D": "A consulta pública é dispensada em toda UC de Proteção Integral."
+    },
+    "answer": "C",
+    "explanation": "É a combinação dos §§ 2º a 4º e 7º do art. 22 da Lei 9.985/2000. A consulta não é obrigatória especificamente para Estação Ecológica e Reserva Biológica, não para todas as UCs (A e D). Redução demanda lei específica (B) [7].",
+    "source": "06-ambiental.md"
+  },
+  {
+    "id": "ambiental-04",
+    "subjectId": "ambiental",
+    "subjectTitle": "Direito Ambiental",
+    "number": 4,
+    "prompt": "A respeito de APP e Reserva Legal, indique a alternativa correta.",
+    "choices": {
+      "A": "APP só existe quando coberta por vegetação nativa.",
+      "B": "A Reserva Legal é área rural destinada, entre outras funções, ao uso sustentável e à conservação da biodiversidade; APP e Reserva Legal são institutos distintos.",
+      "C": "O registro no CAR constitui título de propriedade do imóvel rural.",
+      "D": "Toda intervenção em APP é proibida sem exceção."
+    },
+    "answer": "B",
+    "explanation": "Definições nos incisos II e III do art. 3º da Lei 12.651/2012. APP é protegida coberta ou não por vegetação nativa (A); CAR não é título de propriedade ou posse (art. 29, § 2º) (C); intervenção pode ocorrer nas hipóteses legais do art. 8º (D) [8].",
+    "source": "06-ambiental.md"
+  },
+  {
+    "id": "ambiental-05",
+    "subjectId": "ambiental",
+    "subjectTitle": "Direito Ambiental",
+    "number": 5,
+    "prompt": "Sobre responsabilidade civil por dano ambiental, assinale a correta.",
+    "choices": {
+      "A": "Exige prova de dolo ou culpa do poluidor em todos os casos.",
+      "B": "É objetiva segundo a PNMA, sem que isso elimine a necessidade de dano e nexo causal.",
+      "C": "Exclui a possibilidade de obrigação de fazer cumulada com indenização.",
+      "D": "A reparação civil afasta automaticamente sanções penais e administrativas."
+    },
+    "answer": "B",
+    "explanation": "O art. 14, § 1º, da Lei 6.938/1981 dispensa culpa na obrigação de reparar; nexo e dano continuam essenciais. A Súmula 629/STJ admite cumular obrigação de fazer ou não fazer com indenização. As esferas civil, administrativa e penal são independentes (arts. 225, § 3º, CF e 14, § 1º, PNMA) [2] [4] [10].",
+    "source": "06-ambiental.md"
+  },
+  {
+    "id": "ambiental-06",
+    "subjectId": "ambiental",
+    "subjectTitle": "Direito Ambiental",
+    "number": 6,
+    "prompt": "De acordo com a Lei nº 9.605/1998, a responsabilidade penal da pessoa jurídica:",
+    "choices": {
+      "A": "Exclui sempre a responsabilidade das pessoas físicas envolvidas.",
+      "B": "Pode ocorrer nas condições do art. 3º, sem excluir a responsabilidade das pessoas físicas autoras, coautoras ou partícipes.",
+      "C": "Independe de a infração ser cometida no interesse ou benefício da entidade.",
+      "D": "É idêntica à responsabilidade civil objetiva da PNMA."
+    },
+    "answer": "B",
+    "explanation": "O art. 3º prevê responsabilização da pessoa jurídica por decisão de representante legal/contratual ou órgão colegiado, no interesse ou benefício da entidade, sem exclusão de pessoas físicas. Não se confundem regime penal e responsabilidade civil objetiva (A, C e D) [11].",
+    "source": "06-ambiental.md"
+  },
+  {
+    "id": "civil-01",
+    "subjectId": "civil",
+    "subjectTitle": "Direito Civil",
+    "number": 1,
+    "prompt": "Uma pessoa com deficiência, maior de idade, celebra contrato sem curador e sem apoiadores. Apenas com base na deficiência, o contrato é inválido?",
+    "choices": {
+      "A": "Sim, pois a deficiência torna a pessoa absolutamente incapaz.",
+      "B": "Sim, pois toda pessoa com deficiência precisa de tomada de decisão apoiada.",
+      "C": "Não necessariamente; deficiência, por si só, não afasta capacidade civil, e eventual curatela é excepcional e delimitada.",
+      "D": "Não, porque curatela e tomada de decisão apoiada foram abolidas."
+    },
+    "answer": "C",
+    "explanation": "A Lei 13.146/2015 preserva a capacidade legal em igualdade. Curatela é medida extraordinária e não decorre automaticamente da deficiência; tomada de decisão apoiada é instrumento facultativo. A alternativa A reproduz categorias de incapacidade anteriores à reforma.",
+    "source": "07-civil.md"
+  },
+  {
+    "id": "civil-02",
+    "subjectId": "civil",
+    "subjectTitle": "Direito Civil",
+    "number": 2,
+    "prompt": "Em obrigação solidária passiva, o credor cobra todo o débito de um dos devedores. Qual afirmação é correta?",
+    "choices": {
+      "A": "A cobrança integral é vedada, pois cada devedor responde apenas por sua quota.",
+      "B": "O credor pode exigir a dívida toda de qualquer devedor solidário, sem prejuízo de regresso interno.",
+      "C": "A solidariedade decorre sempre da pluralidade de devedores.",
+      "D": "A obrigação solidária só existe quando a prestação é indivisível."
+    },
+    "answer": "B",
+    "explanation": "CC, arts. 265 e 275: solidariedade não se presume; resulta da lei ou vontade das partes, e cada devedor pode ser demandado pelo total. Quem paga além da quota tem regresso na forma legal. Indivisibilidade e solidariedade são institutos distintos.",
+    "source": "07-civil.md"
+  },
+  {
+    "id": "civil-03",
+    "subjectId": "civil",
+    "subjectTitle": "Direito Civil",
+    "number": 3,
+    "prompt": "Duas partes assinam compromisso de compra e venda de imóvel, mas o título não é registrado. Quanto à propriedade imobiliária, assinale a correta.",
+    "choices": {
+      "A": "Transfere-se com a assinatura do contrato em qualquer hipótese.",
+      "B": "Transfere-se com o pagamento integral, independentemente do registro.",
+      "C": "Em regra, transfere-se com o registro do título aquisitivo no Registro de Imóveis.",
+      "D": "Transfere-se com a entrega das chaves, como ocorre com bens móveis."
+    },
+    "answer": "C",
+    "explanation": "Pelo CC, art. 1.245, propriedade entre vivos é transferida mediante registro do título translativo. Contrato pode gerar obrigações e pretensão à transferência, mas não substitui o registro; tradição é regra de aquisição de móveis.",
+    "source": "07-civil.md"
+  },
+  {
+    "id": "civil-04",
+    "subjectId": "civil",
+    "subjectTitle": "Direito Civil",
+    "number": 4,
+    "prompt": "Consumidor identifica vício aparente em produto durável. Qual prazo decadencial geral do CDC para reclamar do vício?",
+    "choices": {
+      "A": "30 dias, contados da celebração do contrato.",
+      "B": "90 dias, contados da entrega efetiva do produto.",
+      "C": "5 anos, contados do conhecimento do dano e da autoria.",
+      "D": "3 anos, contados da compra."
+    },
+    "answer": "B",
+    "explanation": "CDC, art. 26, II e § 1º: vício aparente em produto durável tem prazo de 90 dias, a partir da entrega efetiva; em serviço, a partir do término da execução. Os cinco anos do art. 27 dizem respeito à pretensão reparatória por fato do produto ou serviço, com termo inicial próprio.",
+    "source": "07-civil.md"
+  },
+  {
+    "id": "civil-05",
+    "subjectId": "civil",
+    "subjectTitle": "Direito Civil",
+    "number": 5,
+    "prompt": "Sem índice de correção convencionado nem previsto em lei específica, e sem taxa de juros pactuada ou especial, como se orienta a disciplina geral após a Lei 14.905/2024?",
+    "choices": {
+      "A": "IPCA para atualização monetária e taxa legal correspondente à Selic deduzido o índice de atualização do art. 389, conforme metodologia regulamentada.",
+      "B": "Selic integral cumulada necessariamente com IPCA.",
+      "C": "Apenas juros simples de 1% ao mês em todos os casos.",
+      "D": "Nenhuma atualização ou juros são devidos sem cláusula expressa."
+    },
+    "answer": "A",
+    "explanation": "A Lei 14.905/2024 alterou os arts. 389 e 406 do CC. Na falta de índice, aplica-se IPCA; a taxa legal é Selic deduzido o índice de atualização, calculada conforme metodologia do CMN e divulgada pelo Banco Central. A alternativa B duplica a atualização sem observar a dedução legal.",
+    "source": "07-civil.md"
+  },
+  {
+    "id": "civil-06",
+    "subjectId": "civil",
+    "subjectTitle": "Direito Civil",
+    "number": 6,
+    "prompt": "Pessoa falece deixando descendente e cônjuge sobrevivente. Qual distinção deve ser feita antes de calcular o quinhão do cônjuge?",
+    "choices": {
+      "A": "Meação e herança são conceitos idênticos.",
+      "B": "O cônjuge sempre recebe metade da herança, qualquer que seja o regime de bens.",
+      "C": "Deve-se apurar eventual meação conforme regime de bens e, separadamente, a vocação hereditária conforme art. 1.829 e entendimento aplicável.",
+      "D": "O cônjuge nunca concorre com descendentes."
+    },
+    "answer": "C",
+    "explanation": "Meação decorre do regime patrimonial; herança decorre da morte e da ordem sucessória. O art. 1.829 prevê concorrência conforme regime e exceções. O cálculo exige identificar bens comuns/particulares e situação familiar concreta; não cabe generalização universal.",
+    "source": "07-civil.md"
+  },
+  {
+    "id": "eca-01",
+    "subjectId": "eca",
+    "subjectTitle": "Estatuto da Criança e do Adolescente",
+    "number": 1,
+    "prompt": "Lia tem 11 anos e 11 meses e praticou conduta que, se cometida por adulto, corresponderia a contravenção penal. À luz do ECA, assinale a correta.",
+    "choices": {
+      "A": "Deve responder a procedimento de apuração de ato infracional e pode receber internação.",
+      "B": "É penalmente inimputável e, por ser criança, sujeita-se às medidas de proteção do art. 101.",
+      "C": "O Conselho Tutelar pode aplicar prestação de serviços à comunidade.",
+      "D": "A medida cabível é advertência judicial, desde que haja prova da autoria."
+    },
+    "answer": "B",
+    "explanation": "Ato infracional é conduta descrita como crime ou contravenção (art. 103), mas criança não recebe medida socioeducativa. Pelo art. 105, aplicam-se as medidas do art. 101. A idade considerada é a da data do fato (art. 104, parágrafo único). Alternativas A e D tratam como adolescente; C atribui ao Conselho Tutelar medida socioeducativa.",
+    "source": "08-eca.md"
+  },
+  {
+    "id": "eca-02",
+    "subjectId": "eca",
+    "subjectTitle": "Estatuto da Criança e do Adolescente",
+    "number": 2,
+    "prompt": "Adolescente de 16 anos foi apreendido em flagrante por ato infracional sem violência ou grave ameaça. Não há decisão judicial prévia. Qual afirmação está correta?",
+    "choices": {
+      "A": "A autoridade policial pode mantê-lo internado provisoriamente por até 90 dias.",
+      "B": "A privação de liberdade exige flagrante ou ordem judicial escrita e fundamentada; a internação provisória, quando cabível, não excede 45 dias.",
+      "C": "A internação é obrigatória sempre que houver notícia de reincidência.",
+      "D": "A autoridade policial pode aplicar liberdade assistida por até seis meses."
+    },
+    "answer": "B",
+    "explanation": "Arts. 106 e 108: hipóteses de privação de liberdade e limite de 45 dias para internação antes da sentença. A internação definitiva só cabe nas hipóteses taxativas do art. 122; não é automática por “reincidência”. Autoridade policial não aplica medidas socioeducativas.",
+    "source": "08-eca.md"
+  },
+  {
+    "id": "eca-03",
+    "subjectId": "eca",
+    "subjectTitle": "Estatuto da Criança e do Adolescente",
+    "number": 3,
+    "prompt": "Sobre a internação socioeducativa, assinale a correta.",
+    "choices": {
+      "A": "Tem prazo determinado de três anos, sem reavaliação durante a execução.",
+      "B": "Pode ser aplicada pela gravidade abstrata do ato, ainda que fora das hipóteses legais.",
+      "C": "Não comporta prazo determinado, deve ser reavaliada no máximo a cada seis meses e não pode exceder três anos.",
+      "D": "Atingidos 18 anos, a medida é automaticamente extinta."
+    },
+    "answer": "C",
+    "explanation": "Art. 121, §§ 2º–5º: reavaliação fundamentada semestral no máximo, teto de três anos e liberação compulsória aos 21 anos. A internação deve respeitar brevidade e excepcionalidade e só cabe nas hipóteses do art. 122. Maioridade aos 18 não extingue automaticamente a medida.",
+    "source": "08-eca.md"
+  },
+  {
+    "id": "eca-04",
+    "subjectId": "eca",
+    "subjectTitle": "Estatuto da Criança e do Adolescente",
+    "number": 4,
+    "prompt": "Sobre colocação em família substituta, escolha a correta.",
+    "choices": {
+      "A": "Guarda, tutela e adoção sempre extinguem o poder familiar.",
+      "B": "Adoção pode ser feita por procuração se os adotantes residirem no exterior.",
+      "C": "A tutela pressupõe prévia perda ou suspensão do poder familiar e implica necessariamente dever de guarda.",
+      "D": "A adoção é revogável por decisão unilateral do adotante."
+    },
+    "answer": "C",
+    "explanation": "É a regra expressa do art. 36. Guarda não extingue necessariamente o poder familiar (arts. 33–35). Adoção não pode ser feita por procuração (art. 39, § 2º) e é irrevogável (art. 39, § 1º).",
+    "source": "08-eca.md"
+  },
+  {
+    "id": "eca-05",
+    "subjectId": "eca",
+    "subjectTitle": "Estatuto da Criança e do Adolescente",
+    "number": 5,
+    "prompt": "Sobre a viagem nacional de criança, sem os pais, assinale a correta.",
+    "choices": {
+      "A": "Toda pessoa menor de 18 anos precisa de autorização judicial para sair da comarca.",
+      "B": "Menor de 16 anos pode viajar sem autorização judicial em todas as hipóteses, desde que acompanhado por qualquer adulto.",
+      "C": "A regra de autorização judicial para viagem nacional aplica-se à criança e ao adolescente menor de 16 anos, ressalvadas as hipóteses do art. 83.",
+      "D": "A autorização judicial só é necessária para viagens internacionais."
+    },
+    "answer": "C",
+    "explanation": "O art. 83, com a alteração da Lei 13.812/2019, alcança menores de 16 anos em viagens nacionais para fora da comarca, com exceções legais, inclusive parentesco até terceiro grau comprovado ou pessoa maior expressamente autorizada. Para viagem internacional, os arts. 84–85 trazem regime próprio.",
+    "source": "08-eca.md"
+  },
+  {
+    "id": "eca-06",
+    "subjectId": "eca",
+    "subjectTitle": "Estatuto da Criança e do Adolescente",
+    "number": 6,
+    "prompt": "Uma escola toma conhecimento de faltas injustificadas reiteradas, depois de esgotados os recursos escolares. À luz do ECA, assinale a correta.",
+    "choices": {
+      "A": "A comunicação ao Conselho Tutelar é vedada, pois a escola deve aguardar decisão judicial.",
+      "B": "O dirigente deve comunicar ao Conselho Tutelar a hipótese legal; isso não significa que o Conselho aplique pena ou medida socioeducativa.",
+      "C": "O Conselho Tutelar pode decretar a perda do poder familiar por faltas escolares.",
+      "D": "A escola deve comunicar exclusivamente ao Ministério Público, sem atuação do Conselho Tutelar."
+    },
+    "answer": "B",
+    "explanation": "O art. 56 prevê comunicação ao Conselho Tutelar, entre outras hipóteses, por faltas injustificadas/evasão após esgotados os recursos escolares. O Conselho é órgão não jurisdicional (art. 131), não decreta perda do poder familiar nem aplica pena. A suspensão/perda do poder familiar é matéria judicial, conforme procedimento legal.",
+    "source": "08-eca.md"
+  },
+  {
+    "id": "consumidor-01",
+    "subjectId": "consumidor",
+    "subjectTitle": "Direito do Consumidor",
+    "number": 1,
+    "prompt": "Uma consumidora compra uma máquina de lavar em loja física. O aparelho apresenta vício que não é sanado no prazo legal. Não há dano a outros bens nem lesão pessoal. Qual alternativa está correta?",
+    "choices": {
+      "A": "Trata-se necessariamente de fato do produto, e a consumidora tem cinco anos para exigir troca.",
+      "B": "Trata-se de vício do produto; em regra, após o prazo de saneamento, ela escolhe entre substituição, restituição do preço ou abatimento proporcional.",
+      "C": "Apenas o fabricante pode responder, pois o comerciante nunca integra a cadeia de responsabilidade por vício.",
+      "D": "A loja deve obrigatoriamente reparar o produto, sem possibilidade de restituição ou abatimento."
+    },
+    "answer": "B",
+    "explanation": "A hipótese é vício, pois o problema está na inadequação do próprio produto, sem dano externo. O art. 18 prevê solidariedade na cadeia e, não sanado o vício no prazo legal, assegura opções ao consumidor. O fato do produto está ligado ao defeito de segurança que causa dano além do próprio bem; o prazo quinquenal do art. 27 diz respeito à reparação por fato, não à troca por vício. [2]",
+    "source": "09-consumidor.md"
+  },
+  {
+    "id": "consumidor-02",
+    "subjectId": "consumidor",
+    "subjectTitle": "Direito do Consumidor",
+    "number": 2,
+    "prompt": "Em uma contratação por telefone, o consumidor recebe o serviço e, quatro dias depois, comunica que desistiu, sem precisar apontar defeito. Qual é a regra do CDC?",
+    "choices": {
+      "A": "Não há arrependimento, pois o prazo só existe para compras pela internet.",
+      "B": "O direito de arrependimento pode ser exercido em sete dias, por se tratar de contratação fora do estabelecimento comercial.",
+      "C": "O prazo é de 30 dias, contado da primeira cobrança.",
+      "D": "O arrependimento depende de autorização discricionária do fornecedor."
+    },
+    "answer": "B",
+    "explanation": "O art. 49 garante sete dias para desistência imotivada de contratação realizada fora do estabelecimento comercial, como por telefone. A norma não se limita à internet e não exige autorização do fornecedor. [2]",
+    "source": "09-consumidor.md"
+  },
+  {
+    "id": "consumidor-03",
+    "subjectId": "consumidor",
+    "subjectTitle": "Direito do Consumidor",
+    "number": 3,
+    "prompt": "Consumidor demanda reparação por defeito em serviço. Alega fatos plausíveis e, por se tratar de informação técnica sob controle do fornecedor, demonstra dificuldade real de produzir determinada prova. Sobre o ônus probatório:",
+    "choices": {
+      "A": "A inversão é automática em toda relação de consumo e dispensa decisão judicial.",
+      "B": "O juiz pode inverter o ônus se considerar verossímil a alegação ou se houver hipossuficiência, segundo regras ordinárias de experiência.",
+      "C": "A inversão só é permitida quando ambos os requisitos — verossimilhança e hipossuficiência — estiverem simultaneamente presentes.",
+      "D": "O CDC proíbe inversão do ônus para fatos ligados a serviço."
+    },
+    "answer": "B",
+    "explanation": "O art. 6º, VIII, faculta ao juiz inverter o ônus quando houver verossimilhança ou hipossuficiência. Não é automática. A questão deliberadamente oferece fatos que podem justificar a medida, mas sua determinação depende da avaliação judicial. [2]",
+    "source": "09-consumidor.md"
+  },
+  {
+    "id": "consumidor-04",
+    "subjectId": "consumidor",
+    "subjectTitle": "Direito do Consumidor",
+    "number": 4,
+    "prompt": "Um produto defeituoso explode e causa lesão ao usuário. Qual afirmação melhor descreve a responsabilidade pelo fato do produto?",
+    "choices": {
+      "A": "É subjetiva em relação ao fabricante, que só responde se provada negligência.",
+      "B": "É objetiva para o fabricante, que pode invocar as excludentes legais, inclusive culpa exclusiva do consumidor ou de terceiro.",
+      "C": "É sempre solidária e indistinta entre comerciante, fabricante e qualquer transportador, sem exceções.",
+      "D": "O comerciante jamais responde pelo fato do produto, mesmo quando o fabricante não pode ser identificado."
+    },
+    "answer": "B",
+    "explanation": "O art. 12 estabelece responsabilidade objetiva do fabricante, produtor, construtor e importador. O § 3º lista excludentes. A responsabilidade do comerciante é prevista nas hipóteses específicas do art. 13, entre elas impossibilidade de identificação do fabricante e produto sem identificação clara; logo, não cabe a alternativa D. [2]",
+    "source": "09-consumidor.md"
+  },
+  {
+    "id": "consumidor-05",
+    "subjectId": "consumidor",
+    "subjectTitle": "Direito do Consumidor",
+    "number": 5,
+    "prompt": "Uma pessoa natural, de boa-fé, não consegue pagar suas dívidas de consumo sem comprometer o mínimo existencial e pede audiência de conciliação para apresentar plano. O credor comparece por procurador sem poderes para transigir. Segundo o CDC e o entendimento divulgado pelo STJ em 2026:",
+    "choices": {
+      "A": "O credor é obrigado a aceitar integralmente a proposta do devedor, e a falta de aceitação extingue o débito.",
+      "B": "A ausência de poderes para transigir é irrelevante, pois basta comparecimento físico de qualquer representante.",
+      "C": "A presença de procurador sem poderes especiais e plenos para transigir pode acarretar as sanções do art. 104-A, § 2º; o credor não é obrigado a formular contraproposta ou aderir ao plano.",
+      "D": "O procedimento abrange automaticamente qualquer dívida, inclusive crédito rural e financiamento imobiliário."
+    },
+    "answer": "C",
+    "explanation": "A tese divulgada pelo STJ em 19/06/2026 reconhece as consequências do art. 104-A, § 2º, para ausência injustificada ou procurador sem poderes especiais e plenos para transigir. A mesma publicação esclarece que não há obrigação legal de o credor apresentar contraproposta ou aderir ao plano. Dívidas com garantia real, financiamento imobiliário e crédito rural estão excluídas nos termos do art. 104-A, § 1º. [3] [5]",
+    "source": "09-consumidor.md"
+  },
+  {
+    "id": "consumidor-06",
+    "subjectId": "consumidor",
+    "subjectTitle": "Direito do Consumidor",
+    "number": 6,
+    "prompt": "Consumidor vê anúncio suficientemente preciso com preço e características de um produto. O fornecedor recusa a venda pelo preço anunciado, sem justificar erro escusável ou outra circunstância prevista em lei. O que pode fazer o consumidor, conforme o CDC?",
+    "choices": {
+      "A": "Nada, pois anúncio publicitário nunca vincula o fornecedor.",
+      "B": "Exigir cumprimento forçado da oferta, aceitar produto ou serviço equivalente ou rescindir com restituição e perdas e danos, conforme o art. 35.",
+      "C": "Exigir apenas indenização moral, sem possibilidade de cumprimento da oferta.",
+      "D": "Exigir cumprimento somente se já tiver pago o preço integral."
+    },
+    "answer": "B",
+    "explanation": "A oferta suficientemente precisa vincula o fornecedor (art. 30). Diante da recusa, o art. 35 permite exigir cumprimento forçado, aceitar equivalente ou rescindir com restituição e perdas e danos. Não se exige pagamento integral prévio para que a regra de vinculação da oferta exista. [2]",
+    "source": "09-consumidor.md"
+  },
+  {
+    "id": "empresarial-01",
+    "subjectId": "empresarial",
+    "subjectTitle": "Direito Empresarial",
+    "number": 1,
+    "prompt": "Uma arquiteta atende clientes pessoalmente e contratou uma assistente para tarefas administrativas. Considerando apenas esses fatos, assinale a afirmativa correta.",
+    "choices": {
+      "A": "É necessariamente empresária, pois possui empregada.",
+      "B": "Não pode ser empresária em hipótese alguma, pois exerce profissão intelectual.",
+      "C": "A contratação de auxiliar, por si só, não a torna empresária; é preciso verificar se a profissão constitui elemento de empresa.",
+      "D": "É empresária somente se constituir sociedade limitada."
+    },
+    "answer": "C",
+    "explanation": "O art. 966, parágrafo único, do Código Civil exclui a profissão intelectual mesmo com auxiliares, salvo quando o exercício da profissão constituir elemento de empresa. A alternativa A transforma a existência de auxiliar em critério automático. [2]",
+    "source": "10-empresarial.md"
+  },
+  {
+    "id": "empresarial-02",
+    "subjectId": "empresarial",
+    "subjectTitle": "Direito Empresarial",
+    "number": 2,
+    "prompt": "Dois amigos constituem sociedade limitada, subscrevem capital de R$ 100 mil, integralizam R$ 60 mil e deixam o restante pendente. Um fornecedor cobra dívida da sociedade. Qual regra é correta?",
+    "choices": {
+      "A": "A responsabilidade dos sócios é sempre ilimitada, por se tratar de dívida empresarial.",
+      "B": "Os sócios respondem solidariamente pela integralização do capital pendente, sem que isso converta toda dívida social em obrigação pessoal ilimitada.",
+      "C": "Cada sócio responde exclusivamente pelo valor já integralizado.",
+      "D": "A sociedade limitada não admite capital subscrito e não integralizado."
+    },
+    "answer": "B",
+    "explanation": "O art. 1.052 do Código Civil limita a responsabilidade de cada sócio ao valor de suas quotas, mas estabelece responsabilidade solidária pela integralização do capital social. Isso não equivale a responsabilidade ilimitada geral por todas as dívidas da sociedade. [2]",
+    "source": "10-empresarial.md"
+  },
+  {
+    "id": "empresarial-03",
+    "subjectId": "empresarial",
+    "subjectTitle": "Direito Empresarial",
+    "number": 3,
+    "prompt": "A sociedade Alfa incorpora a sociedade Beta. Em regra, o que ocorre?",
+    "choices": {
+      "A": "Beta absorve Alfa, e ambas permanecem sem sucessão.",
+      "B": "Surge obrigatoriamente uma nova pessoa jurídica, extinguindo-se ambas.",
+      "C": "Alfa absorve Beta e sucede seus direitos e obrigações, observados os procedimentos legais.",
+      "D": "Beta transfere apenas seus sócios, sem transferência patrimonial."
+    },
+    "answer": "C",
+    "explanation": "Na incorporação, uma ou mais sociedades são absorvidas por outra, que lhes sucede em direitos e obrigações (CC, art. 1.116). A criação de sociedade nova caracteriza a fusão, não a incorporação. [2]",
+    "source": "10-empresarial.md"
+  },
+  {
+    "id": "empresarial-04",
+    "subjectId": "empresarial",
+    "subjectTitle": "Direito Empresarial",
+    "number": 4,
+    "prompt": "Em sociedade em conta de participação, a sócia participante, sem autorização, passa a negociar diretamente com clientes em nome próprio, intervindo nas relações externas da atividade. Segundo o Código Civil:",
+    "choices": {
+      "A": "Ela continua sempre imune perante terceiros, pois seu nome não consta no registro.",
+      "B": "Sua intervenção pode torná-la solidariamente responsável com o sócio ostensivo pelas obrigações em que interveio.",
+      "C": "A SCP torna-se automaticamente sociedade anônima.",
+      "D": "A intervenção extingue necessariamente a sociedade."
+    },
+    "answer": "B",
+    "explanation": "O sócio ostensivo atua externamente em nome próprio; o participante que intervém nas relações com terceiros responde solidariamente com o ostensivo pelas obrigações em que intervier (CC, art. 993, parágrafo único). A SCP não adquire personalidade por registro (arts. 991 e 993). [2]",
+    "source": "10-empresarial.md"
+  },
+  {
+    "id": "empresarial-05",
+    "subjectId": "empresarial",
+    "subjectTitle": "Direito Empresarial",
+    "number": 5,
+    "prompt": "Uma empresa pede recuperação judicial. Um credor tem crédito garantido por propriedade fiduciária sobre bem móvel. Qual afirmação melhor reflete a regra geral legal?",
+    "choices": {
+      "A": "Todo crédito existente na data do pedido está necessariamente sujeito ao plano, sem exceção.",
+      "B": "O titular de propriedade fiduciária está, em regra, excluído dos efeitos da recuperação nos termos do art. 49, § 3º, observadas as ressalvas legais.",
+      "C": "A garantia fiduciária converte-se automaticamente em crédito trabalhista.",
+      "D": "O credor fica impedido de exercer qualquer direito sobre o bem em toda e qualquer situação."
+    },
+    "answer": "B",
+    "explanation": "O art. 49, § 3º, da Lei 11.101/2005 exclui, em regra, dos efeitos da recuperação o crédito do titular da posição de proprietário fiduciário, com ressalvas específicas, inclusive quanto à retirada de bens de capital essenciais durante o período legal. Por isso, a alternativa D também é ampla demais. [3]",
+    "source": "10-empresarial.md"
+  },
+  {
+    "id": "empresarial-06",
+    "subjectId": "empresarial",
+    "subjectTitle": "Direito Empresarial",
+    "number": 6,
+    "prompt": "Sobre marca e nome empresarial, assinale a correta.",
+    "choices": {
+      "A": "O arquivamento do nome empresarial na Junta Comercial equivale ao registro de marca no INPI.",
+      "B": "A marca registrada e o nome empresarial são institutos distintos, com registros e âmbitos de proteção próprios.",
+      "C": "O nome empresarial só pode ser protegido por patente.",
+      "D": "O registro de marca no INPI dispensa a observância de todos os requisitos de registrabilidade."
+    },
+    "answer": "B",
+    "explanation": "O nome empresarial é regido pelo Código Civil e pela disciplina do registro empresarial; a marca é protegida pela Lei 9.279/1996 e registrada perante o INPI. Um registro não substitui o outro, e a concessão da marca depende dos requisitos e impedimentos da lei. [2] [7]",
+    "source": "10-empresarial.md"
+  },
+  {
+    "id": "processo-civil-01",
+    "subjectId": "processo-civil",
+    "subjectTitle": "Direito Processual Civil",
+    "number": 1,
+    "prompt": "Em ação pelo procedimento comum, o réu não apresentou contestação. O autor sustenta que a revelia obriga o juiz a acolher integralmente todos os pedidos. Qual é a resposta correta?",
+    "choices": {
+      "A": "Sim, a revelia gera confissão absoluta sobre fatos e direito.",
+      "B": "Sim, exceto se o réu for ente público.",
+      "C": "Não necessariamente: há presunção relativa dos fatos, sujeita às exceções legais, e o pedido ainda precisa ser juridicamente acolhível.",
+      "D": "Não: a revelia nunca produz efeito probatório."
+    },
+    "answer": "C",
+    "explanation": "O art. 344 estabelece presunção de veracidade dos fatos alegados pelo autor, não confissão absoluta sobre o direito nem procedência automática. O art. 345 prevê situações em que a presunção não ocorre. O juiz deve verificar os pedidos e a incidência do direito material.",
+    "source": "11-processo-civil.md"
+  },
+  {
+    "id": "processo-civil-02",
+    "subjectId": "processo-civil",
+    "subjectTitle": "Direito Processual Civil",
+    "number": 2,
+    "prompt": "O réu pretende alegar incompetência territorial em ação sujeita à regra geral. Deve fazê-lo:",
+    "choices": {
+      "A": "Em preliminar de contestação, sob pena de prorrogação, em regra.",
+      "B": "A qualquer tempo, porque toda incompetência é absoluta.",
+      "C": "Exclusivamente por exceção autônoma, antes da citação.",
+      "D": "Somente em apelação."
+    },
+    "answer": "A",
+    "explanation": "Incompetência relativa deve ser arguida como preliminar de contestação (art. 64). Se não arguida no momento adequado, ocorre prorrogação (art. 65). A alternativa B confunde competência relativa com absoluta.",
+    "source": "11-processo-civil.md"
+  },
+  {
+    "id": "processo-civil-03",
+    "subjectId": "processo-civil",
+    "subjectTitle": "Direito Processual Civil",
+    "number": 3,
+    "prompt": "Uma interlocutória não está expressamente enumerada no art. 1.015 do CPC. A parte demonstra que aguardar a apelação tornaria inútil a análise da questão. À luz da orientação do STJ, assinale a correta.",
+    "choices": {
+      "A": "O agravo é sempre incabível porque o rol é absolutamente fechado.",
+      "B": "O agravo pode ser cabível conforme a taxatividade mitigada, diante da urgência decorrente da inutilidade do exame posterior.",
+      "C": "Cabe apelação imediata contra qualquer interlocutória.",
+      "D": "A parte deve opor embargos de declaração, único recurso possível."
+    },
+    "answer": "B",
+    "explanation": "O Tema 988 do STJ assentou a taxatividade mitigada do art. 1.015: cabe agravo quando a urgência decorre da inutilidade de exame futuro em apelação.[5] A análise é concreta; não transforma todas as interlocutórias em agraváveis.",
+    "source": "11-processo-civil.md"
+  },
+  {
+    "id": "processo-civil-04",
+    "subjectId": "processo-civil",
+    "subjectTitle": "Direito Processual Civil",
+    "number": 4,
+    "prompt": "O juiz concede tutela antecipada antecedente. O réu não interpõe recurso contra a decisão. Qual afirmação corresponde ao CPC?",
+    "choices": {
+      "A": "A tutela se estabiliza nos termos legais, extinguindo-se o processo, mas não faz coisa julgada material.",
+      "B": "A sentença torna-se automaticamente imutável e insuscetível de ação revisional.",
+      "C": "A tutela só pode ser cautelar, pois a antecipada não existe em caráter antecedente.",
+      "D": "A estabilização ocorre mesmo que o réu recorra."
+    },
+    "answer": "A",
+    "explanation": "Conforme arts. 303 e 304, tutela antecipada antecedente pode estabilizar-se se não houver recurso contra a decisão concessiva. O processo é extinto, mas a decisão não faz coisa julgada material; as partes podem ajuizar ação para rever, reformar ou invalidar nos termos do art. 304, §§ 2º a 6º.",
+    "source": "11-processo-civil.md"
+  },
+  {
+    "id": "processo-civil-05",
+    "subjectId": "processo-civil",
+    "subjectTitle": "Direito Processual Civil",
+    "number": 5,
+    "prompt": "Em cumprimento definitivo de sentença que condena ao pagamento de quantia, o executado é intimado e não paga voluntariamente no prazo legal. Qual é a consequência ordinária prevista no CPC?",
+    "choices": {
+      "A": "Conversão automática em prisão civil.",
+      "B": "Incidência de multa e honorários de 10% cada, com prosseguimento executivo.",
+      "C": "Extinção do cumprimento, pois a sentença perdeu eficácia.",
+      "D": "Necessidade de ajuizar nova execução de título extrajudicial."
+    },
+    "answer": "B",
+    "explanation": "O art. 523, § 1º, prevê multa de 10% e honorários advocatícios de 10% se não houver pagamento voluntário no prazo. Seguem penhora e atos de expropriação, observadas as regras legais. Prisão civil não é medida ordinária para dívida civil comum.",
+    "source": "11-processo-civil.md"
+  },
+  {
+    "id": "processo-civil-06",
+    "subjectId": "processo-civil",
+    "subjectTitle": "Direito Processual Civil",
+    "number": 6,
+    "prompt": "Ao interpor recurso, a parte deixa de juntar documento comprobatório de feriado local. A informação, contudo, consta do processo eletrônico. Conforme a redação vigente do art. 1.003, § 6º, do CPC:",
+    "choices": {
+      "A": "O recurso é automaticamente intempestivo, sem possibilidade de correção.",
+      "B": "O tribunal pode desconsiderar a omissão se a informação constar do processo eletrônico; caso contrário, deve determinar a correção do vício formal.",
+      "C": "Feriado local nunca interfere na contagem de prazo.",
+      "D": "A comprovação pode ser feita apenas depois do trânsito em julgado."
+    },
+    "answer": "B",
+    "explanation": "Essa é a redação inserida pela Lei 14.939/2024 no art. 1.003, § 6º: o tribunal determinará a correção do vício ou poderá desconsiderá-lo se a informação já constar do processo eletrônico.[6] A jurisprudência da Corte Especial do STJ reconheceu aplicação imediata da lei a recursos anteriores ainda pendentes, sem dispensar o requisito de tempestividade.[7]",
+    "source": "11-processo-civil.md"
+  },
+  {
+    "id": "penal-01",
+    "subjectId": "penal",
+    "subjectTitle": "Direito Penal",
+    "number": 1,
+    "prompt": "Uma lei posterior deixa de considerar criminosa determinada conduta. A condenação pelo fato já transitou em julgado. Assinale a correta.",
+    "choices": {
+      "A": "A lei nova não se aplica, pois houve trânsito em julgado.",
+      "B": "Cessa a execução da pena, mas permanecem todos os efeitos penais da condenação.",
+      "C": "A lei nova retroage, extinguindo a punibilidade e cessando a execução e os efeitos penais da condenação.",
+      "D": "A lei nova só retroage se o Ministério Público concordar."
+    },
+    "answer": "C",
+    "explanation": "O CP, arts. 2º e 107, III, prevê a retroatividade benéfica da abolitio criminis, inclusive após trânsito em julgado. A cessação alcança efeitos penais, não apaga automaticamente efeitos civis [2].",
+    "source": "12-penal.md"
+  },
+  {
+    "id": "penal-02",
+    "subjectId": "penal",
+    "subjectTitle": "Direito Penal",
+    "number": 2,
+    "prompt": "No mesmo episódio, um agente inicia a execução de crime, mas interrompe voluntariamente a conduta antes de esgotar os atos executórios. O resultado não ocorre. Em regra, ele:",
+    "choices": {
+      "A": "responde por tentativa, pois iniciou a execução.",
+      "B": "responde apenas pelos atos já praticados, se configurarem infração autônoma.",
+      "C": "fica isento de qualquer responsabilidade, ainda que tenha praticado outro crime.",
+      "D": "responde por arrependimento posterior."
+    },
+    "answer": "B",
+    "explanation": "É desistência voluntária do art. 15 do CP: responde pelos atos já praticados. Tentativa pressupõe que a não consumação decorra de circunstâncias alheias à vontade. Arrependimento posterior exige crime sem violência ou grave ameaça e reparação/restituição nos termos do art. 16 [2].",
+    "source": "12-penal.md"
+  },
+  {
+    "id": "penal-03",
+    "subjectId": "penal",
+    "subjectTitle": "Direito Penal",
+    "number": 3,
+    "prompt": "Uma pessoa desconhece, de modo inevitável, que sua conduta é proibida, embora conheça todos os fatos que praticou. Pelo Código Penal, trata-se de:",
+    "choices": {
+      "A": "erro de tipo essencial, que sempre exclui dolo e culpa.",
+      "B": "erro de proibição inevitável, que isenta de pena.",
+      "C": "erro sobre a pessoa, com aplicação do art. 20, § 3º.",
+      "D": "erro de proibição evitável, que exclui a ilicitude."
+    },
+    "answer": "B",
+    "explanation": "O desconhecimento inevitável da ilicitude é erro de proibição invencível e isenta de pena (CP, art. 21). Se evitável, pode reduzir a pena de um sexto a um terço. Erro de tipo recai sobre elemento fático do tipo (art. 20) [2].",
+    "source": "12-penal.md"
+  },
+  {
+    "id": "penal-04",
+    "subjectId": "penal",
+    "subjectTitle": "Direito Penal",
+    "number": 4,
+    "prompt": "Um funcionário público exige vantagem indevida em razão da função. Qual enquadramento legal corresponde, em princípio, ao verbo descrito?",
+    "choices": {
+      "A": "Corrupção ativa, CP, art. 333.",
+      "B": "Concussão, CP, art. 316.",
+      "C": "Peculato, CP, art. 312.",
+      "D": "Prevaricação, CP, art. 319."
+    },
+    "answer": "B",
+    "explanation": "Concussão é exigir vantagem indevida em razão da função. Corrupção passiva envolve solicitar/receber ou aceitar promessa; corrupção ativa é oferecer ou prometer ao funcionário. Peculato envolve apropriação, desvio ou subtração funcional; prevaricação demanda finalidade pessoal específica [2].",
+    "source": "12-penal.md"
+  },
+  {
+    "id": "penal-05",
+    "subjectId": "penal",
+    "subjectTitle": "Direito Penal",
+    "number": 5,
+    "prompt": "Sobre organização criminosa, assinale a correta.",
+    "choices": {
+      "A": "Exige pelo menos três pessoas e finalidade de cometer qualquer infração, sem requisito adicional.",
+      "B": "Exige quatro ou mais pessoas, estrutura ordenada, divisão de tarefas e objetivo de vantagem por infrações de pena máxima superior a quatro anos ou transnacionais.",
+      "C": "É sinônimo de associação criminosa do art. 288 do CP.",
+      "D": "A colaboração premiada é meio de prova autônomo que permite condenação exclusivamente com declarações do colaborador."
+    },
+    "answer": "B",
+    "explanation": "A definição está na Lei 12.850/2013, art. 1º, § 1º. Associação criminosa do art. 288 do CP tem requisitos distintos. A colaboração é meio de obtenção de prova; o art. 4º, § 16, da Lei 12.850 veda sentença condenatória fundada apenas nas declarações do colaborador [11].",
+    "source": "12-penal.md"
+  },
+  {
+    "id": "penal-06",
+    "subjectId": "penal",
+    "subjectTitle": "Direito Penal",
+    "number": 6,
+    "prompt": "Sobre o tempo e o lugar do crime no Código Penal, assinale a opção correta.",
+    "choices": {
+      "A": "Tempo é regido pela ubiquidade e lugar pela atividade.",
+      "B": "Ambos são regidos pela teoria do resultado.",
+      "C": "Tempo é regido pela atividade; lugar, pela ubiquidade.",
+      "D": "Tempo é regido pela intenção; lugar, pela territorialidade absoluta."
+    },
+    "answer": "C",
+    "explanation": "O art. 4º do CP adota a teoria da atividade para o tempo; o art. 6º adota a ubiquidade para o lugar. O local pode incluir onde a ação/omissão ocorreu e onde o resultado se produziu ou deveria produzir-se [2].",
+    "source": "12-penal.md"
+  },
+  {
+    "id": "processo-penal-01",
+    "subjectId": "processo-penal",
+    "subjectTitle": "Direito Processual Penal",
+    "number": 1,
+    "prompt": "Em investigação criminal, uma lei processual nova entra em vigor enquanto o inquérito está em andamento. Qual regra geral se aplica?",
+    "choices": {
+      "A": "Todos os atos anteriores devem ser repetidos.",
+      "B": "A lei nova aplica-se imediatamente, preservada a validade dos atos já praticados.",
+      "C": "A lei nova só alcança investigações iniciadas após sua vigência.",
+      "D": "Aplica-se retroativamente apenas se beneficiar a acusação."
+    },
+    "answer": "B",
+    "explanation": "O CPP, art. 2º, adota aplicação imediata da lei processual e preserva os atos válidos praticados sob a lei anterior. Não se repete automaticamente toda a investigação; a alternativa D mistura irretroatividade penal material com aplicação da lei processual.",
+    "source": "13-processo-penal.md"
+  },
+  {
+    "id": "processo-penal-02",
+    "subjectId": "processo-penal",
+    "subjectTitle": "Direito Processual Penal",
+    "number": 2,
+    "prompt": "Em crime de ação penal pública condicionada à representação, a vítima não apresenta manifestação dentro do prazo decadencial ordinário, contado do conhecimento da autoria. A consequência é:",
+    "choices": {
+      "A": "Perempção da ação penal.",
+      "B": "Renúncia presumida ao direito de queixa.",
+      "C": "Decadência do direito de representação e extinção da punibilidade.",
+      "D": "Arquivamento obrigatório pelo delegado, com coisa julgada material."
+    },
+    "answer": "C",
+    "explanation": "O prazo decadencial ordinário é de seis meses, contado do conhecimento da autoria (CPP, art. 38). Decadência extingue a punibilidade (CP, art. 107, IV). Perempção refere-se à inércia do querelante após iniciada ação privada, não à ausência inicial de representação.",
+    "source": "13-processo-penal.md"
+  },
+  {
+    "id": "processo-penal-03",
+    "subjectId": "processo-penal",
+    "subjectTitle": "Direito Processual Penal",
+    "number": 3,
+    "prompt": "Sobre prova pericial, assinale a correta:",
+    "choices": {
+      "A": "A confissão do acusado substitui sempre o exame de corpo de delito.",
+      "B": "Se os vestígios desapareceram, a prova testemunhal pode suprir a falta do exame.",
+      "C": "O exame de corpo de delito é dispensável mesmo quando há vestígios preservados.",
+      "D": "Apenas perito particular pode realizar exame de corpo de delito."
+    },
+    "answer": "B",
+    "explanation": "O CPP, art. 167, autoriza suprir a falta do exame por prova testemunhal quando os vestígios desapareceram. Havendo vestígios, o exame é indispensável (art. 158), e nem a confissão o substitui. A perícia é realizada por perito oficial ou, na falta, por peritos não oficiais nas condições legais (art. 159).",
+    "source": "13-processo-penal.md"
+  },
+  {
+    "id": "processo-penal-04",
+    "subjectId": "processo-penal",
+    "subjectTitle": "Direito Processual Penal",
+    "number": 4,
+    "prompt": "A polícia ingressa à noite, sem mandado e sem consentimento, em residência, alegando crime permanente. Segundo a tese do STF no Tema 280:",
+    "choices": {
+      "A": "O caráter permanente do delito, por si só, autoriza qualquer ingresso.",
+      "B": "O ingresso é válido se a busca encontrar ilícito, ainda que não houvesse razões anteriores.",
+      "C": "O ingresso exige fundadas razões, justificadas posteriormente, indicativas de flagrante no interior.",
+      "D": "O ingresso sem mandado é sempre proibido durante a noite."
+    },
+    "answer": "C",
+    "explanation": "A tese do Tema 280 exige fundadas razões, justificadas a posteriori, que indiquem situação de flagrante no interior. O resultado positivo não saneia ingresso arbitrário; mas a Constituição não proíbe ingresso noturno quando houver flagrante, desastre ou socorro, além do consentimento válido [9].",
+    "source": "13-processo-penal.md"
+  },
+  {
+    "id": "processo-penal-05",
+    "subjectId": "processo-penal",
+    "subjectTitle": "Direito Processual Penal",
+    "number": 5,
+    "prompt": "A respeito da prisão preventiva, é correto afirmar:",
+    "choices": {
+      "A": "Pode ser decretada de ofício pelo juiz em qualquer fase.",
+      "B": "A gravidade abstrata do crime basta para fundamentá-la.",
+      "C": "Exige pressupostos legais e perigo concreto decorrente da liberdade, com fundamentação individualizada.",
+      "D": "É consequência automática da prisão em flagrante."
+    },
+    "answer": "C",
+    "explanation": "Os arts. 312 e 313 do CPP estabelecem pressupostos e hipóteses, e a decisão deve ser concreta e fundamentada. A preventiva não é conversão automática do flagrante nem pode ser decretada de ofício (arts. 310-311). Gravidade abstrata isolada não satisfaz o dever de motivação.",
+    "source": "13-processo-penal.md"
+  },
+  {
+    "id": "processo-penal-06",
+    "subjectId": "processo-penal",
+    "subjectTitle": "Direito Processual Penal",
+    "number": 6,
+    "prompt": "No Juizado Especial Criminal, a transação penal:",
+    "choices": {
+      "A": "É condenação que gera reincidência.",
+      "B": "É proposta pelo Ministério Público, se cabível, antes do processo, e não gera reincidência, observadas as regras legais.",
+      "C": "É idêntica ao acordo de não persecução penal.",
+      "D": "Produz automaticamente indenização civil à vítima."
+    },
+    "answer": "B",
+    "explanation": "A transação penal prevista no art. 76 da Lei 9.099/1995 é proposta pelo Ministério Público, se presentes requisitos e ausentes vedações, e sua aplicação não importa reincidência nem efeitos civis. Não se confunde com o ANPP, que tem requisitos e disciplina próprios no CPP, art. 28-A.",
+    "source": "13-processo-penal.md"
+  },
+  {
+    "id": "previdenciario-01",
+    "subjectId": "previdenciario",
+    "subjectTitle": "Direito Previdenciário",
+    "number": 1,
+    "prompt": "Lúcia trabalha como empregada há vários meses. Seu empregador deixou de repassar contribuições descontadas. Ao requerer benefício por incapacidade, o INSS sustenta que ela não tem qualidade de segurada porque o CNIS não mostra recolhimentos recentes. Assinale a alternativa correta.",
+    "choices": {
+      "A": "A falta de repasse pelo empregador elimina automaticamente a filiação da empregada.",
+      "B": "A qualidade da empregada decorre do exercício da atividade abrangida; o inadimplemento patronal não deve ser transferido à trabalhadora, sem prejuízo da análise dos demais requisitos do benefício.",
+      "C": "Empregada só adquire filiação após recolher contribuição facultativa.",
+      "D": "A omissão patronal converte a trabalhadora em segurada especial."
+    },
+    "answer": "B",
+    "explanation": "A filiação do segurado empregado decorre do exercício da atividade. A obrigação de arrecadar e recolher é atribuída ao empregador; sua omissão não retira automaticamente a qualidade da trabalhadora. Ainda assim, incapacidade, carência quando exigível e demais requisitos precisam ser verificados (Lei 8.212, arts. 30 e seguintes; Lei 8.213, arts. 11, 15 e 59).[3] [4]",
+    "source": "14-previdenciario.md"
+  },
+  {
+    "id": "previdenciario-02",
+    "subjectId": "previdenciario",
+    "subjectTitle": "Direito Previdenciário",
+    "number": 2,
+    "prompt": "Rafael, segurado obrigatório, deixou atividade remunerada. Possui mais de 120 contribuições mensais sem perda anterior da qualidade. Depois de encerrado o prazo ordinário de 12 meses, permaneceu desempregado e comprovou essa condição. Qual afirmação é correta?",
+    "choices": {
+      "A": "O período de graça é sempre de seis meses para qualquer segurado.",
+      "B": "O prazo ordinário pode ser prorrogado por mais 12 meses pelas contribuições e por outros 12 meses pelo desemprego comprovado, observada a regra legal de contagem e perda da qualidade.",
+      "C": "O desemprego nunca permite prorrogar período de graça.",
+      "D": "A manutenção da qualidade depende de recolher contribuições em atraso em todos os meses."
+    },
+    "answer": "B",
+    "explanation": "O art. 15, II e §§ 1º e 2º, da Lei 8.213 prevê período ordinário de 12 meses para segurado obrigatório, possível extensão para até 24 meses com mais de 120 contribuições sem interrupção que cause perda da qualidade e acréscimo de 12 meses por desemprego comprovado. A contagem do marco final segue o § 4º. Desemprego não significa obrigação de pagar retroativamente todos os meses.[4] Para meios de prova do desemprego, confira STJ, Tema 1.360.[6]",
+    "source": "14-previdenciario.md"
+  },
+  {
+    "id": "previdenciario-03",
+    "subjectId": "previdenciario",
+    "subjectTitle": "Direito Previdenciário",
+    "number": 3,
+    "prompt": "Uma segurada facultativa requer salário-maternidade. O INSS indefere exclusivamente por ausência das dez contribuições previstas na antiga redação legal. À luz do entendimento constitucional vigente, assinale a correta.",
+    "choices": {
+      "A": "A carência de dez contribuições é válida para toda categoria, pois consta da Lei 8.213.",
+      "B": "O STF declarou inconstitucional a exigência de carência para o salário-maternidade, mas ainda é preciso verificar a qualidade de segurada e os demais requisitos aplicáveis.",
+      "C": "O julgamento do STF eliminou toda exigência de filiação para salário-maternidade.",
+      "D": "A decisão vale somente para empregadas com vínculo formal."
+    },
+    "answer": "B",
+    "explanation": "O STF, ao julgar a ADI 2.110, declarou inconstitucional a carência do art. 25, III, da Lei 8.213 para salário-maternidade. A decisão não extinguiu a filiação ou os demais pressupostos legais. A alternativa A repete texto superado pelo controle concentrado; C e D restringem ou ampliam indevidamente a tese.[7]",
+    "source": "14-previdenciario.md"
+  },
+  {
+    "id": "previdenciario-04",
+    "subjectId": "previdenciario",
+    "subjectTitle": "Direito Previdenciário",
+    "number": 4,
+    "prompt": "João faleceu sem manter qualidade de segurado, mas antes do óbito já havia preenchido todos os requisitos para aposentadoria. Deixou dependente habilitável. Qual alternativa está correta?",
+    "choices": {
+      "A": "Não existe direito à pensão, porque a qualidade de segurado deve estar presente no óbito em qualquer hipótese.",
+      "B": "A pensão pode ser concedida, pois o preenchimento dos requisitos para aposentadoria até a data do óbito excepciona a perda da qualidade, conforme lei e precedente do STJ.",
+      "C": "A pensão só será concedida se os dependentes recolherem 24 contribuições.",
+      "D": "O benefício devido é necessariamente BPC, por falta de contribuição no momento do óbito."
+    },
+    "answer": "B",
+    "explanation": "A Lei 8.213, art. 102, § 2º, preserva o direito à pensão quando o falecido, embora tenha perdido a qualidade, já havia preenchido os requisitos para aposentadoria até o óbito. O STJ também firmou essa orientação no Tema 21. Pensão por morte não exige carência do dependente.[4] [6]",
+    "source": "14-previdenciario.md"
+  },
+  {
+    "id": "previdenciario-05",
+    "subjectId": "previdenciario",
+    "subjectTitle": "Direito Previdenciário",
+    "number": 5,
+    "prompt": "Uma pessoa com 66 anos nunca contribuiu para o RGPS e comprova situação de vulnerabilidade econômica familiar segundo os critérios legais. Qual conclusão é adequada?",
+    "choices": {
+      "A": "Não pode receber proteção alguma, pois a Previdência sempre exige contribuição individual.",
+      "B": "Pode ter direito ao BPC/LOAS, benefício assistencial de um salário mínimo, se preenchidos os requisitos legais; não se trata de aposentadoria e não gera pensão por morte.",
+      "C": "Tem direito automático à aposentadoria por idade do RGPS, pois atingiu 65 anos.",
+      "D": "Terá pensão por morte para os herdeiros, pois o BPC integra a previdência contributiva."
+    },
+    "answer": "B",
+    "explanation": "O BPC é assistencial e independe de contribuição, mas exige idade mínima de 65 anos ou deficiência e vulnerabilidade, além dos demais requisitos. Não é aposentadoria e não gera pensão por morte. O atingimento da idade, sem contribuições, não cria aposentadoria do RGPS.[9]",
+    "source": "14-previdenciario.md"
+  },
+  {
+    "id": "previdenciario-06",
+    "subjectId": "previdenciario",
+    "subjectTitle": "Direito Previdenciário",
+    "number": 6,
+    "prompt": "Uma segurada pretende ajuizar ação para obter benefício inicial nunca requerido ao INSS. O indeferimento ainda não ocorreu e não há fato que indique posição administrativa notória e reiteradamente contrária ao pedido. Segundo o STF, no Tema 350:",
+    "choices": {
+      "A": "É indispensável esgotar todos os recursos administrativos.",
+      "B": "Em regra, deve apresentar requerimento administrativo, mas não precisa esgotar a via administrativa; a apreciação e o indeferimento ou a demora além do prazo legal caracterizam a pretensão resistida.",
+      "C": "O acesso ao Judiciário depende de autorização prévia do INSS.",
+      "D": "Todo pedido previdenciário pode ser ajuizado sem requerimento, inclusive concessão inicial."
+    },
+    "answer": "B",
+    "explanation": "Tema 350 do STF: em regra, requerimento administrativo prévio é necessário para concessão inicial, mas não se exige esgotar recursos administrativos. A tese reconhece exceções, como posição administrativa notória e reiteradamente contrária. Não há “autorização” discricionária do INSS para acesso à Justiça.[10]",
+    "source": "14-previdenciario.md"
+  },
+  {
+    "id": "eleitoral-01",
+    "subjectId": "eleitoral",
+    "subjectTitle": "Direito Eleitoral",
+    "number": 1,
+    "prompt": "Direitos políticos Lia tem 17 anos e 10 meses na data da eleição. É brasileira, alfabetizada e não possui impedimentos. A respeito do voto e de sua candidatura a vereadora, assinale a correta.",
+    "choices": {
+      "A": "O voto é obrigatório e ela pode ser candidata, pois completará 18 anos antes da posse.",
+      "B": "O voto é facultativo, mas a idade mínima para vereadora é 18 anos, aferida conforme marco previsto na legislação eleitoral.",
+      "C": "Não pode votar nem se alistar antes dos 18 anos.",
+      "D": "Pode ser candidata, pois a idade mínima constitucional de 18 anos vale apenas na diplomação."
+    },
+    "answer": "B",
+    "explanation": "O alistamento e o voto são facultativos entre 16 e 18 anos (CF, art. 14, § 1º, II, c). A idade mínima para vereador é 18 anos, e a legislação fixa o marco de aferição no art. 11, § 2º, da Lei nº 9.504/1997. A posse não é, por si, o marco correto. A alternativa C ignora a possibilidade de alistamento a partir dos 16 anos.[3] [4]",
+    "source": "15-eleitoral.md"
+  },
+  {
+    "id": "eleitoral-02",
+    "subjectId": "eleitoral",
+    "subjectTitle": "Direito Eleitoral",
+    "number": 2,
+    "prompt": "Reeleição e renúncia Prefeito em primeiro mandato pretende concorrer ao cargo de governador. Segundo a Constituição, em regra, deve:",
+    "choices": {
+      "A": "renunciar até seis meses antes do pleito.",
+      "B": "renunciar até um ano antes do pleito.",
+      "C": "permanecer no cargo, pois a desincompatibilização só se aplica a servidor público.",
+      "D": "renunciar até a data da convenção partidária."
+    },
+    "answer": "A",
+    "explanation": "Para concorrer a outro cargo, chefe do Executivo deve renunciar ao mandato até seis meses antes do pleito (CF, art. 14, § 6º). A regra não é de um ano, nem se limita a servidores. A alternativa D troca o marco temporal.[3]",
+    "source": "15-eleitoral.md"
+  },
+  {
+    "id": "eleitoral-03",
+    "subjectId": "eleitoral",
+    "subjectTitle": "Direito Eleitoral",
+    "number": 3,
+    "prompt": "Ação adequada Após a diplomação, eleitor pretende ajuizar ação para impugnar o mandato de candidato eleito, alegando abuso do poder econômico e apresentando provas. A ação constitucionalmente prevista é:",
+    "choices": {
+      "A": "AIRC, no prazo de cinco dias da diplomação.",
+      "B": "AIME, no prazo de quinze dias da diplomação, com tramitação em segredo de justiça.",
+      "C": "AIJE, que só pode ser proposta depois da diplomação.",
+      "D": "representação do art. 41-A, no prazo de cinco dias da diplomação."
+    },
+    "answer": "B",
+    "explanation": "A AIME está no art. 14, §§ 10 e 11, da Constituição: prazo de quinze dias da diplomação, fundada em abuso do poder econômico, corrupção ou fraude, e segredo de justiça. AIJE é disciplinada pelo art. 22 da LC nº 64/1990 e não é ação que só nasce depois da diplomação. AIRC discute registro antes da diplomação.[3] [5]",
+    "source": "15-eleitoral.md"
+  },
+  {
+    "id": "eleitoral-04",
+    "subjectId": "eleitoral",
+    "subjectTitle": "Direito Eleitoral",
+    "number": 4,
+    "prompt": "Compra de voto Durante o período entre o registro e o dia da eleição, candidato promete emprego a eleitor para obter seu voto. Assinale a correta.",
+    "choices": {
+      "A": "Só há captação ilícita se o candidato disser literalmente “vote em mim”.",
+      "B": "A conduta pode configurar captação ilícita de sufrágio, pois a lei dispensa pedido explícito e exige especial fim de obter voto.",
+      "C": "A conduta é permitida se o emprego for criado após a eleição.",
+      "D": "Somente pode haver ilícito se a promessa for dirigida a todos os eleitores do município."
+    },
+    "answer": "B",
+    "explanation": "O art. 41-A da Lei nº 9.504/1997 tipifica doar, oferecer, prometer ou entregar vantagem pessoal para obter voto, do registro até o dia da eleição. O § 1º dispensa pedido explícito, mas exige dolo consistente no especial fim de agir. A promessa individual pode bastar; não é preciso que a vantagem seja efetivamente entregue, presentes os demais requisitos.[4]",
+    "source": "15-eleitoral.md"
+  },
+  {
+    "id": "eleitoral-05",
+    "subjectId": "eleitoral",
+    "subjectTitle": "Direito Eleitoral",
+    "number": 5,
+    "prompt": "Propaganda antecipada Em pré-campanha, pessoa menciona possível candidatura e qualidades pessoais em rede social, sem pedido explícito de voto e sem uso de forma vedada. À luz do art. 36-A da Lei nº 9.504/1997:",
+    "choices": {
+      "A": "todo ato de promoção pessoal antes de 16 de agosto é proibido.",
+      "B": "a conduta pode ser permitida, sem prejuízo de analisar o contexto, a forma e eventual pedido explícito ou meio vedado.",
+      "C": "qualquer postagem na internet é propaganda paga.",
+      "D": "a pré-campanha só é permitida em reunião privada, sem divulgação."
+    },
+    "answer": "B",
+    "explanation": "O art. 36-A permite determinadas manifestações na pré-campanha, inclusive menção à pretensa candidatura e exaltação de qualidades pessoais, desde que respeitados os limites legais. A jurisprudência analisa pedido explícito ou equivalente, forma vedada e contexto. Não é correto proibir toda promoção nem equiparar toda publicação a propaganda paga.[4] [12]",
+    "source": "15-eleitoral.md"
+  },
+  {
+    "id": "eleitoral-06",
+    "subjectId": "eleitoral",
+    "subjectTitle": "Direito Eleitoral",
+    "number": 6,
+    "prompt": "Anualidade eleitoral Lei publicada oito meses antes da eleição altera regra do processo eleitoral e entra imediatamente em vigor. Segundo o art. 16 da Constituição:",
+    "choices": {
+      "A": "a lei é inválida e não pode vigorar em hipótese alguma.",
+      "B": "a lei pode entrar em vigor, mas não se aplica à eleição que ocorra até um ano de sua vigência.",
+      "C": "a lei sempre se aplica, pois a anterioridade eleitoral só vale para emenda constitucional.",
+      "D": "a lei só pode ser aplicada após dois anos."
+    },
+    "answer": "B",
+    "explanation": "Pelo art. 16 da Constituição, a lei que altera o processo eleitoral entra em vigor na publicação, mas não se aplica à eleição que ocorra até um ano da vigência. O enunciado exige separar vigência e aplicação eleitoral. A regra não determina invalidade nem espera de dois anos.[3]",
+    "source": "15-eleitoral.md"
+  },
+  {
+    "id": "financeiro-01",
+    "subjectId": "financeiro",
+    "subjectTitle": "Direito Financeiro",
+    "number": 1,
+    "prompt": "Ao examinar a LOA municipal, uma candidata afirma que a Constituição proíbe vincular qualquer receita pública a órgão, fundo ou despesa. Qual alternativa corrige a afirmação?",
+    "choices": {
+      "A": "A vedação alcança apenas impostos, e o próprio texto constitucional prevê exceções expressas.",
+      "B": "A vedação alcança todos os tributos, sem exceção.",
+      "C": "A vedação alcança exclusivamente receitas de capital.",
+      "D": "A vinculação é sempre válida se aprovada na LDO."
+    },
+    "answer": "A",
+    "explanation": "O art. 167, IV, da Constituição veda a vinculação de receita de impostos, não de qualquer receita ou de todos os tributos indistintamente. Há exceções constitucionais expressas, incluindo destinações ali enumeradas. A alternativa B amplia indevidamente o alcance da vedação [2].",
+    "source": "16-financeiro.md"
+  },
+  {
+    "id": "financeiro-02",
+    "subjectId": "financeiro",
+    "subjectTitle": "Direito Financeiro",
+    "number": 2,
+    "prompt": "A LOA contém dotação para manutenção de escola, mas o valor autorizado é insuficiente. A Administração pretende reforçá-la no exercício. Em regra, trata-se de crédito:",
+    "choices": {
+      "A": "especial, aberto sem autorização legislativa por se tratar de serviço público.",
+      "B": "suplementar, cuja abertura exige autorização legislativa e indicação de recursos, admitida autorização prévia na própria LOA dentro de limite.",
+      "C": "extraordinário, por existir insuficiência da dotação.",
+      "D": "especial, necessariamente reaberto no exercício seguinte."
+    },
+    "answer": "B",
+    "explanation": "Crédito suplementar reforça dotação existente. A Lei 4.320, arts. 40, 42 e 43, exige autorização legislativa, abertura por decreto e recursos disponíveis com justificativa. A LOA pode trazer autorização prévia para suplementares dentro de limite (CF, art. 165, § 8º). Insuficiência não torna o crédito extraordinário: este exige urgência e imprevisibilidade [2] [3].",
+    "source": "16-financeiro.md"
+  },
+  {
+    "id": "financeiro-03",
+    "subjectId": "financeiro",
+    "subjectTitle": "Direito Financeiro",
+    "number": 3,
+    "prompt": "Uma despesa foi empenhada em dezembro, mas não paga até 31 de dezembro. A obrigação já foi liquidada. Como se classifica, em regra, para fins de restos a pagar?",
+    "choices": {
+      "A": "Restos a pagar processados.",
+      "B": "Despesa de exercício anterior, necessariamente.",
+      "C": "Ingresso extraorçamentário.",
+      "D": "Crédito especial reaberto."
+    },
+    "answer": "A",
+    "explanation": "Despesa empenhada e liquidada, mas não paga até o encerramento do exercício, é resto a pagar processado (Lei 4.320, art. 36). Despesa de exercício anterior é categoria diferente, prevista no art. 37; não é o rótulo automático para todo empenho não pago [3].",
+    "source": "16-financeiro.md"
+  },
+  {
+    "id": "financeiro-04",
+    "subjectId": "financeiro",
+    "subjectTitle": "Direito Financeiro",
+    "number": 4,
+    "prompt": "Um ente concede benefício tributário que configura renúncia de receita. À luz da LRF, assinale a opção correta:",
+    "choices": {
+      "A": "A renúncia é sempre vedada, ainda que prevista no orçamento.",
+      "B": "Basta estimar o impacto do primeiro exercício.",
+      "C": "O art. 14 exige estimativa do impacto no exercício de início e nos dois seguintes, observância da LDO e atendimento a uma das condições legais, ressalvadas as hipóteses do próprio dispositivo.",
+      "D": "A exigência só se aplica à União."
+    },
+    "answer": "C",
+    "explanation": "A regra está no art. 14 da LRF. Ela prevê estimativa para o exercício em que se inicia a vigência e os dois seguintes, observância da LDO e condições legais alternativas, sem prejuízo das exclusões expressas no próprio artigo. A LRF aplica-se aos entes abrangidos por seu art. 1º, § 2º [4].",
+    "source": "16-financeiro.md"
+  },
+  {
+    "id": "financeiro-05",
+    "subjectId": "financeiro",
+    "subjectTitle": "Direito Financeiro",
+    "number": 5,
+    "prompt": "Sobre controle das contas públicas, assinale a alternativa correta:",
+    "choices": {
+      "A": "O Tribunal de Contas integra o Poder Judiciário e julga as contas anuais do Chefe do Executivo.",
+      "B": "O Legislativo exerce controle externo com auxílio do Tribunal de Contas; ao TCU cabe apreciar as contas anuais do Presidente por parecer prévio e julgar as contas dos administradores e demais responsáveis, nos termos constitucionais.",
+      "C": "O controle interno substitui o controle externo quando detecta irregularidade.",
+      "D": "Apenas pessoas jurídicas públicas prestam contas de recursos públicos."
+    },
+    "answer": "B",
+    "explanation": "A Constituição, arts. 70 e 71, define o controle externo e distingue parecer prévio sobre as contas presidenciais do julgamento das contas de administradores e responsáveis. Tribunal de Contas não é órgão do Judiciário; também prestam contas pessoas privadas que gerenciem recursos públicos [2].",
+    "source": "16-financeiro.md"
+  },
+  {
+    "id": "financeiro-06",
+    "subjectId": "financeiro",
+    "subjectTitle": "Direito Financeiro",
+    "number": 6,
+    "prompt": "À luz da LC 208/2024, a cessão onerosa de direitos creditórios públicos:",
+    "choices": {
+      "A": "transfere ao cessionário a obrigação tributária originária do contribuinte.",
+      "B": "pode recair indistintamente sobre créditos futuros ainda não constituídos e dispensa lei específica.",
+      "C": "é autorizada sob requisitos legais, preserva a natureza do crédito e a cobrança pela Fazenda, e envolve direito autônomo ao recebimento de créditos já constituídos e reconhecidos pelo devedor.",
+      "D": "converte todo crédito cedido em operação de crédito vedada pela LRF."
+    },
+    "answer": "C",
+    "explanation": "O art. 39-A, incluído na Lei 4.320 pela LC 208/2024, exige lei específica e preserva natureza, garantias, condições e prerrogativa pública de cobrança. A cessão abrange direito autônomo ao recebimento e créditos já constituídos e reconhecidos, inclusive por parcelamento. Não substitui contribuinte por cessionário nem equivale, nos termos legais, a operação de crédito [5].",
+    "source": "16-financeiro.md"
+  },
+  {
+    "id": "trabalho-01",
+    "subjectId": "trabalho",
+    "subjectTitle": "Direito do Trabalho",
+    "number": 1,
+    "prompt": "Relação de emprego Marina presta serviços pessoalmente a uma empresa, recebe remuneração mensal, segue escala definida pela empresa e pode ser advertida por descumprimento de ordens. O contrato escrito a denomina “consultora autônoma”. Qual alternativa é mais adequada?",
+    "choices": {
+      "A": "O contrato escrito afasta o vínculo em qualquer caso.",
+      "B": "O vínculo depende exclusivamente de pagamento mensal.",
+      "C": "A realidade pode revelar vínculo se presentes os requisitos dos arts. 2º e 3º da CLT; o rótulo contratual não prevalece sobre os fatos.",
+      "D": "A pessoalidade é incompatível com relação de emprego."
+    },
+    "answer": "C",
+    "explanation": "A análise combina pessoalidade, onerosidade, não eventualidade e subordinação, além de prestação por pessoa física. O art. 9º invalida atos destinados a fraudar a aplicação da legislação. O rótulo não decide sozinho. [3]",
+    "source": "17-trabalho.md"
+  },
+  {
+    "id": "trabalho-02",
+    "subjectId": "trabalho",
+    "subjectTitle": "Direito do Trabalho",
+    "number": 2,
+    "prompt": "Jornada e banco de horas Uma empresa pretende instituir banco de horas com compensação no prazo de cinco meses mediante acordo individual escrito. Qual afirmação está correta?",
+    "choices": {
+      "A": "É inválido, pois todo banco de horas exige convenção coletiva.",
+      "B": "É permitido por acordo individual escrito, desde que compensado em até seis meses.",
+      "C": "É válido apenas se compensado até o fim do mesmo mês.",
+      "D": "É permitido por acordo verbal pelo prazo de um ano."
+    },
+    "answer": "B",
+    "explanation": "O art. 59, § 5º, da CLT autoriza banco de horas por acordo individual escrito com compensação em até seis meses. Prazo anual exige negociação coletiva (§ 2º); compensação dentro do mesmo mês pode ser individual tácita ou escrita (§ 6º). [3]",
+    "source": "17-trabalho.md"
+  },
+  {
+    "id": "trabalho-03",
+    "subjectId": "trabalho",
+    "subjectTitle": "Direito do Trabalho",
+    "number": 3,
+    "prompt": "Empregado doméstico Uma pessoa trabalha na residência de uma família, de forma pessoal, subordinada e remunerada, três dias por semana, sem finalidade lucrativa. Para fins da LC 150/2015:",
+    "choices": {
+      "A": "É empregada doméstica, pois trabalha por mais de dois dias por semana e estão descritos os demais elementos legais.",
+      "B": "É diarista necessariamente, pois só há vínculo a partir de cinco dias por semana.",
+      "C": "É empregada de empresa, pois a família não pode ser empregadora.",
+      "D": "Não pode ser doméstica por trabalhar menos de 44 horas semanais."
+    },
+    "answer": "A",
+    "explanation": "O art. 1º da LC 150/2015 define doméstico por serviço contínuo, pessoal, subordinado, oneroso, sem finalidade lucrativa, à pessoa ou família, no âmbito residencial, por mais de dois dias semanais. Jornada inferior não afasta a categoria. [7]",
+    "source": "17-trabalho.md"
+  },
+  {
+    "id": "trabalho-04",
+    "subjectId": "trabalho",
+    "subjectTitle": "Direito do Trabalho",
+    "number": 4,
+    "prompt": "Terceirização Uma empresa contrata prestadora para executar atividade central de sua operação. A prestadora dirige e remunera seus empregados, e a tomadora fiscaliza o resultado do contrato. Em princípio:",
+    "choices": {
+      "A": "A terceirização da atividade-fim é sempre ilícita.",
+      "B": "A atividade-fim pode ser terceirizada; a contratante responde subsidiariamente pelas obrigações do período, sem vínculo automático.",
+      "C": "A tomadora responde sempre solidariamente.",
+      "D": "O empregado terceirizado não tem direitos trabalhistas perante seu empregador."
+    },
+    "answer": "B",
+    "explanation": "Lei 6.019/1974 e STF (ADPF 324 e Tema 725) reconhecem a terceirização em qualquer etapa, mantida a responsabilidade subsidiária da contratante. Fraude ou vínculo direto por fatos próprios deve ser analisado separadamente. [5] [8]",
+    "source": "17-trabalho.md"
+  },
+  {
+    "id": "trabalho-05",
+    "subjectId": "trabalho",
+    "subjectTitle": "Direito do Trabalho",
+    "number": 5,
+    "prompt": "Aviso-prévio e prazo rescisório Após a dispensa, o empregador afirma que pode pagar as verbas rescisórias em até 30 dias e que o aviso-prévio proporcional pode ultrapassar 90 dias. Assinale a correta.",
+    "choices": {
+      "A": "Ambas as afirmações são corretas.",
+      "B": "O pagamento deve ocorrer em até dez dias do término contratual, e o aviso-prévio proporcional pode alcançar no máximo 90 dias.",
+      "C": "O pagamento é devido em cinco dias e o aviso máximo é 60 dias.",
+      "D": "O prazo de dez dias só existe se o contrato for por prazo determinado."
+    },
+    "answer": "B",
+    "explanation": "O art. 477, § 6º, da CLT estabelece dez dias contados do término do contrato. A Lei 12.506/2011 prevê acréscimo proporcional de três dias por ano de serviço, até o total de 90 dias. [3] [12]",
+    "source": "17-trabalho.md"
+  },
+  {
+    "id": "trabalho-06",
+    "subjectId": "trabalho",
+    "subjectTitle": "Direito do Trabalho",
+    "number": 6,
+    "prompt": "Greve em serviço essencial Trabalhadores de atividade essencial deliberam greve após frustrada a negociação. Qual antecedência mínima de comunicação aos empregadores e usuários é prevista pela Lei 7.783/1989?",
+    "choices": {
+      "A": "24 horas.",
+      "B": "48 horas em qualquer atividade.",
+      "C": "72 horas para atividade essencial; na regra geral, 48 horas ao empregador.",
+      "D": "Não há aviso prévio legal."
+    },
+    "answer": "C",
+    "explanation": "O art. 3º prevê antecedência mínima de 48 horas ao empregador em regra geral. Em atividade essencial, o art. 13 exige comunicação aos empregadores e usuários com pelo menos 72 horas. [13]",
+    "source": "17-trabalho.md"
+  },
+  {
+    "id": "processo-trabalho-01",
+    "subjectId": "processo-trabalho",
+    "subjectTitle": "Direito Processual do Trabalho",
+    "number": 1,
+    "prompt": "Competência Ex-servidora de município, contratada sob regime estatutário, ajuíza ação para receber parcelas decorrentes diretamente do vínculo estatutário. Qual ramo do Judiciário é competente, segundo a orientação do STF?",
+    "choices": {
+      "A": "Justiça do Trabalho, pois toda prestação pessoal de serviços está no art. 114 da CF.",
+      "B": "Justiça Comum, pois a relação jurídico-estatutária não se insere na competência trabalhista.",
+      "C": "Justiça Federal, necessariamente, por envolver ente público.",
+      "D": "Justiça do Trabalho apenas para pedidos remuneratórios."
+    },
+    "answer": "B",
+    "explanation": "A ADI 3.395 exclui da competência trabalhista as causas entre Poder Público e servidor vinculado por relação jurídico-administrativa/estatutária. A presença do município não desloca automaticamente a causa para a Justiça Federal [5].",
+    "source": "18-processo-trabalho.md"
+  },
+  {
+    "id": "processo-trabalho-02",
+    "subjectId": "processo-trabalho",
+    "subjectTitle": "Direito Processual do Trabalho",
+    "number": 2,
+    "prompt": "Rito sumaríssimo Em reclamação individual de valor equivalente a 30 salários mínimos, ajuizada contra fundação pública municipal, a parte pretende tramitação sumaríssima. Assinale a correta.",
+    "choices": {
+      "A": "O rito sumaríssimo é obrigatório pelo valor, mesmo contra fundação pública.",
+      "B": "O rito sumaríssimo não se aplica quando a demanda é contra Administração direta, autárquica ou fundacional.",
+      "C": "O rito sumário da Lei 5.584/1970 substitui obrigatoriamente o sumaríssimo.",
+      "D": "A escolha do rito cabe livremente ao reclamante."
+    },
+    "answer": "B",
+    "explanation": "A vedação está no art. 852-A, parágrafo único, da CLT. A faixa de valor, isoladamente, não supera a exclusão legal. Rito sumário da Lei 5.584/1970 e sumaríssimo da CLT são institutos distintos.",
+    "source": "18-processo-trabalho.md"
+  },
+  {
+    "id": "processo-trabalho-03",
+    "subjectId": "processo-trabalho",
+    "subjectTitle": "Direito Processual do Trabalho",
+    "number": 3,
+    "prompt": "Ausência em audiência O reclamado não comparece à audiência, mas seu advogado comparece e apresenta contestação e documentos. À luz do art. 844 da CLT, assinale a correta.",
+    "choices": {
+      "A": "A ausência nunca produz revelia se houver advogado constituído.",
+      "B": "O processo deve ser extinto sem resolução do mérito.",
+      "C": "A ausência pessoal pode acarretar revelia e confissão ficta, mas a CLT permite o recebimento da contestação e documentos apresentados pelo advogado.",
+      "D": "A defesa é automaticamente considerada confissão real."
+    },
+    "answer": "C",
+    "explanation": "A CLT preserva consequências da ausência do reclamado e, após a Reforma, prevê o recebimento da contestação e documentos apresentados pelo advogado presente. Efeitos de revelia são relativos e sujeitos às exceções legais; não equivalem a procedência automática.",
+    "source": "18-processo-trabalho.md"
+  },
+  {
+    "id": "processo-trabalho-04",
+    "subjectId": "processo-trabalho",
+    "subjectTitle": "Direito Processual do Trabalho",
+    "number": 4,
+    "prompt": "Prazo de embargos declaratórios Uma parte pretende apontar omissão em sentença trabalhista. Qual alternativa indica corretamente recurso e prazo legal geral?",
+    "choices": {
+      "A": "Recurso ordinário, oito dias.",
+      "B": "Embargos de declaração, cinco dias.",
+      "C": "Agravo de instrumento, oito dias.",
+      "D": "Recurso de revista, quinze dias."
+    },
+    "answer": "B",
+    "explanation": "O art. 897-A da CLT prevê embargos declaratórios em cinco dias. Eles se dirigem a vício da decisão, não substituem recurso próprio para simples inconformismo com o mérito.",
+    "source": "18-processo-trabalho.md"
+  },
+  {
+    "id": "processo-trabalho-05",
+    "subjectId": "processo-trabalho",
+    "subjectTitle": "Direito Processual do Trabalho",
+    "number": 5,
+    "prompt": "Ônus da prova Em reclamação, o empregado afirma que prestou horas extras; a empresa sustenta que todas foram pagas. Como regra, a distribuição correta é:",
+    "choices": {
+      "A": "Empregado prova o fato constitutivo; empregador prova pagamento, fato extintivo.",
+      "B": "Empregador prova todo fato do processo.",
+      "C": "Empregado prova também o pagamento que a empresa alega.",
+      "D": "O ônus é sempre dividido igualmente."
+    },
+    "answer": "A",
+    "explanation": "Art. 818 da CLT: autor prova fato constitutivo; réu, fato impeditivo, modificativo ou extintivo. Pode haver distribuição dinâmica fundamentada, desde que se dê oportunidade real para cumprir o encargo.",
+    "source": "18-processo-trabalho.md"
+  },
+  {
+    "id": "processo-trabalho-06",
+    "subjectId": "processo-trabalho",
+    "subjectTitle": "Direito Processual do Trabalho",
+    "number": 6,
+    "prompt": "Execução e garantia Na execução trabalhista, o executado é citado para pagar ou garantir o juízo. Assinale a alternativa correta.",
+    "choices": {
+      "A": "O prazo legal geral é de 48 horas; não pago nem garantido o juízo, pode ocorrer penhora.",
+      "B": "O prazo é sempre de 15 dias úteis, por aplicação direta do CPC.",
+      "C": "O executado só pode garantir por depósito em dinheiro.",
+      "D": "A sentença de liquidação é sempre recorrível imediatamente por recurso ordinário."
+    },
+    "answer": "A",
+    "explanation": "O art. 880 da CLT estabelece 48 horas para pagar ou garantir, sob pena de penhora. O regime próprio da CLT prevalece; não se importa automaticamente o prazo geral do CPC. A insurgência contra a liquidação segue o procedimento e o momento dos arts. 879 e 884 da CLT.",
+    "source": "18-processo-trabalho.md"
+  },
+  {
+    "id": "filosofia-01",
+    "subjectId": "filosofia",
+    "subjectTitle": "Filosofia do Direito",
+    "number": 1,
+    "prompt": "Uma pesquisadora distingue a investigação da validade das normas segundo critérios do ordenamento da avaliação moral sobre sua justiça. Sustenta que uma norma pode ser juridicamente válida e, ao mesmo tempo, profundamente injusta. Essa posição é mais compatível com:",
+    "choices": {
+      "A": "um positivismo jurídico conceitual, que separa identificação do direito e mérito moral, sem afirmar que toda lei seja justa.",
+      "B": "o jusnaturalismo clássico, pois este identifica validade formal e justiça material.",
+      "C": "o utilitarismo, pois toda norma formalmente válida maximiza a felicidade coletiva.",
+      "D": "o tridimensionalismo, pois ele elimina o papel dos valores na experiência jurídica."
+    },
+    "answer": "A",
+    "explanation": "A separação entre identificação do direito vigente e juízo moral é característica geral do positivismo jurídico. Ela não implica aprovação moral da norma. B confunde as categorias; C presume uma conclusão consequencialista que não decorre do enunciado; D inverte a teoria de Reale, que inclui valor na experiência jurídica.",
+    "source": "19-filosofia.md"
+  },
+  {
+    "id": "filosofia-02",
+    "subjectId": "filosofia",
+    "subjectTitle": "Filosofia do Direito",
+    "number": 2,
+    "prompt": "Em uma exposição da teoria pura, afirma-se que a validade de uma norma inferior se compreende pela autorização conferida por norma superior, e que a norma fundamental não foi promulgada por um órgão legislativo. Assinale a alternativa correta:",
+    "choices": {
+      "A": "A norma fundamental é um artigo não escrito da Constituição Federal de 1988.",
+      "B": "Para Kelsen, eficácia individual é requisito para a validade de cada norma.",
+      "C": "A norma fundamental é pressuposta como fundamento teórico da unidade do ordenamento.",
+      "D": "A teoria pura conclui que toda norma válida é moralmente justa."
+    },
+    "answer": "C",
+    "explanation": "A norma fundamental é pressuposta, não uma disposição promulgada. A validade não depende da obediência individual em cada caso, e a teoria pura não identifica validade com justiça. Logo, A, B e D atribuem a Kelsen teses distintas da teoria normativista.",
+    "source": "19-filosofia.md"
+  },
+  {
+    "id": "filosofia-03",
+    "subjectId": "filosofia",
+    "subjectTitle": "Filosofia do Direito",
+    "number": 3,
+    "prompt": "Uma questão descreve distribuição de recursos segundo proporção e correção de desequilíbrio entre partes de uma relação. O autor antigo associado a essa distinção é:",
+    "choices": {
+      "A": "Aristóteles, ao distinguir justiça distributiva e corretiva.",
+      "B": "Kelsen, ao diferenciar justiça comutativa e poder disciplinar.",
+      "C": "Rawls, ao descrever um contrato social histórico entre cidadãos.",
+      "D": "Foucault, ao formular a posição original e o véu da ignorância."
+    },
+    "answer": "A",
+    "explanation": "A distinção entre justiça distributiva e corretiva remete a Aristóteles. As demais alternativas trocam autores e conceitos: Rawls emprega uma construção hipotética, e o véu da ignorância não é de Foucault.",
+    "source": "19-filosofia.md"
+  },
+  {
+    "id": "filosofia-04",
+    "subjectId": "filosofia",
+    "subjectTitle": "Filosofia do Direito",
+    "number": 4,
+    "prompt": "Um enunciado afirma que representantes hipotéticos escolheriam princípios de justiça sem conhecer sua classe, talentos ou posição social concreta, evitando desenhar regras para favorecer a própria situação. A construção corresponde:",
+    "choices": {
+      "A": "à posição original e ao véu da ignorância de Rawls.",
+      "B": "à norma fundamental pressuposta de Kelsen.",
+      "C": "ao princípio de utilidade agregada de Bentham.",
+      "D": "à teoria tridimensional de Miguel Reale."
+    },
+    "answer": "A",
+    "explanation": "O desconhecimento das condições particulares caracteriza o véu da ignorância na posição original rawlsiana. Não é acordo histórico, fundamento de validade normativa ou integração fato-valor-norma.",
+    "source": "19-filosofia.md"
+  },
+  {
+    "id": "filosofia-05",
+    "subjectId": "filosofia",
+    "subjectTitle": "Filosofia do Direito",
+    "number": 5,
+    "prompt": "Em um caso, dois princípios constitucionais apontam em direções diferentes. O julgador explicita os fatos relevantes, os direitos em tensão e as razões para atribuir maior peso a um deles naquele contexto, sem declarar inválido o outro princípio. A descrição é mais próxima de:",
+    "choices": {
+      "A": "ponderação, que exige justificação e não equivale a preferência pessoal.",
+      "B": "revogação automática do princípio que não prevaleceu.",
+      "C": "positivismo jurídico, entendido como proibição de interpretar princípios.",
+      "D": "subsunção mecânica que dispensa identificar as circunstâncias do caso."
+    },
+    "answer": "A",
+    "explanation": "Na ponderação, a solução contextual não elimina necessariamente o princípio preterido; a fundamentação é indispensável. As demais alternativas confundem ponderação com revogação, caricaturam o positivismo ou negam a necessidade de interpretar os fatos.",
+    "source": "19-filosofia.md"
+  },
+  {
+    "id": "filosofia-06",
+    "subjectId": "filosofia",
+    "subjectTitle": "Filosofia do Direito",
+    "number": 6,
+    "prompt": "Uma análise investiga como a prisão organiza vigilância, disciplina e normalização de condutas, em vez de perguntar se uma norma foi produzida conforme outra norma superior. A abordagem descrita aproxima-se de:",
+    "choices": {
+      "A": "Kelsen, porque descreve exclusivamente a hierarquia de validade normativa.",
+      "B": "Foucault, por analisar relações entre poder, instituições e produção de saber.",
+      "C": "Rawls, por avaliar a estrutura básica sob o véu da ignorância.",
+      "D": "Aristóteles, por distinguir justiça distributiva e corretiva."
+    },
+    "answer": "B",
+    "explanation": "A pista está na análise de disciplina, vigilância e normalização institucional, temas associados à abordagem crítica de Foucault. A alternativa A descreve outro problema, a validade normativa; C e D deslocam a questão para teorias diversas.",
+    "source": "19-filosofia.md"
+  }
+]

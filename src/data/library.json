@@ -1,0 +1,125 @@
+{
+  "zip": "/manus-storage/Apostilas_OAB_48_completa_9c41833d.zip",
+  "materials": [
+    {
+      "subjectId": "etica",
+      "title": "Ética Profissional",
+      "pdf": "/manus-storage/00-etica_97072ca0.pdf",
+      "docx": "/manus-storage/00-etica_f950afb0.docx"
+    },
+    {
+      "subjectId": "constitucional",
+      "title": "Direito Constitucional",
+      "pdf": "/manus-storage/01-constitucional_40b0365d.pdf",
+      "docx": "/manus-storage/01-constitucional_cc00cc51.docx"
+    },
+    {
+      "subjectId": "direitos-humanos",
+      "title": "Direitos Humanos",
+      "pdf": "/manus-storage/02-direitos-humanos_3de2ef94.pdf",
+      "docx": "/manus-storage/02-direitos-humanos_fcaaf39b.docx"
+    },
+    {
+      "subjectId": "internacional",
+      "title": "Direito Internacional",
+      "pdf": "/manus-storage/03-internacional_73e01760.pdf",
+      "docx": "/manus-storage/03-internacional_d3c112ab.docx"
+    },
+    {
+      "subjectId": "tributario",
+      "title": "Direito Tributário",
+      "pdf": "/manus-storage/04-tributario_96e9d8c4.pdf",
+      "docx": "/manus-storage/04-tributario_0532ad16.docx"
+    },
+    {
+      "subjectId": "administrativo",
+      "title": "Direito Administrativo",
+      "pdf": "/manus-storage/05-administrativo_84879014.pdf",
+      "docx": "/manus-storage/05-administrativo_42d26d70.docx"
+    },
+    {
+      "subjectId": "ambiental",
+      "title": "Direito Ambiental",
+      "pdf": "/manus-storage/06-ambiental_4368c1b5.pdf",
+      "docx": "/manus-storage/06-ambiental_66151b00.docx"
+    },
+    {
+      "subjectId": "civil",
+      "title": "Direito Civil",
+      "pdf": "/manus-storage/07-civil_f46c56d8.pdf",
+      "docx": "/manus-storage/07-civil_cc4c2ac5.docx"
+    },
+    {
+      "subjectId": "eca",
+      "title": "Estatuto da Criança e do Adolescente",
+      "pdf": "/manus-storage/08-eca_1166a458.pdf",
+      "docx": "/manus-storage/08-eca_3e976abf.docx"
+    },
+    {
+      "subjectId": "consumidor",
+      "title": "Direito do Consumidor",
+      "pdf": "/manus-storage/09-consumidor_384d8775.pdf",
+      "docx": "/manus-storage/09-consumidor_31462c59.docx"
+    },
+    {
+      "subjectId": "empresarial",
+      "title": "Direito Empresarial",
+      "pdf": "/manus-storage/10-empresarial_585e1a30.pdf",
+      "docx": "/manus-storage/10-empresarial_597848b3.docx"
+    },
+    {
+      "subjectId": "processo-civil",
+      "title": "Direito Processual Civil",
+      "pdf": "/manus-storage/11-processo-civil_ced4f414.pdf",
+      "docx": "/manus-storage/11-processo-civil_de69f0c2.docx"
+    },
+    {
+      "subjectId": "penal",
+      "title": "Direito Penal",
+      "pdf": "/manus-storage/12-penal_914a7d81.pdf",
+      "docx": "/manus-storage/12-penal_cb6d458b.docx"
+    },
+    {
+      "subjectId": "processo-penal",
+      "title": "Direito Processual Penal",
+      "pdf": "/manus-storage/13-processo-penal_84a7f393.pdf",
+      "docx": "/manus-storage/13-processo-penal_82b5e26d.docx"
+    },
+    {
+      "subjectId": "previdenciario",
+      "title": "Direito Previdenciário",
+      "pdf": "/manus-storage/14-previdenciario_64d75f38.pdf",
+      "docx": "/manus-storage/14-previdenciario_84b927b2.docx"
+    },
+    {
+      "subjectId": "eleitoral",
+      "title": "Direito Eleitoral",
+      "pdf": "/manus-storage/15-eleitoral_a28700c0.pdf",
+      "docx": "/manus-storage/15-eleitoral_79fae53c.docx"
+    },
+    {
+      "subjectId": "financeiro",
+      "title": "Direito Financeiro",
+      "pdf": "/manus-storage/16-financeiro_b89de67b.pdf",
+      "docx": "/manus-storage/16-financeiro_5152309a.docx"
+    },
+    {
+      "subjectId": "trabalho",
+      "title": "Direito do Trabalho",
+      "pdf": "/manus-storage/17-trabalho_de6561e4.pdf",
+      "docx": "/manus-storage/17-trabalho_a0ef4db6.docx"
+    },
+    {
+      "subjectId": "processo-trabalho",
+      "title": "Direito Processual do Trabalho",
+      "pdf": "/manus-storage/18-processo-trabalho_b80f66e2.pdf",
+      "docx": "/manus-storage/18-processo-trabalho_d84ca577.docx"
+    },
+    {
+      "subjectId": "filosofia",
+      "title": "Filosofia do Direito",
+      "pdf": "/manus-storage/19-filosofia_ec397af4.pdf",
+      "docx": "/manus-storage/19-filosofia_f09db04a.docx"
+    }
+  ]
+}

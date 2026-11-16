@@ -1,0 +1,394 @@
+[
+  {
+    "day": 1,
+    "date": "16/11/2026",
+    "focus": "Ética",
+    "study": "CEISC: leitura + TAQ Sociedade de Advogados (I/II), Honorários/Pro Bono e Prerrogativas; bateria CEISC. Complemento: apostila, cap. 1–2.",
+    "timeNotes": "15 min leitura; 45–55 min aulas; 25–30 min questões; 10 min caderno de erros. Se exceder 2h, dividir a última aula."
+  },
+  {
+    "day": 2,
+    "date": "17/11/2026",
+    "focus": "Constitucional",
+    "study": "Controle de constitucionalidade I/II e ações do controle concentrado (conforme CEISC).",
+    "timeNotes": "10 min revisão; 55–65 min TAQs; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 3,
+    "date": "18/11/2026",
+    "focus": "Tributário",
+    "study": "Ações tributárias, garantias/privilégios do crédito e impostos federais, estaduais e municipais.",
+    "timeNotes": "10 min revisão; 55–65 min aulas; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 4,
+    "date": "19/11/2026",
+    "focus": "Trabalho",
+    "study": "Término do contrato, formas de rescisão, aviso-prévio, estabilidade e direito coletivo.",
+    "timeNotes": "10 min revisão; 55–65 min aulas; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 5,
+    "date": "20/11/2026",
+    "focus": "Processo do Trabalho",
+    "study": "Recursos ao TST, execução, liquidação, empresa em recuperação/falência, inquérito e acordo extrajudicial.",
+    "timeNotes": "10 min revisão; até 65 min aulas; 25 min questões; 10 min erros."
+  },
+  {
+    "day": 6,
+    "date": "21/11/2026",
+    "focus": "Diagnóstico e recuperação",
+    "study": "Concluir pendências da semana. Refazer questões erradas de Ética, Constitucional, Tributário, Trabalho e Processo do Trabalho.",
+    "timeNotes": "90 min: 40 min correção ativa; 30 min questões; 20 min mapa de lacunas."
+  },
+  {
+    "day": 7,
+    "date": "22/11/2026",
+    "focus": "Revisão semanal",
+    "study": "Revisar conteúdos da semana; cartões de memória e questões mistas.",
+    "timeNotes": "90–120 min. Sem aula nova; registrar 5 erros recorrentes e corrigi-los no material."
+  },
+  {
+    "day": 8,
+    "date": "23/11/2026",
+    "focus": "Ética",
+    "study": "CEISC: Responsabilidades/Publicidade; Infrações e Sanções; Processo Disciplinar, Incompatibilidade e Impedimento; bateria CEISC. Apostila, cap. 3–7.",
+    "timeNotes": "15 min lei seca; 45–55 min TAQs; 25–30 min questões; 10 min tabela comparativa."
+  },
+  {
+    "day": 9,
+    "date": "24/11/2026",
+    "focus": "Constitucional",
+    "study": "Remédios constitucionais e ordem econômica/social.",
+    "timeNotes": "10 min revisão; 55–65 min TAQs; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 10,
+    "date": "25/11/2026",
+    "focus": "Penal",
+    "study": "Crimes contra a honra e patrimônio; fé pública, Administração e Justiça.",
+    "timeNotes": "10 min revisão; 55–65 min aulas; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 11,
+    "date": "26/11/2026",
+    "focus": "Processo Penal",
+    "study": "Recursos, sentença/coisa julgada, LEP e nulidades, seguindo a seleção CEISC.",
+    "timeNotes": "10 min revisão; 55–65 min aulas; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 12,
+    "date": "27/11/2026",
+    "focus": "Civil",
+    "study": "Parte Geral: capacidade, emancipação, defeitos do negócio jurídico; obrigações solidárias e dar coisa certa.",
+    "timeNotes": "10 min revisão; 55–65 min aulas; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 13,
+    "date": "28/11/2026",
+    "focus": "Diagnóstico e recuperação",
+    "study": "Revisar matérias dos dias 8–12 e recuperar pendências.",
+    "timeNotes": "90 min: 35 min revisão; 35 min questões; 20 min análise de erros."
+  },
+  {
+    "day": 14,
+    "date": "29/11/2026",
+    "focus": "Simulado CEISC",
+    "study": "Simulado Autoral — Revisão Turbo/48º Exame indicado no PDF. Preferência: simular em tempo integral, se possível. Se não, dividir em blocos de até 2h, mantendo o tempo total da prova.",
+    "timeNotes": "Este é um dia excepcional: o PDF prevê simulado longo. Se só houver 2h, faça um bloco cronometrado e distribua o restante em 2 dias próximos; reserve um bloco para corrigir."
+  },
+  {
+    "day": 15,
+    "date": "30/11/2026",
+    "focus": "Empresarial",
+    "study": "Teoria geral e sociedade empresarial I/II.",
+    "timeNotes": "10 min revisão; 55–65 min TAQs; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 16,
+    "date": "01/12/2026",
+    "focus": "Administrativo",
+    "study": "Agentes públicos e improbidade administrativa; atos/sujeitos conforme trilha CEISC.",
+    "timeNotes": "10 min revisão; 55–65 min TAQs; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 17,
+    "date": "02/12/2026",
+    "focus": "Processo Civil",
+    "study": "Ação de conhecimento I–III, pelos blocos indicados no CEISC.",
+    "timeNotes": "10 min revisão; até 65 min aulas; 25 min questões; 10 min erros."
+  },
+  {
+    "day": 18,
+    "date": "03/12/2026",
+    "focus": "Previdenciário",
+    "study": "Princípios e previdência social; benefícios em espécie I/II.",
+    "timeNotes": "10 min revisão; 55–65 min aulas; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 19,
+    "date": "04/12/2026",
+    "focus": "Civil",
+    "study": "Adimplemento/inadimplemento, compra e venda/doação e responsabilidade civil.",
+    "timeNotes": "10 min revisão; 55–65 min aulas; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 20,
+    "date": "05/12/2026",
+    "focus": "Diagnóstico e recuperação",
+    "study": "Consolidar semana, concluir pendências e fazer bloco de questões mistas.",
+    "timeNotes": "90 min: 30 min leitura de erros; 40 min questões; 20 min revisão ativa."
+  },
+  {
+    "day": 21,
+    "date": "06/12/2026",
+    "focus": "Revisão semanal",
+    "study": "Revisar Empresarial, Administrativo, Processo Civil, Previdenciário e Civil.",
+    "timeNotes": "90–120 min. Priorizar assuntos com erro repetido."
+  },
+  {
+    "day": 22,
+    "date": "07/12/2026",
+    "focus": "Empresarial + Processo Civil",
+    "study": "Sociedade empresarial II, contratos empresariais e títulos de crédito; procedimento especial indicado no CEISC.",
+    "timeNotes": "15 min leitura; 50–60 min TAQs; 25–30 min questões; 10 min erros. Completar aula excedente em bloco curto no dia seguinte."
+  },
+  {
+    "day": 23,
+    "date": "08/12/2026",
+    "focus": "Administrativo",
+    "study": "Licitações, contratos administrativos e serviços públicos.",
+    "timeNotes": "10 min revisão; 55–65 min TAQs; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 24,
+    "date": "09/12/2026",
+    "focus": "Processo Civil",
+    "study": "Ação de conhecimento III/IV e processo de execução.",
+    "timeNotes": "10 min revisão; até 65 min TAQs; 25 min questões; 10 min erros."
+  },
+  {
+    "day": 25,
+    "date": "10/12/2026",
+    "focus": "Eleitoral",
+    "study": "Justiça Eleitoral/Lei das Eleições, partidos, alistamento, propaganda e ações eleitorais.",
+    "timeNotes": "10 min revisão; 55–65 min TAQs; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 26,
+    "date": "11/12/2026",
+    "focus": "Civil",
+    "study": "Responsabilidade objetiva/indenização, usucapião e direito de vizinhança; revisar sucessões conforme lacunas.",
+    "timeNotes": "10 min revisão; 55–65 min aulas; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 27,
+    "date": "12/12/2026",
+    "focus": "Financeiro",
+    "study": "Orçamento/despesas, receitas e Lei de Responsabilidade Fiscal.",
+    "timeNotes": "10 min revisão; 55–65 min TAQs; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 28,
+    "date": "13/12/2026",
+    "focus": "Revisão semanal",
+    "study": "Revisar Empresarial, Administrativo, Processo Civil, Eleitoral, Civil e Financeiro.",
+    "timeNotes": "90–120 min; incluir 15 questões de Ética como revisão espaçada."
+  },
+  {
+    "day": 29,
+    "date": "14/12/2026",
+    "focus": "Empresarial + Processo Civil",
+    "study": "Recuperação judicial, falência e procedimentos especiais do Processo Civil.",
+    "timeNotes": "15 min leitura; 50–60 min TAQs; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 30,
+    "date": "15/12/2026",
+    "focus": "Administrativo",
+    "study": "Intervenções restritivas/desapropriação, responsabilidade civil do Estado e processo administrativo federal.",
+    "timeNotes": "10 min revisão; até 65 min TAQs; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 31,
+    "date": "16/12/2026",
+    "focus": "Processo Civil",
+    "study": "Recursos I/II e bateria de questões.",
+    "timeNotes": "10 min revisão; 55–65 min TAQs; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 32,
+    "date": "17/12/2026",
+    "focus": "Civil",
+    "study": "Família: regimes de bens; sucessões: renúncia, indignidade, herdeiros necessários e colação.",
+    "timeNotes": "10 min revisão; 55–65 min TAQs; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 33,
+    "date": "18/12/2026",
+    "focus": "Direitos Humanos",
+    "study": "Conceito/sistema universal, tratados, sistemas regionais e nacionais.",
+    "timeNotes": "10 min revisão; 55–65 min aulas; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 34,
+    "date": "19/12/2026",
+    "focus": "Diagnóstico e recuperação",
+    "study": "Revisão dos blocos dos dias 29–32; lista de erros e atualização do plano pessoal.",
+    "timeNotes": "90 min: 30 min caderno de erros; 40 min questões; 20 min revisão de lei seca."
+  },
+  {
+    "day": 35,
+    "date": "20/12/2026",
+    "focus": "Simulado CEISC",
+    "study": "Simulado Autoral Revisão Turbo/48º Exame indicado no PDF. Se possível, prova integral em condição real.",
+    "timeNotes": "O PDF prevê 5h. Se a rotina não permitir, dividir em até 3 blocos cronometrados ao longo de 2 dias e corrigir as respostas depois."
+  },
+  {
+    "day": 36,
+    "date": "21/12/2026",
+    "focus": "Consumidor",
+    "study": "Direito do Consumidor I/II e bateria CEISC.",
+    "timeNotes": "10 min revisão; 55–65 min aulas; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 37,
+    "date": "22/12/2026",
+    "focus": "Ambiental",
+    "study": "Fundamentos constitucionais, responsabilidade e Política Nacional do Meio Ambiente/licenciamento.",
+    "timeNotes": "10 min revisão; 55–65 min TAQs; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 38,
+    "date": "23/12/2026",
+    "focus": "ECA",
+    "study": "Disposições introdutórias, direitos, prevenção, medidas aplicáveis a pais/responsáveis e ato infracional.",
+    "timeNotes": "10 min revisão; 55–65 min aulas; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 39,
+    "date": "24/12/2026",
+    "focus": "Internacional",
+    "study": "Direito Internacional Público, instituições e Direito Internacional Privado/migrações.",
+    "timeNotes": "10 min revisão; 55–65 min TAQs; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 40,
+    "date": "25/12/2026",
+    "focus": "Descanso",
+    "study": "Natal — descanso. Se desejar: leitura leve de cartões, sem conteúdo novo.",
+    "timeNotes": "Dia livre. Sono e recuperação também fazem parte do plano."
+  },
+  {
+    "day": 41,
+    "date": "26/12/2026",
+    "focus": "Filosofia do Direito",
+    "study": "Filosofia do Direito I/II e bateria; registrar autores/conceitos confundidos.",
+    "timeNotes": "10 min revisão; 55–65 min TAQs; 25–30 min questões; 10 min erros."
+  },
+  {
+    "day": 42,
+    "date": "27/12/2026",
+    "focus": "Revisão Turbo 1",
+    "study": "Ética completa + Constitucional. Rever Estatuto/CED/Prov. 205 e fazer 20–30 questões.",
+    "timeNotes": "90–120 min: 35 min lei seca/quadro; 45 min questões; 20 min correção."
+  },
+  {
+    "day": 43,
+    "date": "28/12/2026",
+    "focus": "Revisão Turbo 2",
+    "study": "Penal + Processo Penal: mapas de erros e questões mistas.",
+    "timeNotes": "90–120 min; 30 min revisão ativa; 45 min questões; 15–25 min correção."
+  },
+  {
+    "day": 44,
+    "date": "29/12/2026",
+    "focus": "Revisão Turbo 3",
+    "study": "Trabalho + Processo do Trabalho: quadros de prazos/recursos e questões.",
+    "timeNotes": "90–120 min; 30 min revisão; 45 min questões; 15–25 min correção."
+  },
+  {
+    "day": 45,
+    "date": "30/12/2026",
+    "focus": "Revisão Turbo 4",
+    "study": "Civil + Processo Civil: obrigações, contratos, responsabilidade, procedimentos e recursos.",
+    "timeNotes": "90–120 min; 30 min revisão; 45 min questões; 15–25 min correção."
+  },
+  {
+    "day": 46,
+    "date": "31/12/2026",
+    "focus": "Revisão Turbo 5",
+    "study": "Tributário + Financeiro + Administrativo: competência, crédito, atos, agentes, licitações e controle.",
+    "timeNotes": "90–120 min; 30 min revisão; 45 min questões; 15–25 min correção."
+  },
+  {
+    "day": 47,
+    "date": "01/01/2027",
+    "focus": "Descanso + revisão leve",
+    "study": "Ano Novo. Descanso; opcional 20 minutos de cartões de memória, sem aula longa.",
+    "timeNotes": "Dia livre ou até 30 min muito leve."
+  },
+  {
+    "day": 48,
+    "date": "02/01/2027",
+    "focus": "Revisão Turbo 6",
+    "study": "Empresarial + Consumidor: sociedades, títulos, recuperação/falência e direitos básicos.",
+    "timeNotes": "90–120 min: 30 min revisão; 45 min questões; 15–25 min correção."
+  },
+  {
+    "day": 49,
+    "date": "03/01/2027",
+    "focus": "Revisão Turbo 7",
+    "study": "Direitos Humanos + ECA + Internacional + Eleitoral + Ambiental + Filosofia. Priorizar erros, não tentar reler tudo.",
+    "timeNotes": "90–120 min: selecionar 3 lacunas principais; 45 min questões; corrigir."
+  },
+  {
+    "day": 50,
+    "date": "04/01/2027",
+    "focus": "Simulado parcial cronometrado",
+    "study": "Bloco de 40 questões variadas sob tempo controlado. Marcar confiança e motivo de erro.",
+    "timeNotes": "Até 2h, sem consulta. Não sacrificar sono para simulado integral."
+  },
+  {
+    "day": 51,
+    "date": "05/01/2027",
+    "focus": "Correção e recuperação",
+    "study": "Corrigir o bloco anterior; classificar erro: desconhecimento, confusão, leitura ou tempo. Rever só os artigos/conceitos associados.",
+    "timeNotes": "90–120 min."
+  },
+  {
+    "day": 52,
+    "date": "06/01/2027",
+    "focus": "Ética — revisão final",
+    "study": "Revisão completa por quadros: atividade/inscrição; prerrogativas; sigilo/conflito; publicidade; honorários; impedimentos; sanções/processo. 25–30 questões.",
+    "timeNotes": "90–120 min, fechar a apostila com recuperação ativa."
+  },
+  {
+    "day": 53,
+    "date": "07/01/2027",
+    "focus": "Pontos fracos",
+    "study": "Escolher os 3 assuntos com menor desempenho no diagnóstico e fazer questões comentadas direcionadas.",
+    "timeNotes": "90–120 min. Evitar começar matéria extensa nova."
+  },
+  {
+    "day": 54,
+    "date": "08/01/2027",
+    "focus": "Simulado parcial + estratégia",
+    "study": "40 questões variadas cronometradas ou prova integral apenas se houver janela adequada; revisar marcações difíceis.",
+    "timeNotes": "Até 2h para versão parcial; deixar correção para outro bloco se necessário."
+  },
+  {
+    "day": 55,
+    "date": "09/01/2027",
+    "focus": "Véspera",
+    "study": "Revisão curta de fórmulas, prazos, exceções e logística. Separar documento/itens exigidos no edital. Dormir bem.",
+    "timeNotes": "45–75 min no máximo; sem simulado e sem maratona."
+  },
+  {
+    "day": 56,
+    "date": "10/01/2027",
+    "focus": "Prova — 48º Exame",
+    "study": "Dia de prova indicado no cronograma CEISC: 10/01/2027, 13h. Alimentação, deslocamento e leitura cuidadosa das instruções do edital/coordenação.",
+    "timeNotes": "Não estudar conteúdo novo. Conferir horário e endereço conforme cartão/edital oficial."
+  }
+]
