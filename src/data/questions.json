@@ -2842,5 +2842,1437 @@
         "url": "https://oab.fgv.br/arq/647/158882_OAB44%20Gabaritos%20para%20publica%C3%A7%C3%A3o%20-%20definitivo.pdf"
       }
     ]
+  },
+  {
+    "id": "constitucional-07",
+    "subjectId": "constitucional",
+    "subjectTitle": "Direito Constitucional",
+    "number": 7,
+    "prompt": "Uma associação estudantil organiza uma manifestação pacífica, sem armas, em praça aberta ao público. Os organizadores comunicam previamente o ato à autoridade competente e confirmam que não há outra reunião anteriormente convocada para o mesmo local. O Município, contudo, exige autorização prévia como condição para a realização. À luz da Constituição, assinale a alternativa correta.",
+    "choices": {
+      "A": "A reunião independe de autorização; preenchidas as demais condições constitucionais, exige-se apenas o prévio aviso à autoridade competente.",
+      "B": "A autorização é indispensável porque o ato ocorrerá em local público.",
+      "C": "O aviso prévio é dispensável quando a reunião é pacífica e sem armas.",
+      "D": "A reunião só é protegida se for convocada por associação formalmente registrada."
+    },
+    "answer": "A",
+    "explanation": "O art. 5º, XVI, assegura a reunião pacífica, sem armas, em local aberto ao público, independentemente de autorização, desde que não frustre reunião anterior e haja prévio aviso à autoridade competente. A alternativa B transforma aviso em autorização; C elimina requisito constitucional expresso; D cria exigência de registro da entidade que não consta do dispositivo.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Liberdade de reunião",
+    "references": [
+      {
+        "label": "Constituição Federal, art. 5º, XVI",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Constituição Federal atualizada até a EC 141/2026, Câmara dos Deputados, art. 5º, XVI",
+        "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/constituicao1988/arquivos/ConstituicaoTextoAtualizado_EC%20141.html"
+      }
+    ]
+  },
+  {
+    "id": "constitucional-08",
+    "subjectId": "constitucional",
+    "subjectTitle": "Direito Constitucional",
+    "number": 8,
+    "prompt": "Em razão de fatos considerados urgentes, o Presidente da República edita medida provisória destinada exclusivamente a alterar regras sobre partidos políticos e condições para o exercício de direitos políticos. O texto atende, em tese, ao requisito de relevância e urgência. Segundo a Constituição, assinale a alternativa correta.",
+    "choices": {
+      "A": "A medida provisória é válida porque relevância e urgência permitem tratar de qualquer matéria que possa ser objeto de lei ordinária.",
+      "B": "A edição é vedada, pois a Constituição exclui da medida provisória matéria relativa a nacionalidade, cidadania, direitos políticos, partidos políticos e direito eleitoral.",
+      "C": "A medida provisória é válida se o Congresso Nacional a aprovar por maioria absoluta antes de produzir efeitos.",
+      "D": "A vedação só existe durante o ano eleitoral; fora dele, a medida provisória é possível."
+    },
+    "answer": "B",
+    "explanation": "Embora o caput do art. 62 exija relevância e urgência, o § 1º, I, a, do mesmo artigo veda expressamente medida provisória sobre nacionalidade, cidadania, direitos políticos, partidos políticos e direito eleitoral. A urgência não supera a vedação material; aprovação posterior do Congresso não convalida a escolha de instrumento constitucionalmente proibido. As alternativas A, C e D ignoram ou restringem sem base o rol constitucional.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Limitações materiais às medidas provisórias",
+    "references": [
+      {
+        "label": "Constituição Federal, art. 62, caput e § 1º, I, a",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ]
+  },
+  {
+    "id": "constitucional-09",
+    "subjectId": "constitucional",
+    "subjectTitle": "Direito Constitucional",
+    "number": 9,
+    "prompt": "Rafael é brasileiro, alfabetizado e completará 17 anos no dia da eleição. Ele quer fazer o alistamento eleitoral e votar, mas não é conscrito durante o serviço militar obrigatório. À luz da Constituição, assinale a alternativa correta.",
+    "choices": {
+      "A": "Rafael não pode alistar-se antes dos 18 anos, e o voto será obrigatório assim que completar 16.",
+      "B": "Rafael pode alistar-se, mas o voto será obrigatório, porque ele é brasileiro alfabetizado.",
+      "C": "Rafael pode alistar-se e votar, sendo facultativos tanto o alistamento quanto o voto nessa faixa etária.",
+      "D": "Rafael não pode alistar-se porque o voto facultativo não integra o sufrágio universal."
+    },
+    "answer": "C",
+    "explanation": "O art. 14, § 1º, II, c, torna facultativos o alistamento eleitoral e o voto para maiores de 16 e menores de 18 anos. O fato de Rafael ser alfabetizado e brasileiro não converte essa faculdade em obrigação. A alternativa D também é errada porque o voto facultativo integra a disciplina constitucional do sufrágio; a situação dos conscritos do § 2º não se aplica ao enunciado.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Alistamento e voto facultativos",
+    "references": [
+      {
+        "label": "Constituição Federal, art. 14, §§ 1º, II, c, e 2º",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ]
+  },
+  {
+    "id": "constitucional-10",
+    "subjectId": "constitucional",
+    "subjectTitle": "Direito Constitucional",
+    "number": 10,
+    "prompt": "Em uma área restrita do território nacional, uma grave e iminente instabilidade institucional ameaça a ordem pública. O Presidente da República ouve o Conselho da República e o Conselho de Defesa Nacional e decreta estado de defesa, delimitando a área, a duração e as medidas coercitivas. Considerando a Constituição, assinale a alternativa correta.",
+    "choices": {
+      "A": "O decreto somente pode ser editado depois de autorização prévia do Congresso Nacional.",
+      "B": "O decreto pode abranger todo o território nacional e vigorar por prazo indeterminado, desde que os Conselhos sejam ouvidos.",
+      "C": "O Congresso Nacional deve aprovar o decreto por unanimidade e o Supremo Tribunal Federal deve homologá-lo antes da execução.",
+      "D": "O Presidente deve submeter o ato, com a respectiva justificação, ao Congresso Nacional em 24 horas, que o decidirá por maioria absoluta."
+    },
+    "answer": "D",
+    "explanation": "O art. 136, caput, autoriza o Presidente, ouvidos os dois Conselhos, a decretar estado de defesa nas hipóteses constitucionais; o § 1º exige que o decreto indique duração, áreas e medidas coercitivas. Pelo § 4º, o ato e sua justificação devem ser submetidos ao Congresso Nacional em 24 horas, que decide por maioria absoluta. A alternativa A confunde a autorização prévia do estado de sítio com o procedimento do estado de defesa; B ignora a exigência de locais restritos e determinados e o limite temporal do § 2º; C inventa unanimidade e homologação judicial.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Estado de defesa",
+    "references": [
+      {
+        "label": "Constituição Federal, art. 136, caput e §§ 1º, 2º e 4º",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Constituição Federal atualizada até a EC 141/2026, Câmara dos Deputados, art. 136",
+        "url": "https://www2.camara.leg.br/atividade-legislativa/legislacao/constituicao1988/arquivos/ConstituicaoTextoAtualizado_EC%20141.html"
+      },
+      {
+        "label": "Biblioteca Digital da Câmara dos Deputados, texto do art. 136 e § 4º",
+        "url": "https://bd-rest.camara.leg.br/server/api/core/bitstreams/3195cbc7-bc49-41c4-ab55-57d8e1e0d233/content"
+      }
+    ]
+  },
+  {
+    "id": "direitos-humanos-07",
+    "subjectId": "direitos-humanos",
+    "subjectTitle": "Direitos Humanos",
+    "number": 7,
+    "prompt": "Uma eleitora brasileira, no exercício de sua cidadania, reúne documentos que indicam que a prefeitura celebrou contrato potencialmente lesivo ao meio ambiente. Ela pretende pedir a anulação do ato e não há indícios de má-fé. À luz da Constituição, qual alternativa é correta?",
+    "choices": {
+      "A": "Somente o Ministério Público pode propor a ação, porque a proteção ambiental exclui a iniciativa individual.",
+      "B": "Qualquer cidadão pode propor ação popular para anular ato lesivo ao meio ambiente e, salvo comprovada má-fé, fica isento de custas judiciais e do ônus da sucumbência.",
+      "C": "Qualquer pessoa estrangeira residente pode propor ação popular, pois a cidadania não é requisito para esse instrumento.",
+      "D": "A eleitora só poderá propor a ação se provar dano patrimonial próprio e deverá pagar custas e sucumbência em qualquer resultado."
+    },
+    "answer": "B",
+    "explanation": "O art. 5º, LXXIII, da Constituição confere legitimidade a qualquer cidadão para ação popular destinada a anular ato lesivo, entre outros bens, ao meio ambiente. O mesmo dispositivo isenta o autor de custas judiciais e do ônus da sucumbência, salvo comprovada má-fé. A confunde ação popular com a ação civil pública; C ignora a exigência de cidadania; D cria dano pessoal e cobrança automática que o texto constitucional não exige.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Ação popular: legitimidade e isenção de custas",
+    "references": [
+      {
+        "label": "Constituição Federal, art. 5º, LXXIII — ação popular",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ]
+  },
+  {
+    "id": "direitos-humanos-08",
+    "subjectId": "direitos-humanos",
+    "subjectTitle": "Direitos Humanos",
+    "number": 8,
+    "prompt": "Em uma aula sobre o sistema global, uma aluna afirma que a Declaração Universal dos Direitos Humanos, aprovada em 1948, foi um tratado do Conselho de Segurança da ONU que entrou automaticamente no Brasil com hierarquia de emenda constitucional. Qual alternativa corrige adequadamente essa afirmação?",
+    "choices": {
+      "A": "A afirmação está correta, pois toda declaração da ONU é tratado vinculante e equivale a emenda constitucional após sua proclamação.",
+      "B": "A Declaração foi uma decisão da Corte Internacional de Justiça e só produz efeitos depois de homologação pelo STF.",
+      "C": "A Declaração não tem qualquer relevância jurídica, pois somente tratados ratificados podem influenciar a proteção internacional dos direitos humanos.",
+      "D": "A Declaração foi proclamada pela Assembleia Geral da ONU, em 10 de dezembro de 1948, como padrão comum de realização; sua adoção não a transforma automaticamente em tratado ratificado, embora tenha servido de fundamento e inspiração para tratados posteriores."
+    },
+    "answer": "D",
+    "explanation": "A ONU registra que a Declaração Universal foi proclamada pela Assembleia Geral em Paris, em 10 de dezembro de 1948, como um padrão comum de realização para os povos e as nações. Ela deve ser distinguida de tratados posteriores juridicamente vinculantes, cuja força decorre de seus próprios instrumentos e da vinculação dos Estados; a Declaração, contudo, tem papel fundacional e inspirador. A atribui o instrumento ao órgão errado e inventa equivalência constitucional; B confunde a Assembleia Geral com a Corte Internacional de Justiça e cria homologação inexistente; C nega a função internacional reconhecida pela ONU.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Declaração Universal de 1948: natureza e função",
+    "references": [
+      {
+        "label": "ONU, Declaração Universal dos Direitos Humanos — proclamação de 10 de dezembro de 1948",
+        "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights"
+      },
+      {
+        "label": "ONU, The Foundation of International Human Rights Law — DUDH e tratados posteriores",
+        "url": "https://www.un.org/en/about-us/udhr/foundation-of-international-human-rights-law"
+      },
+      {
+        "label": "United Nations Treaty Collection, Glossary — declarações e intenção de criar obrigações",
+        "url": "https://treaties.un.org/pages/overview.aspx?path=overview/glossary/page1_en.xml"
+      }
+    ]
+  },
+  {
+    "id": "direitos-humanos-09",
+    "subjectId": "direitos-humanos",
+    "subjectTitle": "Direitos Humanos",
+    "number": 9,
+    "prompt": "Durante uma emergência pública que ameaça a segurança do Estado, um Estado-Parte da Convenção Americana sobre Direitos Humanos anuncia medidas temporárias para suspender algumas obrigações convencionais. Considerando que a emergência foi formalmente reconhecida, qual requisito continua sendo indispensável?",
+    "choices": {
+      "A": "As medidas devem limitar-se ao estritamente exigido pela situação e pelo tempo necessário, não podem discriminar e não podem suspender os direitos inderrogáveis do art. 27, § 2º, devendo o Estado comunicar imediatamente a suspensão ao Secretário-Geral da OEA.",
+      "B": "A emergência autoriza a suspensão de todos os direitos previstos na Convenção, inclusive vida, integridade pessoal e legalidade, sem necessidade de comunicação internacional.",
+      "C": "A suspensão só pode ocorrer depois de autorização prévia da Corte Interamericana, ainda que o Estado observe necessidade, temporariedade e não discriminação.",
+      "D": "A Convenção não admite suspensão de obrigações em nenhuma hipótese, pois todo direito convencional é inderrogável."
+    },
+    "answer": "A",
+    "explanation": "O art. 27, § 1º, da Convenção Americana admite suspensão apenas em guerra, perigo público ou emergência que ameace a independência ou a segurança do Estado, na medida e pelo tempo estritamente limitados às exigências da situação, sem discriminação. O § 2º protege contra suspensão os direitos ali enumerados e as garantias indispensáveis à sua proteção; o § 3º exige comunicação imediata ao Secretário-Geral da OEA, com as disposições, motivos e data final. B elimina limites expressos; C inventa autorização prévia da Corte; D ignora a possibilidade excepcional prevista no § 1º.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Convenção Americana: suspensão de garantias no art. 27",
+    "references": [
+      {
+        "label": "Convenção Americana sobre Direitos Humanos, art. 27 — suspensão de garantias",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto/d0678.htm"
+      }
+    ]
+  },
+  {
+    "id": "direitos-humanos-10",
+    "subjectId": "direitos-humanos",
+    "subjectTitle": "Direitos Humanos",
+    "number": 10,
+    "prompt": "Em uma discussão privada, um indivíduo dirige a outra pessoa ofensa que atinge sua dignidade e seu decoro, motivada expressamente por raça. O fato não envolve impedimento de acesso a serviço nem incitação pública contra um grupo. Considerando a redação vigente da Lei nº 7.716/1989, qual é a classificação correta?",
+    "choices": {
+      "A": "É apenas injúria comum do Código Penal, porque a Lei nº 7.716/1989 só trata de discriminação coletiva em empregos e serviços.",
+      "B": "É genocídio, pois qualquer ofensa motivada por raça já demonstra intenção de destruir grupo protegido.",
+      "C": "Enquadra-se no art. 2º-A da Lei nº 7.716/1989: injuriar alguém, ofendendo-lhe a dignidade ou o decoro, em razão de raça, cor, etnia ou procedência nacional, com pena de reclusão de dois a cinco anos e multa.",
+      "D": "É conduta sempre protegida pela liberdade de expressão e, por isso, não pode corresponder a crime contra a dignidade da vítima."
+    },
+    "answer": "C",
+    "explanation": "O art. 2º-A da Lei nº 7.716/1989 tipifica expressamente a conduta de injuriar alguém, ofendendo sua dignidade ou seu decoro, em razão de raça, cor, etnia ou procedência nacional, e prevê reclusão de dois a cinco anos e multa. A ignora o tipo específico vigente e reduz indevidamente a lei a recusas de acesso; B confunde ofensa individual com o elemento subjetivo específico do genocídio; D trata a liberdade de expressão como imunidade absoluta e desconsidera a tipificação legal do enunciado.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Injúria racial: art. 2º-A da Lei nº 7.716/1989",
+    "references": [
+      {
+        "label": "Lei nº 7.716/1989, art. 2º-A — injúria racial",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l7716compilado.htm"
+      }
+    ]
+  },
+  {
+    "id": "internacional-07",
+    "subjectId": "internacional",
+    "subjectTitle": "Direito Internacional",
+    "number": 7,
+    "prompt": "O Poder Executivo brasileiro assinou com Estado estrangeiro tratado bilateral que cria compromisso financeiro continuado para o Brasil. Um assessor afirmou que a assinatura presidencial bastaria, dispensando manifestação do Congresso Nacional. À luz da Constituição, assinale a alternativa correta.",
+    "choices": {
+      "A": "O Congresso Nacional só participa da tramitação de tratados que versem sobre direitos humanos.",
+      "B": "A manifestação definitiva compete exclusivamente ao Supremo Tribunal Federal, por se tratar de compromisso internacional.",
+      "C": "Compete ao Presidente da República celebrar o tratado, sujeito a referendo do Congresso Nacional; por acarretar encargo ou compromisso gravoso ao patrimônio nacional, cabe ao Congresso resolver definitivamente sobre ele.",
+      "D": "Compete ao Congresso Nacional negociar e ratificar o tratado no lugar do Presidente da República, sem participação do Poder Executivo."
+    },
+    "answer": "C",
+    "explanation": "O Presidente da República tem competência privativa para celebrar tratados, convenções e atos internacionais, mas o ato fica sujeito a referendo do Congresso Nacional (art. 84, VIII). Quando o instrumento acarreta encargos ou compromissos gravosos ao patrimônio nacional, é competência exclusiva do Congresso resolver definitivamente sobre ele (art. 49, I). A erra ao limitar a participação parlamentar aos direitos humanos; B atribui ao STF competência que não consta desses dispositivos; D troca as atribuições constitucionais do Executivo e do Legislativo.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "formação e aprovação de tratados internacionais",
+    "references": [
+      {
+        "label": "Constituição Federal, arts. 49, I, e 84, VIII",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ]
+  },
+  {
+    "id": "internacional-08",
+    "subjectId": "internacional",
+    "subjectTitle": "Direito Internacional",
+    "number": 8,
+    "prompt": "Rafael adquiriu a nacionalidade brasileira por naturalização em 2024. Em 2026, um Estado estrangeiro requereu sua extradição por crime comum que, segundo os documentos apresentados, foi praticado em 2022, antes da naturalização. O fato é crime no Brasil e no Estado requerente, não é crime político ou de opinião, e as demais condições legais foram preenchidas. À luz da Constituição, assinale a alternativa correta.",
+    "choices": {
+      "A": "A extradição é constitucionalmente admitida, pois se trata de brasileiro naturalizado e de crime comum praticado antes da naturalização.",
+      "B": "A extradição é sempre proibida, porque todo brasileiro naturalizado recebe exatamente o mesmo regime constitucional do brasileiro nato para esse fim.",
+      "C": "A extradição só seria possível se o crime comum tivesse sido praticado depois da naturalização.",
+      "D": "A extradição é proibida para qualquer brasileiro, naturalizado ou nato, ainda que o fato seja anterior à naturalização."
+    },
+    "answer": "A",
+    "explanation": "A Constituição veda a extradição de brasileiro nato, mas admite a do brasileiro naturalizado em caso de crime comum praticado antes da naturalização ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei (art. 5º, LI). A hipótese do enunciado se enquadra na primeira exceção. B e D ignoram a distinção constitucional entre nato e naturalizado; C inverte o requisito temporal. A Lei de Migração também prevê que a extradição de brasileiro naturalizado é admitida nas hipóteses constitucionais (art. 82, § 5º).",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "extradição de brasileiro naturalizado",
+    "references": [
+      {
+        "label": "Constituição Federal, art. 5º, LI",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      },
+      {
+        "label": "Lei de Migração, art. 82, § 5º",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13445.htm"
+      }
+    ]
+  },
+  {
+    "id": "internacional-09",
+    "subjectId": "internacional",
+    "subjectTitle": "Direito Internacional",
+    "number": 9,
+    "prompt": "Elena, cidadã estrangeira domiciliada em Portugal, faleceu deixando um apartamento no Brasil, cônjuge brasileiro e filho brasileiro. No caso concreto, a lei pessoal da falecida asseguraria a esses familiares quinhão menor do que o previsto pela lei brasileira. Considerando apenas essa situação sucessória, assinale a alternativa correta.",
+    "choices": {
+      "A": "Aplica-se necessariamente a lei portuguesa, pois a sucessão sempre segue o domicílio do falecido, sem exceção.",
+      "B": "Aplica-se necessariamente a lei brasileira, pois todo bem situado no Brasil é sempre regido pela lei brasileira em matéria sucessória.",
+      "C": "Aplica-se a lei do domicílio do cônjuge brasileiro, independentemente da lei pessoal da falecida e da localização do bem.",
+      "D": "A sucessão do bem situado no Brasil será regulada pela lei brasileira em benefício do cônjuge ou filho brasileiro, porque, no caso dado, a lei pessoal da falecida não lhes é mais favorável."
+    },
+    "answer": "D",
+    "explanation": "A regra geral é que a sucessão por morte obedece à lei do país do domicílio do falecido, qualquer que seja a natureza e a situação dos bens (LINDB, art. 10, caput). Há, contudo, regra específica para bens de estrangeiro situados no Brasil: aplica-se a lei brasileira em benefício do cônjuge ou dos filhos brasileiros sempre que a lei pessoal do falecido não lhes seja mais favorável (art. 10, § 1º). A desconsidera essa ressalva; B transforma a exceção protetiva em regra absoluta para toda sucessão; C usa conexão que não é a prevista no dispositivo.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "sucessão internacional e proteção de cônjuge ou filhos brasileiros",
+    "references": [
+      {
+        "label": "Lei de Introdução às Normas do Direito Brasileiro, art. 10, caput e § 1º",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+      }
+    ]
+  },
+  {
+    "id": "internacional-10",
+    "subjectId": "internacional",
+    "subjectTitle": "Direito Internacional",
+    "number": 10,
+    "prompt": "Uma empresa francesa ajuizou na França ação para declarar a propriedade de um apartamento situado no Rio de Janeiro. Não há tratado aplicável que altere a regra brasileira. Sobre a jurisdição para a ação relativa ao imóvel, assinale a alternativa correta.",
+    "choices": {
+      "A": "A jurisdição é concorrente entre Brasil e França, porque a autora é estrangeira.",
+      "B": "Compete exclusivamente à autoridade judiciária brasileira conhecer da ação, pois o imóvel está situado no Brasil.",
+      "C": "Apenas a autoridade francesa pode julgar, porque a empresa autora está domiciliada no exterior.",
+      "D": "A cláusula de eleição de foro estrangeiro sempre afasta a jurisdição brasileira, inclusive em ações relativas a imóvel brasileiro."
+    },
+    "answer": "B",
+    "explanation": "O CPC atribui à autoridade judiciária brasileira competência com exclusão de qualquer outra para conhecer de ações relativas a imóveis situados no Brasil (art. 23, I). A nacionalidade ou o domicílio estrangeiro da autora não transforma essa competência em concorrente. A e C ignoram a regra de exclusividade; D também falha porque o art. 25, § 1º, ressalva expressamente as hipóteses de competência internacional exclusiva do próprio Capítulo, nas quais uma eleição de foro estrangeiro não prevalece.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "jurisdição internacional exclusiva sobre imóveis no Brasil",
+    "references": [
+      {
+        "label": "Código de Processo Civil, arts. 23, I, e 25, § 1º",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+      }
+    ]
+  },
+  {
+    "id": "administrativo-07",
+    "subjectId": "administrativo",
+    "subjectTitle": "Direito Administrativo",
+    "number": 7,
+    "prompt": "Uma autoridade federal reconheceu, em decisão administrativa individual, um benefício favorável a Helena, que agiu de boa-fé. O ato foi praticado há seis anos e, durante todo esse período, a Administração não adotou medida para impugnar sua validade. Ao revisar o caso, a autoridade concluiu que o ato é ilegal. Conforme a Lei 9.784/1999, qual providência é juridicamente correta?",
+    "choices": {
+      "A": "O direito de a Administração anular o ato decaiu, pois transcorreram cinco anos sem má-fé, e a revogação não pode substituir a anulação de ato ilegal.",
+      "B": "A Administração ainda pode anulá-lo até completar dez anos, porque atos favoráveis têm prazo decadencial decenal.",
+      "C": "A Administração deve revogá-lo, pois todo ato ilegal é extinto por conveniência e oportunidade.",
+      "D": "A Administração pode anulá-lo a qualquer tempo, porque o prazo de cinco anos só alcança atos sem efeitos patrimoniais."
+    },
+    "answer": "A",
+    "explanation": "A alternativa A é correta. Pelo art. 53 da Lei 9.784/1999, a Administração deve anular o ato ilegal, enquanto a revogação se reserva ao ato válido retirado por conveniência ou oportunidade. Para atos administrativos favoráveis, o art. 54 fixa decadência de cinco anos, contados da prática do ato, salvo má-fé comprovada; o § 2º apenas considera exercido o direito se houver medida administrativa de impugnação da validade. Como Helena agiu de boa-fé e não houve essa medida em seis anos, o direito de anular decaiu. B inventa prazo de dez anos; C confunde anulação com revogação; D restringe indevidamente o art. 54, que também prevê regra própria para efeitos patrimoniais contínuos no § 1º, não uma exclusão dos demais atos.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Anulação, revogação e decadência de atos administrativos",
+    "references": [
+      {
+        "label": "Lei 9.784/1999, arts. 53 e 54",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+      }
+    ]
+  },
+  {
+    "id": "administrativo-08",
+    "subjectId": "administrativo",
+    "subjectTitle": "Direito Administrativo",
+    "number": 8,
+    "prompt": "Em uma concessão de serviço público regida pela Lei 8.987/1995, um usuário deixou fatura vencida sem pagar. A concessionária enviou prévio aviso e programou a interrupção para uma quinta-feira que não é feriado nem dia anterior a feriado. Não há situação de emergência nem razão técnica ou de segurança, e foi considerado o interesse da coletividade. Segundo a lei, qual afirmação é correta?",
+    "choices": {
+      "A": "A interrupção é sempre descontinuidade ilícita, pois o princípio da continuidade não admite suspensão por inadimplemento.",
+      "B": "A interrupção não caracteriza descontinuidade nas condições descritas, pois a lei admite o corte por inadimplemento após prévio aviso e impõe restrições ao dia de início.",
+      "C": "A interrupção somente seria possível depois de autorização judicial específica, ainda que tenha havido prévio aviso.",
+      "D": "O prévio aviso é dispensável, e a concessionária pode iniciar o corte em sexta-feira, sábado, domingo ou feriado quando houver dívida."
+    },
+    "answer": "B",
+    "explanation": "A alternativa B é correta. O art. 6º, § 3º, II, da Lei 8.987/1995 estabelece que não há descontinuidade quando o serviço é interrompido, após prévio aviso, por inadimplemento do usuário, considerado o interesse da coletividade. O § 4º acrescenta que essa interrupção não pode começar na sexta-feira, no sábado, no domingo, em feriado ou no dia anterior a feriado; a quinta-feira indicada atende a essa condição. A ignora a exceção legal à continuidade; C exige requisito não previsto no dispositivo; D elimina o prévio aviso e contraria expressamente o § 4º.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Serviço público adequado e interrupção por inadimplemento",
+    "references": [
+      {
+        "label": "Lei 8.987/1995, art. 6º, §§ 1º, 3º e 4º",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8987cons.htm"
+      }
+    ]
+  },
+  {
+    "id": "administrativo-09",
+    "subjectId": "administrativo",
+    "subjectTitle": "Direito Administrativo",
+    "number": 9,
+    "prompt": "Rafael ocupa cargo efetivo de professor em uma universidade estadual e foi aprovado para outro cargo efetivo de professor em um Município. Os horários são compatíveis, ele não possui outro vínculo público e a acumulação será formalmente declarada. À luz da Constituição Federal, assinale a alternativa correta.",
+    "choices": {
+      "A": "A acumulação é proibida porque cargos de entes federativos diferentes nunca podem ser acumulados.",
+      "B": "A acumulação é permitida apenas se um dos cargos for temporário, pois dois cargos efetivos são sempre incompatíveis.",
+      "C": "A acumulação é constitucionalmente admitida como exceção para dois cargos de professor, desde que se mantenham a compatibilidade de horários e a observância do teto remuneratório.",
+      "D": "A acumulação é automaticamente válida pelo simples fato de ambos os cargos serem de professor, ainda que os horários fossem incompatíveis."
+    },
+    "answer": "C",
+    "explanation": "A alternativa C é correta. O art. 37, XVI, da Constituição veda a acumulação remunerada como regra, mas admite, quando houver compatibilidade de horários e observado o inciso XI, a acumulação de dois cargos de professor na alínea a. A Constituição não exige que os cargos pertençam ao mesmo ente; A cria essa restrição. B acrescenta exigência inexistente e D ignora as condições expressas de horários e teto remuneratório.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Acumulação remunerada de cargos públicos",
+    "references": [
+      {
+        "label": "Constituição Federal compilada, art. 37, XI e XVI, caput e alínea a",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+      }
+    ]
+  },
+  {
+    "id": "administrativo-10",
+    "subjectId": "administrativo",
+    "subjectTitle": "Direito Administrativo",
+    "number": 10,
+    "prompt": "Um Município possui um terreno sem destinação pública atual, formalmente classificado como bem dominical. Uma pessoa o ocupa de modo contínuo e sem oposição há 25 anos e pede o reconhecimento da usucapião. Segundo o regime dos bens públicos, qual é a solução correta?",
+    "choices": {
+      "A": "A usucapião deve ser reconhecida, pois bens dominicais podem ser alienados e, por isso, podem ser adquiridos pela posse prolongada.",
+      "B": "A usucapião deve ser reconhecida após cinco anos, desde que a ocupante alegue baixa renda e moradia no local.",
+      "C": "Somente bens de uso comum do povo e de uso especial não podem ser usucapidos; o bem dominical admite usucapião após 15 anos.",
+      "D": "A usucapião não é possível: bens dominicais integram os bens públicos e não estão sujeitos a usucapião, ainda que possam ser alienados conforme as exigências legais."
+    },
+    "answer": "D",
+    "explanation": "A alternativa D é correta. O art. 98 do Código Civil considera públicos os bens pertencentes às pessoas jurídicas de direito público interno; o art. 99, III, inclui entre eles os dominicais. Embora o art. 101 permita a alienação de bens dominicais observadas as exigências legais, o art. 102 determina que os bens públicos não estão sujeitos a usucapião. A confunde alienabilidade com aquisição por usucapião; B importa prazo e requisito de modalidades privadas de usucapião; C exclui indevidamente os dominicais da vedação legal.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Bens públicos dominicais e usucapião",
+    "references": [
+      {
+        "label": "Código Civil, arts. 98, 99, III, 101 e 102",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+      }
+    ]
+  },
+  {
+    "id": "ambiental-07",
+    "subjectId": "ambiental",
+    "subjectTitle": "Direito Ambiental",
+    "number": 7,
+    "prompt": "Um município pretende criar uma unidade de conservação em área extensa, com certo grau de ocupação humana e atributos naturais e culturais relevantes. O objetivo é disciplinar a ocupação e assegurar o uso sustentável dos recursos naturais, e a área poderá conter terras públicas e privadas. Segundo o SNUC, qual enquadramento é correto?",
+    "choices": {
+      "A": "Área de Proteção Ambiental, integrante do grupo de Uso Sustentável.",
+      "B": "Estação Ecológica, integrante do grupo de Uso Sustentável.",
+      "C": "Parque Nacional, integrante do grupo de Uso Sustentável.",
+      "D": "Reserva Biológica, integrante do grupo de Uso Sustentável."
+    },
+    "answer": "A",
+    "explanation": "A alternativa A é correta. O SNUC divide as unidades em Proteção Integral e Uso Sustentável (art. 7º); a Área de Proteção Ambiental é categoria de Uso Sustentável (art. 14, I), em geral extensa, com certo grau de ocupação humana, destinada a proteger a diversidade, disciplinar a ocupação e assegurar a sustentabilidade do uso dos recursos (art. 15, caput), podendo ser constituída por terras públicas ou privadas (§ 1º). B, C e D colocam Estação Ecológica, Parque Nacional ou Reserva Biológica no grupo errado: essas categorias integram a Proteção Integral, conforme os arts. 8º e 9º.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Unidades de conservação: Área de Proteção Ambiental e grupos do SNUC",
+    "references": [
+      {
+        "label": "Lei nº 9.985/2000, arts. 7º, 8º, 9º, 14, I, e 15, caput e § 1º (SNUC)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9985.htm"
+      }
+    ]
+  },
+  {
+    "id": "ambiental-08",
+    "subjectId": "ambiental",
+    "subjectTitle": "Direito Ambiental",
+    "number": 8,
+    "prompt": "Uma empresa possui licença ambiental com prazo determinado e protocola o pedido de renovação 130 dias antes do vencimento. Na data em que terminaria o prazo original, o órgão ambiental ainda não concluiu a análise. Conforme a Lei Complementar nº 140/2011, qual efeito ocorre?",
+    "choices": {
+      "A": "A licença termina na data original, e a empresa deve interromper a atividade até a emissão de nova licença.",
+      "B": "O prazo da licença fica automaticamente prorrogado até a manifestação definitiva do órgão ambiental competente.",
+      "C": "O silêncio do órgão produz uma nova licença tácita, ainda que o pedido tenha sido apresentado fora do prazo legal.",
+      "D": "A prorrogação só existe depois de aprovação expressa do pedido pelo órgão, sem efeito durante a análise."
+    },
+    "answer": "B",
+    "explanation": "A alternativa B é correta. Como o pedido foi apresentado 130 dias antes do vencimento, superando a antecedência mínima de 120 dias, o art. 14, § 4º, da LC nº 140/2011 determina que o prazo da licença fique automaticamente prorrogado até a manifestação definitiva do órgão ambiental competente. A desconsidera esse efeito legal; C confunde a prorrogação condicionada ao requerimento tempestivo com licença tácita, que não decorre do simples decurso de prazo (art. 14, § 3º); e D acrescenta aprovação prévia que o § 4º não exige.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Licenciamento ambiental: renovação tempestiva e prorrogação automática",
+    "references": [
+      {
+        "label": "Lei Complementar nº 140/2011, art. 14, §§ 3º e 4º (silêncio e renovação de licença)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp140.htm"
+      }
+    ]
+  },
+  {
+    "id": "ambiental-09",
+    "subjectId": "ambiental",
+    "subjectTitle": "Direito Ambiental",
+    "number": 9,
+    "prompt": "Em imóvel rural, foi identificada obrigação de recomposição da vegetação prevista no Código Florestal. Antes de cumpri-la, o possuidor transferiu a posse do imóvel a outra pessoa, que alegou não estar vinculada porque não participou da degradação. Segundo a Lei nº 12.651/2012, assinale a alternativa correta.",
+    "choices": {
+      "A": "A obrigação vincula somente o possuidor original e se extingue com a transferência da posse.",
+      "B": "A obrigação só alcança o sucessor se houver cláusula contratual expressa ou sua anuência posterior.",
+      "C": "As obrigações previstas no Código Florestal têm natureza real e são transmitidas ao sucessor, de qualquer natureza, na transferência do domínio ou da posse do imóvel rural.",
+      "D": "A transmissão ocorre apenas se o imóvel estiver situado na Amazônia Legal."
+    },
+    "answer": "C",
+    "explanation": "A alternativa C é correta. O art. 2º, § 2º, da Lei nº 12.651/2012 estabelece que as obrigações previstas na lei têm natureza real e são transmitidas ao sucessor, de qualquer natureza, quando há transferência do domínio ou da posse do imóvel rural. A, B e D criam limitações que o dispositivo não prevê: a transmissão não depende de permanência do possuidor original, de cláusula contratual, de anuência do sucessor nem da localização do imóvel na Amazônia Legal.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Código Florestal: natureza real e transmissão das obrigações ambientais",
+    "references": [
+      {
+        "label": "Lei nº 12.651/2012, art. 2º, §§ 1º e 2º (obrigações de natureza real)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12651compilado.htm"
+      }
+    ]
+  },
+  {
+    "id": "ambiental-10",
+    "subjectId": "ambiental",
+    "subjectTitle": "Direito Ambiental",
+    "number": 10,
+    "prompt": "Durante fiscalização, agente designado de órgão integrante do SISNAMA lavra auto por ação que viola regra de proteção ambiental. A autoridade pretende aplicar imediatamente a sanção, sem instaurar processo nem permitir manifestação do autuado, alegando que a responsabilidade administrativa é objetiva como a responsabilidade civil ambiental. À luz da Lei nº 9.605/1998, assinale a alternativa correta.",
+    "choices": {
+      "A": "O auto de infração torna a sanção definitiva por si só quando houver fotografias da conduta.",
+      "B": "Somente o Ministério Público pode instaurar a apuração administrativa da infração.",
+      "C": "Contraditório e ampla defesa são exigidos apenas nos crimes ambientais, não nas infrações administrativas.",
+      "D": "A infração deve ser apurada em processo administrativo próprio, com contraditório e ampla defesa; o regime civil objetivo não elimina essas garantias administrativas."
+    },
+    "answer": "D",
+    "explanation": "A alternativa D é correta. A Lei nº 9.605/1998 define infração administrativa como ação ou omissão que viole regras jurídicas ambientais (art. 70, caput), atribui aos agentes competentes a lavratura do auto e a instauração do processo (§ 1º) e assegura, na apuração administrativa própria, ampla defesa e contraditório (§ 4º). As sanções administrativas estão previstas no art. 72, mas não se tornam definitivas sem o procedimento legal. A e C ignoram o § 4º, e B atribui ao Ministério Público uma exclusividade que a lei não estabelece. A objetividade da responsabilidade civil ambiental não transforma a sanção administrativa em automática nem dispensa a apuração da infração.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Infração administrativa ambiental: processo, contraditório e ampla defesa",
+    "references": [
+      {
+        "label": "Lei nº 9.605/1998, arts. 70, caput e §§ 1º e 4º, e 72 (infrações e sanções administrativas)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm"
+      }
+    ]
+  },
+  {
+    "id": "eca-07",
+    "subjectId": "eca",
+    "subjectTitle": "Estatuto da Criança e do Adolescente",
+    "number": 7,
+    "prompt": "Durante uma festa escolar, um comerciante vende uma lata de bebida alcoólica a Pedro, de 15 anos. O pai de Pedro estava presente e declarou que autorizava a compra. À luz do ECA, assinale a alternativa correta.",
+    "choices": {
+      "A": "A venda é permitida, porque a autorização expressa do pai afasta a proibição prevista no Estatuto.",
+      "B": "A venda é proibida, pois o ECA veda a venda de bebidas alcoólicas a criança ou adolescente, sem criar exceção para o consentimento dos pais.",
+      "C": "A venda é permitida, porque a proibição do ECA alcança apenas crianças, e Pedro já é adolescente.",
+      "D": "A venda somente seria proibida se Pedro tivesse recebido a bebida gratuitamente, pois o art. 81 não alcança operações comerciais."
+    },
+    "answer": "B",
+    "explanation": "A alternativa B é correta: o art. 81, II, do ECA proíbe a venda de bebidas alcoólicas a criança ou adolescente. O dispositivo não prevê exceção fundada em autorização ou presença dos pais. A está errada porque o consentimento parental não afasta a proibição; C restringe indevidamente a regra, que menciona criança ou adolescente; e D confunde venda com fornecimento gratuito, embora a venda esteja expressamente incluída no art. 81.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Prevenção especial e produtos proibidos",
+    "references": [
+      {
+        "label": "ECA, art. 81, II — proibição de venda de bebidas alcoólicas a criança ou adolescente",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm"
+      }
+    ]
+  },
+  {
+    "id": "eca-08",
+    "subjectId": "eca",
+    "subjectTitle": "Estatuto da Criança e do Adolescente",
+    "number": 8,
+    "prompt": "Um município organizou a escolha do Conselho Tutelar com cinco vagas e mandato de quatro anos. A lei municipal, porém, prevê que os conselheiros sejam automaticamente mantidos por mais um mandato, sem novo processo de escolha, e aceita a candidatura de uma pessoa com exatamente 21 anos, idoneidade moral reconhecida e residência no município. Considerando o ECA, assinale a alternativa correta.",
+    "choices": {
+      "A": "O Conselho Tutelar é órgão jurisdicional, e seus membros devem ser nomeados pelo juiz da infância e da juventude.",
+      "B": "A composição e o mandato estão corretos, e a recondução automática é permitida porque o Estatuto autoriza mais de um mandato.",
+      "C": "A pessoa com exatamente 21 anos satisfaz o requisito etário, pois o ECA exige idade igual ou superior a 21 anos.",
+      "D": "O Conselho deve ter cinco membros escolhidos pela população para mandato de quatro anos, mas nova recondução depende de novo processo de escolha; para candidatar-se, também é necessário ter idade superior a 21 anos, além de idoneidade moral e residência no município."
+    },
+    "answer": "D",
+    "explanation": "A alternativa D reúne as regras dos arts. 131 a 133 do ECA: o Conselho Tutelar é permanente, autônomo e não jurisdicional; cada município deve ter, no mínimo, um Conselho composto por cinco membros escolhidos pela população para mandato de quatro anos; e a recondução é possível apenas por novos processos de escolha (arts. 131 e 132). A candidatura exige reconhecida idoneidade moral, idade superior a 21 anos e residência no município (art. 133). A erra a natureza e a forma de escolha; B transforma a recondução em automática; e C ignora que a lei exige idade superior, não exatamente 21 anos.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Conselho Tutelar: composição, mandato e requisitos",
+    "references": [
+      {
+        "label": "ECA, arts. 131 a 133 — natureza, composição, mandato e requisitos do Conselho Tutelar",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm"
+      }
+    ]
+  },
+  {
+    "id": "eca-09",
+    "subjectId": "eca",
+    "subjectTitle": "Estatuto da Criança e do Adolescente",
+    "number": 9,
+    "prompt": "Antes de iniciado o procedimento judicial de apuração de ato infracional, o Ministério Público considera as circunstâncias do fato e a participação de um adolescente de 16 anos e concede remissão, propondo liberdade assistida. Sobre essa situação, assinale a alternativa correta.",
+    "choices": {
+      "A": "O Ministério Público pode conceder a remissão antes do procedimento judicial, como forma de exclusão do processo; ela não implica necessariamente reconhecimento ou comprovação da responsabilidade nem vale como antecedente, e a medida eventualmente incluída não pode ser semiliberdade ou internação.",
+      "B": "Somente a autoridade judiciária pode conceder remissão antes do início do procedimento, porque o Ministério Público deve sempre oferecer representação.",
+      "C": "A remissão pressupõe confissão do adolescente e deve ser considerada antecedente para futuras medidas socioeducativas.",
+      "D": "A remissão pode incluir internação sempre que o ato infracional for grave, pois a gravidade afasta os limites do art. 127."
+    },
+    "answer": "A",
+    "explanation": "A alternativa A está de acordo com os arts. 126 e 127 do ECA. Antes de iniciado o procedimento judicial, o representante do Ministério Público pode conceder remissão como forma de exclusão do processo; ela não implica necessariamente reconhecimento ou comprovação da responsabilidade, não prevalece para efeito de antecedentes e pode incluir medidas, exceto colocação em semiliberdade ou internação. A liberdade assistida proposta no enunciado não está entre as exceções. B contraria o art. 126; C transforma a remissão em confissão e antecedente, em desacordo com o art. 127; e D ignora a vedação expressa do mesmo artigo. Quando concedida pelo MP, a remissão é encaminhada à autoridade judiciária para homologação, conforme art. 181.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Remissão no procedimento de apuração de ato infracional",
+    "references": [
+      {
+        "label": "ECA, arts. 126 e 127 — remissão pré-processual, efeitos e limites das medidas",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm"
+      },
+      {
+        "label": "ECA, art. 181 — homologação judicial da remissão concedida pelo Ministério Público",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm"
+      }
+    ]
+  },
+  {
+    "id": "eca-10",
+    "subjectId": "eca",
+    "subjectTitle": "Estatuto da Criança e do Adolescente",
+    "number": 10,
+    "prompt": "Uma adolescente de 13 anos revela a um profissional da rede de proteção que sofreu violência. No atendimento inicial, o profissional colhe somente o relato necessário para definir os cuidados e os encaminhamentos. Posteriormente, a autoridade judiciária avalia a necessidade de ouvi-la para produção de prova. Assinale a alternativa que diferencia corretamente os procedimentos.",
+    "choices": {
+      "A": "O atendimento inicial é depoimento especial, porque ocorre na rede de proteção, e a oitiva judicial é escuta especializada, porque não pode produzir prova.",
+      "B": "Escuta especializada e depoimento especial são expressões equivalentes e devem repetir integralmente o relato em cada órgão para assegurar a apuração.",
+      "C": "A escuta especializada ocorre perante órgão da rede de proteção e limita-se ao necessário para sua finalidade protetiva; o depoimento especial é a oitiva perante autoridade policial ou judiciária, destinada à produção de prova e orientada por protocolos de não revitimização.",
+      "D": "A rede de proteção não pode realizar escuta especializada, pois somente a autoridade judiciária pode ouvir criança ou adolescente vítima de violência."
+    },
+    "answer": "C",
+    "explanation": "A alternativa C corresponde aos arts. 7º e 8º da Lei 13.431/2017: escuta especializada é a entrevista perante órgão da rede de proteção, limitada ao relato estritamente necessário à finalidade de proteção; depoimento especial é a oitiva perante autoridade policial ou judiciária. O Decreto 9.603/2018, arts. 19 e 22, explicita, respectivamente, a finalidade de proteção social da escuta e a finalidade de produção de prova do depoimento, que deve observar protocolos e evitar revitimização. A inverte os institutos; B desconsidera suas finalidades distintas e a diretriz de evitar repetição desnecessária; e D nega a previsão legal expressa da escuta na rede de proteção.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Proteção contra violência: escuta especializada e depoimento especial",
+    "references": [
+      {
+        "label": "Lei 13.431/2017, arts. 7º a 12 — escuta especializada, depoimento especial e proteção contra revitimização",
+        "url": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:2017-04-04%3B13431"
+      },
+      {
+        "label": "Decreto 9.603/2018, arts. 19 e 22 — finalidades da escuta especializada e do depoimento especial",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9603.htm"
+      }
+    ]
+  },
+  {
+    "id": "consumidor-07",
+    "subjectId": "consumidor",
+    "subjectTitle": "Direito do Consumidor",
+    "number": 7,
+    "prompt": "Uma consumidora recebeu cobrança indevida de R$ 800 em sua fatura e pagou esse valor. O fornecedor não demonstra que houve engano justificável. Segundo o CDC, qual é a consequência prevista para o valor pago em excesso?",
+    "choices": {
+      "A": "A consumidora só pode pedir restituição simples, porque a repetição em dobro depende de prova de má-fé do fornecedor.",
+      "B": "A consumidora pode exigir o dobro apenas se tiver sido negativada no cadastro de inadimplentes.",
+      "C": "A consumidora pode exigir a repetição em dobro do que pagou em excesso, com correção monetária e juros legais, ressalvada a hipótese de engano justificável.",
+      "D": "A mera cobrança indevida, ainda sem pagamento, já gera repetição em dobro do valor cobrado."
+    },
+    "answer": "C",
+    "explanation": "O art. 42, parágrafo único, exige que o consumidor tenha pago a quantia indevida e assegura repetição em valor igual ao dobro do que foi pago em excesso, acrescido de correção monetária e juros legais, salvo engano justificável. Não exige negativação nem, no texto do dispositivo, prova autônoma de má-fé. A alternativa D também erra porque mera cobrança sem pagamento não satisfaz o requisito literal de pagamento em excesso.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Cobrança indevida e repetição do indébito",
+    "references": [
+      {
+        "label": "Código de Defesa do Consumidor, art. 42, parágrafo único — repetição do indébito",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+      }
+    ]
+  },
+  {
+    "id": "consumidor-08",
+    "subjectId": "consumidor",
+    "subjectTitle": "Direito do Consumidor",
+    "number": 8,
+    "prompt": "Uma empresa anuncia um curso on-line por ‘R$ 29,90 por mês’. Em nenhum local do anúncio informa que todo contratante terá de pagar também uma taxa inicial obrigatória de R$ 600, dado que altera de modo relevante o custo total. À luz do CDC, essa publicidade é:",
+    "choices": {
+      "A": "Enganosa por omissão, pois deixa de informar dado essencial capaz de induzir o consumidor a erro sobre o preço.",
+      "B": "Abusiva, pois toda omissão de informação em publicidade se enquadra automaticamente nessa categoria.",
+      "C": "Lícita, porque o preço mensal anunciado é verdadeiro, ainda que outro custo obrigatório não seja informado.",
+      "D": "Irregular somente se algum consumidor provar que sofreu dano patrimonial depois da contratação."
+    },
+    "answer": "A",
+    "explanation": "O art. 37, § 1º, considera enganosa a publicidade que, inclusive por omissão, seja capaz de induzir o consumidor a erro sobre o preço ou outros dados do serviço. O § 3º identifica como enganosa por omissão a falta de informação sobre dado essencial. A alternativa B confunde publicidade enganosa com abusiva, que tem as hipóteses próprias do § 2º; C ignora o custo obrigatório omitido; e D cria requisito de dano posterior que o dispositivo não exige.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Publicidade enganosa por omissão",
+    "references": [
+      {
+        "label": "Código de Defesa do Consumidor, art. 37, §§ 1º a 3º — publicidade enganosa e abusiva",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+      }
+    ]
+  },
+  {
+    "id": "consumidor-09",
+    "subjectId": "consumidor",
+    "subjectTitle": "Direito do Consumidor",
+    "number": 9,
+    "prompt": "Uma consumidora pessoa natural contrata um curso por instrumento de adesão. Em cláusula impressa em fonte comum, sem destaque, o fornecedor declara que não responderá por vícios do serviço e que a consumidora renuncia a qualquer reembolso previsto em lei. Sobre essa cláusula, assinale a alternativa correta.",
+    "choices": {
+      "A": "A cláusula é válida porque a consumidora assinou o contrato e aderiu expressamente às condições.",
+      "B": "A cláusula só seria inválida se o contrato não tivesse sido registrado em órgão de defesa do consumidor.",
+      "C": "A falta de destaque é irrelevante, pois o conteúdo da cláusula pode ser aplicado integralmente em contrato de adesão.",
+      "D": "A cláusula é nula de pleno direito: além de afastar responsabilidade por vícios e retirar opção legal de reembolso, a limitação de direito não foi redigida com o destaque exigido."
+    },
+    "answer": "D",
+    "explanation": "O art. 51, I e II, considera nulas de pleno direito as cláusulas que impossibilitem, exonerem ou atenuem a responsabilidade do fornecedor por vícios ou subtraiam do consumidor a opção de reembolso nos casos previstos no Código. Além disso, o art. 54, § 4º, exige destaque e fácil compreensão para cláusula de contrato de adesão que limite direito do consumidor. A assinatura não convalida cláusula legalmente nula, e o CDC não exige o registro indicado nos distratores.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Cláusulas abusivas e contrato de adesão",
+    "references": [
+      {
+        "label": "Código de Defesa do Consumidor, arts. 51, I e II, e 54, § 4º — cláusulas abusivas e destaque em contrato de adesão",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+      }
+    ]
+  },
+  {
+    "id": "consumidor-10",
+    "subjectId": "consumidor",
+    "subjectTitle": "Direito do Consumidor",
+    "number": 10,
+    "prompt": "Milhares de consumidores identificáveis receberam, em contratos idênticos, a cobrança de uma mesma tarifa indevida. Cada consumidor consegue individualizar o valor que pagou, e a origem da lesão é comum. Para a classificação dos interesses na tutela coletiva do CDC, trata-se de direitos:",
+    "choices": {
+      "A": "Difusos, porque o grupo é numeroso e os consumidores não precisam ser identificados individualmente.",
+      "B": "Individuais homogêneos, porque os prejuízos são divisíveis e decorrem de origem comum.",
+      "C": "Coletivos em sentido estrito, porque toda relação contratual entre consumidores e fornecedor gera direito indivisível.",
+      "D": "Exclusivamente individuais, porque a possibilidade de cada consumidor calcular seu prejuízo impede tutela coletiva."
+    },
+    "answer": "B",
+    "explanation": "O art. 81, parágrafo único, III, define como individuais homogêneos os direitos decorrentes de origem comum. Aqui, a cobrança tem fato gerador comum, mas o prejuízo de cada consumidor é divisível e individualizável. A alternativa A descreve de modo incompatível os direitos difusos do inciso I; C confunde a indivisibilidade dos direitos coletivos em sentido estrito do inciso II com o caso; e D ignora que o CDC admite defesa coletiva de direitos individuais homogêneos.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Interesses ou direitos individuais homogêneos",
+    "references": [
+      {
+        "label": "Código de Defesa do Consumidor, art. 81, parágrafo único, I a III — classificação dos interesses coletivos",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+      }
+    ]
+  },
+  {
+    "id": "empresarial-07",
+    "subjectId": "empresarial",
+    "subjectTitle": "Direito Empresarial",
+    "number": 7,
+    "prompt": "A Companhia Horizonte S.A. possui um acionista que subscreveu ações com preço de emissão total de R$ 80.000,00, dos quais integralizou R$ 30.000,00. A companhia contraiu dívida comercial de R$ 500.000,00. À luz da disciplina geral das sociedades anônimas, assinale a afirmativa correta sobre a responsabilidade desse acionista.",
+    "choices": {
+      "A": "A responsabilidade do acionista é limitada ao preço de emissão das ações subscritas ou adquiridas, que, no caso, é de R$ 80.000,00, não abrangendo automaticamente toda a dívida da companhia.",
+      "B": "Ele responde ilimitadamente por toda a dívida comercial de R$ 500.000,00, pois a companhia tem personalidade jurídica própria.",
+      "C": "Ele nunca pode ser cobrado por qualquer valor, porque a subscrição das ações já encerrou sua obrigação.",
+      "D": "Ele responde apenas pelo valor de R$ 30.000,00 já integralizado, sem qualquer obrigação relativa ao saldo do preço de emissão."
+    },
+    "answer": "A",
+    "explanation": "O art. 1º da Lei nº 6.404/1976 limita a responsabilidade do acionista ao preço de emissão das ações subscritas ou adquiridas. Assim, o limite indicado é R$ 80.000,00, e não a dívida social inteira nem apenas o que já foi pago. B está errada porque transforma a responsabilidade em ilimitada; C ignora eventual saldo do preço de emissão; e D reduz indevidamente o limite ao valor já integralizado.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Sociedade anônima: responsabilidade do acionista",
+    "references": [
+      {
+        "label": "Lei nº 6.404/1976, art. 1º — capital dividido em ações e responsabilidade limitada ao preço de emissão",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm"
+      }
+    ]
+  },
+  {
+    "id": "empresarial-08",
+    "subjectId": "empresarial",
+    "subjectTitle": "Direito Empresarial",
+    "number": 8,
+    "prompt": "Uma loja recebeu de cliente um cheque no qual foi indicada, como data de emissão, data futura correspondente a trinta dias depois da entrega da mercadoria. O portador apresentou o cheque ao banco imediatamente, antes da data indicada. Segundo a Lei do Cheque, assinale a afirmativa correta.",
+    "choices": {
+      "A": "O banco deve recusar o pagamento até chegar a data indicada no cheque, pois a pós-datação altera sua exigibilidade legal.",
+      "B": "O cheque é pagável à vista e, se apresentado antes da data indicada como emissão, é pagável no dia da apresentação.",
+      "C": "A indicação de data futura torna o cheque nulo, por falta de data juridicamente possível.",
+      "D": "A pós-datação converte o cheque em nota promissória, que somente poderá ser cobrada na data indicada."
+    },
+    "answer": "B",
+    "explanation": "O art. 32, caput e parágrafo único, da Lei nº 7.357/1985 estabelece que o cheque é pagável à vista e que, apresentado antes do dia indicado como data de emissão, é pagável no dia da apresentação; a menção em contrário é considerada não escrita. A confunde a data indicada com vencimento; C inventa nulidade; e D confunde cheque com nota promissória.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Cheque: pagamento à vista e pós-datação",
+    "references": [
+      {
+        "label": "Lei nº 7.357/1985, art. 32 e parágrafo único — cheque pagável à vista",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l7357.htm"
+      }
+    ]
+  },
+  {
+    "id": "empresarial-09",
+    "subjectId": "empresarial",
+    "subjectTitle": "Direito Empresarial",
+    "number": 9,
+    "prompt": "Um franqueador entregou ao candidato a Circular de Oferta de Franquia apenas oito dias antes da assinatura do contrato e do pagamento da taxa inicial. Não se trata de licitação ou pré-qualificação promovida por órgão ou entidade pública. Considerando a Lei nº 13.966/2019, assinale a afirmativa correta.",
+    "choices": {
+      "A": "A entrega foi regular, porque a lei exige a Circular de Oferta de Franquia antes da assinatura, mas não fixa antecedência mínima.",
+      "B": "A entrega foi regular, pois o prazo mínimo legal é de cinco dias antes da assinatura ou do pagamento.",
+      "C": "Houve descumprimento do prazo legal de antecedência mínima de dez dias, podendo o franqueado arguir anulabilidade ou nulidade, conforme o caso, e exigir a devolução das quantias pagas nos termos legais.",
+      "D": "O descumprimento produz apenas sanção administrativa, sem possibilidade legal de discutir a validade do negócio ou pedir devolução dos valores pagos."
+    },
+    "answer": "C",
+    "explanation": "O art. 2º, § 1º, da Lei nº 13.966/2019 exige a entrega da Circular de Oferta de Franquia no mínimo dez dias antes da assinatura do contrato ou pré-contrato, ou do pagamento de qualquer taxa, ressalvada a hipótese pública indicada no enunciado. Pelo § 2º, o franqueado pode arguir anulabilidade ou nulidade, conforme o caso, e exigir a devolução das quantias pagas. A e B desconsideram o prazo legal; D ignora a consequência expressamente prevista.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Franquia empresarial: Circular de Oferta de Franquia",
+    "references": [
+      {
+        "label": "Lei nº 13.966/2019, art. 2º, §§ 1º e 2º — entrega da COF com antecedência mínima e consequências",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13966.htm"
+      }
+    ]
+  },
+  {
+    "id": "empresarial-10",
+    "subjectId": "empresarial",
+    "subjectTitle": "Direito Empresarial",
+    "number": 10,
+    "prompt": "No contrato social de uma sociedade limitada, um dos sócios pretende integralizar sua quota exclusivamente com a prestação pessoal de serviços de programação, enquanto os demais sócios contribuirão em dinheiro. Considerando o Código Civil, assinale a afirmativa correta.",
+    "choices": {
+      "A": "A contribuição é válida se os serviços forem avaliados em dinheiro e todos os sócios aprovarem a avaliação.",
+      "B": "A contribuição é válida porque qualquer prestação economicamente apreciável pode formar o capital da sociedade limitada.",
+      "C": "A contribuição somente seria inválida se a sociedade adotasse, no contrato, a regência supletiva da Lei das Sociedades por Ações.",
+      "D": "A contribuição exclusivamente consistente em prestação de serviços é vedada para o capital da sociedade limitada, conforme o art. 1.055, § 2º, do Código Civil."
+    },
+    "answer": "D",
+    "explanation": "O art. 1.055, § 2º, do Código Civil veda contribuição que consista em prestação de serviços na sociedade limitada. A avaliação econômica ou a aprovação unânime não afastam a proibição; por isso, A e B estão erradas. C também erra, porque a vedação decorre diretamente do regime legal da limitada e não da escolha de regência supletiva.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Sociedade limitada: contribuição para o capital",
+    "references": [
+      {
+        "label": "Código Civil, art. 1.055, § 2º — vedação de contribuição consistente em prestação de serviços",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+      }
+    ]
+  },
+  {
+    "id": "processo-civil-07",
+    "subjectId": "processo-civil",
+    "subjectTitle": "Direito Processual Civil",
+    "number": 7,
+    "prompt": "Em ação pelo procedimento comum, ao examinar a petição inicial, o juiz percebe que faltam documento indispensável e informações que dificultam o julgamento de mérito, mas os defeitos podem ser corrigidos. Qual providência deve adotar antes de indeferir a inicial?",
+    "choices": {
+      "A": "Determinar que o autor a emende ou complete em 15 dias, indicando com precisão o que deve ser corrigido; se não cumprir, poderá indeferi-la.",
+      "B": "Indeferir imediatamente, porque qualquer falha formal torna a petição inicial inepta.",
+      "C": "Conceder prazo de 5 dias, sem precisar indicar quais pontos devem ser corrigidos ou completados.",
+      "D": "Citar o réu e deixar para resolver a falta documental somente na sentença."
+    },
+    "answer": "A",
+    "explanation": "O art. 321 do CPC determina que, verificados defeitos dos arts. 319 ou 320 ou irregularidades capazes de dificultar o julgamento do mérito, o juiz deve indicar precisamente o que deve ser corrigido e dar ao autor 15 dias para emendar ou completar a inicial. Apenas se a diligência não for cumprida é que a petição será indeferida, conforme o parágrafo único. A alternativa B ignora o dever de oportunizar a correção; C erra o prazo e dispensa a indicação precisa; D posterga providência que deve anteceder o indeferimento.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Emenda da petição inicial",
+    "references": [
+      {
+        "label": "Código de Processo Civil, art. 321 (emenda ou complementação da petição inicial)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+      }
+    ]
+  },
+  {
+    "id": "processo-civil-08",
+    "subjectId": "processo-civil",
+    "subjectTitle": "Direito Processual Civil",
+    "number": 8,
+    "prompt": "Em ação de reparação por defeito em equipamento industrial, o autor demonstra que os registros técnicos indispensáveis estão exclusivamente com a empresa fabricante. Considerando que seria excessivamente difícil ao autor produzir a prova, o juiz, por decisão fundamentada, redistribui o ônus quanto ao fato controvertido e dá à fabricante oportunidade para cumprir o encargo, sem torná-lo impossível. Qual afirmação está correta?",
+    "choices": {
+      "A": "A redistribuição é inválida, porque o ônus da prova jamais pode ser alterado pelo juiz.",
+      "B": "A redistribuição é admissível, pois pode decorrer da maior facilidade da outra parte em obter a prova, desde que fundamentada e acompanhada de oportunidade para cumprimento, sem impor encargo impossível ou excessivamente difícil.",
+      "C": "A inversão é automática em toda ação que envolva consumidor e dispensa decisão fundamentada e oportunidade de prova.",
+      "D": "Somente convenção anterior das partes pode alterar o ônus da prova; o juiz nunca pode fazê-lo."
+    },
+    "answer": "B",
+    "explanation": "A regra do art. 373, caput, atribui ao autor a prova do fato constitutivo e ao réu a do fato impeditivo, modificativo ou extintivo. Porém, o § 1º permite ao juiz distribuir o ônus de modo diverso quando houver impossibilidade ou excessiva dificuldade para uma parte, ou maior facilidade da outra para obter a prova, desde que fundamente a decisão e dê oportunidade de cumprimento. O § 2º proíbe que a medida torne a desincumbência impossível ou excessivamente difícil. A alternativa A desconsidera a distribuição dinâmica legal; C transforma uma possibilidade dependente do caso em automatismo; D confunde a redistribuição judicial do § 1º com a convenção das partes do § 3º.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Distribuição dinâmica do ônus da prova",
+    "references": [
+      {
+        "label": "Código de Processo Civil, art. 373, caput e §§ 1º a 3º (ônus da prova e distribuição dinâmica)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+      }
+    ]
+  },
+  {
+    "id": "processo-civil-09",
+    "subjectId": "processo-civil",
+    "subjectTitle": "Direito Processual Civil",
+    "number": 9,
+    "prompt": "Em ação que discute os efeitos de uma norma técnica de amplo alcance social, uma entidade especializada, com representatividade adequada, requer ingresso para oferecer subsídios. O juiz admite sua participação em razão da relevância e da especificidade do tema. Segundo o CPC, qual é a consequência correta?",
+    "choices": {
+      "A": "A entidade se torna parte e pode recorrer de toda decisão interlocutória do processo.",
+      "B": "A admissão depende da concordância expressa de todas as partes, pois o juiz não pode admitir o terceiro de ofício.",
+      "C": "A intervenção não transforma a entidade em parte, não altera a competência e, em regra, não autoriza recursos, ressalvados embargos de declaração e o recurso contra decisão que julga incidente de resolução de demandas repetitivas.",
+      "D": "A entidade passa a substituir processualmente a parte que a indicou e assume integralmente seus ônus processuais."
+    },
+    "answer": "C",
+    "explanation": "O art. 138 do CPC permite ao juiz ou ao relator, de ofício ou a requerimento, admitir pessoa natural ou jurídica, órgão ou entidade especializada com representatividade adequada quando houver relevância da matéria, especificidade do tema ou repercussão social. A intervenção do amicus curiae não altera a competência nem autoriza a interposição de recursos, ressalvados os embargos de declaração e a hipótese de recurso contra a decisão que julga o incidente de resolução de demandas repetitivas, conforme o § 1º e o § 3º. A entidade não se torna parte nem substitui a parte, como pressupõem A e D; B ignora a admissão de ofício prevista no caput.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Amicus curiae",
+    "references": [
+      {
+        "label": "Código de Processo Civil, art. 138, caput e §§ 1º a 3º (amicus curiae)",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+      }
+    ]
+  },
+  {
+    "id": "processo-civil-10",
+    "subjectId": "processo-civil",
+    "subjectTitle": "Direito Processual Civil",
+    "number": 10,
+    "prompt": "Carlos ajuíza uma causa de 18 salários mínimos no Juizado Especial Cível estadual. No primeiro grau, ele pretende comparecer pessoalmente, sem contratar advogado. Depois de uma sentença desfavorável, deseja interpor o recurso previsto na Lei nº 9.099/1995. Assinale a alternativa correta.",
+    "choices": {
+      "A": "A assistência por advogado é obrigatória desde o ajuizamento, pois toda causa no Juizado exige advogado.",
+      "B": "A assistência continua facultativa no recurso, porque o valor da causa não supera 20 salários mínimos.",
+      "C": "O recurso deve ser dirigido ao Tribunal de Justiça, pois o próprio Juizado não julga recursos contra suas sentenças.",
+      "D": "Até 20 salários mínimos, a parte pode comparecer pessoalmente e ter assistência facultativa por advogado no primeiro grau; no recurso contra a sentença, a representação por advogado é obrigatória."
+    },
+    "answer": "D",
+    "explanation": "O art. 9º, caput, da Lei nº 9.099/1995 permite que as partes compareçam pessoalmente e sejam assistidas facultativamente por advogado nas causas de até 20 salários mínimos; acima desse limite, a assistência é obrigatória. Já o art. 41, caput e § 2º, prevê recurso contra a sentença para o próprio Juizado e exige representação por advogado na fase recursal. A alternativa A antecipa a obrigatoriedade do primeiro grau; B leva a faculdade para o recurso; C desloca o recurso para órgão que não é o indicado pela lei.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Juizados Especiais Cíveis: advogado no primeiro grau e no recurso",
+    "references": [
+      {
+        "label": "Lei nº 9.099/1995, arts. 9º e 41, caput e § 2º (representação por advogado e recurso contra sentença)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm"
+      }
+    ]
+  },
+  {
+    "id": "processo-penal-07",
+    "subjectId": "processo-penal",
+    "subjectTitle": "Direito Processual Penal",
+    "number": 7,
+    "prompt": "Durante investigação por crime sem violência ou grave ameaça, que não é infração de menor potencial ofensivo e para o qual não cabe transação penal, com pena mínima de dois anos, um investigado primário confessa formal e circunstanciadamente os fatos. Não há elementos de habitualidade criminal, ele não foi beneficiado nos cinco anos anteriores por acordo de não persecução penal, transação penal ou suspensão condicional do processo, e o Ministério Público considera o acordo necessário e suficiente para reprovação e prevenção do crime. Assinale a alternativa correta sobre o ANPP.",
+    "choices": {
+      "A": "O acordo pode ser formalizado por escrito e assinado pelo membro do Ministério Público, pelo investigado e por seu defensor; para homologá-lo, o juiz deve verificar sua voluntariedade, com oitiva do investigado na presença do defensor, e sua legalidade.",
+      "B": "A confissão é dispensável, porque o acordo pode ser proposto apenas com base na pena mínima inferior a quatro anos.",
+      "C": "Se também for cabível transação penal no Juizado Especial Criminal, o ANPP deve ser aplicado antes dela, por ser instrumento mais amplo.",
+      "D": "A homologação do acordo equivale a sentença condenatória e faz constar automaticamente o resultado como antecedente criminal para todos os fins."
+    },
+    "answer": "A",
+    "explanation": "A alternativa A reproduz o art. 28-A, caput, § 3º e § 4º, do CPP: além dos requisitos do enunciado, o acordo exige confissão formal e circunstanciada, é escrito e assinado pelo Ministério Público, investigado e defensor, e passa por audiência de homologação na qual o juiz verifica voluntariedade e legalidade. B é incorreta porque a confissão é requisito expresso do caput. C contraria o § 2º, I, que exclui o ANPP quando for cabível transação penal. D confunde acordo com condenação; a celebração e o cumprimento não constam da certidão de antecedentes, ressalvada a finalidade do § 2º, III, conforme § 12.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Acordo de não persecução penal",
+    "references": [
+      {
+        "label": "Código de Processo Penal, art. 28-A, caput e §§ 2º, 3º, 4º e 12 (ANPP)",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+      }
+    ]
+  },
+  {
+    "id": "processo-penal-08",
+    "subjectId": "processo-penal",
+    "subjectTitle": "Direito Processual Penal",
+    "number": 8,
+    "prompt": "Em ação penal, o acusado não é encontrado no endereço conhecido e é citado por edital. Ele não comparece nem constitui advogado. Considerando apenas esses fatos, qual consequência processual está de acordo com o Código de Processo Penal?",
+    "choices": {
+      "A": "O processo prossegue normalmente e o prazo prescricional continua correndo, pois a citação por edital produz os mesmos efeitos da citação pessoal.",
+      "B": "Ficam suspensos o processo e o curso do prazo prescricional, podendo o juiz determinar a produção antecipada de provas urgentes e, se for o caso, decretar prisão preventiva nos termos do art. 312.",
+      "C": "O juiz deve proferir condenação à revelia, pois a ausência do acusado após o edital equivale à confissão dos fatos.",
+      "D": "O juiz deve extinguir imediatamente a punibilidade, porque a citação por edital impede qualquer retomada da ação penal."
+    },
+    "answer": "B",
+    "explanation": "A alternativa B corresponde ao art. 366 do CPP: se o acusado citado por edital não comparece nem constitui advogado, suspendem-se o processo e o curso da prescrição; o juiz pode determinar prova antecipada urgente e, se for o caso, prisão preventiva nos termos do art. 312. A ignora as duas suspensões. C transforma ausência em confissão e condenação, efeitos que o dispositivo não prevê. D confunde suspensão processual com extinção da punibilidade.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Citação por edital e suspensão do processo",
+    "references": [
+      {
+        "label": "Código de Processo Penal, art. 366 (citação por edital, suspensão e providências cautelares)",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+      }
+    ]
+  },
+  {
+    "id": "processo-penal-09",
+    "subjectId": "processo-penal",
+    "subjectTitle": "Direito Processual Penal",
+    "number": 9,
+    "prompt": "Em investigação criminal por infração punida com reclusão, existem indícios razoáveis de autoria e a prova não pode ser obtida por outros meios disponíveis. O Ministério Público requer a interceptação das comunicações telefônicas, descreve claramente o fato investigado e identifica o investigado. Qual afirmação está correta?",
+    "choices": {
+      "A": "A interceptação pode ser iniciada diretamente pelo Ministério Público, sem ordem judicial, porque a medida foi requerida durante investigação criminal.",
+      "B": "A interceptação é inadmissível, pois a Lei nº 9.296/1996 só permite a medida para infrações punidas com detenção.",
+      "C": "A medida depende de ordem fundamentada do juiz competente da ação principal e não pode exceder quinze dias, admitida renovação por igual tempo quando comprovada a indispensabilidade.",
+      "D": "Uma vez autorizada, a interceptação pode durar por prazo indeterminado, sem nova demonstração de indispensabilidade, desde que permaneça sob segredo de justiça."
+    },
+    "answer": "C",
+    "explanation": "A alternativa C aplica os arts. 1º, 2º, II e III, e 5º da Lei nº 9.296/1996. A interceptação para prova em investigação criminal ou instrução penal depende de ordem do juiz competente; a lei a veda quando a prova puder ser feita por outros meios ou quando o fato for punido, no máximo, com detenção. A decisão deve ser fundamentada, e a diligência não pode exceder quinze dias, com renovação por igual tempo condicionada à comprovação da indispensabilidade. A erra ao dispensar a ordem judicial; B inverte o requisito legal; D ignora o prazo e a exigência de indispensabilidade.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Interceptação de comunicações telefônicas",
+    "references": [
+      {
+        "label": "Lei nº 9.296/1996, arts. 1º, 2º, II e III, e 5º (interceptação telefônica)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9296.htm"
+      }
+    ]
+  },
+  {
+    "id": "processo-penal-10",
+    "subjectId": "processo-penal",
+    "subjectTitle": "Direito Processual Penal",
+    "number": 10,
+    "prompt": "Na primeira fase do procedimento do Tribunal do Júri, a materialidade de um crime doloso contra a vida está comprovada e há testemunhos coerentes que fornecem indícios suficientes de autoria. Não foi demonstrada causa de isenção de pena ou de exclusão do crime. Qual decisão deve ser proferida, se o juiz fundamentar-se apenas nesses elementos?",
+    "choices": {
+      "A": "Absolvição sumária, porque somente os jurados podem reconhecer a materialidade e qualquer indício de autoria impede o encerramento da primeira fase.",
+      "B": "Impronúncia, porque a pronúncia exige certeza plena da autoria, equivalente ao padrão necessário para condenação.",
+      "C": "Condenação imediata pelo juiz togado, pois a prova da materialidade e os indícios suficientes substituem o julgamento em plenário.",
+      "D": "Pronúncia fundamentada, limitada à indicação da materialidade e dos indícios suficientes de autoria ou participação, com indicação do dispositivo legal e das qualificadoras ou causas de aumento pertinentes."
+    },
+    "answer": "D",
+    "explanation": "A alternativa D corresponde ao art. 413, caput e § 1º, do CPP: comprovada a materialidade e presentes indícios suficientes de autoria ou participação, o juiz pronuncia fundamentadamente o acusado e delimita a fundamentação nos termos legais. A absolvição sumária de A depende de uma das hipóteses do art. 415, inexistentes no enunciado. B aplica à pronúncia uma certeza própria da condenação; o art. 414 reserva a impronúncia à falta de convencimento sobre materialidade ou indícios suficientes. C confunde pronúncia com condenação: a decisão da primeira fase não substitui o julgamento pelo Tribunal do Júri.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Primeira fase do Tribunal do Júri",
+    "references": [
+      {
+        "label": "Código de Processo Penal, arts. 413, 414 e 415 (pronúncia, impronúncia e absolvição sumária)",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm"
+      }
+    ]
+  },
+  {
+    "id": "previdenciario-07",
+    "subjectId": "previdenciario",
+    "subjectTitle": "Direito Previdenciário",
+    "number": 7,
+    "prompt": "Uma segurada do RGPS faleceu deixando o cônjuge sobrevivente, com casamento vigente na data do óbito, e a própria mãe. A mãe comprova que dependia economicamente da filha. Não há outros dependentes habilitados. À luz da Lei nº 8.213/1991, quem integra a classe prioritária para a pensão por morte?",
+    "choices": {
+      "A": "O cônjuge, porque integra a classe I, cuja dependência econômica é presumida; a existência dessa classe exclui a mãe, que pertence à classe II.",
+      "B": "O cônjuge e a mãe em igualdade de condições, porque a prova de dependência econômica permite a concorrência entre todas as classes.",
+      "C": "A mãe, porque a dependência econômica comprovada prevalece sobre a presunção atribuída ao cônjuge.",
+      "D": "Somente a mãe, porque o cônjuge precisa comprovar dependência econômica em qualquer hipótese."
+    },
+    "answer": "A",
+    "explanation": "A alternativa A está correta. O art. 16, I, da Lei nº 8.213/1991 coloca o cônjuge na classe I, e o § 4º presume a dependência econômica das pessoas dessa classe. A mãe está na classe II, prevista no inciso II, e sua dependência, embora comprovada no caso, não supera a ordem legal: pelo § 1º, a existência de dependente de qualquer classe exclui do direito às prestações os das classes seguintes. B e C ignoram essa exclusão entre classes; D inverte a regra do § 4º ao exigir prova do cônjuge.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Classes de dependentes e presunção de dependência econômica",
+    "references": [
+      {
+        "label": "Lei nº 8.213/1991, art. 16, incisos I e II e §§ 1º e 4º — texto compilado",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm"
+      }
+    ]
+  },
+  {
+    "id": "previdenciario-08",
+    "subjectId": "previdenciario",
+    "subjectTitle": "Direito Previdenciário",
+    "number": 8,
+    "prompt": "No mês do recolhimento à prisão, Rogério mantinha a qualidade de segurado, enquadrava-se no critério legal de baixa renda e já tinha 24 contribuições mensais. Foi recolhido a estabelecimento em regime fechado, não recebia remuneração da empresa nem benefício incompatível, e deixou esposa e filho menor. Qual afirmação está correta sobre o auxílio-reclusão?",
+    "choices": {
+      "A": "O auxílio-reclusão é pago diretamente a Rogério, pois a prisão converte o benefício em prestação do próprio segurado.",
+      "B": "O benefício pode ser devido aos dependentes de Rogério, pois foram preenchidas a carência de 24 contribuições e as condições legais de baixa renda, regime fechado e ausência de benefício ou remuneração incompatível.",
+      "C": "O benefício somente seria possível se Rogério estivesse em regime aberto ou semiaberto, pois o regime fechado impede a proteção previdenciária.",
+      "D": "Não há carência para o auxílio-reclusão, porque ele segue exatamente a regra da pensão por morte."
+    },
+    "answer": "B",
+    "explanation": "A alternativa B está correta. O art. 25, IV, da Lei nº 8.213/1991 exige 24 contribuições mensais para o auxílio-reclusão. O art. 80 prevê a prestação, nas condições da pensão por morte, aos dependentes do segurado de baixa renda recolhido em regime fechado, desde que presentes as demais condições legais, inclusive a ausência de remuneração da empresa e de benefício incompatível. A confunde os beneficiários, que são os dependentes; C contraria a exigência legal de regime fechado; e D ignora a carência expressa do art. 25, IV.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Auxílio-reclusão: carência, baixa renda e regime de cumprimento de pena",
+    "references": [
+      {
+        "label": "Lei nº 8.213/1991, art. 25, inciso IV, e art. 80, caput e §§ 1º a 4º — texto compilado",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm"
+      }
+    ]
+  },
+  {
+    "id": "previdenciario-09",
+    "subjectId": "previdenciario",
+    "subjectTitle": "Direito Previdenciário",
+    "number": 9,
+    "prompt": "Paulo, segurado empregado, sofreu acidente de trânsito fora do trabalho. Depois da consolidação das lesões, ficou com sequela definitiva que reduziu sua capacidade para a função que habitualmente exercia, embora tenha retornado ao emprego e continue recebendo salário. Qual prestação se ajusta ao caso?",
+    "choices": {
+      "A": "Aposentadoria por incapacidade permanente, pois qualquer redução parcial da capacidade equivale à incapacidade total.",
+      "B": "Auxílio por incapacidade temporária, que deve continuar indefinidamente enquanto Paulo receber salário.",
+      "C": "Auxílio-acidente, de natureza indenizatória, que pode continuar sendo recebido com o salário e não se confunde com incapacidade total.",
+      "D": "Nenhum benefício, porque o auxílio-acidente exige acidente do trabalho e impede o segurado de voltar a receber remuneração."
+    },
+    "answer": "C",
+    "explanation": "A alternativa C está correta. O art. 86, caput, da Lei nº 8.213/1991 prevê auxílio-acidente como indenização quando, após a consolidação de lesões decorrentes de acidente de qualquer natureza, resulta sequela que reduz a capacidade para o trabalho habitual. O § 3º estabelece que o recebimento de salário não impede a continuidade do auxílio, ressalvada a aposentadoria; o § 1º prevê sua duração até a véspera de aposentadoria ou o óbito. A transforma redução parcial em incapacidade permanente; B confunde benefício temporário com a sequela consolidada; e D restringe indevidamente o acidente a evento laboral e ignora o § 3º.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Auxílio-acidente e redução permanente da capacidade laboral",
+    "references": [
+      {
+        "label": "Lei nº 8.213/1991, art. 86, caput e §§ 1º a 3º — texto compilado",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm"
+      }
+    ]
+  },
+  {
+    "id": "previdenciario-10",
+    "subjectId": "previdenciario",
+    "subjectTitle": "Direito Previdenciário",
+    "number": 10,
+    "prompt": "Sérgio exerceu por 25 anos o cargo de técnico de laboratório. Ele pretende reconhecer todo esse período como especial apenas pelo nome da ocupação, mas não apresenta formulário emitido pela empresa com base em laudo técnico e não há prova de exposição a agente químico, físico ou biológico de modo permanente. Considerando que os demais requisitos etários e de carência eventualmente aplicáveis à sua filiação estão presentes, assinale a alternativa correta.",
+    "choices": {
+      "A": "O reconhecimento é automático, porque o cargo de técnico de laboratório sempre caracteriza atividade especial.",
+      "B": "Basta demonstrar contato ocasional com qualquer agente, pois a lei não exige permanência nem período mínimo de exposição.",
+      "C": "O formulário técnico é irrelevante, pois a simples declaração do segurado ou prova testemunhal isolada substitui sempre a demonstração da exposição.",
+      "D": "É necessário comprovar trabalho permanente, não ocasional nem intermitente, em condições prejudiciais e a efetiva exposição aos agentes nocivos, mediante a documentação prevista na lei; o título do cargo, sozinho, não basta."
+    },
+    "answer": "D",
+    "explanation": "A alternativa D está correta. O art. 57, § 3º, da Lei nº 8.213/1991 exige comprovação de trabalho permanente, não ocasional nem intermitente, em condições especiais prejudiciais à saúde ou à integridade física; o § 4º exige também a exposição aos agentes nocivos químicos, físicos, biológicos ou à associação deles pelo período correspondente. O art. 58, § 1º, prevê formulário na forma do INSS, emitido pela empresa com base em laudo técnico. A retoma um enquadramento automático por categoria que não substitui a prova da exposição; B elimina requisitos expressos de permanência e período; e C dispensa sem fundamento a documentação técnica exigida.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Aposentadoria especial e comprovação da efetiva exposição a agentes nocivos",
+    "references": [
+      {
+        "label": "Lei nº 8.213/1991, arts. 57, §§ 3º e 4º, e 58, § 1º — texto compilado",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm"
+      }
+    ]
+  },
+  {
+    "id": "eleitoral-07",
+    "subjectId": "eleitoral",
+    "subjectTitle": "Direito Eleitoral",
+    "number": 7,
+    "prompt": "Dois partidos com registro definitivo no Tribunal Superior Eleitoral constituem uma federação, registram-na no TSE e, após dois anos, um deles anuncia que se desligará para disputar sozinho, sem justa causa. Segundo a Lei nº 9.096/1995, assinale a alternativa correta.",
+    "choices": {
+      "A": "Os partidos devem permanecer filiados à federação por no mínimo quatro anos; o descumprimento sujeita o partido às consequências previstas no art. 11-A, § 4º.",
+      "B": "A federação só produz efeitos nas eleições majoritárias, porque as coligações são vedadas nas eleições proporcionais.",
+      "C": "O desligamento após a primeira eleição é livre, desde que comunicado ao Tribunal Superior Eleitoral.",
+      "D": "A federação tem duração máxima de dois anos e pode ser desfeita unilateralmente por qualquer partido integrante."
+    },
+    "answer": "A",
+    "explanation": "A federação, depois de constituída e registrada no TSE, atua como uma única agremiação e os partidos que a integram devem permanecer filiados por no mínimo quatro anos (Lei nº 9.096/1995, art. 11-A, caput e § 3º, II). O descumprimento acarreta as consequências do § 4º, como a vedação de ingressar em federação, de celebrar coligação nas duas eleições seguintes e de utilizar o fundo partidário até completar o período remanescente. A vedação constitucional de coligações nas eleições proporcionais não transforma a federação em coligação nem limita sua atuação a eleições majoritárias (CF, art. 17, § 1º; Lei nº 9.096/1995, art. 11-A, § 8º).",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Federação partidária e permanência mínima",
+    "references": [
+      {
+        "label": "Lei nº 9.096/1995, art. 11-A, caput e §§ 3º, II, 4º e 8º (federação partidária)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9096compilado.htm"
+      },
+      {
+        "label": "Constituição Federal, art. 17, § 1º (coligações majoritárias e vedação nas proporcionais)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ]
+  },
+  {
+    "id": "eleitoral-08",
+    "subjectId": "eleitoral",
+    "subjectTitle": "Direito Eleitoral",
+    "number": 8,
+    "prompt": "Em uma eleição proporcional, um partido pretende registrar dez candidaturas para as vagas que lhe cabem. A lista contém oito homens e duas mulheres, e todos os candidatos preenchem as demais condições legais. À luz da Lei nº 9.504/1997, assinale a alternativa correta.",
+    "choices": {
+      "A": "A lista é válida, porque a proporção por sexo só é exigida entre os candidatos eleitos.",
+      "B": "A lista deve ser ajustada para conter no mínimo três candidaturas de cada sexo e no máximo sete candidaturas de cada sexo.",
+      "C": "A lista é válida, porque a lei exige apenas que o sexo minoritário alcance 20% das candidaturas.",
+      "D": "A lista só será válida se houver exatamente cinco candidaturas de cada sexo."
+    },
+    "answer": "B",
+    "explanation": "No registro de candidaturas proporcionais, cada partido deve preencher o mínimo de 30% e o máximo de 70% para candidaturas de cada sexo (Lei nº 9.504/1997, art. 10, § 3º). Em uma lista de dez candidaturas, isso exige pelo menos três e no máximo sete candidaturas de cada sexo. A regra incide sobre as candidaturas registradas, não apenas sobre os eleitos, não admite o percentual de 20% e não exige paridade exata de 50%.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Cota de gênero nas candidaturas proporcionais",
+    "references": [
+      {
+        "label": "Lei nº 9.504/1997, art. 10, §§ 3º e 4º (percentuais por sexo e cálculo das frações)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm"
+      }
+    ]
+  },
+  {
+    "id": "eleitoral-09",
+    "subjectId": "eleitoral",
+    "subjectTitle": "Direito Eleitoral",
+    "number": 9,
+    "prompt": "Em eleição estadual, partido ajuíza ação de investigação judicial eleitoral e prova o uso abusivo de meio de comunicação social em benefício de candidato. A prova demonstra a gravidade das circunstâncias, mas não permite concluir que a conduta alterou numericamente o resultado do pleito. À luz da Lei Complementar nº 64/1990, assinale a alternativa correta.",
+    "choices": {
+      "A": "A ação deve ser julgada improcedente, porque a potencialidade de alterar o resultado é requisito indispensável para configurar o abuso.",
+      "B": "O abuso só pode ser reconhecido depois de condenação criminal definitiva pelo mesmo fato.",
+      "C": "Para configurar o ato abusivo, não se exige demonstrar potencialidade de alterar o resultado; devem ser consideradas a gravidade das circunstâncias que o caracterizam.",
+      "D": "Qualquer irregularidade na comunicação social produz automaticamente inelegibilidade e cassação, sem análise da gravidade."
+    },
+    "answer": "C",
+    "explanation": "A AIJE pode apurar uso indevido, desvio ou abuso do poder econômico ou de autoridade e utilização indevida de veículos ou meios de comunicação social em benefício de candidato ou partido (LC nº 64/1990, art. 22, caput). Para configurar o ato abusivo, o art. 22, XVI, determina que não se considere a potencialidade de alterar o resultado da eleição, mas apenas a gravidade das circunstâncias que o caracterizam. Isso não torna toda irregularidade automaticamente abusiva nem dispensa a prova e a análise judicial dos fatos; por isso, os distratores A, B e D generalizam requisitos ou consequências que a lei não estabelece.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "AIJE e gravidade do abuso de poder",
+    "references": [
+      {
+        "label": "Lei Complementar nº 64/1990, art. 22, caput e XVI (investigação judicial e gravidade do abuso)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp64.htm"
+      }
+    ]
+  },
+  {
+    "id": "eleitoral-10",
+    "subjectId": "eleitoral",
+    "subjectTitle": "Direito Eleitoral",
+    "number": 10,
+    "prompt": "Durante uma campanha municipal, um candidato recebe dinheiro de uma empresa privada concessionária de serviço público. A transferência é feita por intermédio de uma associação e é integralmente registrada na prestação de contas. Segundo a Lei nº 9.504/1997, assinale a alternativa correta.",
+    "choices": {
+      "A": "A doação é permitida, porque a empresa é privada e o recurso foi declarado na prestação de contas.",
+      "B": "A doação só seria proibida se a concessionária fosse uma empresa estatal.",
+      "C": "A doação é permitida se o valor estiver dentro do limite aplicável às doações de pessoas físicas.",
+      "D": "A doação é proibida, pois a lei veda o recebimento, direta ou indiretamente, de recursos de concessionário ou permissionário de serviço público."
+    },
+    "answer": "D",
+    "explanation": "A Lei nº 9.504/1997, art. 24, caput e III, veda a partido ou candidato receber, direta ou indiretamente, doação em dinheiro ou estimável em dinheiro procedente de concessionário ou permissionário de serviço público. O uso de intermediário e a escrituração não afastam a vedação de fonte. A proibição não depende de a empresa ser estatal e o limite de doações de pessoas físicas não se aplica para tornar lícita uma fonte vedada.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Financiamento eleitoral e fonte vedada",
+    "references": [
+      {
+        "label": "Lei nº 9.504/1997, art. 24, caput e III (doações diretas ou indiretas de concessionário ou permissionário)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9504.htm"
+      }
+    ]
+  },
+  {
+    "id": "financeiro-07",
+    "subjectId": "financeiro",
+    "subjectTitle": "Direito Financeiro",
+    "number": 7,
+    "prompt": "Durante a elaboração do orçamento federal, a equipe técnica precisa identificar a lei que estabelecerá metas e prioridades da administração, orientará a elaboração da lei orçamentária anual, disporá sobre alterações na legislação tributária e definirá a política de aplicação das agências financeiras oficiais de fomento. Qual instrumento exerce essa função?",
+    "choices": {
+      "A": "A Lei Orçamentária Anual, porque reúne o orçamento fiscal, o de investimento e o da seguridade social.",
+      "B": "A Lei de Diretrizes Orçamentárias, porque seu conteúdo constitucional inclui metas e prioridades e a orientação da elaboração da LOA.",
+      "C": "O Plano Plurianual, porque ele detalha anualmente a previsão de receitas e a fixação de despesas.",
+      "D": "O Relatório Resumido da Execução Orçamentária, porque ele substitui a lei de planejamento durante o exercício."
+    },
+    "answer": "B",
+    "explanation": "A alternativa B é correta: a Constituição, art. 165, § 2º, atribui à LDO metas e prioridades, diretrizes de política fiscal e respectivas metas, orientação da elaboração da LOA, alterações na legislação tributária e política de aplicação das agências financeiras oficiais de fomento. A confunde a LDO com a LOA, cujo conteúdo básico está no § 5º; C atribui ao PPA a função anual da LOA, embora o PPA trate, no § 1º, de diretrizes, objetivos e metas para despesas de capital e programas continuados; D troca a lei pelo relatório de execução previsto no § 3º.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Leis orçamentárias: conteúdo constitucional da LDO",
+    "references": [
+      {
+        "label": "Constituição compilada — art. 165, §§ 1º a 5º",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+      }
+    ]
+  },
+  {
+    "id": "financeiro-08",
+    "subjectId": "financeiro",
+    "subjectTitle": "Direito Financeiro",
+    "number": 8,
+    "prompt": "Um Município pretende criar, para o próximo exercício, ação governamental que não é considerada despesa irrelevante pela LDO e que aumentará a despesa pública. Antes de licitar ou empenhar a despesa, qual providência atende à Lei de Responsabilidade Fiscal?",
+    "choices": {
+      "A": "Basta existir dotação na LOA; a compatibilidade com o PPA e a LDO será examinada somente na prestação de contas.",
+      "B": "É suficiente apresentar estimativa do impacto apenas no exercício de início, sem declaração do ordenador da despesa.",
+      "C": "Devem acompanhar a medida a estimativa do impacto no exercício de início e nos dois seguintes e a declaração do ordenador sobre adequação à LOA e compatibilidade com o PPA e a LDO, com as premissas e a metodologia de cálculo.",
+      "D": "Basta incluir a ação no RREO do bimestre seguinte, pois esse relatório substitui a estimativa prévia."
+    },
+    "answer": "C",
+    "explanation": "A alternativa C reúne os requisitos do art. 16, caput, I e II, da LC 101/2000: estimativa do impacto no exercício em que a despesa entrar em vigor e nos dois subsequentes, além de declaração do ordenador sobre adequação à LOA e compatibilidade com PPA e LDO; o § 2º exige as premissas e a metodologia de cálculo. O § 4º, I, torna essas normas condição prévia para empenho e licitação, e o enunciado afasta a exceção de despesa irrelevante do § 3º. A omite os requisitos fiscais; B reduz indevidamente o horizonte e elimina a declaração; D desloca uma exigência prévia para relatório posterior.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "LRF: geração de despesa e estimativa de impacto",
+    "references": [
+      {
+        "label": "Lei Complementar nº 101/2000 — arts. 15 e 16, caput, §§ 2º a 4º",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm"
+      }
+    ]
+  },
+  {
+    "id": "financeiro-09",
+    "subjectId": "financeiro",
+    "subjectTitle": "Direito Financeiro",
+    "number": 9,
+    "prompt": "No último ano do mandato do Prefeito, o Município enfrenta insuficiência temporária de caixa e não possui operação anterior da mesma natureza em aberto. O Prefeito pretende contratar operação de crédito por antecipação de receita orçamentária para cobrir o caixa e liquidá-la até 10 de dezembro. Segundo a LRF, essa contratação é:",
+    "choices": {
+      "A": "Permitida, porque a insuficiência temporária de caixa é justamente a finalidade da operação.",
+      "B": "Permitida, desde que a Câmara Municipal autorize a contratação por maioria absoluta.",
+      "C": "Permitida, porque a inexistência de operação anterior não resgatada é o único impedimento relevante.",
+      "D": "Proibida, pois a LRF veda ARO no último ano do mandato do Prefeito, ainda que presentes as demais condições."
+    },
+    "answer": "D",
+    "explanation": "A alternativa D é correta. A ARO destina-se a atender insuficiência de caixa durante o exercício, mas o art. 38, IV, b, da LC 101/2000 a proíbe no último ano de mandato do Presidente, Governador ou Prefeito. A finalidade do caput, o resgate até 10 de dezembro e a inexistência de operação anterior não afastam a vedação expressa. A, B e C tratam de finalidade ou condições da operação como se eliminassem a proibição temporal; autorização legislativa isolada também não supera o art. 38, IV, b.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "LRF: operação de crédito por antecipação de receita",
+    "references": [
+      {
+        "label": "Lei Complementar nº 101/2000 — art. 38, caput e inciso IV, alíneas a e b",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm"
+      }
+    ]
+  },
+  {
+    "id": "financeiro-10",
+    "subjectId": "financeiro",
+    "subjectTitle": "Direito Financeiro",
+    "number": 10,
+    "prompt": "Uma autarquia recebe de uma empresa contratada um depósito-caução destinado a garantir a execução do contrato. O valor deverá ser devolvido ao final, se cumpridas as obrigações, e não pertence definitivamente à autarquia. Para fins da Lei de Orçamento, esse ingresso deve ser tratado como:",
+    "choices": {
+      "A": "Entrada compensatória no ativo e no passivo financeiros, não considerada para os fins do art. 3º da Lei nº 4.320/1964.",
+      "B": "Receita corrente, porque todo valor que ingressa no caixa integra a Lei de Orçamento.",
+      "C": "Receita de capital, porque a caução está vinculada a um contrato administrativo.",
+      "D": "Operação de crédito, que sempre depende de autorização específica na LOA."
+    },
+    "answer": "A",
+    "explanation": "A alternativa A é correta: o art. 3º, parágrafo único, da Lei nº 4.320/1964 exclui, para os fins da lei de orçamento, as operações de crédito por antecipação da receita, as emissões de papel-moeda e outras entradas compensatórias no ativo e passivo financeiros. O depósito-caução descrito é ingresso compensatório e restituível, não receita definitivamente pertencente ao ente. B confunde entrada de caixa com receita orçamentária; C inventa uma classificação de capital a partir do contrato; D confunde caução com operação de crédito.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Receita pública: ingressos extraorçamentários e entradas compensatórias",
+    "references": [
+      {
+        "label": "Lei nº 4.320/1964 — art. 3º, caput e parágrafo único",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l4320.htm"
+      }
+    ]
+  },
+  {
+    "id": "trabalho-07",
+    "subjectId": "trabalho",
+    "subjectTitle": "Direito do Trabalho",
+    "number": 7,
+    "prompt": "Uma empresa celebra por escrito contrato de experiência de 30 dias. Ao seu término, firma uma primeira prorrogação de 30 dias e, ao final dela, sem interrupção, firma uma segunda prorrogação de mais 30 dias. Considerando a CLT, assinale a alternativa correta.",
+    "choices": {
+      "A": "A segunda prorrogação é válida, porque o contrato totaliza apenas 90 dias.",
+      "B": "A primeira prorrogação já é inválida, pois contrato de experiência não admite prorrogação.",
+      "C": "Como o contrato por prazo determinado foi prorrogado mais de uma vez, ele passa a vigorar sem determinação de prazo, ainda que o total alcance 90 dias.",
+      "D": "A segunda prorrogação é válida, mas depende de convenção coletiva firmada pelo sindicato profissional."
+    },
+    "answer": "C",
+    "explanation": "O art. 451 da CLT determina que o contrato por prazo determinado prorrogado, tácita ou expressamente, mais de uma vez passa a vigorar sem determinação de prazo. A alternativa A confunde o limite temporal do contrato de experiência com a regra autônoma sobre o número de prorrogações; B nega a possibilidade de uma primeira prorrogação; e D cria exigência de negociação coletiva que não consta do dispositivo.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Contrato de experiência e prorrogação",
+    "references": [
+      {
+        "label": "Consolidação das Leis do Trabalho, art. 451",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del5452compilado.htm"
+      },
+      {
+        "label": "CLT, art. 451, texto legislativo oficial consultado",
+        "url": "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-publicacaooriginal-1-pe.html"
+      }
+    ]
+  },
+  {
+    "id": "trabalho-08",
+    "subjectId": "trabalho",
+    "subjectTitle": "Direito do Trabalho",
+    "number": 8,
+    "prompt": "Alfa, Beta e Gama são empresas com personalidades jurídicas próprias e têm os mesmos dois sócios. No processo ajuizado por empregado de Alfa, ficou registrado que não há direção, controle ou administração de uma empresa por outra e que não foi demonstrado interesse integrado, comunhão efetiva de interesses ou atuação conjunta. Sobre a responsabilidade de Beta, assinale a alternativa correta.",
+    "choices": {
+      "A": "A mera identidade de sócios não caracteriza grupo econômico; sem os demais elementos legais, não há responsabilidade solidária de Beta por esse fundamento.",
+      "B": "A identidade de sócios forma automaticamente grupo econômico e torna Beta solidariamente responsável.",
+      "C": "A autonomia patrimonial sempre impede grupo econômico, mesmo quando houver interesse integrado e atuação conjunta comprovados.",
+      "D": "Beta responde subsidiariamente, porque toda empresa com sócios em comum é responsável após o inadimplemento de Alfa."
+    },
+    "answer": "A",
+    "explanation": "O art. 2º, § 3º, da CLT afirma expressamente que a mera identidade de sócios não caracteriza grupo econômico e exige interesse integrado, efetiva comunhão de interesses e atuação conjunta. Como o enunciado afasta esses elementos, não há solidariedade de Beta com base em grupo econômico. B ignora o § 3º; C é absoluta, pois o § 2º admite grupo mesmo com autonomia das empresas quando configurados os requisitos; e D troca a regra de solidariedade do grupo por uma responsabilidade subsidiária sem fundamento no caso.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Grupo econômico e responsabilidade solidária",
+    "references": [
+      {
+        "label": "Consolidação das Leis do Trabalho, art. 2º, §§ 2º e 3º",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del5452compilado.htm"
+      },
+      {
+        "label": "CLT, art. 2º, §§ 2º e 3º, texto atualizado da Câmara dos Deputados",
+        "url": "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html"
+      }
+    ]
+  },
+  {
+    "id": "trabalho-09",
+    "subjectId": "trabalho",
+    "subjectTitle": "Direito do Trabalho",
+    "number": 9,
+    "prompt": "Uma empregada urbana cumpre jornada diária de oito horas. Não existe norma coletiva autorizando redução, mas a empresa concede apenas 30 minutos de intervalo para repouso e alimentação. Pela redação atual da CLT, qual é a consequência?",
+    "choices": {
+      "A": "A empresa deve pagar uma hora inteira, com acréscimo de 50% e natureza salarial.",
+      "B": "Nada é devido, pois a concessão de 30 minutos atende parcialmente à finalidade do intervalo.",
+      "C": "A empresa deve pagar os 30 minutos concedidos como horas extras, com adicional de 100%.",
+      "D": "A empresa deve pagar apenas os 30 minutos suprimidos, com acréscimo de 50% sobre a hora normal e natureza indenizatória."
+    },
+    "answer": "D",
+    "explanation": "Para trabalho contínuo superior a seis horas, o art. 71, caput, da CLT exige intervalo mínimo de uma hora. O § 4º prevê que a não concessão ou a concessão parcial gera pagamento apenas do período suprimido, com acréscimo de 50% e natureza indenizatória. Como foram concedidos 30 dos 60 minutos mínimos, são devidos somente os 30 minutos faltantes. A usa o período integral e natureza salarial; B ignora a consequência legal; e C trata o intervalo concedido como hora extra e aplica adicional sem base no dispositivo.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Intervalo intrajornada parcial",
+    "references": [
+      {
+        "label": "Consolidação das Leis do Trabalho, art. 71, caput e § 4º",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del5452compilado.htm"
+      },
+      {
+        "label": "CLT, art. 71, caput e § 4º, texto atualizado da Câmara dos Deputados",
+        "url": "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html"
+      }
+    ]
+  },
+  {
+    "id": "trabalho-10",
+    "subjectId": "trabalho",
+    "subjectTitle": "Direito do Trabalho",
+    "number": 10,
+    "prompt": "Após completar o período aquisitivo, uma empregada concorda com o fracionamento de suas férias em três períodos de 14, 5 e 11 dias corridos. Nenhum dos períodos começa nos dois dias que antecedem feriado ou repouso semanal remunerado. À luz da CLT, assinale a alternativa correta.",
+    "choices": {
+      "A": "O fracionamento é inválido, porque as férias devem ser gozadas sempre em um único período.",
+      "B": "O fracionamento é válido em princípio, pois há concordância da empregada, um período tem pelo menos 14 dias e os demais têm pelo menos cinco dias cada.",
+      "C": "O fracionamento é inválido, porque cada período deve ter no mínimo dez dias corridos.",
+      "D": "O fracionamento somente seria válido se autorizado por convenção coletiva, pois a concordância individual não basta."
+    },
+    "answer": "B",
+    "explanation": "O art. 134, § 1º, da CLT permite, com concordância do empregado, férias em até três períodos: um de pelo menos 14 dias corridos e os demais de pelo menos cinco dias cada. O § 3º também veda o início nos dois dias que antecedem feriado ou repouso semanal remunerado, condição respeitada no enunciado. A reproduz a regra anterior de período único; C usa requisito mínimo que não é o atual para os períodos menores; e D exige negociação coletiva sem previsão legal para esse fracionamento.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Fracionamento e início das férias",
+    "references": [
+      {
+        "label": "Consolidação das Leis do Trabalho, art. 134, §§ 1º e 3º",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del5452compilado.htm"
+      },
+      {
+        "label": "CLT, art. 134, §§ 1º e 3º, texto atualizado da Câmara dos Deputados",
+        "url": "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html"
+      }
+    ]
+  },
+  {
+    "id": "filosofia-07",
+    "subjectId": "filosofia",
+    "subjectTitle": "Filosofia do Direito",
+    "number": 7,
+    "prompt": "Em um seminário sobre uma lei que impede o proprietário de usar seu imóvel para bloquear deliberadamente o acesso dos vizinhos à via pública, a professora afirma que a coerção estatal não é necessariamente inimiga da liberdade: ela pode impedir uma ação que interfere na liberdade externa alheia, desde que a regra possa coexistir com a liberdade de todos sob uma lei universal. A formulação se aproxima de:",
+    "choices": {
+      "A": "a concepção kantiana do direito, para a qual a coerção pode ser compatível com a liberdade jurídica igual quando impede a interferência que destruiria a liberdade de outra pessoa.",
+      "B": "o utilitarismo clássico, porque toda coerção é correta quando produz a maior soma de felicidade, independentemente da liberdade jurídica.",
+      "C": "a posição original de Rawls, porque a validade da restrição depende de as partes desconhecerem sua posição social.",
+      "D": "a genealogia foucaultiana, porque a legitimidade da norma decorre da vigilância institucional que ela produz."
+    },
+    "answer": "A",
+    "explanation": "Para Kant, o direito diz respeito à liberdade externa, e uma coerção dirigida a impedir a interferência que impediria a liberdade de outra pessoa pode ser compatível com a liberdade de todos segundo uma lei universal. B troca esse fundamento pela maximização consequencialista do bem-estar; C atribui a Rawls seu dispositivo hipotético do véu da ignorância; D substitui a justificação normativa da liberdade por uma análise genealógica de poder, vigilância e normalização, associada a Foucault.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Kant: direito, liberdade externa e coerção jurídica",
+    "references": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy, Kant’s Social and Political Philosophy: liberdade externa, princípio do direito e coerção compatível com a liberdade",
+        "url": "https://plato.stanford.edu/entries/kant-social-political/"
+      }
+    ]
+  },
+  {
+    "id": "filosofia-08",
+    "subjectId": "filosofia",
+    "subjectTitle": "Filosofia do Direito",
+    "number": 8,
+    "prompt": "Uma comissão decide entre dois projetos de política pública. Ela compara os efeitos previsíveis para todas as pessoas atingidas e recomenda o que produz o maior bem-estar total, sem conceder peso especial ao interesse do decisor. A justificativa descrita é mais próxima de:",
+    "choices": {
+      "A": "a ética kantiana, pois o critério decisivo é a compatibilidade da máxima com a autonomia e com a humanidade como fim.",
+      "B": "o utilitarismo, como teoria consequencialista que busca maximizar imparcialmente o bem-estar geral.",
+      "C": "a justiça aristotélica corretiva, que apenas reequilibra uma relação particular entre partes.",
+      "D": "a posição original rawlsiana, que exige escolher princípios sem conhecer a posição social que se ocupará."
+    },
+    "answer": "B",
+    "explanation": "O utilitarismo é uma forma de consequencialismo: avalia a ação ou a política pelas consequências e procura maximizar o bem geral, contando imparcialmente o bem-estar das pessoas afetadas. A aponta para a autonomia e para a exigência kantiana de não tratar a humanidade apenas como meio, não para um saldo agregado; C descreve a justiça corretiva aristotélica, voltada ao reequilíbrio entre partes; D descreve o dispositivo hipotético de Rawls, não um cálculo de resultados.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Utilitarismo: consequencialismo, maximização e imparcialidade",
+    "references": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy, The History of Utilitarianism: consequencialismo, maximização do bem geral e imparcialidade",
+        "url": "https://plato.stanford.edu/entries/utilitarianism-history/"
+      }
+    ]
+  },
+  {
+    "id": "filosofia-09",
+    "subjectId": "filosofia",
+    "subjectTitle": "Filosofia do Direito",
+    "number": 9,
+    "prompt": "Uma comunidade passa a exigir regulação de uma plataforma digital após mudanças nas práticas sociais. O legislador identifica esses fatos, atribui valor à proteção da privacidade e formula uma norma. Um pesquisador sustenta que o fenômeno jurídico não é explicado adequadamente por qualquer desses elementos isolado, mas pela correlação entre eles no plano histórico-cultural. Essa perspectiva corresponde a:",
+    "choices": {
+      "A": "o normativismo de Kelsen, pois fato e valor são irrelevantes para a unidade e a validade do ordenamento.",
+      "B": "o contratualismo de Rawls, pois toda norma resulta de um acordo histórico efetivamente assinado pela comunidade.",
+      "C": "a teoria tridimensional de Miguel Reale, que integra fato, valor e norma como dimensões interdependentes da experiência jurídica.",
+      "D": "a genealogia de Foucault, pois a correlação entre os três elementos elimina a dimensão normativa do direito."
+    },
+    "answer": "C",
+    "explanation": "A teoria tridimensional de Miguel Reale procura a unidade do fenômeno jurídico pela correlação entre fato, valor e norma, referida ao plano histórico-cultural, e não pela soma mecânica de partes isoladas. A reduz a questão à validade normativa kelseniana; B transforma a construção rawlsiana em contrato histórico, quando a posição original é hipotética; D confunde a integração normativa de Reale com a análise foucaultiana de poder, instituições e saber.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Miguel Reale: teoria tridimensional do direito",
+    "references": [
+      {
+        "label": "Enciclopédia Jurídica da PUC-SP, Teoria Tridimensional do Direito: correlação entre fato, valor e norma em Miguel Reale",
+        "url": "https://enciclopediajuridica.pucsp.br/verbetes/tridimensional-do-direito-teoria/"
+      }
+    ]
+  },
+  {
+    "id": "filosofia-10",
+    "subjectId": "filosofia",
+    "subjectTitle": "Filosofia do Direito",
+    "number": 10,
+    "prompt": "Um tribunal julga caso difícil em que a legislação e os precedentes não oferecem resposta textual única. Ao decidir, o julgador não inventa uma regra ex nihilo nem escolhe segundo preferência pessoal: reconstrói o conjunto de decisões e princípios do sistema para oferecer a interpretação que melhor se ajusta à história institucional e a justifica como coerente. A descrição se associa a:",
+    "choices": {
+      "A": "a norma fundamental pressuposta de Kelsen, que explica a validade pela autorização de uma norma superior.",
+      "B": "o utilitarismo, que seleciona a interpretação exclusivamente pelo maior saldo agregado de bem-estar futuro.",
+      "C": "a posição original de Rawls, que exige que o juiz desconheça as consequências concretas do caso.",
+      "D": "o direito como integridade de Dworkin, que interpreta a prática institucional à luz de princípios e de coerência."
+    },
+    "answer": "D",
+    "explanation": "A descrição corresponde ao interpretativismo de Dworkin e à ideia de direito como integridade: a prática institucional deve ser tomada a sério e reconstruída mediante princípios que ofereçam consistência e a melhor justificação do conjunto. A trata da hierarquia de validade em Kelsen, não da interpretação coerente da prática; B desloca o problema para a maximização de consequências; C transforma um dispositivo hipotético de escolha de princípios em uma condição de julgamento concreto.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "topic": "Dworkin: direito como integridade e interpretação coerente",
+    "references": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy, Legal Interpretivism: Dworkin, história institucional, consistência de princípios e integridade",
+        "url": "https://plato.stanford.edu/entries/law-interpretivist/"
+      }
+    ]
   }
 ]

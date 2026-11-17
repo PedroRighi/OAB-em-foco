@@ -20,6 +20,8 @@ Na tela inicial, a ação principal será “Começar plano” enquanto a trilha
 
 O banco de questões continuará estático e será ampliado com novos exercícios autorais ou adaptados a partir de temas observados em provas oficiais anteriores. Questões novas terão identificação clara de que não são questões oficiais OAB/FGV, indicação da recorrência observada sem alegações estatísticas não demonstradas e referências à base jurídica aplicável. Os IDs existentes permanecerão inalterados para manter a integridade do histórico local de simulados.
 
+Em 17/11/2026, o usuário pediu pelo menos dez questões por matéria. A nova ampliação acrescenta quatro exercícios às 15 disciplinas que tinham seis, preservando os 144 itens existentes e as matérias que já possuem dez ou onze. O banco passa a 204 exercícios. Cada item novo terá tema, quatro alternativas, resposta única, comentário e fonte jurídica ou acadêmica verificada. Essas questões cobrem o programa sem receber alegação de recorrência não demonstrada; a etiqueta simples de tema é separada das notas comparativas dos itens anteriores.
+
 O treino individual permite selecionar uma única matéria e responder todas as questões disponíveis quando houver menos de 20, com meta proporcional de 90% arredondada para cima. O simulado semanal de 20/18 permanece separado; o botão de preparação semanal na trilha informa que atualiza a seleção de matérias e o recorte no simulador, sem iniciar nem concluir uma prova automaticamente. O foco de dez matérias não substitui as 20 disciplinas do edital; as outras dez permanecem acessíveis e são lembradas na revisão final.
 
 ## Arquitetura e dependências

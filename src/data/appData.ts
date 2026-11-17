@@ -14,6 +14,7 @@ export type OabQuestion = {
   answer: 'A' | 'B' | 'C' | 'D';
   explanation: string;
   source: string;
+  topic?: string;
   recurringTopic?: string;
   recurrenceNote?: string;
   references?: OabQuestionReference[];

@@ -159,25 +159,30 @@ test('calendário tem 40 dias, seis semanas, dez matérias e datas adaptadas', (
   assert.equal(new Set([...days, ...reviews].map((day) => day.key)).size, 48);
 });
 
-test('metas 20/18 e proporcional, 144 IDs únicos, 124 itens originais intactos', () => {
+test('metas 20/18 e proporcional, 204 IDs únicos e 144 itens anteriores intactos', () => {
   const h = harness();
   assert.equal(h.library.quizPassTarget(20), 18);
+  assert.equal(h.library.quizPassTarget(10), 9);
   assert.equal(h.library.quizPassTarget(11), 10);
   assert.equal(h.library.quizPassTarget(6), 6);
   const questions = JSON.parse(fs.readFileSync(path.join(root, 'src/data/questions.json')));
-  assert.equal(questions.length, 144);
-  assert.equal(new Set(questions.map((question) => question.id)).size, 144);
+  assert.equal(questions.length, 204);
+  assert.equal(new Set(questions.map((question) => question.id)).size, 204);
   const baseline = JSON.parse(execFileSync('git', ['show', '1cf324639bf08d7422e0cdf6342248a30947406:src/data/questions.json'], { cwd: root, encoding: 'utf8' }));
   assert.equal(baseline.length, 124);
   for (const question of baseline) assert.deepEqual(questions.find((item) => item.id === question.id), question);
+  const previous = JSON.parse(execFileSync('git', ['show', 'b0350d9a8a3ba790f020b1c351d7cfccb8e34f8e:src/data/questions.json'], { cwd: root, encoding: 'utf8' }));
+  assert.equal(previous.length, 144);
+  for (const question of previous) assert.deepEqual(questions.find((item) => item.id === question.id), question);
   const oldIds = new Set(baseline.map((question) => question.id));
   for (const question of questions.filter((item) => !oldIds.has(item.id))) {
     assert.equal(Object.keys(question.choices).length, 4);
     assert.ok(question.choices[question.answer]);
     assert.ok(question.source.startsWith('Questão autoral de treino'));
-    assert.ok(question.recurringTopic && question.recurrenceNote && question.references.length);
+    assert.ok((question.topic || question.recurringTopic) && question.references.length);
     for (const reference of question.references) assert.ok(reference.url.startsWith('https://'));
   }
+  for (const subject of h.load('src/data/subjects.ts').subjects) assert.ok(questions.filter((question) => question.subjectId === subject.id).length >= 10, subject.id);
   for (const subjectId of ['civil', 'penal', 'processo-trabalho', 'tributario']) assert.equal(questions.filter((question) => question.subjectId === subjectId).length, 11);
 });
 
@@ -196,4 +201,19 @@ test('renderização da trilha e do treino individual conserva rótulos e limite
   assert.ok(mockHtml.includes('Treino só de Civil'));
   assert.ok(mockHtml.includes('11 questões'));
   assert.ok(mockHtml.includes('18 de 20 acertos'));
+});
+
+test('todas as 20 disciplinas oferecem treino individual com dez ou onze questões', () => {
+  const h = harness();
+  const subjects = h.load('src/data/subjects.ts').subjects;
+  const questions = JSON.parse(fs.readFileSync(path.join(root, 'src/data/questions.json')));
+  const Mock = h.load('src/pages/MockExamPage.tsx').default;
+  for (const subject of subjects) {
+    h.set({ ...h.current(), selectedWeekSubjects: [subject.id] });
+    const count = questions.filter((question) => question.subjectId === subject.id).length;
+    const html = renderToStaticMarkup(React.createElement(MemoryRouter, null, React.createElement(Mock)));
+    assert.ok(html.includes(`Treino só de ${subject.shortTitle}`), subject.id);
+    assert.ok(html.includes(`${count} questões`), subject.id);
+    assert.ok(count === 10 || count === 11, subject.id);
+  }
 });

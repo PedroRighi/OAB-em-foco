@@ -142,7 +142,7 @@ export default function MockExamPage() {
         <section className="new-quiz-prompt"><div className="new-quiz-icon"><Copy size={18} /></div><div className="new-quiz-copy"><span className="eyebrow">{available.length < 20 ? 'AINDA FALTAM QUESTÕES NO BANCO' : 'RECORTE PERSONALIZADO POR TÓPICOS'}</span><h2>Peça um simulado novo com seu conteúdo</h2><p>{available.length < 20 ? 'O banco local ainda não tem 20 questões dessas disciplinas. Copie o pedido abaixo e use no chat para solicitar um simulado novo, restrito ao conteúdo estudado.' : 'O simulado local filtra por disciplina. Para um recorte exato dos tópicos da semana ou questões inéditas, copie este pedido e use no chat.'} Inclua os tópicos específicos da semana no campo de recorte.</p><textarea readOnly value={createPrompt(selected, progress.weeklyTopics)} rows={5} aria-label="Pedido de simulado personalizado" /><button type="button" className="button button-gold" onClick={copyPrompt}><Copy size={15} />{copied === 'copied' ? 'Pedido copiado' : 'Copiar pedido para o chat'}</button>{copied === 'failed' && <small className="clipboard-fallback">A cópia automática não ficou disponível. Selecione o texto acima e copie manualmente.</small>}</div></section>
       )}
       {available.length === 0 && <div className="exam-empty-tip"><InfoIcon /> Marque ao menos uma disciplina para ver quantas questões do banco estão disponíveis.</div>}
-      <p className="exam-disclaimer">Nenhum item deste banco é apresentado como questão oficial da OAB/FGV. Os exercícios autorais ou adaptados servem para revisar a legislação e temas observados em provas anteriores. Na correção, as novas questões mostram o tema, a evidência de recorrência e fontes oficiais para conferência.</p>
+      <p className="exam-disclaimer">Nenhum item deste banco é apresentado como questão oficial da OAB/FGV. Os exercícios autorais ou adaptados servem para revisar o programa de estudo. Na correção, as questões novas mostram o tema e fontes jurídicas ou acadêmicas para conferência; evidência de recorrência aparece apenas nos itens em que houve comparação documentada de provas.</p>
     </div>
   );
 }
@@ -169,7 +169,7 @@ function ResultReview({ result, onBack }: { result: QuizResult; onBack: () => vo
             <div className="answer-explanation">
               <strong>Gabarito: {question.answer}.</strong>
               <p>{question.explanation}</p>
-              {question.recurringTopic && <p className="question-recurrence"><strong>Tema para revisão:</strong> {question.recurringTopic}</p>}
+              {(question.topic || question.recurringTopic) && <p className="question-recurrence"><strong>Tema para revisão:</strong> {question.topic || question.recurringTopic}</p>}
               {question.recurrenceNote && <p className="question-recurrence-note">{question.recurrenceNote}</p>}
               {question.references?.length ? <div className="question-references"><strong>Fontes consultáveis:</strong><ul>{question.references.map((reference) => <li key={reference.url}><a href={reference.url} target="_blank" rel="noreferrer">{reference.label}</a></li>)}</ul></div> : null}
             </div>

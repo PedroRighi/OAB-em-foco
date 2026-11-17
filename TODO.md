@@ -72,3 +72,9 @@
 - [x] Não prometer mentorias, aulas fechadas nem simulados oficiais VDE/OAB; manter as outras dez disciplinas acessíveis e lembrar que dez matérias não cobrem todo o edital.
 
 Evidências de entrega em 17/11/2026: `pnpm typecheck`, `pnpm build`, `node --test tests/compatibility.cjs` e comparação dos 124 itens anteriores; revisão somente leitura dos novos caminhos. Os testes usam estado sintético e armazenamento falso. Auto Publish confirmado desligado; publicação permanece uma ação separada, não autorizada por esta alteração.
+
+## 13. No mínimo dez questões por disciplina
+- [x] Ampliar o banco para que cada uma das 20 matérias tenha pelo menos dez questões; acrescentar quatro às 15 disciplinas que tinham seis, mantendo as matérias que já tinham dez ou onze. Total: 204 questões, 16 matérias com dez e quatro com onze.
+- [x] Novos exercícios autorais com quatro alternativas, uma única correta, comentário explicativo, tema e referências verificadas em fontes jurídicas ou acadêmicas pertinentes; não chamar os exercícios de oficiais nem alegar frequência de prova sem evidência.
+- [x] Preservar integralmente os 144 itens e IDs atuais, o histórico local, o treino individual e o simulado semanal de 20 questões/meta 18; não acessar nem alterar o progresso real durante testes. A comparação confirmou os 144 itens anteriores idênticos.
+- [x] Atualizar a contagem da interface a partir do banco, executar as checagens e salvar a versão sem publicar; manter Auto Publish desligado.
