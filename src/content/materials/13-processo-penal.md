@@ -183,6 +183,125 @@ D) Produz automaticamente indenização civil à vítima.
 
 **6. B.** A transação penal prevista no art. 76 da Lei 9.099/1995 é proposta pelo Ministério Público, se presentes requisitos e ausentes vedações, e sua aplicação não importa reincidência nem efeitos civis. Não se confunde com o ANPP, que tem requisitos e disciplina próprios no CPP, art. 28-A.
 
+## Aprofundamento VDE — Ação penal
+
+> Síntese própria do material VDE 40 dias – Exame 48 (aula "Ação Penal (parte 2)"), conferida com a legislação vigente em 17/11/2026.
+
+### O que o tema exige na prova
+
+Ação penal é o elo entre o fato criminoso e o processo: define quem acusa, por qual peça e sob quais condições. A prova costuma trazer um caso curto e pedir a providência cabível: denúncia ou queixa, falta de representação, prazo esgotado.
+
+O segundo eixo é o controle de prazos: decadência contada do conhecimento da autoria, distinta da prescrição, e a diferença entre oferecimento e recebimento da peça.
+
+O terceiro reúne os institutos que evitam o processo — transação, sursis processual e ANPP — e o assistente de acusação.
+
+### Conceitos essenciais
+
+**Regra geral.** A ação penal é pública, salvo quando a lei a declara privativa do ofendido (CP, art. 100). Silêncio da lei significa ação pública **incondicionada**, que não depende da vontade da vítima nem de provocação de autoridade. A peça do Ministério Público é a **denúncia**; a do ofendido, a **queixa-crime**.
+
+**Princípios da pública.** A ação é **oficial**, **obrigatória** (havendo justa causa — lastro mínimo de autoria e materialidade —, o órgão deve denunciar), **indisponível** (não há desistência da ação ou do recurso; CPP, art. 42) e **divisível**. A indisponibilidade não impede o pedido de absolvição nas alegações finais.
+
+**Prazos.** Réu preso: **5 dias**; solto ou afiançado: **15 dias**, do recebimento dos autos pelo órgão ministerial (CPP, art. 46). São impróprios: o atraso não extingue a punibilidade, mas abre a via privada subsidiária e pode gerar responsabilização funcional.
+
+**Condicionada à representação.** A representação é **condição de procedibilidade**; sem ela, a denúncia é rejeitada (CPP, art. 395, II). Pode ser escrita ou oral, ao juiz, ao Ministério Público ou à autoridade policial, pessoalmente ou por procurador com poderes especiais (CPP, art. 39). Morto ou declarado ausente o ofendido, o direito passa ao cônjuge, ascendente, descendente ou irmão (CPP, arts. 24, § 1º, e 31). Torna-se **irretratável depois de oferecida a denúncia** (CPP, art. 25; CP, art. 102). Exemplos: lesões leves e culposas (Lei 9.099/1995, art. 88) e crimes contra a honra.
+
+**Decadência.** Prazo de **6 meses** do dia em que o ofendido soube quem foi o autor — não da data do fato (CPP, art. 38; CP, art. 103). É prazo material: inclui o dia do começo (CP, art. 10), então, conhecida a autoria em 12 de agosto, o termo final é 11 de fevereiro. Não se suspende nem se interrompe e extingue a punibilidade (CP, art. 107, IV). **Atualização:** na violência doméstica e familiar contra a mulher, o prazo passou a **12 meses** (CP, art. 103, parágrafo único; CPP, art. 38, § 2º; Lei 11.340/2006, art. 16-A — Lei 15.438/2026).
+
+**Retratação na Lei Maria da Penha.** Só se admite **perante o juiz, em audiência especialmente designada, antes do recebimento da denúncia e ouvido o Ministério Público** (Lei 11.340/2006, art. 16). A Lei 15.380/2026 acrescentou que a audiência confirma a **retratação**, não a representação, e só é designada se a vítima manifestar esse desejo antes do recebimento.
+
+**Requisição do Ministro da Justiça.** Ato **discricionário**, que não vincula o Ministério Público, **irretratável** e **sem prazo decadencial**. Hipótese típica: crime contra a honra do Presidente da República (CP, art. 145, parágrafo único).
+
+**Privada exclusiva e subsidiária.** Na exclusiva, o titular é o ofendido, com os princípios da **oportunidade**, da **disponibilidade** e da **indivisibilidade** (a queixa contra um autor obriga ao processo de todos — CPP, art. 48; a renúncia a um se estende aos demais — art. 49). A **subsidiária** cabe se o Ministério Público não denuncia no prazo legal (CF, art. 5º, LIX; CPP, art. 29): a queixa é proposta em 6 meses do fim do prazo da denúncia (CPP, art. 38), e o Ministério Público pode aditar, repudiar, oferecer denúncia substitutiva ou retomar a ação.
+
+**Extinção própria da privada.** **Renúncia** é a desistência antes da queixa (CPP, arts. 49 e 50; CP, art. 104); **perdão** é ato posterior, que depende de aceitação (CPP, arts. 51 a 59); **perempção** é a perda do direito de prosseguir por inércia ou abandono (art. 60).
+
+**Assistente de acusação.** O ofendido, seu representante legal ou as pessoas do art. 31 podem intervir na ação pública até o trânsito em julgado (CPP, arts. 268 e 269). O Ministério Público é ouvido antes, e o despacho é irrecorrível (arts. 272 e 273). O assistente propõe provas, formula perguntas, adita o libelo e os articulados, participa dos debates e arrazoa recursos (art. 271); o corréu não pode ser assistente (art. 270).
+
+**ANPP.** Ajuste entre Ministério Público e investigado, com defensor, para infração **sem violência ou grave ameaça** e **pena mínima inferior a 4 anos**, com confissão formal e circunstancial (CPP, art. 28-A). As condições do art. 28-A (reparação, renúncia a bens, serviços à comunidade, prestação pecuniária e outra condição) são cumulativas ou alternativas. Não cabe quando for cabível transação penal, quando houver reincidência ou conduta habitual, quando o agente tiver sido beneficiado nos 5 anos anteriores por ANPP, transação ou sursis processual, ou em violência doméstica em favor do agressor. Homologado em audiência de voluntariedade e legalidade, é executado no juízo da execução; cumprido, extingue a punibilidade. Da recusa de homologação cabe recurso em sentido estrito (CPP, art. 581, XXV); da recusa do Ministério Público, remessa ao órgão superior (§ 14).
+
+### Base legal
+
+- **CF, art. 5º, LIX** — ação privada nos crimes de ação pública quando a denúncia não é intentada no prazo legal.
+- **CP, art. 100** — a ação é pública, salvo quando a lei a declara privativa do ofendido.
+- **CPP, arts. 24 e 25** — denúncia, representação, requisição e irretratabilidade após o oferecimento.
+- **CPP, arts. 29 a 31** — ação privada subsidiária e sucessão.
+- **CP, art. 103 e CPP, art. 38** — decadência em 6 meses; 12 meses na violência doméstica.
+- **CPP, art. 39** — forma e legitimidade da representação.
+- **CPP, art. 45 e art. 46** — aditamento da queixa em 3 dias; 5 dias com réu preso e 15 com réu solto.
+- **CPP, arts. 48 a 51 e art. 60** — indivisibilidade, renúncia, perdão e perempção.
+- **CPP, arts. 268 a 273** — assistente de acusação.
+- **CPP, art. 28-A e art. 581, XXV** — ANPP e recurso contra a recusa de homologação.
+- **Lei 9.099/1995, arts. 76, 88 e 89** — transação, representação nas lesões e sursis processual.
+- **Lei 11.340/2006, arts. 16 e 16-A** — audiência de retratação e prazo de 12 meses.
+- **Súmula 714 do STF** — legitimidade concorrente nos crimes contra a honra de servidor público.
+
+### Quadro comparativo
+
+| Espécie | Titular e peça | Condição de procedibilidade | Prazo | Marca distintiva |
+| --- | --- | --- | --- | --- |
+| Pública incondicionada | Ministério Público — denúncia | Nenhuma | 5 dias (preso) ou 15 (solto) | Regra geral |
+| Condicionada à representação | Ministério Público — denúncia | Representação | 6 meses da ciência da autoria (12 na violência doméstica) | Irretratável após o oferecimento |
+| Condicionada à requisição | Ministério Público — denúncia | Requisição do Ministro da Justiça | Sem decadência | Ato discricionário e irretratável |
+| Privada exclusiva | Ofendido — queixa-crime | Legitimidade | 6 meses da ciência da autoria | Indivisível; renúncia e perdão |
+| Privada subsidiária | Ofendido — queixa-crime | Inércia do Ministério Público | 6 meses do fim do prazo da denúncia | Ministério Público pode aditar ou retomar |
+| ANPP | Ministério Público e investigado | Confissão e requisitos do art. 28-A | Antes da denúncia | Pena mínima abaixo de 4 anos, sem violência |
+
+### Pegadinhas e pontos de atenção
+
+1. **Erro comum:** dizer que a representação se torna irretratável com o recebimento da denúncia. **Regra correta:** a irretratabilidade surge com o **oferecimento** (CPP, art. 25); na violência doméstica, aplica-se o art. 16 da Lei 11.340/2006.
+2. **Erro comum:** contar a decadência da data do fato ou falar em "180 dias". **Regra correta:** são **6 meses** do dia em que o ofendido soube quem foi o autor, incluído o dia inicial (CP, art. 10); **12 meses** na violência doméstica.
+3. **Erro comum:** confundir decadência com prescrição. **Regra correta:** a decadência é a perda do direito de queixa ou representação por inércia do ofendido; a prescrição atinge a pretensão punitiva do Estado.
+4. **Erro comum:** afirmar que perder os 5 ou 15 dias do art. 46 gera decadência. **Regra correta:** o prazo é impróprio; o efeito é abrir a **ação privada subsidiária** (CF, art. 5º, LIX).
+5. **Erro comum:** deixar o querelante processar apenas um dos autores. **Regra correta:** a privada é **indivisível** (CPP, art. 48), e a renúncia a um autor aproveita a todos (art. 49).
+6. **Erro comum:** admitir ANPP em crime com violência ou quando cabível transação. **Regra correta:** o art. 28-A, § 2º, veda ambas as hipóteses, além da reincidência e do benefício nos 5 anos anteriores.
+
+### Caso prático resolvido
+
+Em 12 de agosto de 2026, Ana sofre lesões leves de um desconhecido em discussão de trânsito e identifica o agressor na mesma data, ao reconhecê-lo em vídeo. Em 10 de fevereiro de 2027, representa na delegacia. O Ministério Público denuncia em 20 de fevereiro e, em 1º de março, antes do recebimento, Ana quer se retratar.
+
+1. **Classificar.** Lesão leve é crime de ação pública condicionada à representação (Lei 9.099/1995, art. 88).
+2. **Contar o prazo.** Seis meses da ciência da autoria, incluído o dia inicial (CPP, art. 38; CP, art. 10): termo final em 11 de fevereiro de 2027; a representação é **tempestiva**.
+3. **Checar a forma.** A manifestação oral na delegacia vale, reduzida a termo (CPP, art. 39).
+4. **Examinar a retratação.** Oferecida a denúncia em 20 de fevereiro, a representação tornou-se **irretratável** (CPP, art. 25). Não é violência doméstica, logo não há a audiência do art. 16 da Lei 11.340/2006.
+5. **Conclusão.** Ana não pode mais se retratar; a defesa deve discutir o mérito no processo.
+
+### Fixação rápida
+
+**1.** Servidor público é injuriado em razão da função. Sobre a ação penal:
+A) só o Ministério Público age, sem representação.
+B) só o ofendido age, por queixa.
+C) a legitimidade é concorrente: queixa do ofendido ou denúncia do Ministério Público, mediante representação.
+D) depende de requisição do Ministro da Justiça.
+
+**Gabarito:** C. Súmula 714 do STF: legitimidade concorrente nos crimes contra a honra de servidor público em razão da função.
+
+**2.** O Ministério Público recebe inquérito com réu preso e não denuncia em 5 dias. Consequência:
+A) decadência do direito de ação do Estado.
+B) nulidade do inquérito.
+C) extinção automática da punibilidade.
+D) abertura da ação privada subsidiária, podendo o Ministério Público retomar a ação.
+
+**Gabarito:** D. O prazo do art. 46 do CPP é impróprio; esgotado, cabe queixa (CF, art. 5º, LIX; CPP, art. 29), mantendo o Ministério Público ampla intervenção.
+
+**3.** Sobre o ANPP:
+A) cabe em qualquer infração, bastando a confissão.
+B) exige infração sem violência ou grave ameaça e pena mínima inferior a 4 anos, entre outros requisitos.
+C) substitui a transação penal nos Juizados.
+D) recusada a homologação, não há recurso.
+
+**Gabarito:** B. O art. 28-A do CPP exige confissão formal e circunstancial, ausência de violência ou grave ameaça e pena mínima inferior a 4 anos; é vedado quando cabível transação (§ 2º, I), e da recusa cabe RESE (art. 581, XXV).
+
+### Referências consultadas
+
+- [Constituição Federal de 1988](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) — art. 5º, LIX: ação privada subsidiária.
+- [Código Penal](https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm) — arts. 100 a 106: ação penal, decadência e perdão.
+- [Código de Processo Penal](https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm) — arts. 24 a 62, 268 a 273, 28-A e 581.
+- [Lei 9.099/1995](https://www.planalto.gov.br/ccivil_03/leis/l9099.htm) — transação, representação e sursis.
+- [Lei 11.340/2006](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm) — arts. 16 e 16-A.
+- [Lei 13.964/2019](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13964.htm) — art. 28-A do CPP.
+- [Lei 15.438/2026](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15438.htm) — prazo de 12 meses na violência doméstica.
+- [Súmula 714 do STF](https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=30&sumula=2632) — legitimidade concorrente.
+
 ## Checklist de revisão
 
 - [ ] Sei distinguir princípios constitucionais, sistema acusatório e aplicação imediata da lei processual.

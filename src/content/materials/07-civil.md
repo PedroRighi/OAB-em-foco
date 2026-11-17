@@ -203,6 +203,128 @@ D) O cônjuge nunca concorre com descendentes.
 - [ ] Confiro herdeiros necessários, legítima, ordem sucessória e efeitos do Tema 809 do STF.
 - [ ] Confiro edital específico e alterações legislativas/jurisprudenciais até a data da prova.
 
+## Aprofundamento VDE — Modalidades das obrigações
+
+> Síntese própria do material VDE 40 dias – Exame 48 (aula "Obrigações: modalidades das obrigações (parte 1)"), conferida com a legislação vigente em 17/11/2026.
+
+### O que o tema exige na prova
+
+Classificar a obrigação é o primeiro passo para resolver as questões de Direito Civil. Antes de discutir inadimplemento ou perdas e danos, é preciso identificar a prestação devida, os sujeitos e o regime aplicável. Um erro nessa etapa contamina toda a resposta.
+
+A prova cobra a consequência prática: quem suporta o risco antes da tradição, quem escolhe na coisa incerta e na alternativa, quando a prestação é fungível e o que muda com a pluralidade de credores ou devedores.
+
+O bloco legal vai do art. 233 ao art. 285 do Código Civil. A aula do material VDE destaca dar, fazer, não fazer e alternativa; o mesmo capítulo também disciplina as obrigações divisíveis, indivisíveis e solidárias, aqui incluídas para fechar o programa.
+
+### Conceitos essenciais
+
+**Relação obrigacional e classificação.** A obrigação é o vínculo entre credor (sujeito ativo) e devedor (sujeito passivo), tendo por objeto prestação de dar, fazer ou não fazer, lícita, possível e determinável (art. 104, II). Com duas ou mais prestações e só uma devida, é **alternativa**; com uma devida e outra apenas substitutiva, é **facultativa**. Quanto aos sujeitos, é divisível, indivisível ou solidária.
+
+**Dar coisa certa: entregar.** A coisa é individualizada; a obrigação abrange os acessórios, salvo disposição contrária (art. 233). Tratando-se de bem móvel, a propriedade passa com a tradição (art. 1.267). Antes dela: perda sem culpa resolve para ambos (art. 234); com culpa, equivalente e perdas e danos. Deterioração sem culpa: o credor resolve ou aceita com abatimento (art. 235); com culpa: equivalente ou aceitação com perdas e danos (art. 236).
+
+**Dar coisa certa: restituir.** O credor já é dono; o devedor apenas devolve. Perda sem culpa é suportada pelo credor, com resolução (art. 238); com culpa, o devedor paga equivalente e perdas e danos (art. 239). Deterioração sem culpa: o credor recebe como está, sem indenização (art. 240); com culpa, aplica-se o art. 239.
+
+**Melhoramentos e frutos.** Até a tradição, a coisa é do devedor com melhoramentos e acrescidos; ele pode exigir aumento no preço ou resolver se o credor recusar (art. 237). Frutos percebidos são do devedor; pendentes, do credor. Na restituição, melhoria sem despesa beneficia o credor (art. 241); com trabalho ou dispêndio, valem as benfeitorias: boa-fé recebe necessárias e úteis e pode levantar voluptuárias; má-fé só necessárias (arts. 1.219 e 1.220).
+
+**Coisa incerta.** É indicada ao menos por gênero e quantidade (art. 243). A escolha é do devedor, salvo estipulação; ele não dá a pior nem é obrigado à melhor (art. 244). Cientificado o credor, vale o regime da coisa certa (art. 245). Antes da escolha, não se alega perda nem por força maior (art. 246).
+
+**Fazer.** Fungível quando outro pode executar; infungível quando as qualidades do devedor ou o contrato impedem a substituição. Recusa personalíssima gera perdas e danos (art. 247). Impossibilidade sem culpa resolve; com culpa, indeniza (art. 248). Se fungível, terceiro executa à custa do devedor, havendo recusa ou mora; em urgência, sem autorização judicial (art. 249).
+
+**Não fazer.** O objeto é abstenção. Impossibilidade sem culpa extingue (art. 250). Praticado o ato, o credor exige o desfazimento à custa do devedor, com perdas e danos; em urgência, desfaz diretamente (art. 251). Dizer que a obrigação é instantânea ou permanente é descritivo: importa saber se o ato pode ser desfeito.
+
+**Alternativa.** Duas ou mais prestações, uma devida; escolha do devedor, salvo estipulação (art. 252). O devedor não pode obrigar o credor a receber parte de uma e parte de outra (§ 1º); em prestações periódicas, a opção vale em cada período (§ 2º); havendo pluralidade de optantes ou terceiro impedido, decide o juiz (§§ 3º e 4º). Uma prestação impossível: subsiste a outra (art. 253). Ambas impossíveis por culpa e escolha do devedor: valor da última mais perdas e danos (art. 254). Escolha do credor: prestação subsistente ou valor da outra, com perdas e danos; ambas impossíveis: valor de qualquer uma mais indenização (art. 255). Sem culpa, extingue-se (art. 256). Na facultativa, só uma é devida; a substituta é faculdade, não objeto exigível.
+
+**Divisíveis e indivisíveis.** Com vários sujeitos, a obrigação divisível presume-se dividida em quotas iguais (art. 257). A indivisibilidade decorre da natureza, de razão econômica ou do fim do negócio (art. 258). Vários devedores: cada um deve o todo; quem paga sub-roga-se (art. 259). Vários credores: cada um exige o todo, mas o devedor paga a todos ou a um com caução (art. 260). A indivisibilidade desaparece em perdas e danos (art. 263).
+
+**Solidárias.** Vários credores ou devedores, cada um com direito ou dever ao todo (art. 264); a solidariedade não se presume, vem da lei ou da vontade (art. 265). Na ativa, cada credor exige o todo (art. 267). Na passiva, o credor cobra de um ou de alguns, total ou parcialmente; o pagamento parcial mantém os demais e a ação contra um não renuncia à solidariedade (art. 275). Culpa de um: todos devem o equivalente, só o culpado indeniza (art. 279). Quem paga tudo tem regresso e rateio do insolvente (art. 283). A solidariedade subsiste em perdas e danos (art. 271), ao contrário da indivisibilidade (art. 263).
+
+### Base legal
+
+- **CC, arts. 233 a 237** — coisa certa na entrega: acessórios, perda, deterioração, melhoramentos e frutos.
+- **CC, arts. 238 a 242** — coisa certa na restituição: risco, deterioração, melhoramentos e benfeitorias.
+- **CC, arts. 243 a 246** — coisa incerta: gênero e quantidade, escolha e perda antes da escolha.
+- **CC, arts. 247 a 249** — fazer: recusa personalíssima, impossibilidade e execução por terceiro.
+- **CC, arts. 250 e 251** — não fazer: impossibilidade e desfazimento.
+- **CC, arts. 252 a 256** — alternativa: escolha e impossibilidade.
+- **CC, arts. 257 a 263** — divisíveis e indivisíveis.
+- **CC, arts. 264 a 285** — solidariedade ativa e passiva.
+- **CC, arts. 313, 1.219, 1.220 e 1.267** — identidade da prestação, benfeitorias e tradição.
+- **CPC, arts. 497, 536 e 806 a 817** — tutela específica e execução das obrigações.
+
+### Quadro comparativo
+
+| Modalidade | Regra central | Perda ou impossibilidade | Artigos |
+| --- | --- | --- | --- |
+| Dar certa — entregar | Devedor é dono até a tradição | Sem culpa: resolve para ambos; com culpa: equivalente e danos | 233, 234, 1.267 |
+| Dar certa — restituir | Devedor devolve coisa que já é do credor | Sem culpa: credor suporta; com culpa: equivalente e danos | 238 a 240 |
+| Dar incerta | Escolha do devedor, sem dar a pior | Antes da escolha, não alega perda nem força maior | 243 a 246 |
+| Fazer fungível | Terceiro executa à custa do devedor | Sem culpa: resolve; com culpa: danos | 248, 249 |
+| Fazer infungível | Recusa gera perdas e danos | Sem culpa: resolve; com culpa: danos | 247, 248 |
+| Não fazer | Descumprimento: desfazer e indenizar | Sem culpa: extingue | 250, 251 |
+| Alternativa | Escolha do devedor; sem cumprimento parcial | Uma impossível: subsiste a outra; ambas com culpa: valor da última e danos | 252 a 256 |
+| Solidária e indivisível | Solidariedade: lei ou vontade; indivisibilidade: natureza ou fim | Solidariedade subsiste; indivisibilidade desaparece | 257 a 285 |
+
+### Pegadinhas e pontos de atenção
+
+1. **Coisa certa x incerta:** dizer que a certa é definida só por gênero e quantidade e que a incerta não tem gênero. **Regra correta:** a certa é individualizada; a incerta é indicada ao menos por gênero e quantidade (art. 243).
+2. **Restituir sem culpa:** achar que o devedor paga o equivalente. **Regra correta:** o credor suporta a perda (art. 238); o equivalente só é devido com culpa (art. 239).
+3. **Coisa incerta antes da escolha:** alegar caso fortuito. **Regra correta:** o art. 246 veda a alegação, pois o gênero não perece.
+4. **Alternativa:** admitir cumprimento parcial. **Regra correta:** o art. 252, § 1º, proíbe; a escolha recai sobre uma prestação inteira.
+5. **Solidariedade:** presumi-la pela pluralidade de devedores. **Regra correta:** só resulta de lei ou vontade (art. 265); na obrigação divisível, a pluralidade gera divisão presumida (art. 257).
+6. **Fazer infungível:** mandar terceiro executar. **Regra correta:** a recusa gera perdas e danos (art. 247); a execução por terceiro do art. 249 pressupõe prestação fungível.
+
+### Caso prático resolvido
+
+Renata vendeu a Otávio um violoncelo antigo e individualizado por R$ 60.000, com pagamento integral na assinatura e entrega em 30 dias. Vinte dias depois, antes da tradição, o instrumento foi destruído em incêndio no ateliê dela, sem culpa dela. Otávio pede a devolução do preço e o equivalente; Renata diz que nada deve. Como resolver? E se Renata tivesse deixado uma vela acesa no ateliê?
+
+1. **Classifique:** é obrigação de dar coisa certa, modalidade entregar, pois a coisa é individualizada e a finalidade é transferir a propriedade.
+2. **Fixe o momento:** a perda ocorreu antes da tradição. O art. 237 mantém a coisa com o devedor até a tradição, mas o risco está no art. 234.
+3. **Verifique a culpa:** sem culpa, a obrigação se resolve para ambos (art. 234); não há equivalente nem perdas e danos.
+4. **Ajuste o preço:** o pagamento antecipado fica sem causa e deve ser devolvido, pois a resolução tem efeito restitutório.
+5. **Com culpa, mude o resultado:** se Renata deixou a vela acesa, ela responde pelo equivalente e por perdas e danos (art. 234), acertando-se o preço já pago.
+
+### Fixação rápida
+
+**1.** Um produtor obriga-se a entregar 200 sacas de café, sem indicar qualidade ou origem. Antes da escolha, uma geada destrói a safra que ele pretendia destinar ao contrato. Assinale a correta:
+
+A) A obrigação se resolve, porque a perda ocorreu sem culpa.
+
+B) O devedor pode alegar caso fortuito, pois a coisa ainda não foi escolhida.
+
+C) A obrigação subsiste, e o devedor não pode alegar a perda, ainda que por força maior, antes da escolha.
+
+D) A escolha passa ao credor, que deve indicar outra qualidade.
+
+**Gabarito:** C. A obrigação é de coisa incerta (art. 243); antes da escolha, o devedor não alega perda nem por força maior (art. 246). A escolha continua com ele (art. 244).
+
+**2.** Marta entregou a Hugo, em comodato, uma máquina fotográfica antiga e individualizada. Antes da devolução, a máquina foi furtada da casa de Hugo, sem culpa dele. Não havia seguro. Assinale a correta:
+
+A) Hugo deve pagar o equivalente, pois estava na posse da coisa.
+
+B) Hugo deve pagar o equivalente e perdas e danos, salvo caso fortuito.
+
+C) Marta suporta a perda, e a obrigação de restituir se resolve, ressalvados seus direitos até o dia da perda.
+
+D) A obrigação se converte em obrigação de fazer, para que Hugo adquira outra máquina.
+
+**Gabarito:** C. Na restituição, a perda sem culpa é suportada pelo credor, que já era proprietário (art. 238). O equivalente só seria devido com culpa (art. 239).
+
+**3.** Dois devedores solidários obrigaram-se a entregar uma escultura indivisível. Por culpa exclusiva de um deles, a escultura foi destruída. Assinale a correta:
+
+A) A solidariedade desaparece com a conversão em perdas e danos, e cada um responde por metade.
+
+B) Todos respondem pelo equivalente, mas apenas o culpado responde pelas perdas e danos.
+
+C) Apenas o culpado responde pelo equivalente e pelas perdas e danos.
+
+D) A obrigação se resolve para todos, porque a prestação se tornou impossível.
+
+**Gabarito:** B. A culpa de um devedor solidário mantém todos obrigados ao equivalente, mas só o culpado indeniza perdas e danos (art. 279). A solidariedade subsiste na conversão (art. 271); a indivisibilidade não solidária desapareceria (art. 263).
+
+### Referências consultadas
+
+- [Código Civil — Lei nº 10.406/2002](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm) — arts. 233 a 285, 313, 1.219 a 1.222 e 1.267.
+- [Código de Processo Civil — Lei nº 13.105/2015](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm) — arts. 497, 536 e 806 a 817.
+
 ## Referências oficiais
 
 [1]: https://oab.fgv.br/arq/649/604111_46%20eou.%20edital%20de%20abertura..pdf "Conselho Federal da OAB e FGV, Edital de Abertura do 46º Exame de Ordem Unificado, Anexo II, programa de Direito Civil e regras da prova objetiva"

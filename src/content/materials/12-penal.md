@@ -197,6 +197,227 @@ D) Tempo é regido pela intenção; lugar, pela territorialidade absoluta.
 - [ ] Leio a redação vigente da LEP, inclusive alteração de 2026 do art. 112.
 - [ ] Confiro o edital específico e alterações legais/jurisprudenciais oficiais antes do exame.
 
+## Aprofundamento VDE — Fato típico: tipicidade, dolo, culpa e erro
+
+> Síntese própria do material VDE 40 dias – Exame 48 (aula "Fato típico (parte 3)"), conferida com a legislação vigente em 17/11/2026.
+
+### O que o tema exige na prova
+
+O fato típico é o primeiro degrau da teoria do crime: antes de discutir ilicitude e culpabilidade, é preciso saber se a conduta se encaixa em um tipo penal. O exame cobra o ponto de forma aplicada, com narrativas curtas em que se deve identificar o elemento do tipo, o dolo ou a culpa e a consequência exata.
+
+O núcleo do capítulo é o **erro**. A banca monta cenários em que o agente se engana sobre a vítima, o objeto, o meio ou a causa do resultado, e espera a classificação da espécie e o efeito na imputação.
+
+### Conceitos essenciais
+
+**Fato típico** reúne conduta (ação ou omissão), resultado, nexo causal e tipicidade. O art. 13 adota a equivalência dos antecedentes: causa é toda ação ou omissão sem a qual o resultado não teria ocorrido. Na omissão, a imputação exige dever de agir (art. 13, § 2º): obrigação legal de cuidado, assunção da responsabilidade de impedir o resultado ou criação do risco por comportamento anterior. **Tipicidade** é a correspondência entre o fato concreto e a descrição legal; sua ausência gera **atipicidade**, consequência distinta da absolvição por excludente de ilicitude.
+
+**Dolo** (art. 18, I) é querer o resultado ou assumir o risco de produzi-lo. Abrange o dolo direto (o fim visado e os meios necessários) e o **dolo eventual**, em que o agente não deseja o resultado, mas prossegue aceitando a possibilidade de que ocorra.
+
+**Culpa** (art. 18, II) é causar o resultado por imprudência (ação sem o cuidado devido), negligência (omissão de cautela) ou imperícia (falta de aptidão técnica). É excepcional: pelo parágrafo único do art. 18, **ninguém responde por crime culposo sem previsão legal expressa**. Na culpa consciente o agente prevê o resultado, mas confia que ele não ocorrerá; na inconsciente, não prevê, embora fosse previsível.
+
+A fronteira entre **dolo eventual e culpa consciente** é a mais cobrada. Nos dois casos há previsão; o que separa as figuras é a postura do agente — quem assume o risco responde por dolo, quem acredita na não ocorrência responde por culpa, se houver tipo culposo.
+
+**Erro de tipo** é a falsa percepção da realidade sobre elemento do tipo, sem a qual o agente não teria agido daquele modo. Pelo art. 20, **o erro sobre elemento constitutivo exclui o dolo, mas permite punição por culpa quando o fato é previsto como crime culposo**. Ele pode ser **essencial** (recai sobre elemento ou circunstância que integra a figura típica) ou **acidental** (recai sobre dado que não afasta a tipicidade).
+
+No erro essencial, a distinção decisiva é entre **invencível** e **vencível**. Invencível é aquele em que qualquer pessoa, nas mesmas circunstâncias, incorreria: exclui dolo e culpa, e o fato é atípico. Vencível é o que uma pessoa prudente teria evitado: exclui só o dolo, subsistindo a culpa se houver previsão legal. Exemplo: quem confunde um gato de raça com filhote de animal silvestre erra sobre a espécie (dolo afastado), mas pode responder por culpa se faltou cautela na identificação.
+
+O **erro acidental** não exclui o dolo; apenas redireciona a imputação: erro sobre o **objeto** (o agente se engana sobre a coisa visada e responde pelo objeto efetivamente atingido); erro sobre a **pessoa** (art. 20, § 3º — considera-se a vítima pretendida); erro na **execução** ou *aberratio ictus* (art. 73 — atinge pessoa diversa por acidente ou erro no uso dos meios); **resultado diverso do pretendido** ou *aberratio criminis* (art. 74 — atinge bem jurídico diverso); erro sobre o **nexo causal** ou *aberratio causae*, também chamado de dolo geral (o resultado ocorre, mas por causa diferente da imaginada); e erro **determinado por terceiro** (art. 20, § 2º — responde quem provoca o erro).
+
+Não confunda erro de tipo com **erro de proibição** (art. 21): no primeiro o agente não sabe o que faz; no segundo, sabe, mas supõe a conduta permitida. O desconhecimento da lei é inescusável; o erro sobre a ilicitude, se inevitável, isenta de pena e, se evitável, reduz a pena de um sexto a um terço. A **descriminante putativa** (art. 20, § 1º), por sua vez, isenta quem supõe situação de fato que tornaria a ação legítima, salvo erro culposo em fato punível a esse título.
+
+### Base legal
+
+- **Código Penal, art. 13, caput e §§ 1º e 2º** — nexo causal pela equivalência dos antecedentes, causa superveniente relativamente independente e dever de agir na omissão.
+- **Código Penal, art. 18** — dolo (quis o resultado ou assumiu o risco) e culpa (imprudência, negligência, imperícia); excepcionalidade do crime culposo.
+- **Código Penal, art. 19** — agravação pelo resultado exige ao menos culpa.
+- **Código Penal, art. 20, caput** — erro sobre elemento do tipo exclui o dolo e permite punição por culpa, se prevista.
+- **Código Penal, art. 20, §§ 1º a 3º** — descriminante putativa; erro determinado por terceiro; erro sobre a pessoa.
+- **Código Penal, art. 21** — erro sobre a ilicitude: isenção se inevitável; redução de um sexto a um terço se evitável.
+- **Código Penal, arts. 70, 73 e 74** — concurso formal; erro na execução; resultado diverso do pretendido.
+- **Código Penal, arts. 121 e 135** — homicídio e omissão de socorro, usados nos exemplos.
+- **Súmulas 589 e 599 do STJ** — insignificância inaplicável a crimes domésticos contra a mulher e a crimes contra a administração pública.
+
+### Quadro comparativo
+
+| Hipótese | O que o agente erra | Efeito jurídico | Base |
+| --- | --- | --- | --- |
+| Erro essencial invencível | Elemento do tipo, de modo inevitável | Exclui dolo e culpa; fato atípico | CP, art. 20, caput |
+| Erro essencial vencível | Elemento do tipo, mas evitável | Exclui o dolo; culpa só se houver tipo culposo | CP, art. 20, caput |
+| Erro sobre o objeto | Identidade ou qualidade da coisa | Dolo mantido; responde pelo objeto atingido | Doutrina |
+| Erro sobre a pessoa | Identidade da vítima | Responde como se a vítima fosse a pretendida | CP, art. 20, § 3º |
+| Erro na execução | O alvo, por erro no uso dos meios | Responde como se tivesse atingido a pretendida; se ambas, concurso formal | CP, arts. 73 e 70 |
+| Resultado diverso do pretendido | O bem jurídico lesado | Culpa, se prevista; se também o pretendido, concurso formal | CP, arts. 74 e 70 |
+| Erro determinado por terceiro | Induzido por outra pessoa | Responde quem determinou; o executor age sem dolo | CP, art. 20, § 2º |
+
+### Pegadinhas e pontos de atenção
+
+- **Confundir erro sobre a pessoa com erro na execução.** No erro sobre a pessoa o agente acerta quem queria, mas se engana sobre quem é; no erro na execução quer atingir alguém certo e, por falha no meio, atinge outro: um é erro de identificação, o outro, de pontaria.
+- **Esquecer que o erro sobre a pessoa aproveita as qualidades da vítima pretendida.** Quem queria matar um homem de 24 anos e atinge uma senhora de 68 não recebe o aumento do art. 121, § 4º: valem as condições da vítima visada.
+- **Achar que *aberratio criminis* sempre pune pelo resultado.** O art. 74 só pune a culpa quando o fato é previsto como crime culposo. Como não existe dano culposo no Código Penal, quem quer danificar a vitrine e atinge uma pessoa responde apenas pelo resultado culposo efetivamente previsto.
+- **Ignorar o concurso formal quando os dois alvos são atingidos.** No *aberratio ictus* com duplicidade de vítimas, e no art. 74 quando também ocorre o resultado pretendido, incide o art. 70: uma só ação, dois crimes, pena do mais grave aumentada de um sexto até a metade.
+- **Discutir insignificância sem olhar o bem realmente atingido.** No erro sobre o objeto, vale o valor do bem efetivamente subtraído, não o pretendido, sem dispensar os vetores do STF e as Súmulas 589 e 599 do STJ; no descaminho, o STJ fixou o parâmetro de R$ 20 mil (critério jurisprudencial).
+
+### Caso prático resolvido
+
+Rafael, caçador com registro, caça ao anoitecer. Ao ver um movimento entre as árvores, atira certo de que é um javali, mas o alvo era seu companheiro, que morre. A perícia conclui que qualquer caçador cuidadoso teria confirmado a presença de uma pessoa antes do disparo.
+
+1. **Delimitar o tipo.** O resultado morte se encaixa no art. 121; falta verificar se houve dolo ou erro sobre elemento do tipo.
+2. **Identificar o erro.** Rafael acreditava atirar em animal. O tipo do homicídio exige a morte de pessoa humana; Rafael acreditava atirar em animal, logo há erro de tipo essencial — não erro sobre a pessoa, pois não visava a vítima humana determinada.
+3. **Classificar o erro.** Se um caçador prudente teria evitado a confusão, o erro é vencível.
+4. **Aplicar a consequência.** Pelo art. 20, caput, exclui-se o dolo. Como existe homicídio culposo (art. 121, § 3º), Rafael responde por homicídio culposo, sem as qualificadoras dolosas.
+5. **Conferir reflexos.** Houve um único resultado, sem concurso. Se o erro fosse invencível, o fato seria atípico.
+
+### Fixação rápida
+
+**1.** Caio, em uma confraternização, pega para si o relógio de um amigo, idêntico ao seu, que estava na mesma mesa, acreditando ser o próprio. Percebe o engano minutos depois e devolve o bem. A perícia conclui que qualquer pessoa cometeria o mesmo equívoco. A conduta de Caio configura:
+
+A) furto doloso consumado, pois houve subtração de coisa alheia.
+B) furto culposo, por negligência na conferência do bem.
+C) fato atípico, por erro de tipo essencial invencível.
+D) furto tentado, pela devolução posterior do bem.
+
+**Gabarito:** C. A coisa alheia móvel integra o tipo do art. 155; o engano é erro de tipo essencial e, sendo invencível, exclui dolo e culpa: fato atípico. Não existe furto culposo.
+
+**2.** Sobre o erro na execução e o resultado diverso do pretendido, assinale a afirmativa correta:
+
+A) ambos excluem o dolo e levam sempre à punição por culpa.
+B) no erro na execução considera-se a vítima pretendida e, se ela também for atingida, aplica-se o concurso formal.
+C) no resultado diverso do pretendido o agente responde sempre por crime doloso quanto ao bem atingido.
+D) o erro na execução só se configura quando o agente não sabia manusear a arma.
+
+**Gabarito:** B. O art. 73 manda considerar a vítima pretendida, com remissão ao art. 20, § 3º; havendo duplicidade, incide o art. 70. A é falsa porque o dolo subsiste; C, porque o art. 74 pune a culpa apenas se houver tipo culposo; D, porque o erro pode decorrer de acidente ou de falha no uso do meio.
+
+**3.** A distinção entre dolo eventual e culpa consciente está em que:
+
+A) no dolo eventual o agente não prevê o resultado, enquanto na culpa consciente ele o prevê.
+B) na culpa consciente o agente prevê o resultado, mas crê que ele não ocorrerá; no dolo eventual, assume o risco de produzi-lo.
+C) ambos impedem a punição a título de culpa.
+D) no dolo eventual o agente sempre deseja o resultado.
+
+**Gabarito:** B. Em ambas há previsão do resultado; o critério é a atitude do agente: consentimento no risco (dolo) ou confiança na não ocorrência (culpa consciente). Desejar o resultado é dolo direto.
+
+### Referências consultadas
+
+- [Código Penal — Decreto-Lei 2.848/1940](https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm) — arts. 13 a 21, 70, 73, 74, 121 e 135.
+- [Lei 10.522/2002](https://www.planalto.gov.br/ccivil_03/leis/2002/l10522.htm) — art. 20, arquivamento de execuções fiscais de baixo valor; o limite atual é fixado em ato da PGFN.
+- [Súmulas do STJ — 589 e 599](https://www.stj.jus.br/docs_internet/SumulasSTJ.pdf) — insignificância inaplicável em crimes domésticos contra a mulher e contra a administração pública.
+- [STJ — teto de R$ 20 mil no descaminho](https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2018/2018-03-06_06-55_Terceira-Secao-fixa-em-R-20-mil-valor-maximo-para-aplicacao-de-insignificancia-em-crime-de-descaminho.aspx) — notícia institucional sobre o parâmetro.
+## Aprofundamento VDE — Ilicitude e excludentes
+
+> Síntese própria do material VDE 40 dias – Exame 48 (aula "Ilicitude"), conferida com a legislação vigente em 17/11/2026.
+
+### O que o tema exige na prova
+
+A ilicitude é o segundo degrau da teoria do crime. Praticado o fato típico, presume-se que ele contraria o ordenamento; essa presunção é **relativa**, porque há situações em que o direito tolera a conduta descrita no tipo. O fato continua típico, mas deixa de ser ilícito. A prova cobra esse raciocínio: identificar qual interesse estava em jogo, de onde vinha a ameaça e quem suportou o sacrifício.
+
+O material VDE organiza o tema em torno das quatro causas do art. 23 do Código Penal e da descriminante putativa. O candidato precisa aplicar requisitos a fatos concretos, perceber o excesso e não confundir excludente de ilicitude com institutos que atuam antes (atipicidade) ou depois (culpabilidade).
+
+### Conceitos essenciais
+
+**Ilicitude e sinônimos.** Ilicitude e antijuridicidade são a mesma coisa: contrariedade entre o fato e o ordenamento. As causas que a afastam são chamadas de **descriminantes**, **justificantes**, **eximentes** ou **tipos permissivos**. O art. 23 diz que "não há crime", mas a técnica correta é dizer que a conduta permanece típica e deixa de ser ilícita.
+
+**Rol legal e causas supralegais.** O art. 23 lista estado de necessidade, legítima defesa, estrito cumprimento do dever legal e exercício regular de direito. Admite-se também o **consentimento do ofendido**, desde que recaia sobre bem disponível e seja livre, prévio, dado por pessoa capaz e com ciência do risco. É o que explica tatuagem, piercing e cirurgia estética. Há também causas **específicas**, como o **aborto necessário** (art. 128, I, do CP), que só vale para aquele tipo.
+
+**Estado de necessidade (art. 24).** O agente sacrifica um bem jurídico, próprio ou alheio, para salvar outro de perigo atual que não criou por vontade própria e que não podia evitar de outro modo, desde que o sacrifício não fosse razoavelmente exigível. Requisitos: perigo atual (a doutrina admite o iminente); involuntariedade; inevitabilidade; interesse próprio ou de terceiro; razoabilidade do sacrifício. A doutrina distingue o estado de necessidade **defensivo** (atinge o responsável pelo perigo) do **agressivo** (atinge terceiro inocente, como a vitrine quebrada para escapar de incêndio).
+
+O art. 24, § 1º, veda a alegação de quem tinha **dever legal de enfrentar o perigo** — bombeiro, policial, salva-vidas. O § 2º reduz a pena de um a dois terços quando era razoável exigir o sacrifício. O Código adota, assim, a **teoria unitária**: o estado de necessidade é sempre excludente de ilicitude, e a exigibilidade do sacrifício gera apenas redução.
+
+**Legítima defesa (art. 25).** É a reação a agressão injusta, atual ou iminente, a direito próprio ou de outrem, com uso moderado dos meios necessários. Requisitos: **agressão injusta** (conduta humana contrária ao direito, ainda que de inimputável ou criança, não precisa ser crime); **atualidade ou iminência** (cessada a agressão, cessa a defesa); **direito próprio ou alheio** (inclui a defesa de terceiro); **meios necessários usados moderadamente** (o menos lesivo suficiente, avaliado no momento do fato). Exige-se o **animus defendendi**. Não há legítima defesa **recíproca** — se ambos se agridem por animosidade, há rixa —, mas se admite a **sucessiva**, quando quem excedeu passa a ser agredido e reage.
+
+O parágrafo único do art. 25, incluído pela Lei nº 13.964/2019, estende a excludente ao agente de segurança pública que repele agressão ou risco de agressão a refém. A regra não dispensa os requisitos do caput. Na ADPF 779, o STF declarou inconstitucional a tese da "legítima defesa da honra" em casos de feminicídio e agressão contra a mulher.
+
+**Estrito cumprimento do dever legal.** Destina-se ao agente público que pratica a conduta típica porque a lei lhe impõe aquele comportamento: oficial de justiça que ingressa em residência para cumprir mandado, policial que prende em flagrante (art. 301 do CPP), médico legista que examina o corpo. O adjetivo "estrito" é decisivo: abuso, violência desnecessária ou desvio de finalidade afastam a justificante.
+
+**Exercício regular do direito.** Protege o cidadão comum que exerce faculdade reconhecida pelo ordenamento. Exemplos: luta de boxe com lesões dentro das regras, cirurgia consentida e prisão em flagrante por qualquer do povo (art. 301 do CPP). A diferença em relação ao estrito cumprimento está no destinatário e na natureza da atuação: lá, o agente público cumpre dever; aqui, qualquer pessoa exerce faculdade.
+
+**Descriminante putativa (art. 20, § 1º).** O agente imagina uma situação de fato que, se real, tornaria sua conduta legítima. Exemplo: quem já foi ameaçado vê o desafeto levar a mão à cintura, supõe arma e atira; era o celular. Se o erro era justificado, há isenção de pena; se derivou de culpa e há previsão culposa, responde-se por culpa. A posição dominante a situa na **culpabilidade**, e não na ilicitude.
+
+**Excesso.** O art. 23, parágrafo único, pune o excesso doloso ou culposo em qualquer hipótese. Quem continua a agredir depois de cessada a ameaça responde pelo excesso.
+
+**Efeitos penais e civis.** A excludente afasta o crime, mas não apaga o dano. O Código Civil repete a justificante (art. 188) e, no estado de necessidade, assegura indenização ao lesado que não deu causa ao perigo (art. 929), com regresso contra o terceiro culpado (art. 930).
+
+### Base legal
+
+- **CP, art. 23** — não há crime nas quatro causas de justificação.
+- **CP, art. 23, parágrafo único** — resposta pelo excesso doloso ou culposo.
+- **CP, art. 24, caput** — define o estado de necessidade e seus requisitos.
+- **CP, art. 24, § 1º** — veda a alegação de quem tinha dever legal de enfrentar o perigo.
+- **CP, art. 24, § 2º** — redução de um a dois terços quando o sacrifício era exigível.
+- **CP, art. 25** — define a legítima defesa e exige moderação dos meios.
+- **CP, art. 25, parágrafo único** — defesa de refém por agente de segurança pública (Lei nº 13.964/2019).
+- **CP, art. 20, § 1º** — descriminantes putativas e isenção de pena.
+- **CP, art. 22** — coação irresistível e obediência hierárquica: afastam a culpabilidade, não a ilicitude.
+- **CP, art. 128, I** — aborto necessário praticado por médico.
+- **CPP, art. 301** — prisão em flagrante por qualquer do povo e pela autoridade policial.
+- **CC, arts. 188, 929 e 930** — efeitos civis das justificantes.
+
+### Quadro comparativo
+
+| Instituto | Origem da situação | Quem suporta o sacrifício | Requisito decisivo | Efeito |
+| --- | --- | --- | --- | --- |
+| Estado de necessidade | Perigo atual | Terceiro inocente ou responsável pelo perigo | Inevitabilidade e sacrifício não exigível | Exclui a ilicitude; § 2º reduz a pena |
+| Legítima defesa | Agressão humana injusta | O próprio agressor | Moderação dos meios | Exclui a ilicitude |
+| Estrito cumprimento do dever legal | Dever imposto ao agente público | Bem atingido no cumprimento | Atuação nos limites do dever | Exclui a ilicitude |
+| Exercício regular do direito | Faculdade reconhecida pelo ordenamento | Bem atingido no exercício | Respeito às regras | Exclui a ilicitude |
+| Descriminante putativa | Situação imaginada pelo agente | Vítima real do erro | Erro plenamente justificado | Isenta de pena; erro culposo gera crime culposo |
+| Excesso | Início legítimo com extrapolação | Vítima da conduta excessiva | Ultrapassagem dos limites | Responde pelo excesso doloso ou culposo |
+
+### Pegadinhas e pontos de atenção
+
+- **"Fato típico é sempre ilícito."** A presunção é relativa; a defesa demonstra os requisitos concretos.
+- **"Animal atacando é sempre estado de necessidade."** Se foi atiçado por alguém, é instrumento de agressão injusta e a reação configura **legítima defesa**; se agiu por instinto, o caso é de **estado de necessidade**.
+- **"Provocação afasta a legítima defesa."** Provocação verbal não basta; só a agressão injusta legitimamente repelida afasta a excludente.
+- **"Quem tem dever de enfrentar o perigo nunca alega estado de necessidade."** A vedação do art. 24, § 1º, alcança o **dever legal**; obrigação contratual ou moral não tem o mesmo efeito.
+- **"Descriminante putativa exclui a ilicitude."** O art. 20, § 1º, fala em isenção de pena; a posição dominante a trata como excludente de **culpabilidade**.
+- **"Excluída a ilicitude, nada se deve à vítima."** A justificante penal não impede a indenização civil, sobretudo no estado de necessidade em que o lesado não causou o perigo (art. 929 do CC).
+
+### Caso prático resolvido
+
+Durante uma chuva torrencial, um motorista fica preso em um viaduto alagado. A água sobe rápido, o carro flutua e a passageira idosa entra em pânico. Sem outra saída, ele quebra a vitrine de uma loja fechada, entra e retira uma escada para alcançar o teto. O comerciante registra boletim por dano. A perícia confirma que a água subia vinte centímetros por minuto e que não havia rota alternativa.
+
+1. **Tipicidade.** A conduta se amolda ao crime de dano (art. 163 do CP).
+2. **Origem da situação.** O perigo vem da natureza, não de agressão humana; não há legítima defesa nem estrito cumprimento de dever legal.
+3. **Requisitos do art. 24.** Perigo atual, não criado por vontade do motorista, inevitável por outro meio, com sacrifício patrimonial razoável para salvar a vida dele e da passageira.
+4. **Classificação.** Estado de necessidade **agressivo**, pois o bem sacrificado pertence a terceiro inocente.
+5. **Excesso e conclusão penal.** Quebrou apenas o necessário, sem excesso doloso ou culposo (art. 23, parágrafo único). Fato típico, mas não ilícito: absolvição por não constituir o fato infração penal (art. 386, VI, do CPP).
+6. **Conclusão civil.** A exclusão penal não elimina o dever de reparar: como o comerciante não deu causa ao perigo, cabe indenização (art. 929 do CC), com regresso contra o terceiro culpado (art. 930).
+
+### Fixação rápida
+
+**1.** Durante um incêndio, João, que não é bombeiro nem tem dever legal de agir, arromba a porta de um apartamento alheio para retirar uma criança desacordada. A conduta configura:
+
+A) crime de dano, pois não houve autorização do morador.
+B) estado de necessidade, causa excludente de ilicitude.
+C) estrito cumprimento do dever legal.
+D) legítima defesa.
+
+**Gabarito:** B. Há perigo atual não provocado, inevitável por outro meio, com sacrifício patrimonial razoável para salvar a vida alheia (art. 24 do CP). Não é legítima defesa (sem agressão humana) nem dever legal (João não é agente público).
+
+**2.** Em uma luta de boxe amadora, Pedro desfere golpe permitido pelas regras e causa lesão corporal no adversário. A conduta é:
+
+A) atípica, pois o esporte elimina o dolo.
+B) ilícita, pois toda lesão corporal é crime.
+C) justificada pelo exercício regular do direito.
+D) justificada pelo estrito cumprimento do dever legal.
+
+**Gabarito:** C. O esporte de contato autoriza lesões dentro das regras; o fato é típico, mas amparado pelo exercício regular do direito (art. 23, III, do CP).
+
+**3.** À noite, Marcos vê um desconhecido levar a mão à cintura e, sem elemento concreto, supõe que ele sacará arma. Atira e mata. A perícia comprova que a vítima pegava o celular e que o erro era evitável. Marcos:
+
+A) não responde por crime, pois agiu em legítima defesa putativa.
+B) responde por homicídio doloso, pois a putativa exclui a ilicitude.
+C) responde por homicídio culposo, pois o erro derivou de culpa e o fato é punível como culposo.
+D) responde apenas por disparo de arma de fogo.
+
+**Gabarito:** C. A suposição de situação de fato que tornaria a ação legítima é descriminante putativa (art. 20, § 1º, do CP). Como o erro era evitável e o homicídio tem modalidade culposa, afasta-se o dolo e responde-se por culpa.
+
+### Referências consultadas
+
+- [Código Penal — Decreto-Lei nº 2.848/1940](https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm) — arts. 20, 22, 23, 24, 25 e 128.
+- [Código de Processo Penal — Decreto-Lei nº 3.689/1941](https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm) — arts. 301 e 386, VI.
+- [Código Civil — Lei nº 10.406/2002](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm) — arts. 188, 929 e 930.
+- [STF — ADPF 779](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6081690) — "legítima defesa da honra" declarada inconstitucional.
+
 ## Referências oficiais
 
 [1]: https://oab.fgv.br/arq/651/579325_48%20eou.%20edital%20de%20abertura.%2021.09.2026.%20atualizado..pdf "OAB/FGV, Edital de Abertura do 48º Exame de Ordem Unificado, Anexo II"

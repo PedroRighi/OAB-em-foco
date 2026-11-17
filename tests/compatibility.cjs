@@ -217,3 +217,30 @@ test('todas as 20 disciplinas oferecem treino individual com dez ou onze questõ
     assert.ok(count === 10 || count === 11, subject.id);
   }
 });
+test('contagem de tópicos confere com os materiais e complementos VDE estão integrados', () => {
+  const h = harness();
+  const subjects = h.load('src/data/subjects.ts').subjects;
+  const { topicCounts } = h.load('src/data/topicCounts.ts');
+  const excluded = /^(como usar|mapa dos tópicos centrais|mapa da disciplina|questões|gabarito|referências|referencias|checklist|revisão|revisao|fontes|bibliografia|atualizações e jurisprudência|alterações e jurisprudência|método de leitura|como ler questões|como resolver questões|como estudar)/i;
+  const expectedChapters = { constitucional: 5, etica: 3, civil: 1, tributario: 2, penal: 2, 'processo-penal': 1, 'processo-civil': 3, administrativo: 4 };
+  let totalChapters = 0;
+  for (const subject of subjects) {
+    const markdown = fs.readFileSync(path.join(root, 'src/content/materials', subject.material), 'utf8');
+    const topics = markdown.split('\n').filter((line) => /^##\s+/.test(line) && !line.startsWith('###')).map((line) => line.replace(/^##\s+/, '').trim()).filter((title) => title && !excluded.test(title));
+    assert.equal(topicCounts[subject.id], topics.length, subject.id);
+    const titles = markdown.split('\n').filter((line) => line.startsWith('## Aprofundamento VDE — ')).map((line) => line.replace('## Aprofundamento VDE — ', '').trim());
+    assert.equal(titles.length, expectedChapters[subject.id] ?? 0, subject.id);
+    assert.equal(new Set(titles).size, titles.length, subject.id);
+    totalChapters += titles.length;
+    if (titles.length) {
+      const blocks = markdown.split('\n## Aprofundamento VDE — ').slice(1);
+      for (const block of blocks) {
+        assert.ok(block.includes('### Referências consultadas'), subject.id);
+        assert.ok(block.includes('### Fixação rápida'), subject.id);
+        assert.ok(!block.includes('http://'), subject.id);
+        assert.ok(!block.includes('Fernando Cursos'), subject.id);
+      }
+    }
+  }
+  assert.equal(totalChapters, 21);
+});

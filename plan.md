@@ -65,3 +65,10 @@ Três opções de referência visual consideradas (probabilidades amostradas nas
 ## Fluxo de entrega
 
 Após aprovação deste plano, atualizar `TODO.md` com os resultados e requisitos do produto; preparar, revisar e aprimorar o conteúdo e os downloads existentes; implementar a aplicação e o manifesto de rotas; iniciar o Preview; conferir funcionamento das rotas, downloads e layout em desktop/celular; corrigir problemas encontrados. Não publicar o site sem autorização separada. Antes de qualquer checkpoint, verificar a configuração de publicação automática para respeitar esse limite.
+## Aulas VDE enviadas (17/11/2026)
+
+- **Uso:** os 21 PDFs do pacote VDE 40 dias – Exame 48 servem de roteiro para capítulos de aprofundamento das oito disciplinas contempladas. O portal escreve síntese própria, confere cada dispositivo em fonte oficial e não hospeda os arquivos do curso.
+- **Formato:** capítulos `## Aprofundamento VDE — ...` ao final do material da disciplina, antes do checklist e das referências, com conceitos, base legal, quadro comparativo, pegadinhas, caso prático, fixação rápida e referências HTTPS. Entram como tópicos novos e não alteram capítulos, questões ou IDs anteriores.
+- **Atualização:** divergências da apostila (norma revogada, artigo renumerado, tese superada) são corrigidas no texto e registradas em `research-apostilas-vde.md`.
+- **Progresso:** a chave `oab-em-foco-48-progress-v1` permanece; os tópicos novos apenas se somam às marcações existentes, sem apagar histórico.
+- **Vídeos:** as oito videoaulas não são transcritas nem redistribuídas nesta etapa; os temas equivalentes são cobertos pelos PDFs.

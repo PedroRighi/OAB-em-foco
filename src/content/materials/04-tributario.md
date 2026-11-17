@@ -201,6 +201,232 @@ D) É equivalente a parcelamento e implica confissão irrevogável.
 - [ ] Identifico o alcance da EC 132, da LC 214/2025, LC 227/2026 e alterações da LC 236/2026 no CTN.
 - [ ] Confiro a edição mais recente do edital e consulto fontes oficiais para precedentes e legislação vigentes.
 
+## Aprofundamento VDE — Contribuições de melhoria
+
+> Síntese própria do material VDE 40 dias – Exame 48 (aula "Contribuições de Melhoria"), conferida com a legislação vigente em 17/11/2026.
+
+### O que o tema exige na prova
+
+A contribuição de melhoria é pouco usada na prática e, por isso mesmo, mede o domínio que o candidato tem da estrutura do Sistema Tributário. O material VDE organiza o assunto em três eixos: o **binômio obra pública mais valorização imobiliária** como fato gerador, a **lógica dos dois limites de cobrança** e a **exigência de lei específica** com os requisitos do art. 82 do CTN.
+
+O primeiro passo é não confundir o nome com a natureza: apesar de "contribuição", ela está no art. 145, III, da Constituição, ao lado dos impostos e das taxas, e **não** entre as contribuições do art. 149. Classificar corretamente o tributo resolve de uma vez as questões de competência, legalidade e anterioridade.
+
+Na prova, o enunciado costuma trazer uma obra concreta (praça, ponte, viaduto, drenagem, asfalto) e perguntar se o ente pode cobrar, de quem, quanto e a partir de quando. A resposta passa por uma checagem em sequência: houve obra pública? houve valorização efetiva? existe lei com os elementos do art. 82? o rateio respeitou os dois limites? o lançamento foi notificado?
+
+### Conceitos essenciais
+
+**Definição.** É o tributo cobrado para ressarcir parte do custo de uma obra pública que valorizou imóveis. Trata-se de **tributo vinculado**: a obrigação nasce de uma atuação estatal específica, não da capacidade econômica. O contribuinte é, em regra, o proprietário do imóvel beneficiado na data do lançamento.
+
+**Fato gerador.** É a **valorização imobiliária decorrente de obra pública**, com dois requisitos cumulativos. Obra particular, ainda que valorize o imóvel, não autoriza a cobrança; obra pública sem valorização também não. Por isso o STF, no RE 115.863/SP, afastou a contribuição por recapeamento de via já asfaltada: é manutenção e conservação, sem acréscimo de valor.
+
+**Competência.** É **comum à União, aos Estados, ao Distrito Federal e aos Municípios** (art. 145, III, da CF; art. 81 do CTN). O limite é material: **só cobra quem executou a obra**, dentro das suas atribuições. Um Estado não institui contribuição por obra municipal, e vice-versa.
+
+**Base de cálculo.** É a **valorização individual**, isto é, a diferença entre o valor do imóvel depois e antes da obra. Se valia R$ 120.000,00 e passou a R$ 170.000,00, a base é R$ 50.000,00. O custo da obra **não** é base de cálculo: serve apenas de teto global.
+
+**Os dois limites.** O **total** é a despesa realizada — a arrecadação não pode superá-la. O **individual** é o acréscimo de valor de cada imóvel — ninguém paga mais do que se valorizou. Ambos incidem ao mesmo tempo:
+
+- se o rateio do custo der valor **maior** que a valorização de cada imóvel, prevalece o limite individual;
+- se a **soma das valorizações** for menor que o custo, cada um paga no máximo a sua valorização e o ente absorve a diferença, sem redistribuí-la.
+
+Exemplo: obra de R$ 300.000,00 que valorizou 20 imóveis em R$ 20.000,00 cada. A soma das valorizações (R$ 400.000,00) supera o custo, então o rateio limita a cobrança a R$ 15.000,00 por imóvel. Se a obra tivesse custado R$ 500.000,00, cada um pagaria no máximo R$ 20.000,00 e os R$ 100.000,00 restantes ficariam com o Município.
+
+**Requisitos formais (art. 82 do CTN).** A lei deve prever a publicação prévia do memorial descritivo, do orçamento, da parcela do custo a financiar, da delimitação da zona beneficiada e do fator de absorção do benefício (que pode limitar a cobrança a um percentual da valorização); prazo **não inferior a 30 dias** para impugnação desses elementos; e processo administrativo de julgamento, sem prejuízo do Judiciário. No lançamento, o contribuinte deve ser **notificado do valor, da forma e dos prazos de pagamento e dos elementos do cálculo** (art. 82, § 2º).
+
+**Momento da exigência.** O fato gerador só se completa quando a valorização pode ser constatada, normalmente após a entrega de parte da obra ou do seu término. A **lei pode ser editada antes**; o que depende da valorização é o **lançamento e a cobrança**. Como é tributo, incidem a legalidade e as anterioridades anual e nonagesimal (art. 150, I e III, "b" e "c", da CF).
+
+**Distinções.** A **taxa** também é vinculada, mas remunera o poder de polícia ou um serviço específico e divisível; a contribuição de melhoria decorre de obra que enriquece o patrimônio do particular. As **contribuições do art. 149** são, em regra, privativas da União e não se confundem com ela. A **contribuição de iluminação pública** do art. 149-A, apesar do nome, é outra figura: não exige obra nem valorização, incide sobre a fatura de energia e, após a EC 132/2023, também custeia sistemas de monitoramento.
+
+**Desapropriação por zona.** O art. 4º do Decreto-Lei 3.365/1941 permite abranger, além da área necessária à obra, as zonas que se valorizarem extraordinariamente por causa dela, indenizando os proprietários e revendendo o que não for indispensável. É o mesmo objetivo da contribuição de melhoria: evitar que poucos se apropriem, sem contrapartida, da valorização gerada por investimento coletivo.
+
+### Base legal
+
+- **[CF, art. 145, III](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)** — inclui a contribuição de melhoria entre os tributos, "decorrente de obras públicas".
+- **[CF, art. 149](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)** — disciplina as contribuições sociais, de intervenção e de interesse de categorias; a de melhoria não está aqui.
+- **[CF, art. 149-A](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)** — contribuição para iluminação pública e monitoramento, distinta da contribuição de melhoria.
+- **[CF, art. 150, I e III, "b" e "c"](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)** — legalidade e anterioridades anual e nonagesimal, aplicáveis a esse tributo.
+- **[CTN, art. 81](https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm)** — define a contribuição e fixa o limite total (despesa realizada) e o individual (acréscimo de valor).
+- **[CTN, art. 82, I a III e §§ 1º e 2º](https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm)** — requisitos da lei, rateio pelos fatores individuais e notificação do lançamento.
+- **[Decreto-Lei 3.365/1941, art. 4º](https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365.htm)** — desapropriação por zona e áreas valorizadas pela obra.
+- **[STF, RE 115.863/SP](https://jurisprudencia.stf.jus.br/pages/search/sjur67157/false)** — recapeamento de via já asfaltada não gera valorização nem contribuição.
+
+### Quadro comparativo
+
+| Critério | Contribuição de melhoria | Taxa | Imposto |
+| --- | --- | --- | --- |
+| Fato gerador | Valorização imobiliária por obra pública | Poder de polícia ou serviço divisível | Situação prevista em lei |
+| Vínculo | Vinculado à obra pública | Vinculado ao serviço ou à fiscalização | Não vinculado |
+| Competência | Comum, mas só cobra quem fez a obra | Comum, conforme o serviço | Privativa de cada ente |
+| Base de cálculo | Acréscimo de valor do imóvel | Custo da atuação, vedada base de imposto | Definida na lei do imposto |
+| Limites | Custo da obra e valorização individual | Relação com o custo do serviço | Capacidade econômica |
+| Momento | Após a valorização, com notificação | Na prestação do serviço | No fato gerador |
+| Exemplo | Pavimentação de via nova | Alvará, coleta de lixo | IPTU, ICMS, IR |
+
+### Pegadinhas e pontos de atenção
+
+- **Erro comum:** tratá-la como contribuição especial da União, com base no art. 149. **Regra correta:** é tributo do art. 145, III, de competência de todos os entes, limitada a quem executou a obra.
+- **Erro comum:** admitir a cobrança sempre que houver obra pública. **Regra correta:** sem valorização efetiva não há tributo; recapeamento de via já asfaltada não basta (STF, RE 115.863/SP).
+- **Erro comum:** usar o custo da obra como base de cálculo. **Regra correta:** a base é a valorização individual; o custo é apenas o limite global.
+- **Erro comum:** ignorar o limite individual quando o rateio dá valor maior. **Regra correta:** ninguém paga mais do que se valorizou; se a soma das valorizações for menor que o custo, o ente absorve a diferença.
+- **Erro comum:** achar que o edital inicial supre tudo. **Regra correta:** é obrigatória a notificação do valor, da forma e dos prazos de pagamento e dos elementos do cálculo (art. 82, § 2º), com prazo de impugnação de pelo menos 30 dias.
+- **Erro comum:** cobrar no mesmo exercício da lei. **Regra correta:** além da valorização, incidem as anterioridades anual e nonagesimal.
+
+### Caso prático resolvido
+
+O Município de Vila Nova concluiu, em março de 2026, a pavimentação e a drenagem de uma via que antes não existia, ao custo de R$ 1.800.000,00. O laudo apontou que cada um dos 60 imóveis lindeiros se valorizou em R$ 25.000,00. Por lei de 2025, o Município lançou R$ 30.000,00 para cada proprietário, com vencimento no mesmo exercício.
+
+1. **Fato gerador:** há obra pública (via nova) e valorização comprovada por avaliação — a espécie é cabível.
+2. **Competência:** o Município executou a obra, logo pode instituí-la e cobrá-la (art. 145, III, da CF; art. 81 do CTN).
+3. **Base de cálculo:** é a valorização de cada imóvel, R$ 25.000,00, não o custo da obra.
+4. **Rateio:** dividir R$ 1.800.000,00 pelos 60 imóveis daria R$ 30.000,00 cada, valor que **supera o limite individual** e é ilegal nessa parte.
+5. **Limite total:** 60 vezes R$ 25.000,00 somam R$ 1.500.000,00, abaixo do custo. Os R$ 300.000,00 restantes não podem ser redistribuídos: ficam com o Município.
+6. **Procedimento:** a lei deve ter publicado os elementos do art. 82, I, o prazo de impugnação deve ser de pelo menos 30 dias e cada proprietário precisa ser notificado do valor, da forma e dos prazos de pagamento e dos elementos do cálculo.
+7. **Tempo:** a lei de 2025 permite a cobrança em 2026, respeitada a anterioridade de 90 dias e a constatação da valorização.
+
+**Conclusão:** a contribuição é válida, mas cada imóvel só pode ser cobrado até R$ 25.000,00, com notificação regular e respeito ao prazo de impugnação.
+
+### Fixação rápida
+
+**1.** Sobre a contribuição de melhoria, assinale a correta.
+
+A) É contribuição especial privativa da União, nos termos do art. 149 da Constituição.
+B) É tributo vinculado, de competência comum, cujo fato gerador é a valorização imobiliária decorrente de obra pública.
+C) É imposto municipal, porque incide sobre imóveis urbanos.
+D) Dispensa lei, bastando decreto que aprove o orçamento da obra.
+
+**Gabarito:** B. O art. 145, III, da CF e o art. 81 do CTN a colocam entre os tributos de todos os entes, com fato gerador na valorização gerada por obra pública; não é contribuição do art. 149.
+
+**2.** O Município fez obra de R$ 900.000,00 que valorizou 15 imóveis em R$ 80.000,00 cada. Qual o máximo cobrável de cada proprietário?
+
+A) R$ 80.000,00.
+B) R$ 60.000,00.
+C) R$ 15.000,00.
+D) R$ 900.000,00.
+
+**Gabarito:** B. O limite individual seria R$ 80.000,00, mas a soma não pode passar do custo: R$ 900.000,00 divididos por 15 resultam em R$ 60.000,00 por imóvel.
+
+**3.** O Município recapeou asfalto de via já pavimentada e quer cobrar contribuição de melhoria dos moradores. A cobrança é:
+
+A) válida, pois houve obra pública custeada pelo Município.
+B) válida, desde que o custo seja rateado entre os proprietários da zona.
+C) inválida, pois o recapeamento de via já asfaltada é conservação que não gera valorização.
+D) inválida, pois a competência seria do Estado.
+
+**Gabarito:** C. No RE 115.863/SP o STF assentou que a valorização é requisito ínsito da contribuição e que o recapeamento de via já asfaltada não a produz.
+
+### Referências consultadas
+
+- [Constituição da República Federativa do Brasil de 1988](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) — arts. 145, III; 149; 149-A e 150, I e III.
+- [Código Tributário Nacional (Lei 5.172/1966)](https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm) — arts. 81 e 82, com requisitos, rateio e notificação.
+- [Decreto-Lei 3.365/1941](https://www.planalto.gov.br/ccivil_03/decreto-lei/del3365.htm) — art. 4º, desapropriação por zona.
+- [STF, RE 115.863/SP, 2ª Turma, Rel. Min. Célio Borja](https://jurisprudencia.stf.jus.br/pages/search/sjur67157/false) — recapeamento não gera contribuição de melhoria.
+## Aprofundamento VDE — Empréstimo compulsório
+
+> Síntese própria do material VDE 40 dias – Exame 48 (aula "Empréstimo Compulsório"), conferida com a legislação vigente em 17/11/2026.
+
+### O que o tema exige na prova
+
+O empréstimo compulsório é uma das cinco espécies tributárias e, ao mesmo tempo, a mais atípica delas: o valor arrecadado precisa voltar ao contribuinte. Por isso, a prova raramente cobra apenas a definição. O que se exige é dominar os limites constitucionais que envolvem essa espécie: quem pode instituí-la, por qual instrumento normativo, em quais situações, para que a receita pode ser usada, como e quando ocorre a devolução e quais regras de anterioridade incidem.
+
+O conteúdo costuma aparecer em questões objetivas curtas, com um detalhe errado embutido na alternativa: um Estado que edita lei complementar em caso de calamidade local, uma medida provisória que cria o tributo, uma lei que destina a arrecadação a despesa diversa da que justificou a cobrança ou uma devolução feita em ações de estatal. Identificar o vício exige comparar o caso com o art. 148 da Constituição e com o art. 15 do Código Tributário Nacional.
+
+Também é ponto central a comparação com as demais espécies. O empréstimo compulsório é o único tributo cuja estrutura pressupõe restituição, o que evita confundi-lo com imposto (sem devolução), com taxa (contraprestação de serviço ou poder de polícia) e com contribuição de melhoria (obra pública que valoriza imóvel).
+
+### Conceitos essenciais
+
+**Definição.** O empréstimo compulsório é tributo: prestação pecuniária compulsória, instituída em lei e cobrada mediante atividade administrativa plenamente vinculada (art. 3º do CTN). Apesar do nome, não é contrato de mútuo regido pelo direito privado, mas obrigação ex lege que gera o direito de receber de volta o que se pagou, nas condições da lei instituidora. A restituição é elemento estrutural da espécie, não liberalidade do Poder Público.
+
+**Competência.** A competência é **exclusiva da União** (art. 148, caput). "Exclusiva" não é sinônimo de "privativa": a União não pode delegá-la a outro ente, nem mesmo por autorização em lei complementar, e nenhum Estado, Distrito Federal ou Município pode exercê-la. Uma lei complementar estadual que crie empréstimo compulsório é inconstitucional por dois vícios autônomos: incompetência do ente e instrumento normativo inadequado.
+
+**Instrumento.** A instituição depende de **lei complementar** federal. Lei ordinária e medida provisória são impróprias; a Constituição veda medida provisória sobre matéria reservada a lei complementar (art. 62, § 1º, III). Não há, contudo, reserva constitucional de iniciativa em favor do Presidente da República: a Constituição não atribui iniciativa privativa para essa lei, de modo que projeto de autoria parlamentar não é, por si só, inválido.
+
+**Situações autorizadoras.** O art. 148 prevê duas hipóteses: (i) despesas extraordinárias decorrentes de **calamidade pública, guerra externa ou sua iminência**; e (ii) **investimento público de caráter urgente e de relevante interesse nacional**. Essas hipóteses são pressupostos de instituição, e não fatos geradores. O fato gerador, a base de cálculo, a alíquota e o sujeito passivo serão descritos na própria lei complementar. A Constituição não impõe que o fato gerador seja inédito: nada impede, em tese, que coincida com o de um imposto já existente, desde que a cobrança seja temporária e restituível.
+
+**Vinculação da receita.** O parágrafo único do art. 148 determina que os recursos sejam aplicados na despesa que fundamentou a instituição. Se o empréstimo foi criado para reconstruir cidades atingidas por enchente, o produto não pode financiar outra finalidade. Isso não conflita com a vedação do art. 167, IV, que alcança apenas a vinculação de receita de **impostos**.
+
+**Restituição.** A lei deve fixar obrigatoriamente o prazo do empréstimo e as condições de resgate (art. 15, parágrafo único, do CTN). A devolução deve ocorrer **na mesma espécie em que houve a arrecadação**: se o pagamento foi em dinheiro, a restituição é em dinheiro; se foi em mercadoria, em mercadoria. Foi o que decidiu o STF no RE 175.385/CE, ao reputar inconstitucional a devolução do empréstimo sobre combustíveis em quotas, e não em moeda.
+
+**Anterioridade.** O regime é bifurcado. O empréstimo fundado no art. 148, II (investimento público) observa expressamente o art. 150, III, "b", e, como a alínea "c" pressupõe a "b", submete-se à **anterioridade anual e à noventena**. Já o empréstimo do art. 148, I (calamidade, guerra ou iminência) está dispensado das duas, por força do art. 150, § 1º. A dispensa não afasta a legalidade: a lei complementar precisa existir e ser publicada antes da cobrança.
+
+**Relação com o CTN.** O art. 15 do CTN lista três hipóteses, entre elas a "conjuntura que exija a absorção temporária de poder aquisitivo". Essa terceira **não foi recepcionada** pela Constituição de 1988, que fechou o rol em duas situações. O CTN tem status de lei complementar, mas não pode contrariar limites materiais da Constituição; prevalece, portanto, o art. 148. O Código também não menciona o investimento público, o que confirma que a matriz do instituto é constitucional.
+
+### Base legal
+
+- **CF, art. 148, caput** — competência exclusiva da União, mediante lei complementar, para instituir empréstimos compulsórios.
+- **CF, art. 148, I** — despesas extraordinárias decorrentes de calamidade pública, guerra externa ou sua iminência.
+- **CF, art. 148, II** — investimento público de caráter urgente e de relevante interesse nacional, observado o art. 150, III, "b".
+- **CF, art. 148, parágrafo único** — vinculação dos recursos à despesa que fundamentou a instituição.
+- **CF, art. 150, III, "b" e "c"** — anterioridade anual e noventena.
+- **CF, art. 150, § 1º** — dispensa das duas anterioridades para os tributos do art. 148, I.
+- **CF, art. 62, § 1º, III** — vedação de medida provisória sobre matéria reservada a lei complementar.
+- **CF, art. 167, IV** — vedação de vinculação de receita de impostos (não alcança o empréstimo compulsório).
+- **CTN, art. 3º** — conceito de tributo.
+- **CTN, art. 15 e parágrafo único** — hipóteses do Código e obrigatoriedade de a lei fixar prazo e condições de resgate.
+- **STF, RE 175.385/CE** — restituição na mesma espécie em que o tributo foi arrecadado.
+
+### Quadro comparativo
+
+| Aspecto | Art. 148, I (calamidade, guerra ou iminência) | Art. 148, II (investimento público) |
+| --- | --- | --- |
+| Pressuposto | despesa extraordinária (calamidade, guerra ou iminência) | investimento urgente e de relevante interesse nacional |
+| Ente competente | União | União |
+| Instrumento | lei complementar | lei complementar |
+| Anterioridade anual | dispensada (art. 150, § 1º) | exigida |
+| Noventena | dispensada (art. 150, § 1º) | exigida |
+| Vinculação da receita | obrigatória à despesa que fundamentou a instituição | obrigatória à despesa que fundamentou a instituição |
+| Restituição | obrigatória, na mesma espécie arrecadada | obrigatória, na mesma espécie arrecadada |
+
+### Pegadinhas e pontos de atenção
+
+- **Chamar a competência de "privativa" e admitir lei ordinária ou medida provisória.** A competência é **exclusiva** e o instrumento é **lei complementar**; medida provisória é vedada pelo art. 62, § 1º, III.
+- **Aceitar empréstimo compulsório estadual ou municipal em razão de calamidade local.** Nem Estado nem Município podem instituí-lo, ainda que por lei complementar própria; a calamidade apenas autoriza a União, nos termos do art. 148, I.
+- **Tratar as hipóteses do art. 148 como fatos geradores.** São pressupostos de instituição; o fato gerador é definido na lei complementar que cria o tributo.
+- **Afirmar que a vinculação da receita viola o art. 167, IV.** A vedação constitucional atinge receita de impostos; no empréstimo compulsório, a vinculação é **imposta** pelo parágrafo único do art. 148.
+- **Admitir devolução em quotas, ações ou títulos.** A restituição deve ser feita na mesma espécie em que houve a arrecadação (RE 175.385/CE), e a lei precisa fixar prazo e condições de resgate.
+- **Trocar o regime de anterioridade.** Calamidade, guerra e iminência dispensam anterioridade anual e noventena; investimento público se submete às duas. Não se esqueça de que o art. 15, III, do CTN (absorção de poder aquisitivo) não foi recepcionado.
+
+### Caso prático resolvido
+
+Após chuvas que destruíram rodovias estaduais, a Assembleia Legislativa do Estado Gama aprova, por lei complementar estadual, empréstimo compulsório sobre a venda de veículos novos no território do Estado, vinculando a arrecadação à reconstrução das estradas. A lei fixa prazo de dois anos e devolução em dinheiro. Um contribuinte impugna a cobrança. Como decidir?
+
+1. **Identificar a espécie e o ente competente.** Trata-se de empréstimo compulsório, cuja competência é exclusiva da União (art. 148, caput). O Estado Gama não pode exercê-la, nem mesmo em situação de calamidade local.
+2. **Verificar o instrumento.** Ainda que fosse a União, seria necessária lei complementar federal; a lei complementar estadual não supre a exigência, pois o vício de competência é insanável.
+3. **Analisar o pressuposto.** A calamidade pública é hipótese válida do art. 148, I, mas só autoriza a União. Para o Estado, o caminho correto seria buscar auxílio federal ou usar instrumentos de sua própria competência tributária.
+4. **Conferir a vinculação e a restituição.** A vinculação à despesa que fundamentou a instituição está correta (art. 148, parágrafo único), assim como a previsão de prazo e de devolução em dinheiro. Esses acertos, porém, não convalidam o tributo.
+5. **Avaliar a anterioridade.** Se a União editasse a lei complementar, a calamidade dispensaria anterioridade anual e noventena (art. 150, § 1º), mas a cobrança continuaria dependente da publicação prévia da lei.
+6. **Concluir.** O empréstimo é inconstitucional por incompetência do Estado. A cobrança deve ser afastada, com restituição dos valores eventualmente pagos, sem que se possa "converter" o tributo em imposto ou taxa.
+
+### Fixação rápida
+
+**1.** Sobre a instituição de empréstimo compulsório, assinale a alternativa correta.
+A) A competência é privativa da União e pode ser exercida por lei ordinária.
+B) A União pode instituí-lo por medida provisória, desde que convertida em lei em até 120 dias.
+C) A competência é exclusiva da União e exige lei complementar, nas hipóteses do art. 148 da Constituição.
+D) Os Estados podem instituí-lo por lei complementar quando houver calamidade pública local.
+
+**Gabarito:** C. A competência é exclusiva (indelegável) e o instrumento é lei complementar; medida provisória é vedada pelo art. 62, § 1º, III, e Estados não podem criar a espécie.
+
+**2.** A União pretende instituir empréstimo compulsório para financiar obra de infraestrutura considerada urgente e de relevante interesse nacional. Quanto à anterioridade, é correto afirmar que o tributo:
+A) dispensa a anterioridade anual e a noventena.
+B) se submete à anterioridade anual e à noventena.
+C) se submete apenas à anterioridade anual.
+D) se submete apenas à noventena.
+
+**Gabarito:** B. O art. 148, II, remete ao art. 150, III, "b"; como a alínea "c" observa a "b", incidem as duas garantias. A dispensa do art. 150, § 1º vale só para o art. 148, I.
+
+**3.** Sobre a destinação e a devolução do empréstimo compulsório, assinale a correta.
+A) A receita pode ser aplicada em qualquer despesa, pois a vinculação é vedada pelo art. 167, IV.
+B) A devolução pode ser feita em quotas de empresa estatal, desde que atualizadas.
+C) A lei deve fixar prazo e condições de resgate, a devolução ocorre na mesma espécie arrecadada e a receita é vinculada à despesa que fundamentou a instituição.
+D) O empréstimo compulsório é imposto restituível e, por isso, não se sujeita à legalidade.
+
+**Gabarito:** C. É o que resulta do art. 148, parágrafo único, do art. 15, parágrafo único, do CTN e do RE 175.385/CE; a vedação do art. 167, IV atinge apenas receita de impostos.
+
+### Referências consultadas
+
+- [Constituição da República Federativa do Brasil de 1988](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) — arts. 62, 148, 150 e 167, com redação vigente.
+- [Lei nº 5.172/1966 — Código Tributário Nacional](https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm) — arts. 3º e 15.
+- [STF, RE 175.385/CE (acórdão no LexML)](https://www.lexml.gov.br/urn/urn:lex:br:supremo.tribunal.federal;plenario:acordao;re:1994-12-01;175385-1584529) — devolução do empréstimo sobre combustíveis na mesma espécie arrecadada.
+
 ## Referências
 
 [1]: https://oab.fgv.br/arq/649/604111_46%20eou.%20edital%20de%20abertura..pdf "OAB/FGV, 46º Exame de Ordem Unificado, Edital de Abertura, conteúdo programático e regras da prova objetiva"
