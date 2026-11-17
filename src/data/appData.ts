@@ -2,6 +2,8 @@ import questionData from './questions.json';
 import libraryData from './library.json';
 import scheduleData from './ceisc56.json';
 
+export type OabQuestionReference = { label: string; url: string };
+
 export type OabQuestion = {
   id: string;
   subjectId: string;
@@ -12,6 +14,9 @@ export type OabQuestion = {
   answer: 'A' | 'B' | 'C' | 'D';
   explanation: string;
   source: string;
+  recurringTopic?: string;
+  recurrenceNote?: string;
+  references?: OabQuestionReference[];
 };
 
 export const questions = questionData as OabQuestion[];

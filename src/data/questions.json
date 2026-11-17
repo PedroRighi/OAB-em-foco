@@ -1982,5 +1982,865 @@
     "answer": "B",
     "explanation": "A pista está na análise de disciplina, vigilância e normalização institucional, temas associados à abordagem crítica de Foucault. A alternativa A descreve outro problema, a validade normativa; C e D deslocam a questão para teorias diversas.",
     "source": "19-filosofia.md"
+  },
+  {
+    "id": "civil-07",
+    "subjectId": "civil",
+    "subjectTitle": "Direito Civil",
+    "number": 7,
+    "prompt": "Companheira viveu em união estável reconhecida com Roberto, que faleceu sem descendentes nem ascendentes e não deixou testamento. Ele deixou dois irmãos. À luz da orientação do STF sobre sucessão do companheiro, quem herda?",
+    "choices": {
+      "A": "A companheira recebe a herança, excluindo os colaterais, observada a ordem do art. 1.829 do Código Civil.",
+      "B": "A companheira concorre necessariamente com os irmãos em partes iguais.",
+      "C": "Os irmãos recebem tudo, pois companheiro não integra a ordem sucessória legal.",
+      "D": "A companheira só herda se houver previsão expressa em testamento."
+    },
+    "answer": "A",
+    "explanation": "No Tema 809, o STF declarou inconstitucional a distinção sucessória do art. 1.790 do Código Civil e determinou a aplicação da regra do art. 1.829 também à união estável. Sem descendentes ou ascendentes, o cônjuge ou companheiro ocupa a terceira classe sucessória e exclui os colaterais.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Sucessões: concorrência e ordem de vocação hereditária",
+    "recurrenceNote": "Recorrência temática, não repetição de item: sucessões foi observada em recortes distintos no 43º Exame, Tipo 1, questão 40, e no 44º, Tipo 1, questão 40; o 41º, questão 39, também tratou de efeitos sucessórios. A questão deste banco foi redigida de forma original.",
+    "references": [
+      {
+        "label": "Código Civil compilado — arts. 1.829 e seguintes",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+      },
+      {
+        "label": "STF — Tema 809, RE 878.694",
+        "url": "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4744004&numeroProcesso=878694&classeProcesso=RE&numeroTema=809"
+      },
+      {
+        "label": "44º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/647/519680_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(2).pdf"
+      },
+      {
+        "label": "41º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/644/552356_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(1).pdf"
+      },
+      {
+        "label": "43º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/646/838452_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "44º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/647/158882_OAB44%20Gabaritos%20para%20publica%C3%A7%C3%A3o%20-%20definitivo.pdf"
+      }
+    ]
+  },
+  {
+    "id": "civil-08",
+    "subjectId": "civil",
+    "subjectTitle": "Direito Civil",
+    "number": 8,
+    "prompt": "Único herdeiro de uma pessoa insolvente renuncia formalmente à herança. Um credor do renunciante toma conhecimento do ato e pede ao juízo autorização para aceitar a herança em nome dele. Qual regra se aplica?",
+    "choices": {
+      "A": "O credor jamais pode intervir, porque a renúncia produz efeitos absolutos desde a abertura da sucessão.",
+      "B": "O credor pode ser autorizado a aceitar a herança em nome do renunciante, dentro de 30 dias do conhecimento da renúncia; pago o crédito, eventual sobra aproveita aos herdeiros.",
+      "C": "O credor recebe automaticamente toda a herança, sem limite e sem autorização judicial.",
+      "D": "A renúncia é anulada de pleno direito e o herdeiro recebe os bens diretamente."
+    },
+    "answer": "B",
+    "explanation": "O art. 1.813 do Código Civil permite que credores prejudicados aceitem a herança em nome do renunciante, mediante autorização judicial, no prazo de 30 dias contado do conhecimento da renúncia. Satisfeitos os credores, o que sobrar retorna aos demais herdeiros.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Sucessões: renúncia da herança e proteção dos credores",
+    "recurrenceNote": "Recorrência temática, não repetição de item: o 41º Exame, Tipo 1, questão 39, examinou renúncia de herança e credor; as questões sucessórias do 43º (Q40) e 44º (Q40) cobraram outros recortes da matéria. Enunciado e alternativas são autorais.",
+    "references": [
+      {
+        "label": "Código Civil compilado — arts. 1.804 a 1.813",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+      },
+      {
+        "label": "41º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/644/552356_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(1).pdf"
+      },
+      {
+        "label": "43º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/646/838452_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "44º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/647/519680_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(2).pdf"
+      },
+      {
+        "label": "44º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/647/158882_OAB44%20Gabaritos%20para%20publica%C3%A7%C3%A3o%20-%20definitivo.pdf"
+      }
+    ]
+  },
+  {
+    "id": "civil-09",
+    "subjectId": "civil",
+    "subjectTitle": "Direito Civil",
+    "number": 9,
+    "prompt": "Uma criança nasceu 290 dias depois da dissolução do casamento de seus pais, ocorrida por morte do marido. Não há decisão judicial afastando a presunção de filiação. Qual afirmação está de acordo com o Código Civil?",
+    "choices": {
+      "A": "A presunção de filiação termina necessariamente no dia da dissolução do casamento.",
+      "B": "A filiação só pode ser reconhecida se houver exame genético requerido pelo Ministério Público.",
+      "C": "A presunção legal alcança o nascimento ocorrido dentro de 300 dias subsequentes à dissolução da sociedade conjugal.",
+      "D": "A presunção só existe para criança nascida durante casamento civil ainda vigente."
+    },
+    "answer": "C",
+    "explanation": "O art. 1.597, II, do Código Civil presume concebidos na constância do casamento os filhos nascidos nos 300 dias subsequentes à dissolução da sociedade conjugal, qualquer que seja a causa da dissolução. A presunção não impede a discussão judicial de filiação nos termos legais.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Filiação: presunção de paternidade após a dissolução do casamento",
+    "recurrenceNote": "Recorrência temática: filiação foi identificada no 41º Exame, Tipo 1, questão 40, e no 44º, Tipo 1, questão 41, com enfoques diferentes. Não se trata de reprodução de questão oficial.",
+    "references": [
+      {
+        "label": "Código Civil compilado — arts. 1.597 e 1.601",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+      },
+      {
+        "label": "44º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/647/519680_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(2).pdf"
+      },
+      {
+        "label": "41º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/644/552356_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(1).pdf"
+      },
+      {
+        "label": "43º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/646/838452_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "44º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/647/158882_OAB44%20Gabaritos%20para%20publica%C3%A7%C3%A3o%20-%20definitivo.pdf"
+      }
+    ]
+  },
+  {
+    "id": "civil-10",
+    "subjectId": "civil",
+    "subjectTitle": "Direito Civil",
+    "number": 10,
+    "prompt": "Marta é superficiária de um terreno urbano. O proprietário pretende vender o imóvel a terceiro e não comunica a proposta a Marta. De acordo com o Código Civil, qual direito pode incidir?",
+    "choices": {
+      "A": "Marta não tem preferência, pois o direito de superfície impede qualquer venda do terreno.",
+      "B": "Marta tem direito de preferência, em igualdade de condições com terceiros, na aquisição do imóvel objeto da superfície.",
+      "C": "Marta só pode exigir a preferência depois de adquirir gratuitamente a propriedade do solo.",
+      "D": "A preferência existe apenas se houver cláusula que transfira a propriedade do solo à superficiária."
+    },
+    "answer": "B",
+    "explanation": "O art. 1.373 do Código Civil assegura preferência recíproca ao proprietário e ao superficiário, em igualdade de condições, em caso de alienação do imóvel ou do direito de superfície. O enunciado não torna a venda proibida; preserva a preferência prevista em lei.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Direitos reais imobiliários: direito de superfície e preferência",
+    "recurrenceNote": "O levantamento encontrou cobrança de direitos reais imobiliários no 41º Exame, Tipo 1, questão 42, no 43º, questão 42, e no 44º, questão 42. A ocorrência sustenta recorrência da área, não a repetição deste instituto ou deste caso.",
+    "references": [
+      {
+        "label": "Código Civil compilado — arts. 1.369 a 1.377",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+      },
+      {
+        "label": "41º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/644/552356_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(1).pdf"
+      },
+      {
+        "label": "43º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/646/838452_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "44º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/647/519680_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(2).pdf"
+      },
+      {
+        "label": "44º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/647/158882_OAB44%20Gabaritos%20para%20publica%C3%A7%C3%A3o%20-%20definitivo.pdf"
+      }
+    ]
+  },
+  {
+    "id": "civil-11",
+    "subjectId": "civil",
+    "subjectTitle": "Direito Civil",
+    "number": 11,
+    "prompt": "Um vaso cai da janela de um apartamento e causa lesão a um pedestre. A perícia identifica de qual unidade partiu o objeto, mas não qual morador o lançou. Segundo o Código Civil, quem responde perante a vítima?",
+    "choices": {
+      "A": "O ocupante da parte do edifício de onde caiu ou foi lançada a coisa, conforme a regra do art. 938 do Código Civil.",
+      "B": "Somente o síndico, por ser responsável por todas as áreas do edifício.",
+      "C": "A vítima, porque objetos que caem de prédios são caso fortuito externo.",
+      "D": "Exclusivamente o proprietário do terreno, ainda que outra pessoa ocupe a unidade."
+    },
+    "answer": "A",
+    "explanation": "O art. 938 do Código Civil atribui responsabilidade ao habitante da casa ou parte do prédio de onde caia ou seja lançada a coisa. Como o enunciado identifica a unidade de origem, responde o ocupante daquela parte, e não automaticamente o síndico ou o proprietário que não a ocupa.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Responsabilidade civil por dano causado por coisa que cai de edifício",
+    "recurrenceNote": "Responsabilidade civil foi observada no 41º Exame, Tipo 1, questão 43, e no 43º, Tipo 1, questão 41, em situações diferentes. A recorrência é temática e não significa que a regra específica do art. 938 tenha sido cobrada nas duas.",
+    "references": [
+      {
+        "label": "Código Civil compilado — arts. 186, 927 e 938",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+      },
+      {
+        "label": "43º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/646/838452_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "41º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/644/552356_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(1).pdf"
+      },
+      {
+        "label": "44º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/647/519680_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(2).pdf"
+      },
+      {
+        "label": "44º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/647/158882_OAB44%20Gabaritos%20para%20publica%C3%A7%C3%A3o%20-%20definitivo.pdf"
+      }
+    ]
+  },
+  {
+    "id": "penal-07",
+    "subjectId": "penal",
+    "subjectTitle": "Direito Penal",
+    "number": 7,
+    "prompt": "Brasileiro pratica no exterior crime comum contra vítima estrangeira, retorna ao Brasil e é localizado pelas autoridades. Para a extraterritorialidade condicionada do art. 7º, II, b, do Código Penal, qual afirmação está correta?",
+    "choices": {
+      "A": "A lei brasileira sempre se aplica, ainda que o fato não seja crime no país em que ocorreu.",
+      "B": "A aplicação depende, entre outras condições legais, de o agente entrar no território nacional e de o fato também ser punível no país em que foi praticado.",
+      "C": "A lei brasileira não pode alcançar crime cometido por brasileiro fora do país.",
+      "D": "A lei brasileira só se aplica se a vítima também for brasileira."
+    },
+    "answer": "B",
+    "explanation": "O art. 7º, II, b, prevê extraterritorialidade para crimes praticados por brasileiro. O § 2º condiciona a aplicação, entre outros requisitos, à entrada do agente no território nacional e à dupla incriminação, além das demais condições expressamente listadas no dispositivo.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Aplicação da lei penal no espaço e extraterritorialidade",
+    "recurrenceNote": "Tema observado no 42º Exame, Tipo 1, Q57; 43º, Q59; 44º, Q61; e 45º, Q57. São situações distintas e a amostra não sustenta afirmação de repetição literal. Questão nova, baseada na regra vigente do Código Penal.",
+    "references": [
+      {
+        "label": "Código Penal compilado — arts. 5º a 7º",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+      },
+      {
+        "label": "45º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/648/405589_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "42º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/645/402439_OAB%2042%20-%20ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "43º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/646/838452_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "44º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/647/519680_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(2).pdf"
+      },
+      {
+        "label": "44º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/647/158882_OAB44%20Gabaritos%20para%20publica%C3%A7%C3%A3o%20-%20definitivo.pdf"
+      }
+    ]
+  },
+  {
+    "id": "penal-08",
+    "subjectId": "penal",
+    "subjectTitle": "Direito Penal",
+    "number": 8,
+    "prompt": "Durante viagem, Paula pega uma mala idêntica à sua acreditando, por erro sobre os fatos, que lhe pertence. A mala era de outra pessoa. Considerando o erro essencial sobre elemento do tipo, qual é a consequência geral?",
+    "choices": {
+      "A": "O erro essencial exclui o dolo; só haverá punição por culpa se o tipo penal admitir modalidade culposa.",
+      "B": "O erro é irrelevante, pois todo engano sobre propriedade gera responsabilidade penal dolosa.",
+      "C": "O erro exclui automaticamente a ilicitude, em qualquer crime patrimonial.",
+      "D": "O erro só afasta a culpabilidade se o proprietário da mala perdoar Paula."
+    },
+    "answer": "A",
+    "explanation": "Pelo art. 20, caput, do Código Penal, o erro sobre elemento constitutivo do tipo exclui o dolo. A responsabilização por culpa permanece possível apenas quando a lei prevê expressamente a forma culposa; o furto não possui modalidade culposa geral.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Erro de tipo e erro de proibição: distinção e consequências",
+    "recurrenceNote": "Erros penais foram identificados em questões diferentes do 42º (Q59), 43º (Q60), 44º (Q59) e 45º (Q61). O tema reaparece com subtipos e consequências variados; este enunciado é autoral.",
+    "references": [
+      {
+        "label": "Código Penal compilado — arts. 20 e 21",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+      },
+      {
+        "label": "44º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/647/519680_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(2).pdf"
+      },
+      {
+        "label": "42º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/645/402439_OAB%2042%20-%20ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "43º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/646/838452_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "45º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/648/405589_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "44º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/647/158882_OAB44%20Gabaritos%20para%20publica%C3%A7%C3%A3o%20-%20definitivo.pdf"
+      }
+    ]
+  },
+  {
+    "id": "penal-09",
+    "subjectId": "penal",
+    "subjectTitle": "Direito Penal",
+    "number": 9,
+    "prompt": "Uma pessoa inicia a execução de um homicídio, mas a vítima não é atingida por circunstância alheia à vontade do agente. Como o Código Penal classifica, em regra, a conduta?",
+    "choices": {
+      "A": "Crime impossível, pois o resultado não ocorreu.",
+      "B": "Tentativa, com redução de pena de um a dois terços, conforme o iter criminis percorrido.",
+      "C": "Desistência voluntária, porque a vítima sobreviveu.",
+      "D": "Crime consumado, pois o início da execução basta para consumação."
+    },
+    "answer": "B",
+    "explanation": "O art. 14, II, do Código Penal define tentativa quando a execução começa e o crime não se consuma por circunstâncias alheias à vontade do agente. A pena do crime consumado é diminuída de um a dois terços, na medida legal aplicável ao caso.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Iter criminis, tentativa e não consumação por circunstância externa",
+    "recurrenceNote": "O eixo do iter criminis apareceu em recortes diversos no 41º Exame, Q59; 42º, Q61; 43º, Q62; 44º, Q60; e 45º, Q59. A banca não reapresentou necessariamente o mesmo problema; a questão daqui é autoral.",
+    "references": [
+      {
+        "label": "Código Penal compilado — arts. 14 a 16",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+      },
+      {
+        "label": "45º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/648/405589_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "42º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/645/402439_OAB%2042%20-%20ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "43º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/646/838452_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "44º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/647/519680_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(2).pdf"
+      },
+      {
+        "label": "44º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/647/158882_OAB44%20Gabaritos%20para%20publica%C3%A7%C3%A3o%20-%20definitivo.pdf"
+      }
+    ]
+  },
+  {
+    "id": "penal-10",
+    "subjectId": "penal",
+    "subjectTitle": "Direito Penal",
+    "number": 10,
+    "prompt": "Após iniciar os atos executórios de um furto, mas ainda podendo prosseguir, o agente decide livremente interromper a ação e deixa o local sem levar o bem. Não houve outro delito autônomo. Qual consequência prevê o Código Penal?",
+    "choices": {
+      "A": "Responde por furto tentado, porque todo início de execução gera tentativa punível.",
+      "B": "Responde somente pelos atos já praticados, em razão da desistência voluntária.",
+      "C": "Fica isento de qualquer responsabilidade penal, mesmo por atos autônomos anteriores.",
+      "D": "Responde por crime impossível, ainda que a consumação fosse possível."
+    },
+    "answer": "B",
+    "explanation": "O art. 15 do Código Penal prevê que quem voluntariamente desiste de prosseguir na execução responde apenas pelos atos já praticados. O caso não é tentativa, que exige que a não consumação decorra de circunstância alheia à vontade do agente.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Iter criminis: desistência voluntária e distinção da tentativa",
+    "recurrenceNote": "O levantamento identificou recorrência ampla de questões sobre iter criminis entre o 41º e o 45º Exame, com recortes distintos. Esta questão não é oficial nem repete os fatos dos cadernos consultados.",
+    "references": [
+      {
+        "label": "Código Penal compilado — arts. 14 e 15",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+      },
+      {
+        "label": "42º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/645/402439_OAB%2042%20-%20ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "43º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/646/838452_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "44º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/647/519680_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(2).pdf"
+      },
+      {
+        "label": "45º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/648/405589_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "44º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/647/158882_OAB44%20Gabaritos%20para%20publica%C3%A7%C3%A3o%20-%20definitivo.pdf"
+      }
+    ]
+  },
+  {
+    "id": "processo-trabalho-07",
+    "subjectId": "processo-trabalho",
+    "subjectTitle": "Direito Processual do Trabalho",
+    "number": 7,
+    "prompt": "A reclamante falta à audiência trabalhista. O processo é arquivado. Quinze dias depois, ela apresenta documento que comprova motivo legalmente justificável para a ausência. Sobre as custas do arquivamento, assinale a correta.",
+    "choices": {
+      "A": "As custas são sempre dispensadas, pois a reclamante pediu justiça gratuita.",
+      "B": "A ausência nunca gera custas quando o processo é arquivado.",
+      "C": "A reclamante pode comprovar, no prazo legal de 15 dias, motivo justificável para afastar a consequência prevista para a ausência.",
+      "D": "As custas só podem ser cobradas se a parte contrária provar prejuízo econômico."
+    },
+    "answer": "C",
+    "explanation": "O art. 844, § 2º, da CLT prevê custas pelo arquivamento decorrente da ausência do reclamante, ainda que beneficiário da justiça gratuita, salvo se comprovar, em 15 dias, que a ausência ocorreu por motivo legalmente justificável. A cobrança é condição para nova demanda nos termos do § 3º.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Audiência trabalhista: ausência do reclamante e justificativa",
+    "recurrenceNote": "Consequências da ausência em audiência foram identificadas no 39º e no 40º Exame e, com número confirmado, no 43º, Tipo 1, questão 77. As situações variam; este item não reproduz questão oficial.",
+    "references": [
+      {
+        "label": "CLT compilada — arts. 731, 732 e 844",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del5452compilado.htm"
+      },
+      {
+        "label": "43º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/646/838452_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "39º Exame — caderno oficial Tipo 1",
+        "url": "https://s.oab.org.br/arquivos/2023/11/8340b3e9-4337-4351-929c-3dcfd772e54a.pdf"
+      },
+      {
+        "label": "40º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/643/341069_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "41º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/644/552356_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(1).pdf"
+      },
+      {
+        "label": "43º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/646/194143_oab251_gabarito_definitivo_ms.pdf"
+      }
+    ]
+  },
+  {
+    "id": "processo-trabalho-08",
+    "subjectId": "processo-trabalho",
+    "subjectTitle": "Direito Processual do Trabalho",
+    "number": 8,
+    "prompt": "O mesmo reclamante dá causa ao arquivamento de duas reclamações trabalhistas seguidas por ausência injustificada em audiência. Qual consequência específica pode incidir conforme a CLT?",
+    "choices": {
+      "A": "Perda, por seis meses, do direito de reclamar perante a Justiça do Trabalho.",
+      "B": "Extinção definitiva de qualquer direito material trabalhista do reclamante.",
+      "C": "Suspensão automática do direito de ação por dois anos.",
+      "D": "Imposição de prisão civil por desobediência ao juízo."
+    },
+    "answer": "A",
+    "explanation": "O art. 732 da CLT prevê que o reclamante que, por duas vezes seguidas, der causa ao arquivamento nos termos legais perde, por seis meses, o direito de reclamar perante a Justiça do Trabalho. A sanção é temporária e processual, não extingue o direito material.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Audiência trabalhista: arquivamento reiterado e perempção temporária",
+    "recurrenceNote": "O tema amplo de ausência e arquivamento aparece em provas do 39º, 40º e 43º Exame; a comparação identificou recortes diversos e não afirma repetição desta consequência específica. Questão autoral.",
+    "references": [
+      {
+        "label": "CLT compilada — arts. 731, 732 e 844",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del5452compilado.htm"
+      },
+      {
+        "label": "43º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/646/838452_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "39º Exame — caderno oficial Tipo 1",
+        "url": "https://s.oab.org.br/arquivos/2023/11/8340b3e9-4337-4351-929c-3dcfd772e54a.pdf"
+      },
+      {
+        "label": "40º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/643/341069_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "41º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/644/552356_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(1).pdf"
+      },
+      {
+        "label": "43º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/646/194143_oab251_gabarito_definitivo_ms.pdf"
+      }
+    ]
+  },
+  {
+    "id": "processo-trabalho-09",
+    "subjectId": "processo-trabalho",
+    "subjectTitle": "Direito Processual do Trabalho",
+    "number": 9,
+    "prompt": "Na fase de liquidação, o juízo abre prazo comum para as partes impugnarem os cálculos. A empresa aponta genericamente que o total está errado, sem indicar itens nem valores controvertidos. Qual é a consequência prevista na CLT?",
+    "choices": {
+      "A": "A impugnação genérica interrompe o prazo e obriga o juiz a recalcular toda a conta.",
+      "B": "A parte deve indicar fundamentadamente os itens e valores impugnados no prazo legal, sob pena de preclusão.",
+      "C": "A impugnação só pode ocorrer depois do pagamento integral da execução.",
+      "D": "A fase de liquidação não admite manifestação das partes."
+    },
+    "answer": "B",
+    "explanation": "Nos termos do art. 879, § 2º, da CLT, elaborado o cálculo, o juízo deve abrir prazo comum de oito dias para impugnação fundamentada, com indicação dos itens e valores objeto da discordância, sob pena de preclusão. A manifestação genérica não satisfaz a exigência legal.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Execução trabalhista: impugnação específica dos cálculos de liquidação",
+    "recurrenceNote": "O levantamento encontrou questões sobre cálculos, preclusão e execução nos cadernos do 39º, 40º, 41º (Q77–Q80) e 43º (Q80). O recorte deste exercício é autoral; números não foram atribuídos quando a extração não foi inequívoca.",
+    "references": [
+      {
+        "label": "CLT compilada — art. 879, § 2º",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del5452compilado.htm"
+      },
+      {
+        "label": "41º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/644/552356_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(1).pdf"
+      },
+      {
+        "label": "39º Exame — caderno oficial Tipo 1",
+        "url": "https://s.oab.org.br/arquivos/2023/11/8340b3e9-4337-4351-929c-3dcfd772e54a.pdf"
+      },
+      {
+        "label": "40º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/643/341069_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "43º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/646/838452_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "43º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/646/194143_oab251_gabarito_definitivo_ms.pdf"
+      }
+    ]
+  },
+  {
+    "id": "processo-trabalho-10",
+    "subjectId": "processo-trabalho",
+    "subjectTitle": "Direito Processual do Trabalho",
+    "number": 10,
+    "prompt": "Após garantir integralmente a execução trabalhista, a executada pretende apresentar embargos à execução. Qual prazo geral estabelece a CLT?",
+    "choices": {
+      "A": "Cinco dias, contados da garantia da execução ou da penhora, conforme o caso.",
+      "B": "Oito dias úteis contados da publicação da sentença de conhecimento.",
+      "C": "Quinze dias, contados da citação inicial do processo.",
+      "D": "Trinta dias, sem relação com a garantia do juízo."
+    },
+    "answer": "A",
+    "explanation": "O art. 884 da CLT prevê prazo de cinco dias para o executado apresentar embargos depois de garantida a execução ou penhorados os bens. O exequente dispõe de prazo igual para impugnar, observada a disciplina legal.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Execução trabalhista: garantia e prazo dos embargos à execução",
+    "recurrenceNote": "Execução e embargos foram identificados em diferentes cadernos: 39º, 40º, 41º (Q77–Q80) e 43º (Q80). O tema é recorrente em recortes processuais variados; este enunciado foi criado para treino.",
+    "references": [
+      {
+        "label": "CLT compilada — arts. 884 e 897",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del5452compilado.htm"
+      },
+      {
+        "label": "43º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/646/838452_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "39º Exame — caderno oficial Tipo 1",
+        "url": "https://s.oab.org.br/arquivos/2023/11/8340b3e9-4337-4351-929c-3dcfd772e54a.pdf"
+      },
+      {
+        "label": "40º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/643/341069_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "41º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/644/552356_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(1).pdf"
+      },
+      {
+        "label": "43º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/646/194143_oab251_gabarito_definitivo_ms.pdf"
+      }
+    ]
+  },
+  {
+    "id": "processo-trabalho-11",
+    "subjectId": "processo-trabalho",
+    "subjectTitle": "Direito Processual do Trabalho",
+    "number": 11,
+    "prompt": "Em execução trabalhista, o juízo julga os embargos à execução e a parte pretende impugnar a decisão. Qual recurso é cabível, em regra, e qual prazo geral prevê a CLT?",
+    "choices": {
+      "A": "Recurso ordinário, em oito dias.",
+      "B": "Agravo de petição, em oito dias, observados os requisitos legais de delimitação da matéria e dos valores impugnados.",
+      "C": "Agravo de instrumento, em cinco dias, sem delimitação do objeto.",
+      "D": "Apelação, em quinze dias úteis."
+    },
+    "answer": "B",
+    "explanation": "O art. 897, a, da CLT prevê agravo de petição contra decisões do juiz ou presidente nas execuções, no prazo de oito dias. O § 1º exige delimitação justificada das matérias e dos valores impugnados, permitindo a execução imediata da parte remanescente.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Execução trabalhista: recurso contra decisão em embargos",
+    "recurrenceNote": "O 41º Exame, Tipo 1, questões 77–80, incluiu recurso ligado à execução; o 43º, Q80, tratou de embargos de ente público. A evidência é de recorrência da área de execução, não de repetição desta hipótese específica.",
+    "references": [
+      {
+        "label": "CLT compilada — arts. 884 e 897",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/Del5452compilado.htm"
+      },
+      {
+        "label": "41º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/644/552356_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(1).pdf"
+      },
+      {
+        "label": "39º Exame — caderno oficial Tipo 1",
+        "url": "https://s.oab.org.br/arquivos/2023/11/8340b3e9-4337-4351-929c-3dcfd772e54a.pdf"
+      },
+      {
+        "label": "40º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/643/341069_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "43º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/646/838452_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "43º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/646/194143_oab251_gabarito_definitivo_ms.pdf"
+      }
+    ]
+  },
+  {
+    "id": "tributario-07",
+    "subjectId": "tributario",
+    "subjectTitle": "Direito Tributário",
+    "number": 7,
+    "prompt": "Município cobra IPTU sobre o imóvel de uma entidade religiosa utilizado como templo e local de atividades diretamente ligadas às suas finalidades essenciais. Qual regra constitucional é pertinente?",
+    "choices": {
+      "A": "A imunidade pode afastar o IPTU, observada a vinculação do patrimônio, renda ou serviços às finalidades essenciais da entidade.",
+      "B": "A entidade religiosa só pode obter isenção municipal por lei ordinária local; a Constituição não prevê imunidade.",
+      "C": "A imunidade alcança automaticamente todas as taxas e contribuições cobradas pelo Município.",
+      "D": "A imunidade só vale para templos pertencentes à União."
+    },
+    "answer": "A",
+    "explanation": "O art. 150, VI, b, da Constituição veda impostos sobre templos de qualquer culto; o § 4º relaciona a proteção ao patrimônio, à renda e aos serviços vinculados às finalidades essenciais das entidades. A imunidade de impostos não se confunde com dispensa geral de taxas.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Imunidade tributária religiosa e IPTU",
+    "recurrenceNote": "O tema foi observado no 41º Exame, Tipo 1, Q27, e no 44º, Tipo 1, Q26, em cenários diferentes. É recorrência temática, não repetição literal; questão autoral.",
+    "references": [
+      {
+        "label": "Constituição compilada — art. 150, VI, b, e § 4º",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+      },
+      {
+        "label": "STF — Súmula Vinculante 52",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=2610"
+      },
+      {
+        "label": "44º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/647/519680_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(2).pdf"
+      },
+      {
+        "label": "40º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/643/341069_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "41º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/644/552356_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(1).pdf"
+      },
+      {
+        "label": "44º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/647/158882_OAB44%20Gabaritos%20para%20publica%C3%A7%C3%A3o%20-%20definitivo.pdf"
+      }
+    ]
+  },
+  {
+    "id": "tributario-08",
+    "subjectId": "tributario",
+    "subjectTitle": "Direito Tributário",
+    "number": 8,
+    "prompt": "Uma instituição de educação sem fins lucrativos, que atende aos requisitos legais, aluga a terceiros um imóvel de sua propriedade. A renda é aplicada em suas atividades educacionais essenciais. À luz da Súmula Vinculante 52 do STF, qual afirmação é correta quanto ao IPTU?",
+    "choices": {
+      "A": "A imunidade nunca alcança imóvel alugado, independentemente do destino da renda.",
+      "B": "A imunidade pode alcançar o imóvel alugado se o valor dos aluguéis for aplicado nas atividades para as quais a instituição foi constituída.",
+      "C": "O contrato de locação converte automaticamente a imunidade em isenção temporária.",
+      "D": "A imunidade depende de o locatário também ser uma instituição de educação sem fins lucrativos."
+    },
+    "answer": "B",
+    "explanation": "A Súmula Vinculante 52 do STF interpreta a imunidade do art. 150, VI, c, da Constituição: ainda quando alugado a terceiros, o imóvel da entidade de educação ou assistência social sem fins lucrativos pode permanecer imune ao IPTU, desde que os aluguéis sejam aplicados nas atividades para as quais foi constituída. O enunciado pressupõe o atendimento dos requisitos legais.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Imunidade de IPTU de imóvel alugado por entidade educacional",
+    "recurrenceNote": "O eixo amplo das imunidades tributárias foi observado no 40º Exame, Tipo 1, Q25; no 41º, Q27; e no 44º, Q26. A comparação não identificou a aplicação específica da SV 52 como tema repetido; este exercício autoral serve para revisar a jurisprudência oficial e não afirma recorrência desse subtema.",
+    "references": [
+      {
+        "label": "Constituição compilada — art. 150, VI, b, e § 4º",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+      },
+      {
+        "label": "STF — Súmula Vinculante 52",
+        "url": "https://portal.stf.jus.br/jurisprudencia/sumariosumulas.asp?base=26&sumula=2610"
+      },
+      {
+        "label": "41º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/644/552356_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(1).pdf"
+      },
+      {
+        "label": "40º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/643/341069_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "44º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/647/519680_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(2).pdf"
+      },
+      {
+        "label": "Código Tributário Nacional compilado — art. 14",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+      },
+      {
+        "label": "44º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/647/158882_OAB44%20Gabaritos%20para%20publica%C3%A7%C3%A3o%20-%20definitivo.pdf"
+      }
+    ]
+  },
+  {
+    "id": "tributario-09",
+    "subjectId": "tributario",
+    "subjectTitle": "Direito Tributário",
+    "number": 9,
+    "prompt": "Lei federal concede isenção de IPTU para imóveis de determinada categoria em todo o país, sem que o próprio Município tenha instituído o benefício. Qual limite constitucional deve ser considerado?",
+    "choices": {
+      "A": "A União pode conceder livremente isenção de qualquer imposto municipal por lei ordinária federal.",
+      "B": "A Constituição veda à União instituir isenções de tributos da competência dos Estados, do Distrito Federal ou dos Municípios.",
+      "C": "A União pode conceder a isenção desde que o IPTU tenha sido criado antes da Constituição.",
+      "D": "A vedação alcança apenas taxas estaduais, não impostos municipais."
+    },
+    "answer": "B",
+    "explanation": "O art. 151, III, da Constituição proíbe a União de instituir isenções de tributos da competência dos Estados, do Distrito Federal ou dos Municípios, ressalvada a disciplina constitucional própria de tratados internacionais. A União não pode, por lei federal unilateral, conceder isenção de IPTU municipal.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Competência tributária e limites federativos à concessão de benefícios fiscais",
+    "recurrenceNote": "O eixo de competência e benefícios entre entes foi identificado no 40º Exame, Tipo 1, Q26; 41º, Q26; e 44º, Q29, com fundamentos distintos. A questão é original e não afirma repetição de enunciado oficial.",
+    "references": [
+      {
+        "label": "Constituição compilada — arts. 150, § 6º, e 151, III",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+      },
+      {
+        "label": "44º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/647/519680_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(2).pdf"
+      },
+      {
+        "label": "40º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/643/341069_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "41º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/644/552356_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(1).pdf"
+      },
+      {
+        "label": "44º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/647/158882_OAB44%20Gabaritos%20para%20publica%C3%A7%C3%A3o%20-%20definitivo.pdf"
+      }
+    ]
+  },
+  {
+    "id": "tributario-10",
+    "subjectId": "tributario",
+    "subjectTitle": "Direito Tributário",
+    "number": 10,
+    "prompt": "Estado concede, por lei própria e sem convênio interestadual, benefício fiscal de ICMS que não está abrangido por regime legal especial de regularização. Qual regra geral deve ser observada?",
+    "choices": {
+      "A": "A concessão ou revogação de isenções e benefícios de ICMS deve observar convênio celebrado e ratificado pelos Estados e pelo Distrito Federal, nos termos da lei complementar.",
+      "B": "Cada Estado pode conceder unilateralmente qualquer benefício de ICMS, sem coordenação federativa.",
+      "C": "Somente lei municipal pode autorizar benefício de ICMS.",
+      "D": "Benefícios fiscais de ICMS dependem exclusivamente de decreto do Senado Federal."
+    },
+    "answer": "A",
+    "explanation": "O art. 155, § 2º, XII, g, da Constituição reserva à lei complementar a disciplina da forma pela qual, mediante deliberação dos Estados e do Distrito Federal, isenções, incentivos e benefícios fiscais de ICMS são concedidos e revogados. A LC 24/1975 regulamenta a celebração dos convênios, sem prejuízo de regimes legais específicos aplicáveis a hipóteses próprias.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Competência tributária e benefícios fiscais de ICMS",
+    "recurrenceNote": "Questões sobre competência e benefícios federativos foram localizadas no 40º Exame, Q26; 41º, Q26; e 44º, Q29. O recorte desta questão enfatiza convênios de ICMS e é autoral, sem alegação de repetição.",
+    "references": [
+      {
+        "label": "Constituição compilada — art. 155, § 2º, XII, g",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+      },
+      {
+        "label": "Lei Complementar 24/1975 — convênios de ICMS",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp24.htm"
+      },
+      {
+        "label": "41º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/644/552356_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(1).pdf"
+      },
+      {
+        "label": "40º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/643/341069_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "44º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/647/519680_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(2).pdf"
+      },
+      {
+        "label": "44º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/647/158882_OAB44%20Gabaritos%20para%20publica%C3%A7%C3%A3o%20-%20definitivo.pdf"
+      }
+    ]
+  },
+  {
+    "id": "tributario-11",
+    "subjectId": "tributario",
+    "subjectTitle": "Direito Tributário",
+    "number": 11,
+    "prompt": "Uma pessoa falece domiciliada no Estado X e deixa um apartamento situado no Estado Y para herdeiro domiciliado no Estado Z. Considerando a competência para instituir ITCMD sobre bem imóvel transmitido por causa mortis, qual Estado é competente?",
+    "choices": {
+      "A": "O Estado X, porque era o domicílio do falecido.",
+      "B": "O Estado Z, porque é onde reside o herdeiro.",
+      "C": "O Estado Y, onde está situado o imóvel.",
+      "D": "A União, pois a transmissão envolve mais de um Estado."
+    },
+    "answer": "C",
+    "explanation": "O art. 155, § 1º, I, da Constituição atribui ao Estado da situação do bem a competência para o ITCMD sobre imóveis e respectivos direitos. O domicílio do falecido ou do herdeiro não desloca essa regra de competência territorial para bem imóvel.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "ITCMD: competência territorial na transmissão de bem imóvel",
+    "recurrenceNote": "ITCMD foi identificado no 41º Exame, Tipo 1, Q28, e no 44º, Q25, em ângulos diferentes. A questão autoral trata de bem imóvel e aplica a regra constitucional vigente; não é item oficial nem repetido.",
+    "references": [
+      {
+        "label": "Constituição compilada — art. 155, § 1º, I",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm"
+      },
+      {
+        "label": "44º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/647/519680_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(2).pdf"
+      },
+      {
+        "label": "40º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/643/341069_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "41º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/644/552356_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(1).pdf"
+      },
+      {
+        "label": "44º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/647/158882_OAB44%20Gabaritos%20para%20publica%C3%A7%C3%A3o%20-%20definitivo.pdf"
+      }
+    ]
+  },
+  {
+    "id": "penal-11",
+    "subjectId": "penal",
+    "subjectTitle": "Direito Penal",
+    "number": 11,
+    "prompt": "Durante voo internacional sobre área correspondente ao alto-mar, uma pessoa pratica crime a bordo de aeronave privada matriculada no Brasil. Qual regra de aplicação da lei penal territorial é pertinente?",
+    "choices": {
+      "A": "A lei brasileira pode ser aplicada, pois aeronave privada brasileira em espaço aéreo correspondente ao alto-mar é considerada extensão do território nacional para efeitos penais.",
+      "B": "Apenas a lei do país de destino pode ser aplicada, independentemente do local do fato.",
+      "C": "A lei brasileira nunca se aplica a aeronave privada fora do espaço aéreo nacional.",
+      "D": "A lei brasileira só se aplica se o autor e a vítima forem brasileiros."
+    },
+    "answer": "A",
+    "explanation": "O art. 5º, § 1º, do Código Penal considera extensão do território nacional, para efeitos penais, aeronaves brasileiras privadas que estejam no espaço aéreo correspondente ao alto-mar. A regra não exige que autor e vítima tenham nacionalidade brasileira.",
+    "source": "Questão autoral de treino, 17/11/2026",
+    "recurringTopic": "Aplicação da lei penal no espaço e territorialidade por extensão",
+    "recurrenceNote": "Aplicação da lei penal no espaço foi observada em questões distintas do 42º Exame, Tipo 1, Q57; 43º, Q59; 44º, Q61; e 45º, Q57. O enunciado foi escrito para treino e não reproduz os fatos das provas.",
+    "references": [
+      {
+        "label": "Código Penal compilado — arts. 5º a 7º",
+        "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+      },
+      {
+        "label": "42º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/645/402439_OAB%2042%20-%20ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "43º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/646/838452_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "44º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/647/519680_ADVOGADO%20OAB(CNS01)%20Tipo%201%20(2).pdf"
+      },
+      {
+        "label": "45º Exame — caderno oficial Tipo 1",
+        "url": "https://oab.fgv.br/arq/648/405589_ADVOGADO%20OAB(CNS01)%20Tipo%201.pdf"
+      },
+      {
+        "label": "44º Exame — gabarito definitivo oficial",
+        "url": "https://oab.fgv.br/arq/647/158882_OAB44%20Gabaritos%20para%20publica%C3%A7%C3%A3o%20-%20definitivo.pdf"
+      }
+    ]
   }
 ]

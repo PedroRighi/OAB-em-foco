@@ -1,4 +1,4 @@
-import { createContext, useCallback, useContext, useEffect, useMemo, useState } from 'react';
+import { createContext, useCallback, useContext, useEffect, useMemo, useRef, useState } from 'react';
 import type { ReactNode } from 'react';
 import { emptyProgress, loadProgress, saveProgress } from '../lib/progress';
 import type { StudyProgress } from '../lib/progress';
@@ -13,16 +13,20 @@ const ProgressContext = createContext<ProgressContextValue | null>(null);
 
 export function ProgressProvider({ children }: { children: ReactNode }) {
   const [progress, setProgress] = useState<StudyProgress>(loadProgress);
+  const hasUserChange = useRef(false);
 
   useEffect(() => {
-    saveProgress(progress);
+    // Opening the portal must not rewrite the user's previously saved data.
+    if (hasUserChange.current) saveProgress(progress);
   }, [progress]);
 
   const updateProgress = useCallback((updater: (previous: StudyProgress) => StudyProgress) => {
+    hasUserChange.current = true;
     setProgress(updater);
   }, []);
 
   const resetProgress = useCallback(() => {
+    hasUserChange.current = true;
     setProgress(emptyProgress);
   }, []);
 

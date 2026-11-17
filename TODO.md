@@ -22,7 +22,7 @@
 ## 4. Planos de estudo CEISC e intensivo configurável de 40 dias
 - [x] Importar e organizar o plano de 56 dias já estruturado com base no cronograma CEISC informado pela usuária, preservando seus focos e a referência de 90 a 120 minutos por dia.
 - [x] Incluir um modo intensivo de 40 dias com início em 23/11/2026, duas disciplinas por dia e espaço para a usuária escolher dez matérias.
-- [x] Não inventar nem atribuir ao VDE uma lista de dez disciplinas que a usuária ainda não informou; identificar o plano como modelo configurável baseado nas informações relatadas sobre o anúncio.
+- [x] Não inventar nem atribuir ao VDE uma lista de dez disciplinas não informada; o modelo configurável inicial foi preservado e a trilha nova identifica a cópia pública textual do material recebido e seus limites.
 - [x] Encerrar o ciclo de 40 dias aproximadamente em 01/01/2027 e reservar 02/01 a 09/01 para revisão e simulados antes da data prevista da prova.
 - [x] Permitir que a usuária registre dias concluídos e acompanhe o andamento sem conta.
 
@@ -47,3 +47,28 @@
 ## 8. Entrega e publicação
 - [x] Disponibilizar o site funcional em Preview para revisão.
 - [x] Não publicar o site sem autorização separada da usuária; verificar a configuração de publicação automática antes de qualquer checkpoint que possa tornar o site público.
+
+## 9. Começo e retomada do plano
+- [x] Na tela inicial, mostrar “Começar plano” enquanto a trilha selecionada ainda não tiver sido iniciada; ao clicar com o plano pronto, registrar apenas o início e levar ao Dia 1 da trilha.
+- [x] No modelo pessoal intensivo sem dez matérias selecionadas, levar primeiro à configuração necessária e não registrar início ainda; não marcar nenhum dia como concluído automaticamente.
+- [x] Depois do primeiro clique em “Começar plano” com o plano pronto, mostrar “Continuar plano”, inclusive antes de concluir o Dia 1, e abrir o primeiro dia ainda pendente; preservar o modo selecionado e os registros já feitos.
+- [x] Não limpar, sobrescrever ou migrar destrutivamente o progresso real salvo no `localStorage`; manter o armazenamento local no mesmo navegador/dispositivo, sem sincronização entre aparelhos. Não acessar nem alterar o armazenamento real durante testes.
+
+## 10. Banco ampliado de questões
+- [x] Acrescentar questões inéditas de treino em temas recorrentes identificados por comparação de provas e gabaritos oficiais anteriores, com alternativas, gabarito comentado e base jurídica verificável. Foram adicionadas 20: cinco em Civil, Penal, Processo do Trabalho e Tributário.
+- [x] Identificar claramente questões autorais/adaptadas como material de treino, sem chamá-las de oficiais da OAB/FGV nem afirmar que são itens reapresentados.
+- [x] Manter os IDs e itens existentes e o filtro de simulado por disciplina; registrar referências que permitam conferir os temas e os fundamentos jurídicos. Os 124 itens anteriores foram comparados integralmente e mantidos; o banco tem 144 IDs únicos.
+
+## 11. Treino focado em uma matéria
+- [x] Permitir treino com exatamente uma disciplina, usando somente suas questões disponíveis quando houver menos de 20; não exigir outras matérias nem repetir itens para completar o total.
+- [x] Registrar total, modo, questões, respostas, acertos e erros; aplicar meta de 90% arredondada para cima no treino individual, mantendo 20 questões/meta 18 no simulado semanal.
+- [x] Preservar o histórico já salvo; não reduzir os resultados antigos ao acrescentar ou carregar um resultado novo. Exibição de cinco resultados pode ser expandida para consultar todo o histórico.
+
+## 12. Reformulação pelo material VDE recebido
+- [x] Reformular o intensivo com as dez matérias e a estrutura temática da cópia pública do material enviado: blocos diários, revisão semanal, simulados e revisão final; avisar que é adaptação independente, não curso ou cronograma oficial.
+- [x] Manter o início em 23/11/2026, 40 dias de conteúdo/revisão até 01/01/2027, reforço de 02/01 a 09/01 e véspera em 09/01 antes da prova prevista em 10/01; não transferir as datas antigas de julho/agosto da cópia nem antecipar a prova para o Dia 42.
+- [x] Preservar a trilha CEISC, a seleção de matérias e marcações anteriores do intensivo configurável; separar os registros da nova trilha para não atribuir dias concluídos a conteúdos diferentes.
+- [x] Mostrar os assuntos por dia, agrupar semanas, dar acesso às páginas de matérias e permitir preparar no simulador a seleção de disciplinas/recorte da semana por ação explícita; avisar que o banco filtra por matéria, não tópico.
+- [x] Não prometer mentorias, aulas fechadas nem simulados oficiais VDE/OAB; manter as outras dez disciplinas acessíveis e lembrar que dez matérias não cobrem todo o edital.
+
+Evidências de entrega em 17/11/2026: `pnpm typecheck`, `pnpm build`, `node --test tests/compatibility.cjs` e comparação dos 124 itens anteriores; revisão somente leitura dos novos caminhos. Os testes usam estado sintético e armazenamento falso. Auto Publish confirmado desligado; publicação permanece uma ação separada, não autorizada por esta alteração.

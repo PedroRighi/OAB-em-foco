@@ -1,3 +1,7 @@
+import { referenceDays } from '../data/intensiveReference';
+import type { ReferenceDay } from '../data/intensiveReference';
+import { subjectById } from '../data/subjects';
+
 export type ScheduleDay = {
   day: number;
   date: Date;
@@ -5,6 +9,9 @@ export type ScheduleDay = {
   focus: string;
   study: string;
   timeNotes: string;
+  week?: number;
+  kind?: ReferenceDay['kind'];
+  blocks?: ReferenceDay['blocks'];
 };
 
 export function toDateKey(date: Date): string {
@@ -54,14 +61,28 @@ export function createIntensiveDates(): ScheduleDay[] {
   });
 }
 
-export function createReviewDays(): ScheduleDay[] {
+export function createReferenceDates(): ScheduleDay[] {
+  return referenceDays.map((day) => ({
+    day: day.day,
+    date: makeDate(2026, 10, 23 + day.day - 1),
+    key: `reference-${day.day}`,
+    focus: day.kind === 'study' ? day.blocks.map((block) => subjectById[block.subjectId]?.shortTitle ?? block.subjectId).join(' + ') : day.title,
+    study: day.kind === 'study' ? day.blocks.map((block) => `${subjectById[block.subjectId]?.shortTitle ?? block.subjectId}: ${block.topics.join('; ')}`).join(' · ') : day.guidance,
+    timeNotes: day.kind === 'mock' ? '20 questões · meta de 18 acertos; corrija e revise os erros.' : 'Referência: 90 a 120 minutos; ajuste os blocos à sua rotina.',
+    week: day.week,
+    kind: day.kind,
+    blocks: day.blocks,
+  }));
+}
+
+export function createReviewDays(prefix = 'review'): ScheduleDay[] {
   const focuses = ['Caderno de erros e pontos críticos', 'Revisão das quatro matérias de maior dificuldade', 'Questões dos conteúdos estudados', 'Revisão de Ética e Estatuto', 'Revisão de Direito Público', 'Revisão de Direito Privado e Processos', 'Simulado e análise dos erros', 'Revisão leve e preparação logística'] as const;
   return Array.from({ length: 8 }, (_, index) => {
     const date = makeDate(2027, 0, 2 + index);
     return {
       day: index + 1,
       date,
-      key: `review-${index + 1}`,
+      key: `${prefix}-${index + 1}`,
       focus: focuses[index] ?? 'Revisão final',
       study: 'Priorize os tópicos que você marcou para revisar e consulte o texto legal atualizado. Evite iniciar um conteúdo extenso novo na véspera.',
       timeNotes: 'Ajuste o tempo ao seu ritmo; reserve pausas e respeite seu descanso.',

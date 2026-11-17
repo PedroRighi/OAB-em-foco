@@ -39,8 +39,10 @@ export default function SubjectDetailPage() {
   const totalTopics = getTopicCount(subject.id);
   const allDone = totalTopics > 0 && completed.length >= totalTopics;
   const isCourseComplete = progress.completedSubjects.includes(subject.id);
+  const materialReady = !loading && topics.length > 0;
 
   function toggleTopic(topicId: string) {
+    if (!materialReady || !topics.some((topic) => topic.id === topicId)) return;
     updateProgress((previousState) => {
       const current = new Set(previousState.completedTopics[currentSubject.id] ?? []);
       current.has(topicId) ? current.delete(topicId) : current.add(topicId);
@@ -53,6 +55,7 @@ export default function SubjectDetailPage() {
   }
 
   function setAllTopics(done: boolean) {
+    if (!materialReady) return;
     updateProgress((previousState) => ({
       ...previousState,
       completedTopics: { ...previousState.completedTopics, [currentSubject.id]: done ? topics.map((topic) => topic.id) : [] },
@@ -65,7 +68,7 @@ export default function SubjectDetailPage() {
       <div className="back-row"><Link to="/materias"><ArrowLeft size={15} /> Todas as matérias</Link><span><ChevronRight size={14} /></span><span>{subject.shortTitle}</span></div>
       <section className="lesson-hero">
         <div className="lesson-hero-main"><span className="eyebrow">{subject.category.toUpperCase()}</span><h1>{subject.title}</h1><p>Leitura de estudo, síntese de revisão e questões comentadas no mesmo lugar.</p><div className="lesson-hero-tags"><Badge tone={subject.group === 'Núcleo mínimo do edital' ? 'gold' : 'teal'}>{subject.group === 'Núcleo mínimo do edital' ? 'Núcleo prioritário do edital' : 'Programa da 1ª fase'}</Badge><Badge>Conferência do portal: 16/11/2026</Badge></div></div>
-        <div className="lesson-progress-card"><div><span>Seu avanço</span><strong>{completed.length}<small>/{totalTopics}</small></strong><small>tópicos revisados</small></div><ProgressBar value={completed.length} max={totalTopics} compact /><button type="button" disabled={loading} className={`mark-course-button${isCourseComplete ? ' mark-course-done' : ''}`} onClick={() => setAllTopics(!allDone)}>{allDone ? <><RotateCcw size={14} /> Desmarcar tópicos</> : <><Check size={14} /> Marcar tudo revisado</>}</button></div>
+        <div className="lesson-progress-card"><div><span>Seu avanço</span><strong>{completed.length}<small>/{totalTopics}</small></strong><small>tópicos revisados</small></div><ProgressBar value={completed.length} max={totalTopics} compact /><button type="button" disabled={!materialReady} className={`mark-course-button${isCourseComplete ? ' mark-course-done' : ''}`} onClick={() => setAllTopics(!allDone)}>{allDone ? <><RotateCcw size={14} /> Desmarcar tópicos</> : <><Check size={14} /> Marcar tudo revisado</>}</button></div>
       </section>
       <InfoNote tone="warm"><strong>Estudo no site:</strong> o conteúdo completo está abaixo, organizado por capítulos. Os arquivos PDF e Word são opcionais e ficam na <Link to="/biblioteca">biblioteca</Link>. Revise as referências oficiais antes da prova.</InfoNote>
       <div className="lesson-layout">

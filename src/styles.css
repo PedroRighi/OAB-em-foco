@@ -663,6 +663,12 @@ button:focus-visible, a:focus-visible, input:focus-visible, textarea:focus-visib
 .answer-explanation { margin-top: 10px; padding: 10px 11px; border-left: 3px solid #d6a45c; border-radius: 4px; background: #fcf7ed; color: #6e624e; }
 .answer-explanation strong { font-size: 8px; }
 .answer-explanation p { margin: 4px 0 0; font-size: 8px; line-height: 1.55; }
+.question-recurrence { color: #476a5b; font-weight: 600; }
+.question-recurrence-note { padding-top: 5px; border-top: 1px solid #e8e3d6; }
+.question-references { margin-top: 8px; padding-top: 7px; border-top: 1px solid #e8e3d6; font-size: 8px; line-height: 1.5; }
+.question-references > strong { display: block; color: #5f6e63; }
+.question-references ul { display: flex; flex-wrap: wrap; gap: 4px 16px; margin: 4px 0 0; padding-left: 16px; }
+.question-references a { color: var(--teal); text-decoration: underline; text-underline-offset: 2px; }
 
 @media (max-width: 1120px) {
   .exam-setup-layout { grid-template-columns: minmax(0, 1fr) 225px; gap: 11px; }
