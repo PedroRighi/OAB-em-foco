@@ -335,7 +335,7 @@ Por fim, é indispensável saber que a **Lei 8.666/1993 foi revogada** e que os 
 - **Credenciamento**, para objetos que devam ou possam ser contratados por esse meio.
 - **Imóvel** cujas instalações ou localização tornem necessária a escolha, com avaliação prévia, certificação de que não há imóveis públicos vagos adequados e justificativa da singularidade.
 
-**Dispensa (art. 75).** Aqui a competição é viável, mas a lei dispensa o certame. O rol é **taxativo**: só há dispensa nos casos expressos. Os mais cobrados são:
+**Dispensa (art. 75).** Aqui a competição é viável, mas a lei dispensa o certame. O rol é **taxativo**: só há dispensa nos casos expressos. Entre as hipóteses relevantes estão:
 
 - **Valor**: obras e serviços de engenharia ou manutenção de veículos; e outros serviços e compras. Os montantes são atualizados anualmente pelo IPCA-E (art. 182).
 - **Guerra, estado de defesa, estado de sítio, intervenção federal ou grave perturbação da ordem** (inciso VII).

@@ -6,6 +6,7 @@ import { getMaterial, getStudyTopics, getTopicCount } from '../data/content';
 import { useProgress } from '../context/ProgressContext';
 import { Badge, InfoNote, ProgressBar } from '../components/Primitives';
 import MarkdownLesson from '../components/MarkdownLesson';
+import { getReviewedTopicIds, setAllTopicReviews } from '../lib/topicProgress';
 
 export default function SubjectDetailPage() {
   const { slug } = useParams();
@@ -28,7 +29,8 @@ export default function SubjectDetailPage() {
   const markdown = subject && loadedMaterial?.subjectId === subject.id ? loadedMaterial.markdown : '';
   const loading = Boolean(subject && loadedMaterial?.subjectId !== subject.id);
   const topics = useMemo(() => getStudyTopics(markdown), [markdown]);
-  const completed = subject ? progress.completedTopics[subject.id] ?? [] : [];
+  const savedTopics = subject ? progress.completedTopics[subject.id] ?? [] : [];
+  const completed = getReviewedTopicIds(savedTopics, topics);
   if (!subject) {
     return <div className="not-found-page"><h1>Essa matéria não aparece no edital.</h1><Link to="/materias" className="button button-primary">Voltar às matérias <ArrowRight size={16} /></Link></div>;
   }
@@ -38,7 +40,7 @@ export default function SubjectDetailPage() {
   const next = subjects[currentIndex + 1];
   const totalTopics = getTopicCount(subject.id);
   const allDone = totalTopics > 0 && completed.length >= totalTopics;
-  const isCourseComplete = progress.completedSubjects.includes(subject.id);
+  const isCourseComplete = allDone;
   const materialReady = !loading && topics.length > 0;
 
   function toggleTopic(topicId: string) {
@@ -47,7 +49,7 @@ export default function SubjectDetailPage() {
       const current = new Set(previousState.completedTopics[currentSubject.id] ?? []);
       current.has(topicId) ? current.delete(topicId) : current.add(topicId);
       const topicIds = [...current];
-      const completedSubjects = topicIds.length >= topics.length && topics.length > 0
+      const completedSubjects = getReviewedTopicIds(topicIds, topics).length === topics.length && topics.length > 0
         ? [...new Set([...previousState.completedSubjects, currentSubject.id])]
         : previousState.completedSubjects.filter((id) => id !== currentSubject.id);
       return { ...previousState, completedTopics: { ...previousState.completedTopics, [currentSubject.id]: topicIds }, completedSubjects };
@@ -58,7 +60,7 @@ export default function SubjectDetailPage() {
     if (!materialReady) return;
     updateProgress((previousState) => ({
       ...previousState,
-      completedTopics: { ...previousState.completedTopics, [currentSubject.id]: done ? topics.map((topic) => topic.id) : [] },
+      completedTopics: { ...previousState.completedTopics, [currentSubject.id]: setAllTopicReviews(previousState.completedTopics[currentSubject.id] ?? [], topics, done) },
       completedSubjects: done ? [...new Set([...previousState.completedSubjects, currentSubject.id])] : previousState.completedSubjects.filter((id) => id !== currentSubject.id),
     }));
   }

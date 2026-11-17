@@ -181,22 +181,6 @@ D) Tempo é regido pela intenção; lugar, pela territorialidade absoluta.
 
 **Gabarito: C.** O art. 4º do CP adota a teoria da atividade para o tempo; o art. 6º adota a ubiquidade para o lugar. O local pode incluir onde a ação/omissão ocorreu e onde o resultado se produziu ou deveria produzir-se [2].
 
-## 7. Checklist de revisão
-
-- [ ] Sei diferenciar legalidade, anterioridade, retroatividade benéfica e ultratividade de lei temporária.
-- [ ] Lembro: tempo = atividade; lugar = ubiquidade.
-- [ ] Distingo erro de tipo, erro de proibição e erro sobre pressuposto de justificante.
-- [ ] Sei os requisitos de legítima defesa e estado de necessidade, inclusive excesso.
-- [ ] Diferencio tentativa, desistência voluntária, arrependimento eficaz, arrependimento posterior e crime impossível.
-- [ ] Reconheço dolo eventual, culpa consciente e exigência de previsão legal para punição culposa.
-- [ ] Aplico o método trifásico e separo qualificadora, agravante e causa de aumento.
-- [ ] Distingo concurso material, formal e crime continuado.
-- [ ] Reviso extinção da punibilidade, decadência e prazos prescricionais sem misturá-los.
-- [ ] Confiro os tipos patrimoniais e funcionais pelos verbos nucleares.
-- [ ] Atualizo Lei de Drogas/Tema 506, Lei dos Crimes Hediondos e Lei Maria da Penha.
-- [ ] Leio a redação vigente da LEP, inclusive alteração de 2026 do art. 112.
-- [ ] Confiro o edital específico e alterações legais/jurisprudenciais oficiais antes do exame.
-
 ## Aprofundamento VDE — Fato típico: tipicidade, dolo, culpa e erro
 
 > Síntese própria do material VDE 40 dias – Exame 48 (aula "Fato típico (parte 3)"), conferida com a legislação vigente em 17/11/2026.
@@ -215,7 +199,7 @@ O núcleo do capítulo é o **erro**. A banca monta cenários em que o agente se
 
 **Culpa** (art. 18, II) é causar o resultado por imprudência (ação sem o cuidado devido), negligência (omissão de cautela) ou imperícia (falta de aptidão técnica). É excepcional: pelo parágrafo único do art. 18, **ninguém responde por crime culposo sem previsão legal expressa**. Na culpa consciente o agente prevê o resultado, mas confia que ele não ocorrerá; na inconsciente, não prevê, embora fosse previsível.
 
-A fronteira entre **dolo eventual e culpa consciente** é a mais cobrada. Nos dois casos há previsão; o que separa as figuras é a postura do agente — quem assume o risco responde por dolo, quem acredita na não ocorrência responde por culpa, se houver tipo culposo.
+A fronteira entre **dolo eventual e culpa consciente** exige atenção conceitual. Nos dois casos há previsão; o que separa as figuras é a postura do agente — quem assume o risco responde por dolo, quem acredita na não ocorrência responde por culpa, se houver tipo culposo.
 
 **Erro de tipo** é a falsa percepção da realidade sobre elemento do tipo, sem a qual o agente não teria agido daquele modo. Pelo art. 20, **o erro sobre elemento constitutivo exclui o dolo, mas permite punição por culpa quando o fato é previsto como crime culposo**. Ele pode ser **essencial** (recai sobre elemento ou circunstância que integra a figura típica) ou **acidental** (recai sobre dado que não afasta a tipicidade).
 
@@ -417,6 +401,22 @@ D) responde apenas por disparo de arma de fogo.
 - [Código de Processo Penal — Decreto-Lei nº 3.689/1941](https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm) — arts. 301 e 386, VI.
 - [Código Civil — Lei nº 10.406/2002](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm) — arts. 188, 929 e 930.
 - [STF — ADPF 779](https://portal.stf.jus.br/processos/detalhe.asp?incidente=6081690) — "legítima defesa da honra" declarada inconstitucional.
+
+## 7. Checklist de revisão
+
+- [ ] Sei diferenciar legalidade, anterioridade, retroatividade benéfica e ultratividade de lei temporária.
+- [ ] Lembro: tempo = atividade; lugar = ubiquidade.
+- [ ] Distingo erro de tipo, erro de proibição e erro sobre pressuposto de justificante.
+- [ ] Sei os requisitos de legítima defesa e estado de necessidade, inclusive excesso.
+- [ ] Diferencio tentativa, desistência voluntária, arrependimento eficaz, arrependimento posterior e crime impossível.
+- [ ] Reconheço dolo eventual, culpa consciente e exigência de previsão legal para punição culposa.
+- [ ] Aplico o método trifásico e separo qualificadora, agravante e causa de aumento.
+- [ ] Distingo concurso material, formal e crime continuado.
+- [ ] Reviso extinção da punibilidade, decadência e prazos prescricionais sem misturá-los.
+- [ ] Confiro os tipos patrimoniais e funcionais pelos verbos nucleares.
+- [ ] Atualizo Lei de Drogas/Tema 506, Lei dos Crimes Hediondos e Lei Maria da Penha.
+- [ ] Leio a redação vigente da LEP, inclusive alteração de 2026 do art. 112.
+- [ ] Confiro o edital específico e alterações legais/jurisprudenciais oficiais antes do exame.
 
 ## Referências oficiais
 

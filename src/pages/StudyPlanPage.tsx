@@ -6,6 +6,7 @@ import { ceiscSchedule } from '../data/appData';
 import { referenceSubjectIds } from '../data/intensiveReference';
 import { useProgress } from '../context/ProgressContext';
 import { brazilToday, createIntensiveDates, createReferenceDates, createReviewDays, dayDifference, formatDate, intensivePair, parseBrazilianDate, toDateKey } from '../lib/schedule';
+import { resolveSubjectFromFocus } from '../lib/subjectFocus';
 import type { ScheduleDay } from '../lib/schedule';
 import type { IntensivePlanVariant, PlanMode } from '../lib/progress';
 import { Badge, InfoNote, PageHeader, ProgressBar } from '../components/Primitives';
@@ -97,7 +98,7 @@ export default function StudyPlanPage() {
               const done = progress.ceiscDaysCompleted.includes(key);
               const isToday = toDateKey(parseBrazilianDate(day.date)) === todayKey;
               const isExamDay = day.day === 56;
-              const subjectLink = subjects.find((subject) => day.focus.toLocaleLowerCase('pt-BR').includes(subject.shortTitle.toLocaleLowerCase('pt-BR')));
+              const subjectLink = resolveSubjectFromFocus(day.focus, subjects);
               return (
                 <article key={day.day} id={`ceisc-day-${day.day}`} className={`schedule-row${isToday ? ' schedule-row-today' : ''}${done ? ' schedule-row-done' : ''}${isExamDay ? ' schedule-row-exam' : ''}`}>
                   <button type="button" className={`schedule-check${done ? ' schedule-check-done' : ''}`} onClick={() => toggleDay(key, 'ceiscDaysCompleted')} aria-label={`${done ? 'Desmarcar' : 'Marcar'} dia ${day.day}`} aria-pressed={done}>{done ? <Check size={15} /> : <Circle size={16} />}</button>

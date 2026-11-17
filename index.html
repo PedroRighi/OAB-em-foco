@@ -7,6 +7,25 @@
     <meta name="description" content="Portal gratuito de estudos para a 1ª fase do 48º Exame da OAB: conteúdo por disciplina, cronogramas, simulados, apostilas e recursos abertos." />
     <link rel="icon" type="image/svg+xml" href="/oab-mark.svg" />
     <title>OAB em Foco — 48º Exame</title>
+    <script>
+      // A chave de aparência é independente da chave de progresso.
+      (() => {
+        let preference = 'system';
+        try {
+          const saved = localStorage.getItem('oab-em-foco-theme-v1');
+          if (saved === 'light' || saved === 'dark' || saved === 'system') preference = saved;
+        } catch { /* Sem armazenamento, acompanhar o dispositivo. */ }
+        const systemDark = typeof matchMedia === 'function' && matchMedia('(prefers-color-scheme: dark)').matches;
+        const theme = preference === 'system' ? (systemDark ? 'dark' : 'light') : preference;
+        document.documentElement.dataset.theme = theme;
+        document.documentElement.style.colorScheme = theme;
+        document.querySelector('meta[name="theme-color"]').setAttribute('content', theme === 'dark' ? '#101a18' : '#f6f5f0');
+      })();
+    </script>
+    <style>
+      html { background: #f6f5f0; }
+      html[data-theme="dark"] { background: #101a18; }
+    </style>
   </head>
   <body>
     <div id="root"></div>

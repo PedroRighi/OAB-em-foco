@@ -12,7 +12,11 @@ const root = path.resolve(__dirname, '..');
 const key = 'oab-em-foco-48-progress-v1';
 const jsonCopy = (value) => JSON.parse(JSON.stringify(value));
 
-function harness(saved = null) {
+function harness(saved = null, fixedNow = null) {
+  const clock = fixedNow ? class extends Date {
+    constructor(...args) { super(...(args.length ? args : [fixedNow])); }
+    static now() { return Date.parse(fixedNow); }
+  } : Date;
   const storage = new Map(saved === null ? [] : [[key, JSON.stringify(saved)]]);
   const writes = [];
   const window = { localStorage: {
@@ -42,7 +46,7 @@ function harness(saved = null) {
       if (!target) throw new Error(`Cannot resolve ${request}`);
       return load(target);
     };
-    new Function('require', 'module', 'exports', 'window', code)(localRequire, module, module.exports, window);
+    new Function('require', 'module', 'exports', 'window', 'Date', code)(localRequire, module, module.exports, window, clock);
     return module.exports;
   }
   const library = load('src/lib/progress.ts');
@@ -200,7 +204,7 @@ test('renderização da trilha e do treino individual conserva rótulos e limite
   const mockHtml = renderToStaticMarkup(React.createElement(MemoryRouter, null, React.createElement(Mock)));
   assert.ok(mockHtml.includes('Treino só de Civil'));
   assert.ok(mockHtml.includes('11 questões'));
-  assert.ok(mockHtml.includes('18 de 20 acertos'));
+  assert.ok(mockHtml.includes('10 de 11 acertos'));
 });
 
 test('todas as 20 disciplinas oferecem treino individual com dez ou onze questões', () => {
@@ -214,6 +218,7 @@ test('todas as 20 disciplinas oferecem treino individual com dez ou onze questõ
     const html = renderToStaticMarkup(React.createElement(MemoryRouter, null, React.createElement(Mock)));
     assert.ok(html.includes(`Treino só de ${subject.shortTitle}`), subject.id);
     assert.ok(html.includes(`${count} questões`), subject.id);
+    assert.ok(html.includes(`${h.library.quizPassTarget(count)} de ${count} acertos`), subject.id);
     assert.ok(count === 10 || count === 11, subject.id);
   }
 });
@@ -243,4 +248,87 @@ test('contagem de tópicos confere com os materiais e complementos VDE estão in
     }
   }
   assert.equal(totalChapters, 21);
+});
+
+test('contagens reconhecem apenas tópicos atuais e marcar/desmarcar preserva IDs históricos', () => {
+  const h = harness(oldProgress());
+  const library = h.load('src/lib/topicProgress.ts');
+  const saved = ['Sucessões', 'capitulo-legado', 'topico-atual', 'topico-atual'];
+  const topics = [{ id: 'topico-atual' }, { id: 'novo-vde' }];
+  assert.deepEqual(library.getReviewedTopicIds(saved, topics), ['topico-atual']);
+  assert.deepEqual(library.setAllTopicReviews(saved, topics, true), ['Sucessões', 'capitulo-legado', 'topico-atual', 'novo-vde']);
+  assert.deepEqual(library.setAllTopicReviews(saved, topics, false), ['Sucessões', 'capitulo-legado']);
+  assert.equal(library.getSubjectReviewedTopicCount('civil', ['Sucessões']), 0);
+  assert.deepEqual(saved, ['Sucessões', 'capitulo-legado', 'topico-atual', 'topico-atual']);
+  assert.deepEqual(h.writes, []);
+  assert.deepEqual(h.current().completedTopics, oldProgress().completedTopics);
+  const detail = fs.readFileSync(path.join(root, 'src/pages/SubjectDetailPage.tsx'), 'utf8');
+  assert.ok(detail.includes('getReviewedTopicIds(topicIds, topics).length === topics.length'));
+  assert.ok(detail.includes('setAllTopicReviews(previousState.completedTopics'));
+});
+
+test('índice de IDs acompanha todos os capítulos sem alterar identidades anteriores', () => {
+  const h = harness();
+  const ids = JSON.parse(fs.readFileSync(path.join(root, 'src/data/studyTopicIds.json'), 'utf8'));
+  const excluded = /^(como usar|mapa dos tópicos centrais|mapa da disciplina|questões|gabarito|referências|referencias|checklist|revisão|revisao|fontes|bibliografia|atualizações e jurisprudência|alterações e jurisprudência|método de leitura|como ler questões|como resolver questões|como estudar)/i;
+  const slugify = (value) => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  for (const subject of h.load('src/data/subjects.ts').subjects) {
+    const getIds = (markdown) => markdown.split('\n').filter((line) => /^##\s+/.test(line)).map((line) => line.replace(/^##\s+/, '').trim()).filter((title) => title && !excluded.test(title)).map(slugify);
+    const markdown = fs.readFileSync(path.join(root, 'src/content/materials', subject.material), 'utf8');
+    assert.deepEqual(ids[subject.id], getIds(markdown), subject.id);
+    const baseline = execFileSync('git', ['show', `8afeb50a78a412e32a5d9f7a611737934702597f:src/content/materials/${subject.material}`], { cwd: root, encoding: 'utf8' });
+    assert.deepEqual(new Set(ids[subject.id]), new Set(getIds(baseline)), subject.id);
+  }
+});
+
+test('foco processual resolve a disciplina exata antes da segunda matéria', () => {
+  const h = harness();
+  const subjects = h.load('src/data/subjects.ts').subjects;
+  const { resolveSubjectFromFocus } = h.load('src/lib/subjectFocus.ts');
+  for (const id of ['processo-civil', 'processo-penal', 'processo-trabalho']) {
+    const subject = subjects.find((item) => item.id === id);
+    assert.equal(resolveSubjectFromFocus(`${subject.shortTitle} + Civil`, subjects)?.id, id);
+    assert.equal(resolveSubjectFromFocus(`  ${subject.title.toUpperCase()}  + Penal`, subjects)?.id, id);
+  }
+  assert.equal(resolveSubjectFromFocus('Civil + Processo Civil', subjects)?.id, 'civil');
+  assert.equal(resolveSubjectFromFocus('tema desconhecido', subjects), undefined);
+  for (const page of ['DashboardPage', 'StudyPlanPage']) assert.ok(fs.readFileSync(path.join(root, `src/pages/${page}.tsx`), 'utf8').includes('resolveSubjectFromFocus('));
+});
+
+test('painel não oferece o dia de hoje concluído como próximo estudo', () => {
+  const h = harness(null, '2026-11-17T15:00:00.000Z');
+  h.set({ ...h.current(), ceiscDaysCompleted: ['2'] });
+  const Dashboard = h.load('src/pages/DashboardPage.tsx').default;
+  const tree = Dashboard();
+  const date = findElement(tree, (node) => node.props?.className === 'focus-date');
+  const number = findElement(date, (node) => node.type === 'strong');
+  assert.equal(number.props.children, '01');
+  assert.equal(planButton(h).props.to, '/plano#ceisc-day-1');
+  assert.deepEqual(h.current().ceiscDaysCompleted, ['2']);
+  assert.deepEqual(h.writes, []);
+});
+
+test('último treino tem rótulo correto e histórico misto conta resultados', () => {
+  const h = harness();
+  const Dashboard = h.load('src/pages/DashboardPage.tsx').default;
+  const oldResult = oldProgress().quizResults[0];
+  h.set({ ...h.current(), quizResults: [{ ...oldResult, id: 'treino', mode: 'subject', total: 11, correct: 10 }, oldResult] });
+  const html = renderToStaticMarkup(React.createElement(MemoryRouter, null, React.createElement(Dashboard)));
+  assert.ok(html.includes('Último treino'));
+  assert.ok(html.includes('meta do treino alcançada'));
+  assert.ok(html.includes('2 resultados registrados localmente'));
+  h.set({ ...h.current(), quizResults: [oldResult] });
+  const legacyHtml = renderToStaticMarkup(React.createElement(MemoryRouter, null, React.createElement(Dashboard)));
+  assert.ok(legacyHtml.includes('Último simulado'));
+  assert.ok(legacyHtml.includes('meta do simulado alcançada'));
+});
+
+test('simulado semanal de múltiplas matérias mantém 20 questões e meta 18', () => {
+  const h = harness();
+  h.set({ ...h.current(), selectedWeekSubjects: ['civil', 'penal'] });
+  const Mock = h.load('src/pages/MockExamPage.tsx').default;
+  const html = renderToStaticMarkup(React.createElement(MemoryRouter, null, React.createElement(Mock)));
+  assert.ok(html.includes('Simulado da semana'));
+  assert.ok(html.includes('18 de 20 acertos'));
+  assert.ok(html.includes('Iniciar 20 questões'));
 });

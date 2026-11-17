@@ -87,3 +87,17 @@ Evidências de entrega em 17/11/2026: `pnpm typecheck`, `pnpm build`, `node --te
 - [x] Executar typecheck, build e testes, comparar as contagens de tópicos com os materiais e salvar a versão sem publicar; Auto Publish permanece desligado.
 
 Evidências em 17/11/2026: `pnpm typecheck`, `pnpm build` e `node --test tests/compatibility.cjs` com 9 testes aprovados, incluindo a conferência das contagens de tópicos e a presença dos 21 complementos nas oito disciplinas. Nenhum arquivo de progresso real foi acessado.
+
+## 15. Acessibilidade visual e modo escuro
+- [x] Oferecer um controle de aparência visível em celular e desktop, com temas Claro, Escuro e Automático (acompanha o sistema), operável por teclado e com nomes acessíveis.
+- [x] Criar paleta escura própria para todas as páginas: fundo, navegação, cartões, apostilas, tabelas, campos, simulados e estados de seleção/acerto/erro; não inverter imagens nem alterar conteúdo.
+- [x] Manter contraste de leitura, foco visível e distinção dos estados, respeitando a preferência de movimento reduzido.
+- [x] Salvar a aparência em chave separada do progresso, aplicar o tema antes da primeira pintura e manter a interface utilizável se o armazenamento estiver indisponível; nunca limpar ou regravar o progresso ao trocar o tema.
+- [x] Validar os temas com testes sintéticos, typecheck e build e salvar a versão sem publicar; Auto Publish permanece desligado.
+
+## 16. Revisão geral após o modo escuro
+- [x] Revisar todas as áreas do portal: aparência/acessibilidade, navegação e downloads, progresso local, planos de estudo, simulados e consistência dos materiais/fontes.
+- [x] Corrigir problemas concretos identificados, preservar mudanças existentes, itens/IDs do banco e registros locais; usar dados sintéticos, sem acessar o armazenamento real.
+- [x] Registrar escopo e limites da revisão sem prometer certificação de acessibilidade nem validação jurídica exaustiva de todas as páginas; verificar as áreas afetadas e salvar sem publicar.
+
+Evidências finais em 17/11/2026: typecheck e build aprovados, 22 testes aprovados e `git diff --check` limpo. Os 41 downloads responderam pelo armazenamento do Preview com assinaturas reais dos formatos. Contagens usam apenas IDs atuais, sem descartar históricos; links processuais, metas individuais e referências foram corrigidos. O banco de 204 questões permaneceu inalterado. Escopo e limites registrados em `review-2026-11-17.md`; não é certificação WCAG nem parecer jurídico integral. Nenhum progresso real foi acessado; salvamento separado da publicação.

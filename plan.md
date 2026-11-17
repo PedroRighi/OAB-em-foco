@@ -72,3 +72,7 @@ Após aprovação deste plano, atualizar `TODO.md` com os resultados e requisito
 - **Atualização:** divergências da apostila (norma revogada, artigo renumerado, tese superada) são corrigidas no texto e registradas em `research-apostilas-vde.md`.
 - **Progresso:** a chave `oab-em-foco-48-progress-v1` permanece; os tópicos novos apenas se somam às marcações existentes, sem apagar histórico.
 - **Vídeos:** as oito videoaulas não são transcritas nem redistribuídas nesta etapa; os temas equivalentes são cobertos pelos PDFs.
+
+## Aparência e revisão geral (17/11/2026)
+
+O portal oferece Claro, Escuro e Automático em um seletor nativo rotulado, visível na barra superior em desktop e celular. A paleta escura usa superfícies verde-carvão, textos claros, realces menta e âmbar, foco visível e distinção de seleção/acerto/erro sem inversão de imagens. A preferência segue o sistema quando automática, é aplicada antes da primeira pintura e fica na chave independente `oab-em-foco-theme-v1`; a troca não altera o progresso. Se o armazenamento estiver bloqueado, o tema funciona durante a visita. A revisão geral abrange a conexão entre todas as áreas do aplicativo, integridade dos dados e consistência editorial, com testes sintéticos e correção de defeitos confirmados, sem publicação automática.

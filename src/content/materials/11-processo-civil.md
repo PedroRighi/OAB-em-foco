@@ -559,24 +559,25 @@ D) o terceiro par é admitido, mas sem efeito interruptivo.
 
 ## Referências oficiais
 
-[1] OAB/FGV, Edital de Abertura do 48º Exame, publicado em 21/09/2026, Anexo II — Conteúdo Programático. PDF oficial: https://oab.fgv.br/arq/651/579325_48%20eou.%20edital%20de%20abertura.%2021.09.2026.%20atualizado..pdf . Editais, provas e gabaritos: https://examedeordem.oab.org.br/EditaisProvas?NumeroExame=18197 .
+- **[1]** OAB/FGV, Edital de Abertura do 48º Exame, publicado em 21/09/2026, Anexo II — Conteúdo Programático ([PDF oficial](https://oab.fgv.br/arq/651/579325_48%20eou.%20edital%20de%20abertura.%2021.09.2026.%20atualizado..pdf); [editais, provas e gabaritos](https://examedeordem.oab.org.br/EditaisProvas?NumeroExame=18197)).
+- **[2]** Brasil, **Constituição da República Federativa do Brasil de 1988**, texto compilado, especialmente art. 5º, XXXV, LIV, LV, LVI e LXXVIII; arts. 102 e 105 ([texto compilado](https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm)).
+- **[3]** Brasil, **Lei nº 13.105, de 16 de março de 2015 — Código de Processo Civil**, texto compilado, com alterações posteriores ([texto compilado](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm)).
+- **[4]** Brasil, **Lei nº 14.879, de 4 de junho de 2024**, alteração do art. 63 do CPC sobre eleição de foro ([texto oficial](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14879.htm)).
+- **[5]** Superior Tribunal de Justiça, **Tema Repetitivo 988**, REsp 1.696.396/MT e REsp 1.704.520/MT, Corte Especial, julgamento em 05/12/2018, tese da taxatividade mitigada do art. 1.015 do CPC ([consulta oficial de repetitivos](https://processo.stj.jus.br/repetitivos/temas_repetitivos/); localizar pelo Tema 988).
+- **[6]** Brasil, **Lei nº 14.939, de 30 de julho de 2024**, alteração do art. 1.003, § 6º, do CPC sobre feriado local ([texto oficial](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14939.htm)).
+- **[7]** Superior Tribunal de Justiça, Corte Especial, **AREsp 2.638.376**, questão de ordem; notícia institucional de 12/02/2025 sobre aplicação da Lei 14.939/2024 a recursos já interpostos ([notícia institucional](https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2025/12022025-Corte-Especial-define-que-nova-regra-sobre-feriado-local-se-aplica-a-recursos-ja-interpostos.aspx)).
+- **[8]** Brasil, **Lei nº 12.016, de 7 de agosto de 2009 — Mandado de Segurança**, texto atualizado ([texto atualizado](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm)).
+- **[9]** Brasil, **Lei nº 7.347, de 24 de julho de 1985 — Ação Civil Pública**, texto atualizado ([texto atualizado](https://www.planalto.gov.br/ccivil_03/leis/l7347orig.htm)).
+- **[10]** Brasil, **Lei nº 12.153, de 22 de dezembro de 2009 — Juizados Especiais da Fazenda Pública**, texto atualizado ([texto atualizado](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm)).
+- Brasil, **Lei nº 9.099, de 26 de setembro de 1995 — Juizados Especiais Cíveis e Criminais**, especialmente arts. 3º, 9º, 41 e 54 ([texto atualizado](https://www.planalto.gov.br/ccivil_03/leis/l9099.htm)).
 
-[2] Brasil, **Constituição da República Federativa do Brasil de 1988**, texto compilado, especialmente art. 5º, XXXV, LIV, LV, LVI e LXXVIII; arts. 102 e 105. https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm
-
-[3] Brasil, **Lei nº 13.105, de 16 de março de 2015 — Código de Processo Civil**, texto compilado, com alterações posteriores. https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm
-
-[4] Brasil, **Lei nº 14.879, de 4 de junho de 2024**, alteração do art. 63 do CPC sobre eleição de foro. https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14879.htm
-
-[5] Superior Tribunal de Justiça, **Tema Repetitivo 988**, REsp 1.696.396/MT e REsp 1.704.520/MT, Corte Especial, julgamento em 05/12/2018, tese da taxatividade mitigada do art. 1.015 do CPC. Consulta oficial de repetitivos: https://processo.stj.jus.br/repetitivos/temas_repetitivos/ . Localizar pelo Tema 988.
-
-[6] Brasil, **Lei nº 14.939, de 30 de julho de 2024**, alteração do art. 1.003, § 6º, do CPC sobre feriado local. https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14939.htm
-
-[7] Superior Tribunal de Justiça, Corte Especial, **AREsp 2.638.376**, questão de ordem; notícia institucional de 12/02/2025 sobre aplicação da Lei 14.939/2024 a recursos já interpostos. https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2025/12022025-Corte-Especial-define-que-nova-regra-sobre-feriado-local-se-aplica-a-recursos-ja-interpostos.aspx
-
-[8] Brasil, **Lei nº 12.016, de 7 de agosto de 2009 — Mandado de Segurança**, texto atualizado. https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm
-
-[9] Brasil, **Lei nº 7.347, de 24 de julho de 1985 — Ação Civil Pública**, texto atualizado. https://www.planalto.gov.br/ccivil_03/leis/l7347orig.htm
-
-[10] Brasil, **Lei nº 12.153, de 22 de dezembro de 2009 — Juizados Especiais da Fazenda Pública**, texto atualizado. https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm
-
-Brasil, **Lei nº 9.099, de 26 de setembro de 1995 — Juizados Especiais Cíveis e Criminais**, especialmente arts. 3º, 9º, 41 e 54. https://www.planalto.gov.br/ccivil_03/leis/l9099.htm
+[1]: https://oab.fgv.br/arq/651/579325_48%20eou.%20edital%20de%20abertura.%2021.09.2026.%20atualizado..pdf "OAB/FGV, Edital de Abertura do 48º Exame, publicado em 21/09/2026, Anexo II — Conteúdo Programático"
+[2]: https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm "Brasil, Constituição da República Federativa do Brasil de 1988, texto compilado"
+[3]: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm "Brasil, Lei nº 13.105, de 16 de março de 2015 — Código de Processo Civil, texto compilado"
+[4]: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14879.htm "Brasil, Lei nº 14.879, de 4 de junho de 2024, alteração do art. 63 do CPC sobre eleição de foro"
+[5]: https://processo.stj.jus.br/repetitivos/temas_repetitivos/ "Superior Tribunal de Justiça, Tema Repetitivo 988, consulta oficial de repetitivos"
+[6]: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14939.htm "Brasil, Lei nº 14.939, de 30 de julho de 2024, alteração do art. 1.003, § 6º, do CPC sobre feriado local"
+[7]: https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2025/12022025-Corte-Especial-define-que-nova-regra-sobre-feriado-local-se-aplica-a-recursos-ja-interpostos.aspx "Superior Tribunal de Justiça, AREsp 2.638.376, notícia institucional sobre a Lei 14.939/2024"
+[8]: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm "Brasil, Lei nº 12.016, de 7 de agosto de 2009 — Mandado de Segurança"
+[9]: https://www.planalto.gov.br/ccivil_03/leis/l7347orig.htm "Brasil, Lei nº 7.347, de 24 de julho de 1985 — Ação Civil Pública"
+[10]: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12153.htm "Brasil, Lei nº 12.153, de 22 de dezembro de 2009 — Juizados Especiais da Fazenda Pública"

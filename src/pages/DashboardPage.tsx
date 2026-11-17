@@ -5,6 +5,7 @@ import { ceiscSchedule } from '../data/appData';
 import { brazilToday, createIntensiveDates, createReferenceDates, createReviewDays, daysUntilExam, formatDate, intensivePair, parseBrazilianDate, toDateKey } from '../lib/schedule';
 import { useProgress } from '../context/ProgressContext';
 import { quizPassTarget } from '../lib/progress';
+import { resolveSubjectFromFocus } from '../lib/subjectFocus';
 import { Badge, ProgressBar, StatCard } from '../components/Primitives';
 import type { ScheduleDay } from '../lib/schedule';
 import '../reference-plan.css';
@@ -27,7 +28,8 @@ export default function DashboardPage() {
   const todayKey = toDateKey(brazilToday());
   const exactToday = activeSchedule.find((day) => toDateKey(day.date) === todayKey);
   const fallbackDay = activeSchedule.find((day) => !completedDayKeys.includes(isIntensiveMode ? day.key : String(day.day))) ?? activeSchedule[activeSchedule.length - 1];
-  const todayPlan = scheduleReady ? exactToday ?? fallbackDay : undefined;
+  const exactTodayPending = exactToday ? !completedDayKeys.includes(isIntensiveMode ? exactToday.key : String(exactToday.day)) : false;
+  const todayPlan = scheduleReady ? exactTodayPending ? exactToday : fallbackDay : undefined;
   const isReviewStage = todayPlan?.kind === 'review' || Boolean(todayPlan?.key.includes('review-'));
   const selectedPair = isReferencePlan ? todayPlan?.blocks?.map((block) => block.subjectId) ?? [] : isIntensiveMode && todayPlan?.key.startsWith('intensive-')
     ? intensivePair(progress.intensiveSubjectIds, todayPlan.day - 1)
@@ -39,7 +41,7 @@ export default function DashboardPage() {
     : todayPlan?.study;
   const todaySubject = isIntensiveMode
     ? selectedPair[0] ? subjects.find((subject) => subject.id === selectedPair[0]) : undefined
-    : todayPlan ? subjects.find((subject) => todayPlan.focus.toLocaleLowerCase('pt-BR').includes(subject.shortTitle.toLocaleLowerCase('pt-BR'))) : undefined;
+    : todayPlan ? resolveSubjectFromFocus(todayPlan.focus, subjects) : undefined;
   const completedIntensiveDays = intensiveDays.filter((day) => completedDayKeys.includes(day.key)).length;
   const completedReviewDays = reviewDays.filter((day) => completedDayKeys.includes(day.key)).length;
   const completedPlanDays = isIntensiveMode
@@ -57,11 +59,14 @@ export default function DashboardPage() {
     : isIntensiveMode && todayPlan.key.includes('review-') ? 'Revisão final'
       : todayPlan.kind === 'review' ? todayPlan.day < 36 ? 'Revisão da semana' : 'Revisão por matéria'
       : !isIntensiveMode && todayPlan.day === 56 ? 'Dia de prova'
-        : exactToday ? isIntensiveMode ? 'Plano intensivo para hoje' : 'Plano para hoje'
+        : exactTodayPending ? isIntensiveMode ? 'Plano intensivo para hoje' : 'Plano para hoje'
           : isIntensiveMode ? 'Próxima etapa do intensivo' : 'Continue no seu ritmo';
   const completedSubjects = progress.completedSubjects.length;
   const daysLeft = daysUntilExam();
   const latestQuiz = progress.quizResults[0];
+  const latestQuizIsSubject = latestQuiz?.mode === 'subject';
+  const latestQuizLabel = latestQuizIsSubject ? 'Último treino' : 'Último simulado';
+  const latestQuizMetaLabel = latestQuizIsSubject ? 'meta do treino' : 'meta do simulado';
   const dueLabel = daysLeft < 0 ? 'Prova prevista para 10 de janeiro de 2027' : daysLeft === 0 ? 'Prova prevista para hoje' : `${daysLeft} dias para a prova prevista`;
 
   function handlePlanStart() {
@@ -100,7 +105,7 @@ export default function DashboardPage() {
       <section className="stat-grid" aria-label="Seu progresso">
         <StatCard icon={BookOpen} label="Disciplinas" value={`${completedSubjects}/20`} detail="marcadas como concluídas" tone="teal" />
         <StatCard icon={CalendarCheck} label={isReferencePlan ? 'Trilha temática' : isIntensiveMode ? 'Plano pessoal' : 'Plano CEISC'} value={`${completedPlanDays}/${planDayTotal}`} detail={isIntensiveMode ? `${completedReviewDays}/8 dias de revisão` : 'dias registrados no navegador'} tone="gold" />
-        <StatCard icon={Target} label="Último simulado" value={latestQuiz ? `${latestQuiz.correct}/${latestQuiz.total}` : '—'} detail={latestQuiz ? latestQuiz.correct >= quizPassTarget(latestQuiz.total) ? 'meta alcançada' : `${quizPassTarget(latestQuiz.total) - latestQuiz.correct} acertos abaixo da meta` : 'faça o primeiro quando quiser'} tone="ink" />
+        <StatCard icon={Target} label={latestQuizLabel} value={latestQuiz ? `${latestQuiz.correct}/${latestQuiz.total}` : '—'} detail={latestQuiz ? latestQuiz.correct >= quizPassTarget(latestQuiz.total) ? `${latestQuizMetaLabel} alcançada` : `${quizPassTarget(latestQuiz.total) - latestQuiz.correct} acertos abaixo da ${latestQuizMetaLabel}` : 'faça o primeiro quando quiser'} tone="ink" />
         <StatCard icon={Clock3} label="Ritmo sugerido" value="1h30–2h" detail="referência diária do plano" tone="rose" />
       </section>
 
@@ -130,7 +135,7 @@ export default function DashboardPage() {
           <p className="progress-intro">O plano não cobra perfeição: cada sessão concluída já conta.</p>
           <ProgressBar value={completedSubjects} max={20} label="Matérias concluídas" />
           <div className="progress-foot"><span><ShieldCheck size={15} />Salvo neste navegador</span><span>Sem conta</span></div>
-          <div className="milestone-line"><span className="milestone-icon"><Trophy size={17} /></span><div><strong>{progress.quizResults.length ? 'Seu histórico está crescendo' : 'A primeira revisão já começa'}</strong><small>{progress.quizResults.length ? `${progress.quizResults.length} simulado${progress.quizResults.length === 1 ? '' : 's'} registrado${progress.quizResults.length === 1 ? '' : 's'} localmente` : 'Marque um tópico como revisado na página de matéria.'}</small></div></div>
+          <div className="milestone-line"><span className="milestone-icon"><Trophy size={17} /></span><div><strong>{progress.quizResults.length ? 'Seu histórico está crescendo' : 'A primeira revisão já começa'}</strong><small>{progress.quizResults.length ? `${progress.quizResults.length} resultado${progress.quizResults.length === 1 ? '' : 's'} registrado${progress.quizResults.length === 1 ? '' : 's'} localmente` : 'Marque um tópico como revisado na página de matéria.'}</small></div></div>
         </section>
       </div>
 

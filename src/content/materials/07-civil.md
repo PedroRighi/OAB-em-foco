@@ -187,22 +187,6 @@ D) O cônjuge nunca concorre com descendentes.
 
 **Gabarito: C.** Meação decorre do regime patrimonial; herança decorre da morte e da ordem sucessória. O art. 1.829 prevê concorrência conforme regime e exceções. O cálculo exige identificar bens comuns/particulares e situação familiar concreta; não cabe generalização universal.
 
-## 12. Checklist de revisão
-
-- [ ] Sei separar personalidade, capacidade de direito e capacidade de exercício, e conheço as categorias dos arts. 3º e 4º do CC.
-- [ ] Diferencio nulidade e anulabilidade; simulação e vícios de consentimento; validade e eficácia.
-- [ ] Sei distinguir prescrição de decadência e consultar prazo especial antes do prazo geral.
-- [ ] Não presumo solidariedade; separo indivisibilidade, cessão de crédito e assunção de dívida.
-- [ ] Diferencio pagamento, novação, compensação, consignação, mora e inadimplemento absoluto.
-- [ ] Lembro dos arts. 389 e 406 do CC após a Lei 14.905/2024.
-- [ ] Separo contrato de transferência real; imóvel exige registro e móvel, em regra, tradição.
-- [ ] Diferencio vício e fato do produto/serviço e seus prazos no CDC.
-- [ ] Identifico requisitos de responsabilidade subjetiva/objetiva, dano, nexo e excludentes.
-- [ ] Distingo posse e propriedade, posse direta/indireta e ações possessórias.
-- [ ] Separo casamento, união estável, regime de bens, meação, alimentos e sucessão.
-- [ ] Confiro herdeiros necessários, legítima, ordem sucessória e efeitos do Tema 809 do STF.
-- [ ] Confiro edital específico e alterações legislativas/jurisprudenciais até a data da prova.
-
 ## Aprofundamento VDE — Modalidades das obrigações
 
 > Síntese própria do material VDE 40 dias – Exame 48 (aula "Obrigações: modalidades das obrigações (parte 1)"), conferida com a legislação vigente em 17/11/2026.
@@ -324,6 +308,22 @@ D) A obrigação se resolve para todos, porque a prestação se tornou impossív
 
 - [Código Civil — Lei nº 10.406/2002](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm) — arts. 233 a 285, 313, 1.219 a 1.222 e 1.267.
 - [Código de Processo Civil — Lei nº 13.105/2015](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm) — arts. 497, 536 e 806 a 817.
+
+## 12. Checklist de revisão
+
+- [ ] Sei separar personalidade, capacidade de direito e capacidade de exercício, e conheço as categorias dos arts. 3º e 4º do CC.
+- [ ] Diferencio nulidade e anulabilidade; simulação e vícios de consentimento; validade e eficácia.
+- [ ] Sei distinguir prescrição de decadência e consultar prazo especial antes do prazo geral.
+- [ ] Não presumo solidariedade; separo indivisibilidade, cessão de crédito e assunção de dívida.
+- [ ] Diferencio pagamento, novação, compensação, consignação, mora e inadimplemento absoluto.
+- [ ] Lembro dos arts. 389 e 406 do CC após a Lei 14.905/2024.
+- [ ] Separo contrato de transferência real; imóvel exige registro e móvel, em regra, tradição.
+- [ ] Diferencio vício e fato do produto/serviço e seus prazos no CDC.
+- [ ] Identifico requisitos de responsabilidade subjetiva/objetiva, dano, nexo e excludentes.
+- [ ] Distingo posse e propriedade, posse direta/indireta e ações possessórias.
+- [ ] Separo casamento, união estável, regime de bens, meação, alimentos e sucessão.
+- [ ] Confiro herdeiros necessários, legítima, ordem sucessória e efeitos do Tema 809 do STF.
+- [ ] Confiro edital específico e alterações legislativas/jurisprudenciais até a data da prova.
 
 ## Referências oficiais
 

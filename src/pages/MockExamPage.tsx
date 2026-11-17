@@ -9,6 +9,7 @@ import { quizPassTarget } from '../lib/progress';
 import { Badge, InfoNote, PageHeader, ProgressBar } from '../components/Primitives';
 
 const LETTERS = ['A', 'B', 'C', 'D'] as const;
+const GOAL_BAR_COUNT = 10;
 
 type QuizSession = { questions: OabQuestion[]; subjectIds: string[]; answers: Record<string, string>; mode: 'weekly' | 'subject' };
 
@@ -41,6 +42,10 @@ export default function MockExamPage() {
   const recent = showAllResults ? progress.quizResults : progress.quizResults.slice(0, 5);
   const activeQuestion = session?.questions[questionIndex];
   const answerCount = session ? Object.keys(session.answers).length : 0;
+  const isIndividualSelection = Boolean(singleSelectedSubject && available.length > 0 && available.length < 20);
+  const setupQuestionTotal = isIndividualSelection ? available.length : 20;
+  const setupPassTarget = isIndividualSelection ? quizPassTarget(available.length) : quizPassTarget(20);
+  const filledGoalBars = Math.round((setupPassTarget / setupQuestionTotal) * GOAL_BAR_COUNT);
 
   function toggleSubject(subjectId: string) {
     updateProgress((previous) => {
@@ -113,8 +118,8 @@ export default function MockExamPage() {
 
   return (
     <div className="page-stack exam-page">
-      <PageHeader eyebrow="PRÁTICA COM PROPÓSITO" title="Simulado da semana" description="Escolha o que estudou, faça 20 questões e veja onde vale revisar de novo." action={<div className="exam-goal-pill"><Target size={17} /><span>Meta de aprovação<br /><strong>18 de 20 acertos</strong></span></div>} />
-      <InfoNote><strong>Como funciona o banco local:</strong> há {questions.length} exercícios comentados, filtrados por disciplina — não por tópico. São questões de treino autorais ou adaptadas, não questões oficiais da OAB/FGV. O simulado semanal continua com 20 questões e meta de 18 acertos; se marcar uma matéria com menos de 20 questões, você também pode fazer um treino individual com todas as questões disponíveis, sem misturar disciplinas, e a meta é ajustada proporcionalmente a 90%.</InfoNote>
+      <PageHeader eyebrow="PRÁTICA COM PROPÓSITO" title={isIndividualSelection ? 'Treino individual' : 'Simulado da semana'} description={isIndividualSelection ? `Responda ${setupQuestionTotal} questões de ${singleSelectedSubject?.shortTitle ?? 'uma matéria'} e veja onde vale revisar de novo.` : 'Escolha o que estudou, faça 20 questões e veja onde vale revisar de novo.'} action={<div className="exam-goal-pill"><Target size={17} /><span>Meta de aprovação<br /><strong>{setupPassTarget} de {setupQuestionTotal} acertos</strong></span></div>} />
+      <InfoNote><strong>Como funciona o banco local:</strong> há {questions.length} exercícios comentados, filtrados por disciplina — não por tópico. São questões de treino autorais ou adaptadas, não questões oficiais da OAB/FGV. O simulado semanal continua com 20 questões e meta de 18 acertos; quando uma matéria tem menos de 20 questões, o treino individual usa todas as disponíveis, sem misturar disciplinas, e a meta é ajustada proporcionalmente a 90%.</InfoNote>
       <div className="exam-setup-layout">
         <section className="exam-setup-main panel">
           <div className="exam-setup-heading"><span className="eyebrow">PASSO 1</span><h2>O que você estudou?</h2><p>Marque as disciplinas da sua semana. As matérias e o recorte escrito ficam salvos apenas neste navegador.</p></div>
@@ -133,7 +138,7 @@ export default function MockExamPage() {
           {singleSelectedSubject && available.length > 0 && available.length < 20 && <p className="exam-source-hint">Esse treino usa apenas {singleSelectedSubject.shortTitle}, registra acertos e erros por questão e não mistura outras matérias.</p>}
         </section>
         <aside className="exam-sidebar">
-          <div className="exam-expectation-card"><span className="exam-expectation-mark"><Target size={19} /></span><span className="eyebrow">SEU OBJETIVO</span><strong>18 <small>de 20</small></strong><p>Acertar pelo menos 18 questões é a meta definida para você considerar o simulado aprovado.</p><div className="goal-bars"><i /><i /><i /><i /><i /><i /><i /><i /><i className="goal-bar-last" /><i className="goal-bar-last" /></div></div>
+          <div className="exam-expectation-card"><span className="exam-expectation-mark"><Target size={19} /></span><span className="eyebrow">SEU OBJETIVO</span><strong>{setupPassTarget} <small>de {setupQuestionTotal}</small></strong><p>Acertar pelo menos {setupPassTarget} questões é a meta definida para você considerar {isIndividualSelection ? 'o treino' : 'o simulado'} aprovado.</p><div className="goal-bars">{Array.from({ length: GOAL_BAR_COUNT }, (_, index) => <i key={index} className={index < filledGoalBars ? undefined : 'goal-bar-last'} />)}</div></div>
               <div className="exam-history-card"><div className="panel-heading-row"><h3>Últimos resultados</h3><span>{progress.quizResults.length}</span></div>{recent.length ? <div className="exam-history-list">{recent.map((result) => { const passed = result.correct >= quizPassTarget(result.total); return <button type="button" key={result.id} className="exam-history-row" onClick={() => setResultId(result.id)}><span className={`history-score${passed ? ' history-score-pass' : ''}`}>{result.correct}/{result.total}</span><span><strong>{passed ? 'Meta alcançada' : 'Continue revisando'}</strong><small>{result.mode === 'subject' ? 'Treino por matéria · ' : 'Simulado semanal · '}{new Intl.DateTimeFormat('pt-BR', { day: 'numeric', month: 'short' }).format(new Date(result.completedAt))}</small></span><ArrowRight size={14} /></button>; })}</div> : <p className="quiet-note">Seus resultados aparecerão aqui. Eles só ficam neste navegador.</p>}</div>
           {progress.quizResults.length > 5 && <button type="button" className="button button-outline" onClick={() => setShowAllResults(!showAllResults)}>{showAllResults ? 'Mostrar últimos cinco resultados' : `Ver todo o histórico (${progress.quizResults.length})`}</button>}
         </aside>

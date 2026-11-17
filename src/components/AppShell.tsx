@@ -1,6 +1,7 @@
 import { NavLink, Outlet, useLocation } from 'react-router-dom';
 import { BookMarked, BookOpen, CalendarDays, ClipboardCheck, Compass, Home, LibraryBig, Scale } from 'lucide-react';
 import type { LucideIcon } from 'lucide-react';
+import ThemeControl from './ThemeControl';
 
 const navigation: { label: string; to: string; icon: LucideIcon; match?: string }[] = [
   { label: 'Visão geral', to: '/', icon: Home },
@@ -57,7 +58,7 @@ export default function AppShell() {
       <div className="main-column">
         <header className="topbar">
           <div className="topbar-breadcrumb"><span>OAB em Foco</span><span className="crumb-divider">/</span><strong>{section}</strong></div>
-          <div className="topbar-right"><span className="open-access"><span /> Acesso livre</span><div className="profile-mark" aria-label="Sem conta ou login">OF</div></div>
+          <div className="topbar-right"><ThemeControl /><span className="open-access"><span /> Acesso livre</span><div className="profile-mark" aria-label="Sem conta ou login">OF</div></div>
         </header>
         <main id="main-content" className="main-content"><Outlet /></main>
         <footer className="site-footer"><span>OAB em Foco — material independente de estudo.</span><span>Sem conta. Sem paywall. Seu progresso fica no dispositivo.</span></footer>

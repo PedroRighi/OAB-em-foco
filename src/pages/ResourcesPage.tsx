@@ -1,6 +1,7 @@
 import { ArrowUpRight, BookOpen, ExternalLink, Info, PlayCircle, Scale } from 'lucide-react';
 import { videoResources, officialSources } from '../data/resources';
 import { PageHeader, Badge, InfoNote } from '../components/Primitives';
+import '../support-pages.css';
 
 export default function ResourcesPage() {
   return (

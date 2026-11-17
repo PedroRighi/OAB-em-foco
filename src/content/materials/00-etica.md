@@ -670,22 +670,22 @@ D) mera advertência informal do Tribunal de Ética e Disciplina.
 
 ## Referências normativas e de estudo
 
-**[1] **BRASIL. Lei nº 8.906/1994 — Estatuto da Advocacia e da OAB, texto consolidado. https://www.planalto.gov.br/ccivil_03/leis/l8906.htm
+- **[1]** BRASIL. Lei nº 8.906/1994 — Estatuto da Advocacia e da OAB, texto consolidado ([fonte oficial](https://www.planalto.gov.br/ccivil_03/leis/l8906.htm)).
+- **[2]** CONSELHO FEDERAL DA OAB. Código de Ética e Disciplina, Resolução CFOAB nº 02/2015, texto oficial e alterações ([publicação oficial](https://www.oab.org.br/publicacoes/AbrirPDF?LivroId=0000004085); [cópia em PDF](https://s.oab.org.br/pdf/cfoab-ced.pdf)).
+- **[3]** CONSELHO FEDERAL DA OAB. Provimento nº 205/2021 — Publicidade e informação da advocacia ([texto oficial](https://eticaedisciplina.oab.org.br/assets/docs/Provimento%20n.%20205.2021%20-%20Publicidade.pdf)).
+- **[4]** BRASIL. Lei nº 14.365/2022 — alterações no Estatuto e em normas da advocacia ([texto oficial](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2022/Lei/L14365.htm)).
+- **[5]** BRASIL. Lei nº 14.612/2023 — inclusão de infrações disciplinares relacionadas a assédio e discriminação ([texto oficial](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14612.htm)).
+- **[6]** BRASIL. Lei nº 15.472/2026 — alteração recente indicada na pesquisa sobre honorários ([texto oficial](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15472.htm)).
+- **[7]** CONSELHO FEDERAL DA OAB. Resolução CFOAB nº 01/2022 — regras de contagem de prazos processuais ([texto oficial](https://www.oab.org.br/util/print?numero=0001%2F2022&print=Legislacao&origem=Resolu%C3%A7%C3%B5es)).
+- **[8]** CEISC. Cronograma TAQ de 75 dias, início em 26/10/2026, arquivo fornecido pelo usuário; referência de sequência didática e aulas (fonte fornecida, sem URL).
+- **[9]** Passei Direto e OAB de Bolso — recursos complementares de estudo citados pelo usuário; conferir disponibilidade, comentários e atualidade no próprio serviço antes do uso (fonte citada, sem URL).
 
-**[2] **CONSELHO FEDERAL DA OAB. Código de Ética e Disciplina, Resolução CFOAB nº 02/2015, texto oficial e alterações. https://www.oab.org.br/publicacoes/AbrirPDF?LivroId=0000004085 e https://s.oab.org.br/pdf/cfoab-ced.pdf
-
-**[3] **CONSELHO FEDERAL DA OAB. Provimento nº 205/2021 — Publicidade e informação da advocacia. https://eticaedisciplina.oab.org.br/assets/docs/Provimento%20n.%20205.2021%20-%20Publicidade.pdf
-
-**[4] **BRASIL. Lei nº 14.365/2022 — alterações no Estatuto e em normas da advocacia. https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2022/Lei/L14365.htm
-
-**[5] **BRASIL. Lei nº 14.612/2023 — inclusão de infrações disciplinares relacionadas a assédio e discriminação. https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14612.htm
-
-**[6] **BRASIL. Lei nº 15.472/2026 — alteração recente indicada na pesquisa sobre honorários. https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15472.htm
-
-**[7] **CONSELHO FEDERAL DA OAB. Resolução CFOAB nº 01/2022 — regras de contagem de prazos processuais. https://www.oab.org.br/util/print?numero=0001%2F2022&print=Legislacao&origem=Resolu%C3%A7%C3%B5es
-
-**[8] **CEISC. Cronograma TAQ de 75 dias, início em 26/10/2026, arquivo fornecido pelo usuário; referência de sequência didática e aulas.
-
-**[9] **Passei Direto e OAB de Bolso — recursos complementares de estudo citados pelo usuário; conferir disponibilidade, comentários e atualidade no próprio serviço antes do uso.
+[1]: https://www.planalto.gov.br/ccivil_03/leis/l8906.htm "BRASIL. Lei nº 8.906/1994 — Estatuto da Advocacia e da OAB, texto consolidado"
+[2]: https://www.oab.org.br/publicacoes/AbrirPDF?LivroId=0000004085 "CONSELHO FEDERAL DA OAB. Código de Ética e Disciplina, Resolução CFOAB nº 02/2015, texto oficial e alterações"
+[3]: https://eticaedisciplina.oab.org.br/assets/docs/Provimento%20n.%20205.2021%20-%20Publicidade.pdf "CONSELHO FEDERAL DA OAB. Provimento nº 205/2021 — Publicidade e informação da advocacia"
+[4]: https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2022/Lei/L14365.htm "BRASIL. Lei nº 14.365/2022 — alterações no Estatuto e em normas da advocacia"
+[5]: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14612.htm "BRASIL. Lei nº 14.612/2023 — inclusão de infrações disciplinares relacionadas a assédio e discriminação"
+[6]: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15472.htm "BRASIL. Lei nº 15.472/2026 — alteração recente indicada na pesquisa sobre honorários"
+[7]: https://www.oab.org.br/util/print?numero=0001%2F2022&print=Legislacao&origem=Resolu%C3%A7%C3%B5es "CONSELHO FEDERAL DA OAB. Resolução CFOAB nº 01/2022 — regras de contagem de prazos processuais"
 
 Nota final: conteúdo educacional, não é parecer jurídico. Para resolver questão de prova, aplique a redação vigente da norma e observe exatamente a hipótese descrita no enunciado.

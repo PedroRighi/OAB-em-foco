@@ -185,22 +185,6 @@ D) É equivalente a parcelamento e implica confissão irrevogável.
 
 **6. B.** Depósito do montante integral suspende exigibilidade (CTN, art. 151, II). A conversão em renda extingue o crédito (art. 156, VI). O depósito, portanto, não equivale automaticamente a pagamento definitivo ou parcelamento.
 
-## 9. Checklist de revisão
-
-- [ ] Sei definir tributo e distinguir tributo de multa.
-- [ ] Diferencio imposto, taxa, contribuição de melhoria, contribuições especiais e empréstimo compulsório.
-- [ ] Distingo competência tributária de capacidade ativa e sei que a competência é indelegável.
-- [ ] Aplico legalidade, irretroatividade e anterioridades anual/nonagesimal, verificando exceções.
-- [ ] Separo imunidade, isenção, anistia e remissão.
-- [ ] Identifico obrigação principal/acessória, contribuinte/responsável e solidariedade.
-- [ ] Sei as modalidades de lançamento e a função constitutiva do lançamento.
-- [ ] Diferencio suspensão, extinção e exclusão do crédito.
-- [ ] Resolvo decadência e prescrição com a modalidade de lançamento e os marcos temporais corretos.
-- [ ] Reconheço as hipóteses de responsabilidade de sócios, sucessores e terceiros sem presumir responsabilidade pelo mero inadimplemento.
-- [ ] Reviso dívida ativa, CDA, certidões, execução fiscal, embargos e exceção de pré-executividade.
-- [ ] Identifico o alcance da EC 132, da LC 214/2025, LC 227/2026 e alterações da LC 236/2026 no CTN.
-- [ ] Confiro a edição mais recente do edital e consulto fontes oficiais para precedentes e legislação vigentes.
-
 ## Aprofundamento VDE — Contribuições de melhoria
 
 > Síntese própria do material VDE 40 dias – Exame 48 (aula "Contribuições de Melhoria"), conferida com a legislação vigente em 17/11/2026.
@@ -426,6 +410,22 @@ D) O empréstimo compulsório é imposto restituível e, por isso, não se sujei
 - [Constituição da República Federativa do Brasil de 1988](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) — arts. 62, 148, 150 e 167, com redação vigente.
 - [Lei nº 5.172/1966 — Código Tributário Nacional](https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm) — arts. 3º e 15.
 - [STF, RE 175.385/CE (acórdão no LexML)](https://www.lexml.gov.br/urn/urn:lex:br:supremo.tribunal.federal;plenario:acordao;re:1994-12-01;175385-1584529) — devolução do empréstimo sobre combustíveis na mesma espécie arrecadada.
+
+## 9. Checklist de revisão
+
+- [ ] Sei definir tributo e distinguir tributo de multa.
+- [ ] Diferencio imposto, taxa, contribuição de melhoria, contribuições especiais e empréstimo compulsório.
+- [ ] Distingo competência tributária de capacidade ativa e sei que a competência é indelegável.
+- [ ] Aplico legalidade, irretroatividade e anterioridades anual/nonagesimal, verificando exceções.
+- [ ] Separo imunidade, isenção, anistia e remissão.
+- [ ] Identifico obrigação principal/acessória, contribuinte/responsável e solidariedade.
+- [ ] Sei as modalidades de lançamento e a função constitutiva do lançamento.
+- [ ] Diferencio suspensão, extinção e exclusão do crédito.
+- [ ] Resolvo decadência e prescrição com a modalidade de lançamento e os marcos temporais corretos.
+- [ ] Reconheço as hipóteses de responsabilidade de sócios, sucessores e terceiros sem presumir responsabilidade pelo mero inadimplemento.
+- [ ] Reviso dívida ativa, CDA, certidões, execução fiscal, embargos e exceção de pré-executividade.
+- [ ] Identifico o alcance da EC 132, da LC 214/2025, LC 227/2026 e alterações da LC 236/2026 no CTN.
+- [ ] Confiro a edição mais recente do edital e consulto fontes oficiais para precedentes e legislação vigentes.
 
 ## Referências
 

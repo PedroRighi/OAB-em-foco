@@ -5,6 +5,7 @@ import { subjects } from '../data/subjects';
 import { getTopicCount } from '../data/content';
 import { useProgress } from '../context/ProgressContext';
 import { Badge, PageHeader, ProgressBar } from '../components/Primitives';
+import { getSubjectReviewedTopicCount } from '../lib/topicProgress';
 
 const filters = ['Todas', 'Núcleo mínimo do edital', 'Direito público', 'Direito privado', 'Processo', 'Direito social', 'Formação geral', 'Ética e OAB'] as const;
 
@@ -33,7 +34,7 @@ export default function SubjectsPage() {
       <div className="subject-list">
         {filtered.map((subject, index) => {
           const topicCount = getTopicCount(subject.id);
-          const done = progress.completedTopics[subject.id]?.length ?? 0;
+          const done = getSubjectReviewedTopicCount(subject.id, progress.completedTopics[subject.id] ?? []);
           const complete = progress.completedSubjects.includes(subject.id);
           return (
             <Link to={`/materias/${subject.id}`} key={subject.id} className="subject-row">

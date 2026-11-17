@@ -1,0 +1,155 @@
+/* Paleta própria: nenhuma inversão de imagem, vídeo ou conteúdo. */
+:root {
+  color-scheme: light;
+  --text: #243633;
+  --text-secondary: #586b61;
+  --text-subtle: #617469;
+  --text-strong: #25483f;
+  --accent-text: #236e70;
+  --warm-text: #866038;
+  --success-text: #2f735e;
+  --danger-text: #99483f;
+  --on-brand: #f3faf5;
+  --on-accent: #ffffff;
+  --on-gold: #263833;
+  --brand-bg: #173f3b;
+  --brand-hover: #205650;
+  --surface-raised: #fbfcf8;
+  --surface-hover: #f2f4ef;
+  --surface-selected: #eff6f1;
+  --surface-warm: #fcf7ed;
+  --surface-success: #edf6ef;
+  --surface-danger: #fff1ed;
+  --surface-neutral: #f0f2ed;
+  --border-soft: #e7e7df;
+  --border-accent: #638f7e;
+  --border-warm: #efdfc6;
+  --border-success: #c4ddd1;
+  --border-danger: #efd5ce;
+  --control-border: #7f8f86;
+  --success-fill: #367357;
+  --focus: #236e70;
+  --sidebar-bg: #fdfcf8;
+  --topbar-bg: rgba(250, 249, 245, .96);
+  --float-bg: rgba(255, 254, 250, .97);
+  --card-translucent: rgba(255, 255, 255, .72);
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --text: #dce9e5;
+  --ink: #edf7f3;
+  --ink-2: #c2dbd3;
+  --teal: #80d3c2;
+  --teal-soft: #203c37;
+  --gold: #e6b772;
+  --gold-deep: #e6bb80;
+  --gold-soft: #342e23;
+  --paper: #182622;
+  --page: #101a18;
+  --line: #324a40;
+  --line-dark: #486255;
+  --muted: #b0c1b8;
+  --muted-2: #a8bdb1;
+  --green: #94d9b3;
+  --red: #efa89c;
+  --shadow: 0 14px 44px rgba(0, 0, 0, .22);
+  --text-secondary: #b0c1b8;
+  --text-subtle: #a8bdb1;
+  --text-strong: #edf7f3;
+  --accent-text: #80d3c2;
+  --warm-text: #e6bb80;
+  --success-text: #94d9b3;
+  --danger-text: #efa89c;
+  --on-accent: #101f19;
+  --brand-bg: #234d40;
+  --brand-hover: #2b5d4d;
+  --surface-raised: #1c2c27;
+  --surface-hover: #243932;
+  --surface-selected: #203f35;
+  --surface-warm: #342e23;
+  --surface-success: #203b2b;
+  --surface-danger: #3c2824;
+  --surface-neutral: #26362f;
+  --border-soft: #324a40;
+  --border-accent: #75c7ad;
+  --border-warm: #796545;
+  --border-success: #6ea88b;
+  --border-danger: #c68c80;
+  --control-border: #6e8f7f;
+  --success-fill: #386950;
+  --focus: #a0e5d1;
+  --sidebar-bg: #14201c;
+  --topbar-bg: rgba(16, 26, 24, .96);
+  --float-bg: rgba(20, 32, 28, .98);
+  --card-translucent: rgba(28, 44, 39, .92);
+}
+
+:root { color: var(--text); background: var(--page); }
+.sidebar { background: var(--sidebar-bg); }
+.topbar { background: var(--topbar-bg); border-bottom-color: var(--line); }
+.mobile-nav { background: var(--float-bg); }
+.lesson-progress-card, .review-day { background: var(--card-translucent); border-color: var(--line); }
+.welcome-panel { background: var(--brand-bg); color: var(--on-brand); }
+.welcome-side small { color: #b5c9bf; }
+.plan-tab small { color: var(--text-secondary); }
+.button-primary, .exam-number-current { background: var(--brand-bg); color: var(--on-brand); }
+.button-primary:hover:not(:disabled) { background: var(--brand-hover); }
+.button-gold { color: var(--on-gold); }
+.exam-option-selected .exam-option-letter, .exam-subject-checked .fake-checkbox { color: var(--on-accent); }
+.schedule-check-done, .review-day-done > button { background: var(--success-fill); color: var(--on-brand); }
+.schedule-check-done:hover { background: var(--success-fill); color: var(--on-brand); }
+
+/* Controles, foco e estados reconhecíveis também sem depender só de cor. */
+select, input, textarea { accent-color: var(--teal); }
+button:focus-visible, a:focus-visible, input:focus-visible, textarea:focus-visible, select:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 3px;
+}
+.search-field:focus-within, .exam-subject-option:focus-within { outline: 3px solid var(--focus); outline-offset: 3px; }
+.topics-note-label textarea:focus, .new-quiz-copy textarea:focus { outline: 3px solid var(--focus); outline-offset: 3px; }
+.exam-option, .exam-subject-option, .subject-picker-option, .fake-checkbox, .search-field,
+.topics-note-label textarea, .new-quiz-copy textarea { border-color: var(--control-border); }
+.exam-option-selected, .exam-subject-checked, .subject-picker-selected { border-color: var(--border-accent); }
+.exam-option-selected { box-shadow: inset 3px 0 0 var(--teal); }
+.review-choice-correct { border-left: 3px solid var(--success-text); }
+.review-choice-wrong { border-left: 3px solid var(--danger-text); }
+::selection { background: var(--brand-bg); color: var(--on-brand); }
+
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+}
+.theme-control { flex: 0 0 auto; }
+.theme-picker {
+  display: inline-flex; align-items: center; gap: 7px; min-height: 40px;
+  padding: 0 10px; border: 1px solid var(--control-border); border-radius: 8px;
+  background: var(--paper); color: var(--ink); cursor: pointer;
+}
+.theme-picker > svg { flex: 0 0 16px; color: var(--teal); }
+.theme-picker select {
+  min-height: 40px; max-width: 122px; border: 0; padding: 0 2px; border-radius: 3px;
+  background: var(--paper); color: var(--ink); font: inherit; font-size: 12px;
+  font-weight: 600; cursor: pointer;
+}
+.theme-picker:focus-within { outline: 3px solid var(--focus); outline-offset: 3px; }
+.theme-picker select:focus-visible { outline: none; }
+
+@media (max-width: 680px) {
+  .topbar-right { gap: 10px; }
+  .topbar .open-access { display: none; }
+  .topbar-breadcrumb { min-width: 0; gap: 6px; }
+  .topbar-breadcrumb > strong { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .theme-picker { min-height: 44px; padding: 0 8px; gap: 5px; }
+  .theme-picker select { min-height: 44px; max-width: 106px; font-size: 11px; }
+}
+
+/* A impressão permanece em papel claro, sem regravar a escolha do navegador. */
+@media print {
+  :root[data-theme] { color-scheme: light; --text: #243633; --ink: #173f3b; --paper: #fff; --page: #fff; }
+  .sidebar, .topbar, .mobile-nav, .lesson-outline, .topic-complete { display: none; }
+  .main-column { margin-left: 0; }
+  .lesson-layout { display: block; }
+  .markdown-content, .markdown-content * { color: #243633 !important; background: transparent !important; }
+  .lesson-article { border: 0; }
+}
