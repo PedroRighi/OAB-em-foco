@@ -109,9 +109,9 @@ export default function MockExamPage() {
   if (displayedResult) return <ResultReview result={displayedResult} onBack={() => setResultId(null)} />;
 
   return (
-    <div className="page-stack">
+    <div className="page-stack exam-page">
       <PageHeader eyebrow="PRÁTICA COM PROPÓSITO" title="Simulado da semana" description="Escolha o que estudou, faça 20 questões e veja onde vale revisar de novo." action={<div className="exam-goal-pill"><Target size={17} /><span>Meta de aprovação<br /><strong>18 de 20 acertos</strong></span></div>} />
-      <InfoNote><strong>Questões filtradas pelas disciplinas marcadas:</strong> o banco contém 124 questões comentadas, distribuídas pelas 20 disciplinas. O texto de tópicos é salvo e incluído no pedido de um simulado novo, mas ainda não filtra as questões existentes por assunto específico. Se ainda não houver 20 questões entre as matérias escolhidas, o site não completará o simulado com conteúdo diferente do que você estudou.</InfoNote>
+      <InfoNote><strong>Como funciona o banco local:</strong> há {questions.length} questões comentadas, filtradas por disciplina — não por tópico. O recorte escrito ajuda a montar o pedido de questões inéditas no chat. Se a seleção não reunir 20 questões, o simulado não mistura matérias que você não marcou.</InfoNote>
       <div className="exam-setup-layout">
         <section className="exam-setup-main panel">
           <div className="exam-setup-heading"><span className="eyebrow">PASSO 1</span><h2>O que você estudou?</h2><p>Marque as disciplinas da sua semana. As matérias e o recorte escrito ficam salvos apenas neste navegador.</p></div>
@@ -123,7 +123,7 @@ export default function MockExamPage() {
             })}
           </div>
           <label className="topics-note-label" htmlFor="weekly-topics"><span>Passo 2 · Seu recorte de conteúdo <small>(opcional)</small></span><textarea id="weekly-topics" rows={3} maxLength={3000} value={progress.weeklyTopics} onChange={(event) => updateProgress((previous) => ({ ...previous, weeklyTopics: event.target.value }))} placeholder="Ex.: Ética — publicidade e honorários; Penal — tentativa e desistência voluntária." /></label>
-          <div className="exam-selection-status"><div><span>Questões disponíveis</span><strong>{available.length}</strong></div><div className="exam-selection-meter"><ProgressBar value={Math.min(available.length, 20)} max={20} compact /><small>{available.length >= 20 ? 'Você já pode começar.' : `Faltam ${20 - available.length} para montar o simulado.`}</small></div></div>
+          <div className="exam-selection-status" aria-live="polite"><div><span>Questões disponíveis</span><strong>{available.length}</strong></div><div className="exam-selection-meter"><ProgressBar value={Math.min(available.length, 20)} max={20} compact /><small>{available.length >= 20 ? 'Você já pode começar.' : `Faltam ${20 - available.length} para montar o simulado.`}</small></div></div>
           <button type="button" className="button button-primary start-exam-button" disabled={available.length < 20} onClick={startQuiz}><ClipboardCheck size={17} /> Iniciar 20 questões <ArrowRight size={16} /></button>
           {available.length >= 20 && <p className="exam-source-hint">Serão sorteadas 20 questões dentre as {available.length} disponíveis nas matérias selecionadas.</p>}
         </section>

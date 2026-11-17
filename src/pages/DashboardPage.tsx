@@ -2,9 +2,10 @@ import { ArrowRight, BookOpen, CalendarCheck, Clock3, GraduationCap, ShieldCheck
 import { Link } from 'react-router-dom';
 import { subjects } from '../data/subjects';
 import { ceiscSchedule } from '../data/appData';
-import { brazilToday, daysUntilExam, formatDate, parseBrazilianDate, toDateKey } from '../lib/schedule';
+import { brazilToday, createIntensiveDates, createReviewDays, daysUntilExam, formatDate, intensivePair, parseBrazilianDate, toDateKey } from '../lib/schedule';
 import { useProgress } from '../context/ProgressContext';
 import { Badge, ProgressBar, StatCard } from '../components/Primitives';
+import type { ScheduleDay } from '../lib/schedule';
 
 function formatToday(): string {
   return new Intl.DateTimeFormat('pt-BR', { weekday: 'long', day: 'numeric', month: 'long', timeZone: 'America/Sao_Paulo' })
@@ -13,11 +14,39 @@ function formatToday(): string {
 
 export default function DashboardPage() {
   const { progress, resetProgress } = useProgress();
+  const isIntensiveMode = progress.planMode === 'intensive';
+  const intensiveDays = createIntensiveDates();
+  const reviewDays = createReviewDays();
+  const ceiscDays: ScheduleDay[] = ceiscSchedule.map((day) => ({ ...day, date: parseBrazilianDate(day.date), key: String(day.day) }));
+  const activeSchedule: ScheduleDay[] = isIntensiveMode ? [...intensiveDays, ...reviewDays] : ceiscDays;
+  const scheduleReady = !isIntensiveMode || progress.intensiveSubjectIds.length === 10;
+  const completedDayKeys = isIntensiveMode ? progress.intensiveDaysCompleted : progress.ceiscDaysCompleted;
   const todayKey = toDateKey(brazilToday());
-  const exactToday = ceiscSchedule.find((day) => toDateKey(parseBrazilianDate(day.date)) === todayKey);
-  const fallbackDay = ceiscSchedule.find((day) => !progress.ceiscDaysCompleted.includes(String(day.day))) ?? ceiscSchedule[0];
-  const todayPlan = exactToday ?? fallbackDay;
-  const todaySubject = todayPlan ? subjects.find((subject) => todayPlan.focus.toLocaleLowerCase('pt-BR').includes(subject.shortTitle.toLocaleLowerCase('pt-BR'))) : undefined;
+  const exactToday = activeSchedule.find((day) => toDateKey(day.date) === todayKey);
+  const fallbackDay = activeSchedule.find((day) => !completedDayKeys.includes(isIntensiveMode ? day.key : String(day.day))) ?? activeSchedule[activeSchedule.length - 1];
+  const todayPlan = scheduleReady ? exactToday ?? fallbackDay : undefined;
+  const selectedPair = isIntensiveMode && todayPlan?.key.startsWith('intensive-')
+    ? intensivePair(progress.intensiveSubjectIds, todayPlan.day - 1)
+    : [];
+  const selectedPairNames = selectedPair.map((id) => subjects.find((subject) => subject.id === id)?.shortTitle ?? id);
+  const todayFocus = isIntensiveMode && selectedPairNames.length ? selectedPairNames.join(' + ') : todayPlan?.focus;
+  const todayStudy = isIntensiveMode && selectedPairNames.length
+    ? 'Divida seu bloco entre as duas matérias: revise os tópicos estudados, resolva questões e anote os erros.'
+    : todayPlan?.study;
+  const todaySubject = isIntensiveMode
+    ? selectedPair[0] ? subjects.find((subject) => subject.id === selectedPair[0]) : undefined
+    : todayPlan ? subjects.find((subject) => todayPlan.focus.toLocaleLowerCase('pt-BR').includes(subject.shortTitle.toLocaleLowerCase('pt-BR'))) : undefined;
+  const completedIntensiveDays = progress.intensiveDaysCompleted.filter((key) => key.startsWith('intensive-')).length;
+  const completedReviewDays = progress.intensiveDaysCompleted.filter((key) => key.startsWith('review-')).length;
+  const completedPlanDays = isIntensiveMode
+    ? completedIntensiveDays
+    : progress.ceiscDaysCompleted.length;
+  const planDayTotal = isIntensiveMode ? intensiveDays.length : ceiscSchedule.length;
+  const focusHeading = !todayPlan ? 'Configure seu intensivo'
+    : isIntensiveMode && todayPlan.key.startsWith('review-') ? 'Revisão final'
+      : !isIntensiveMode && todayPlan.day === 56 ? 'Dia de prova'
+        : exactToday ? isIntensiveMode ? 'Plano intensivo para hoje' : 'Plano para hoje'
+          : isIntensiveMode ? 'Próxima etapa do intensivo' : 'Continue no seu ritmo';
   const completedSubjects = progress.completedSubjects.length;
   const daysLeft = daysUntilExam();
   const latestQuiz = progress.quizResults[0];
@@ -47,28 +76,28 @@ export default function DashboardPage() {
 
       <section className="stat-grid" aria-label="Seu progresso">
         <StatCard icon={BookOpen} label="Disciplinas" value={`${completedSubjects}/20`} detail="marcadas como concluídas" tone="teal" />
-        <StatCard icon={CalendarCheck} label="Plano CEISC" value={`${progress.ceiscDaysCompleted.length}/56`} detail="dias registrados no navegador" tone="gold" />
+        <StatCard icon={CalendarCheck} label={isIntensiveMode ? 'Plano intensivo' : 'Plano CEISC'} value={`${completedPlanDays}/${planDayTotal}`} detail={isIntensiveMode ? `${completedReviewDays}/8 dias de revisão` : 'dias registrados no navegador'} tone="gold" />
         <StatCard icon={Target} label="Último simulado" value={latestQuiz ? `${latestQuiz.correct}/20` : '—'} detail={latestQuiz ? latestQuiz.correct >= 18 ? 'meta alcançada' : '18 acertos é a meta' : 'faça o primeiro quando quiser'} tone="ink" />
         <StatCard icon={Clock3} label="Ritmo sugerido" value="1h30–2h" detail="referência diária do plano" tone="rose" />
       </section>
 
       <div className="dashboard-columns">
         <section className="panel focus-panel">
-          <div className="panel-heading-row"><div><span className="eyebrow">PRÓXIMO ESTUDO</span><h2>{todayPlan?.day === 56 ? 'Dia de prova' : exactToday ? 'Plano para hoje' : 'Continue no seu ritmo'}</h2></div><Link to="/plano" className="subtle-link">Abrir cronograma <ArrowRight size={15} /></Link></div>
+          <div className="panel-heading-row"><div><span className="eyebrow">PRÓXIMO ESTUDO</span><h2>{focusHeading}</h2></div><Link to="/plano" className="subtle-link">{isIntensiveMode ? 'Abrir intensivo' : 'Abrir cronograma'} <ArrowRight size={15} /></Link></div>
           {todayPlan ? (
             <div className="today-focus">
-              <div className="focus-date"><span>Dia</span><strong>{String(todayPlan.day).padStart(2, '0')}</strong></div>
+              <div className="focus-date"><span>{isIntensiveMode && todayPlan.key.startsWith('review-') ? 'Rev.' : 'Dia'}</span><strong>{String(todayPlan.day).padStart(2, '0')}</strong></div>
               <div className="focus-divider" />
               <div className="focus-detail">
-                <div className="focus-meta"><span>{formatDate(parseBrazilianDate(todayPlan.date), { day: 'numeric', month: 'long' })}</span><span>·</span><span>{todayPlan.timeNotes.split(';')[0]}</span></div>
-                <h3>{todayPlan.focus}</h3>
-                <p>{todayPlan.study}</p>
+                <div className="focus-meta"><span>{formatDate(todayPlan.date, { day: 'numeric', month: 'long' })}</span><span>·</span><span>{todayPlan.timeNotes.split(';')[0]}</span></div>
+                <h3>{todayFocus}</h3>
+                <p>{todayStudy}</p>
                 {todaySubject && <Link className="text-arrow" to={`/materias/${todaySubject.id}`}>Estudar {todaySubject.shortTitle} <ArrowRight size={14} /></Link>}
               </div>
               <div className="focus-stamp"><CalendarCheck size={20} aria-hidden="true" /></div>
             </div>
-          ) : <div className="quiet-note">Escolha um plano de estudo para começar a organizar seus dias.</div>}
-          <div className="panel-progress"><ProgressBar value={progress.ceiscDaysCompleted.length} max={56} label="Plano de 56 dias marcado" /></div>
+          ) : <div className="quiet-note">{isIntensiveMode ? <>Selecione dez matérias no modo intensivo para montar o ciclo.<br /><Link to="/plano" className="text-arrow">Configurar o intensivo <ArrowRight size={14} /></Link></> : 'Escolha um plano de estudo para começar a organizar seus dias.'}</div>}
+          <div className="panel-progress"><ProgressBar value={completedPlanDays} max={planDayTotal} label={isIntensiveMode ? 'Plano intensivo · 40 dias' : 'Plano CEISC · 56 dias'} /></div>
         </section>
 
         <section className="panel progress-panel">
