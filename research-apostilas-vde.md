@@ -6,7 +6,7 @@ Registro da incorporação do pacote enviado pela usuária em 17/11/2026. O mate
 
 - 2,0 GB compactados, com 29 arquivos: 21 PDFs de aula (16 a 37 páginas cada), 8 videoaulas (MP4) e uma pasta de cronograma vazia.
 - Disciplinas contempladas nos PDFs: Constitucional (5), Administrativo (4), Ética (3), Processo Civil (3), Tributário (2), Penal (2), Civil (1) e Processo Penal (1).
-- Videoaulas disponíveis: Negócio Jurídico, Competência (Processo do Trabalho), Atos Processuais (partes 1 e 2), Atos Administrativos, Intervenção de Terceiros, Concurso de Pessoas, Penas (parte 1) e "Como estudar com pouco tempo".
+- Videoaulas disponíveis: Negócio Jurídico, Competência (Processo do Trabalho), Atos Processuais (parte 2), Atos Administrativos, Intervenção de Terceiros, Concurso de Pessoas, Penas (parte 1) e "Como estudar com pouco tempo". O ZIP não contém Atos Processuais — parte 1.
 - Os vídeos não foram transcritos nesta etapa; os PDFs cobrem temas equivalentes nos casos em que há aula escrita.
 
 ## Como o material foi usado

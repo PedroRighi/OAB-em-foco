@@ -760,3 +760,8 @@ button:focus-visible, a:focus-visible, input:focus-visible, textarea:focus-visib
 
 /* Histórico separado visualmente da meta lateral */
 .exam-history-card { border: 1px solid var(--line); border-radius: 10px; background: var(--paper, #fffefa); box-shadow: 0 4px 16px rgba(20, 50, 45, .025); }
+
+/* A área pessoal de aulas mantém os demais atalhos da navegação móvel. */
+@media (max-width: 680px) {
+  .mobile-nav { grid-template-columns: repeat(7, 1fr); }
+}

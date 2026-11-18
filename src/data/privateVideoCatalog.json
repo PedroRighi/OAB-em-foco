@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "encryption": {
+    "salt": "z7Lkl2cJ6jXmC1LoHq/Oyg==",
+    "iterations": 600000,
+    "checkIv": "XTB2ENR9bFZ8gIxD",
+    "checkCiphertext": "/pH4W5tZG9LU7qYNeFZY4/4uOLll+Tw+3gQNO9QcvGct3YLulA8GLZWw1g=="
+  },
+  "lessons": [
+    {
+      "id": "pouco-tempo",
+      "title": "Como estudar com pouco tempo",
+      "subject": "Organização dos estudos",
+      "subjectSlug": null,
+      "durationSeconds": 527.872,
+      "playlistPath": "/private-video-playlists/pouco-tempo-v1-276573e2-e928-4169-aadc-42280b5db310.m3u8"
+    },
+    {
+      "id": "negocio-juridico",
+      "title": "Negócio jurídico",
+      "subject": "Direito Civil",
+      "subjectSlug": "civil",
+      "durationSeconds": 2052.757333,
+      "playlistPath": "/private-video-playlists/negocio-juridico-v1-276573e2-e928-4169-aadc-42280b5db310.m3u8"
+    },
+    {
+      "id": "competencia-trabalho",
+      "title": "Competência",
+      "subject": "Processo do Trabalho",
+      "subjectSlug": "processo-trabalho",
+      "durationSeconds": 2050.389333,
+      "playlistPath": "/private-video-playlists/competencia-trabalho-v1-276573e2-e928-4169-aadc-42280b5db310.m3u8"
+    },
+    {
+      "id": "concurso-pessoas",
+      "title": "Concurso de pessoas",
+      "subject": "Direito Penal",
+      "subjectSlug": "penal",
+      "durationSeconds": 1659.154667,
+      "playlistPath": "/private-video-playlists/concurso-pessoas-v1-276573e2-e928-4169-aadc-42280b5db310.m3u8"
+    },
+    {
+      "id": "penas-parte-1",
+      "title": "Penas — parte 1",
+      "subject": "Direito Penal",
+      "subjectSlug": "penal",
+      "durationSeconds": 1958.058667,
+      "playlistPath": "/private-video-playlists/penas-parte-1-v1-276573e2-e928-4169-aadc-42280b5db310.m3u8"
+    },
+    {
+      "id": "atos-administrativos",
+      "title": "Atos administrativos: elementos, características e espécies",
+      "subject": "Direito Administrativo",
+      "subjectSlug": "administrativo",
+      "durationSeconds": 1829.350666,
+      "playlistPath": "/private-video-playlists/atos-administrativos-v1-276573e2-e928-4169-aadc-42280b5db310.m3u8"
+    },
+    {
+      "id": "atos-processuais-parte-2",
+      "title": "Atos processuais — parte 2",
+      "subject": "Processo Civil",
+      "subjectSlug": "processo-civil",
+      "durationSeconds": 1669.866667,
+      "playlistPath": "/private-video-playlists/atos-processuais-parte-2-v1-276573e2-e928-4169-aadc-42280b5db310.m3u8"
+    },
+    {
+      "id": "intervencao-terceiros",
+      "title": "Intervenção de terceiros",
+      "subject": "Processo Civil",
+      "subjectSlug": "processo-civil",
+      "durationSeconds": 2426.197333,
+      "playlistPath": "/private-video-playlists/intervencao-terceiros-v1-276573e2-e928-4169-aadc-42280b5db310.m3u8"
+    }
+  ]
+}

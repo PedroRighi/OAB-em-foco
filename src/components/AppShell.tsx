@@ -1,5 +1,5 @@
 import { NavLink, Outlet, useLocation } from 'react-router-dom';
-import { BookMarked, BookOpen, CalendarDays, ClipboardCheck, Compass, Home, LibraryBig, Scale } from 'lucide-react';
+import { BookMarked, BookOpen, CalendarDays, ClipboardCheck, Compass, Home, LibraryBig, PlayCircle, Scale } from 'lucide-react';
 import type { LucideIcon } from 'lucide-react';
 import ThemeControl from './ThemeControl';
 
@@ -8,13 +8,14 @@ const navigation: { label: string; to: string; icon: LucideIcon; match?: string 
   { label: 'Plano de estudo', to: '/plano', icon: CalendarDays },
   { label: 'Matérias', to: '/materias', icon: BookOpen, match: '/materias' },
   { label: 'Simulados', to: '/simulados', icon: ClipboardCheck },
+  { label: 'Aulas', to: '/videoaulas', icon: PlayCircle },
   { label: 'Recursos', to: '/recursos', icon: Compass },
   { label: 'Biblioteca', to: '/biblioteca', icon: LibraryBig },
 ];
 
 const routeNames: Record<string, string> = {
   '/': 'Visão geral', '/plano': 'Plano de estudo', '/materias': 'Matérias', '/simulados': 'Simulados',
-  '/recursos': 'Recursos', '/biblioteca': 'Biblioteca',
+  '/recursos': 'Recursos', '/biblioteca': 'Biblioteca', '/videoaulas': 'Videoaulas pessoais',
 };
 
 function getSection(pathname: string): string {

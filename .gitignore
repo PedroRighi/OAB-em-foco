@@ -7,3 +7,13 @@ dist/
 !.env.example
 artifacts/
 *.tsbuildinfo
+
+# Aulas pessoais e arquivos de preparação ficam fora do Git público.
+*.mp4
+*.mp4_
+*.m4s
+*.ts.enc
+*.bin
+*.key
+*.pem
+private-video-work/
